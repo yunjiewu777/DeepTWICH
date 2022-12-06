@@ -1,0 +1,2773 @@
+[
+    {
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "07d9dafa1d487003"
+        },
+        "author_id": "138192285",
+        "created_at": "2022-05-19T21:35:03.000Z",
+        "id": "1527402478144299008",
+        "edit_history_tweet_ids": [
+            "1527402478144299008"
+        ],
+        "lang": "en",
+        "text": "Bon app\u00e9tit!  I found a delicious French bakery and cafe to tell you about on my exclusive Restaurant Report Card segment tonight at 5:30 on @cbs46 and 9:00 on @peachtreetv.  #RRC #RRCAtlanta #GoldenSpatula #BoyThatsGood https://t.co/eaJ972b1E1"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.52746986,
+                    33.95735826
+                ]
+            }
+        },
+        "author_id": "2654945970",
+        "created_at": "2022-05-06T22:32:12.000Z",
+        "id": "1522705819036491776",
+        "edit_history_tweet_ids": [
+            "1522705819036491776"
+        ],
+        "lang": "en",
+        "text": "In between all the laughs, we work hard to support of Cafe Teams!  I\u2019m so lucky to lead with this team!! @mcsnutrition  #eatlearngraduate #schoollunchheroes2022 @ MCSNutrition https://t.co/o1E5WE1U8i"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.52746986,
+                    33.95735826
+                ]
+            }
+        },
+        "author_id": "2654945970",
+        "created_at": "2022-05-06T20:06:35.000Z",
+        "id": "1522669174895656960",
+        "edit_history_tweet_ids": [
+            "1522669174895656960"
+        ],
+        "lang": "en",
+        "text": "Our amazing @mariettahsofficial Cafe Team serves over 1000 students a day all while wearing a smile!  Thank you to our #schoolnutritionheroes2022 @ MCSNutrition https://t.co/J9gfkmwfja"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5431824,
+                    33.9733505
+                ]
+            }
+        },
+        "author_id": "172721474",
+        "created_at": "2022-04-23T17:52:10.000Z",
+        "id": "1517924304419278854",
+        "edit_history_tweet_ids": [
+            "1517924304419278854"
+        ],
+        "lang": "en",
+        "text": "After Saturday work brunch\n#grubtime #georgia #Marietta #crookedtreecafe @ Crooked Tree Cafe https://t.co/Cv9Y4THpXz"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5514679,
+                    33.95398652
+                ]
+            }
+        },
+        "author_id": "23553020",
+        "created_at": "2022-04-10T00:09:39.000Z",
+        "id": "1512945872295931917",
+        "edit_history_tweet_ids": [
+            "1512945872295931917"
+        ],
+        "lang": "en",
+        "text": "Terri had to leave after nanny\u2019s funeral, but was so good seeing her, we stopped at Tiny Bubbles Tea Bar! My goodness, Unicorn Lemonade is delicious! @ Tiny Bubbles Tea Bar https://t.co/irgsr9rKd7"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "0fc32c27fa955000"
+        },
+        "author_id": "826115106",
+        "created_at": "2022-03-14T23:52:35.000Z",
+        "id": "1503519492269383685",
+        "edit_history_tweet_ids": [
+            "1503519492269383685"
+        ],
+        "lang": "en",
+        "text": "Family dinner and this restaurant is great"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.55051413,
+                    33.94836839
+                ]
+            }
+        },
+        "author_id": "217568375",
+        "created_at": "2022-03-08T17:29:10.000Z",
+        "id": "1501248675925819392",
+        "edit_history_tweet_ids": [
+            "1501248675925819392"
+        ],
+        "lang": "en",
+        "text": "the sidewalk sale was so cute! this whole cafe is full on VIBES @ Marietta Square https://t.co/0Ofhgmn6Z4"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.55023,
+                    33.950428
+                ]
+            }
+        },
+        "author_id": "17529824",
+        "created_at": "2022-03-05T01:28:26.000Z",
+        "id": "1499919732388028417",
+        "edit_history_tweet_ids": [
+            "1499919732388028417"
+        ],
+        "lang": "en",
+        "text": "I'm at Pie Bar in Marietta, GA https://t.co/i98vsXt0u1"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.57276214,
+                    33.95225121
+                ]
+            }
+        },
+        "author_id": "611745386",
+        "created_at": "2022-02-23T21:56:54.000Z",
+        "id": "1496605007428341774",
+        "edit_history_tweet_ids": [
+            "1496605007428341774"
+        ],
+        "lang": "en",
+        "text": "Thanks @abcvision for the #cheeseCake from #hobokenCafe #marietta #trivinoStrong @ Hoboken Cafe on Whitlock https://t.co/etP3mqiGeI"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.55363967,
+                    33.94285762
+                ]
+            }
+        },
+        "author_id": "1481137530",
+        "created_at": "2022-02-20T18:16:22.000Z",
+        "id": "1495462348101926912",
+        "edit_history_tweet_ids": [
+            "1495462348101926912"
+        ],
+        "lang": "en",
+        "text": "I'm at Hamilton's Restaurant - @hiltonhotels in Marietta, GA https://t.co/YI3CFivuRW"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.55023,
+                    33.950428
+                ]
+            }
+        },
+        "author_id": "17529824",
+        "created_at": "2022-02-19T22:22:24.000Z",
+        "id": "1495161876036132875",
+        "edit_history_tweet_ids": [
+            "1495161876036132875"
+        ],
+        "lang": "en",
+        "text": "Great food and excellent service! (@ Pie Bar in Marietta, GA) https://t.co/p4cHtWMmA3"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 36,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "11c4c3e95b947001"
+        },
+        "author_id": "32467267",
+        "created_at": "2022-02-13T20:25:40.000Z",
+        "id": "1492958169437515783",
+        "edit_history_tweet_ids": [
+            "1492958169437515783"
+        ],
+        "lang": "en",
+        "text": "Last night I met my friend of 32 years, Tracy, for a Galentines dinner at a fancy restaurant. It was perfection, as was the asparagus we had. Y\u2019all\u2026 that asparagus was the best I\u2019ve ever eaten. Legit.\n\nCelebrate the friends you love at every opportunity. https://t.co/VkccTlKz7p"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5498348,
+                    33.95218056
+                ]
+            }
+        },
+        "author_id": "24950167",
+        "created_at": "2022-01-06T18:05:43.000Z",
+        "id": "1479152213595410436",
+        "edit_history_tweet_ids": [
+            "1479152213595410436"
+        ],
+        "lang": "en",
+        "text": "I'm at Australian Bakery Cafe in Marietta, GA https://t.co/MuDZY0Ot7P"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5481649,
+                    33.9512945
+                ]
+            }
+        },
+        "author_id": "611745386",
+        "created_at": "2021-12-02T13:36:35.000Z",
+        "id": "1466400909118693379",
+        "edit_history_tweet_ids": [
+            "1466400909118693379"
+        ],
+        "lang": "en",
+        "text": "Support the #cobbcounty #bar for the annual #christmas #toydrive #marietta #georgia #giveback #holidays https://t.co/SKPXl27FrI @ Magistrate Court of Cobb County https://t.co/dgDtOZGHrR"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5499315,
+                    33.9521704
+                ]
+            }
+        },
+        "author_id": "910501605816102912",
+        "created_at": "2021-10-27T21:16:48.000Z",
+        "id": "1453470763592437762",
+        "edit_history_tweet_ids": [
+            "1453470763592437762"
+        ],
+        "lang": "en",
+        "text": "Before &amp; After - Chocolate Chip Cookies \ud83c\udf6a @ Australian Bakery Cafe https://t.co/pFoSmCuDjo"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.52746986,
+                    33.95735826
+                ]
+            }
+        },
+        "author_id": "2654945970",
+        "created_at": "2021-10-11T15:30:20.000Z",
+        "id": "1447585364064014337",
+        "edit_history_tweet_ids": [
+            "1447585364064014337"
+        ],
+        "lang": "en",
+        "text": "@sawyerroad Cafe is Wild About School Lunch!  #nslw2021 #fuelingga @ MCSNutrition https://t.co/saLH7gpbgs"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.55023,
+                    33.950428
+                ]
+            }
+        },
+        "author_id": "75104523",
+        "created_at": "2021-10-10T19:47:44.000Z",
+        "id": "1447287755931889674",
+        "edit_history_tweet_ids": [
+            "1447287755931889674"
+        ],
+        "lang": "en",
+        "text": "I'm at Pie Bar in Marietta, GA https://t.co/6ZKZFb2MXz https://t.co/kfi3192S8w"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5491584,
+                    33.96930721
+                ]
+            }
+        },
+        "author_id": "14124310",
+        "created_at": "2021-09-28T11:23:50.000Z",
+        "id": "1442812287451123715",
+        "edit_history_tweet_ids": [
+            "1442812287451123715"
+        ],
+        "lang": "en",
+        "text": "I'm at Canvas Cafe and Bakery in Marietta, GA https://t.co/OghxRIZ4BM"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.548837,
+                    33.949735
+                ]
+            }
+        },
+        "author_id": "727493",
+        "created_at": "2021-09-20T15:39:22.000Z",
+        "id": "1439977493276938251",
+        "edit_history_tweet_ids": [
+            "1439977493276938251"
+        ],
+        "lang": "en",
+        "text": "Family took my sister and me to a #cat cafe for our birthdays. 10/10 would recommend. @ Java Cats Cafe Marietta https://t.co/h4VQ6Ne2Sf"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.548837,
+                    33.949735
+                ]
+            }
+        },
+        "author_id": "12566992",
+        "created_at": "2021-09-04T15:12:54.000Z",
+        "id": "1434172628403691523",
+        "edit_history_tweet_ids": [
+            "1434172628403691523"
+        ],
+        "lang": "en",
+        "text": "Enjoying this cat cafe. @ Java Cats Cafe Marietta https://t.co/Ez7jPnQYgm"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5491584,
+                    33.96930721
+                ]
+            }
+        },
+        "author_id": "14124310",
+        "created_at": "2021-08-29T15:42:53.000Z",
+        "id": "1432005846435778561",
+        "edit_history_tweet_ids": [
+            "1432005846435778561"
+        ],
+        "lang": "en",
+        "text": "With Debora (@ Canvas Cafe and Bakery in Marietta, GA) https://t.co/yFoti5KQ3t"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.55046,
+                    33.95253
+                ]
+            }
+        },
+        "author_id": "24950167",
+        "created_at": "2021-08-28T19:25:24.000Z",
+        "id": "1431699453417824262",
+        "edit_history_tweet_ids": [
+            "1431699453417824262"
+        ],
+        "lang": "en",
+        "text": "You\u2019re TEA-rific!! #bubbletea @ Tiny Bubbles Tea Bar https://t.co/VWcgTDfKzG"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.55023415,
+                    33.95249266
+                ]
+            }
+        },
+        "author_id": "24950167",
+        "created_at": "2021-08-28T19:14:35.000Z",
+        "id": "1431696731343884294",
+        "edit_history_tweet_ids": [
+            "1431696731343884294"
+        ],
+        "lang": "en",
+        "text": "I'm at Tiny Bubbles Tea Bar in Marietta, GA https://t.co/AMWuxmDAbI"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5499315,
+                    33.9521704
+                ]
+            }
+        },
+        "author_id": "24950167",
+        "created_at": "2021-08-28T18:17:53.000Z",
+        "id": "1431682465693904897",
+        "edit_history_tweet_ids": [
+            "1431682465693904897"
+        ],
+        "lang": "en",
+        "text": "Yummy! @ Australian Bakery Cafe https://t.co/L5a0p9OYxX"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5491584,
+                    33.96930721
+                ]
+            }
+        },
+        "author_id": "14124310",
+        "created_at": "2021-08-13T11:32:28.000Z",
+        "id": "1426144619667116037",
+        "edit_history_tweet_ids": [
+            "1426144619667116037"
+        ],
+        "lang": "en",
+        "text": "Breakfast (@ Canvas Cafe and Bakery in Marietta, GA) https://t.co/VItQj6a402"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.551592,
+                    33.953692
+                ]
+            }
+        },
+        "author_id": "14124310",
+        "created_at": "2021-07-29T20:03:30.000Z",
+        "id": "1420837405607739397",
+        "edit_history_tweet_ids": [
+            "1420837405607739397"
+        ],
+        "lang": "en",
+        "text": "With Debora (@ D Cuban Cafe in Marietta, GA) https://t.co/RwCxwQHhnv"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "07d9ec8389882000"
+        },
+        "author_id": "3397923839",
+        "created_at": "2021-07-26T13:02:13.000Z",
+        "id": "1419644223624826880",
+        "edit_history_tweet_ids": [
+            "1419644223624826880"
+        ],
+        "lang": "en",
+        "text": "Shoutout to CANVAS Caf\u00e9 &amp; Bakery for catering our Welcome Back Breakfast this morning!  So good to be back and delicious food just makes it that much better! \n#shspositiveposting #wearesprayberry https://t.co/U9gaL1Cc3U"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5406,
+                    33.9534
+                ]
+            }
+        },
+        "author_id": "31189734",
+        "created_at": "2021-07-25T21:19:09.000Z",
+        "id": "1419406895710879748",
+        "edit_history_tweet_ids": [
+            "1419406895710879748"
+        ],
+        "lang": "en",
+        "text": "Bag 11. More detail on the other side of the bar. I do love the stage that they made for the band. This bag give us Momaw Nadon, our favorite \u201chammerhead\u201d. \ud83d\ude02 #lego #afol #starwars #moseisleycantina @ Marietta, Georgia https://t.co/VFKwX6dBoZ"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5491584,
+                    33.96930721
+                ]
+            }
+        },
+        "author_id": "14124310",
+        "created_at": "2021-07-23T15:46:00.000Z",
+        "id": "1418598277189185539",
+        "edit_history_tweet_ids": [
+            "1418598277189185539"
+        ],
+        "lang": "en",
+        "text": "With Debora (@ Canvas Cafe and Bakery in Marietta, GA) https://t.co/Cxlwn3xX8V"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5406,
+                    33.9534
+                ]
+            }
+        },
+        "author_id": "31189734",
+        "created_at": "2021-07-06T02:00:53.000Z",
+        "id": "1412230036065763337",
+        "edit_history_tweet_ids": [
+            "1412230036065763337"
+        ],
+        "lang": "en",
+        "text": "Bag 3. Enter Wuher and his fully stocked bar! Perfect watering hole for forgetting about the rough day on Tatooine. #lego #afol #starwars #moseisleycantina @ Marietta, Georgia https://t.co/kdwH4vpiJN"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5491584,
+                    33.96930721
+                ]
+            }
+        },
+        "author_id": "14124310",
+        "created_at": "2021-06-30T11:17:41.000Z",
+        "id": "1410195833958641667",
+        "edit_history_tweet_ids": [
+            "1410195833958641667"
+        ],
+        "lang": "en",
+        "text": "I'm at Canvas Cafe and Bakery in Marietta, GA https://t.co/KRSjA8umnj"
+    },
+    {
+        "author_id": "14124310",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.551592,
+                    33.953692
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1403746631779028999",
+        "text": "I'm at D Cuban Cafe in Marietta, GA https://t.co/bKq6Y6n6O8",
+        "edit_history_tweet_ids": [
+            "1403746631779028999"
+        ],
+        "lang": "en",
+        "created_at": "2021-06-12T16:10:52.000Z"
+    },
+    {
+        "author_id": "609163658",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "id": "1398418782624927745",
+        "geo": {
+            "place_id": "0fc292bd96946000"
+        },
+        "text": "hanging out at the cat caf\u00e9 https://t.co/GvcmR2NynE",
+        "edit_history_tweet_ids": [
+            "1398418782624927745"
+        ],
+        "lang": "en",
+        "created_at": "2021-05-28T23:19:53.000Z"
+    },
+    {
+        "author_id": "17529824",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5498348,
+                    33.95218056
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1397555379232559107",
+        "text": "It's been a few years, I has to get a Ned Kelly while I was in town. (@ Australian Bakery Cafe in Marietta, GA) https://t.co/zcM01rwygH",
+        "edit_history_tweet_ids": [
+            "1397555379232559107"
+        ],
+        "lang": "en",
+        "created_at": "2021-05-26T14:09:02.000Z"
+    },
+    {
+        "author_id": "29984212",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5406,
+                    33.9534
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "id": "1396240779832700932",
+        "text": "Went for a jog, found a garage sale and bought a boat lol.  Going to turn it into an ourdoor bar near the back corner of the pool.  Thinking I'll use it as the Roof anyways #BoatsAndHoes #corgisofinstagram #OutdoorBar https://t.co/20rJQgYzLi",
+        "edit_history_tweet_ids": [
+            "1396240779832700932"
+        ],
+        "lang": "en",
+        "created_at": "2021-05-22T23:05:17.000Z"
+    },
+    {
+        "author_id": "77346005",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.550102,
+                    33.95324
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1391546154098335746",
+        "text": "hold up they got the game on in this restaurant",
+        "edit_history_tweet_ids": [
+            "1391546154098335746"
+        ],
+        "lang": "en",
+        "created_at": "2021-05-10T00:10:31.000Z"
+    },
+    {
+        "author_id": "411144846",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5515634,
+                    33.9531244
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1391200210546827264",
+        "text": "Had a great anniversary evening. The truck is starting early. \ud83d\ude02\ud83c\udf78 @ Spring Restaurant https://t.co/EMQo1QzrUY",
+        "edit_history_tweet_ids": [
+            "1391200210546827264"
+        ],
+        "lang": "en",
+        "created_at": "2021-05-09T01:15:52.000Z"
+    },
+    {
+        "author_id": "280313805",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5431824,
+                    33.9733505
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1386373134362693634",
+        "text": "So happy to have brunch and catch up with my friend and former BGCA co-worker Heather Campbell\u2764\u2764\u2764 She made my day!!\ud83e\udd70\ud83e\udd70\ud83e\udd70 @ Crooked Tree Cafe https://t.co/ER8ZzI3tdP",
+        "edit_history_tweet_ids": [
+            "1386373134362693634"
+        ],
+        "lang": "en",
+        "created_at": "2021-04-25T17:34:47.000Z"
+    },
+    {
+        "author_id": "22875075",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5499327,
+                    33.952602
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1384479924321341451",
+        "text": "Career tip for landing jobs like \"Shift Lead\" in Marietta, GA. Go on informational interviews. The best way to get a meeting with a hiring manager is to ask for an informational meeting. #Restaurant #ShiftLeader",
+        "edit_history_tweet_ids": [
+            "1384479924321341451"
+        ],
+        "lang": "en",
+        "created_at": "2021-04-20T12:11:51.000Z"
+    },
+    {
+        "author_id": "15849347",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.55200768,
+                    33.95504236
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1383897238632419328",
+        "text": "Getting Back Out There!!! At Marietta Square Market. Jambalaya, Crawfish Pie, but no File Gumbo...\"Just Loafin Restaurant on The Square ran out. \ud83d\ude02\ud83e\udd23\ud83d\ude05 @ Marietta Square Market https://t.co/DQ36p5wZ73",
+        "edit_history_tweet_ids": [
+            "1383897238632419328"
+        ],
+        "lang": "en",
+        "created_at": "2021-04-18T21:36:27.000Z"
+    },
+    {
+        "author_id": "14124310",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.57706,
+                    33.95306
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1380927469587460104",
+        "text": "With Debora to Pick up Cake (@ Gabriel's Desserts &amp; Bakery in Marietta, GA) https://t.co/6GcpjV33LH",
+        "edit_history_tweet_ids": [
+            "1380927469587460104"
+        ],
+        "lang": "en",
+        "created_at": "2021-04-10T16:55:39.000Z"
+    },
+    {
+        "author_id": "14124310",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.551592,
+                    33.953692
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1362514801784717313",
+        "text": "With Debora (@ D Cuban Cafe in Marietta, GA) https://t.co/8wqhNclOPu",
+        "edit_history_tweet_ids": [
+            "1362514801784717313"
+        ],
+        "lang": "en",
+        "created_at": "2021-02-18T21:30:17.000Z"
+    },
+    {
+        "author_id": "22875075",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5499327,
+                    33.952602
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1362324094973173761",
+        "text": "Click the link in our bio to see currently open Restaurant Manager jobs like \"General Manager\" at Five Guys in Marietta, GA. #Restaurant #GM",
+        "edit_history_tweet_ids": [
+            "1362324094973173761"
+        ],
+        "lang": "en",
+        "created_at": "2021-02-18T08:52:29.000Z"
+    },
+    {
+        "author_id": "747585390",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.548837,
+                    33.949735
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1359439559910514692",
+        "text": "\ud83c\udf53\ud83d\udc08 Give these pussy cats some #love @javacatscafe on #valentines #cat #lifeofmotoso #grabthembythepussy #pussypower @ Java Cats Cafe Marietta https://t.co/CwCvbEjtCs",
+        "edit_history_tweet_ids": [
+            "1359439559910514692"
+        ],
+        "lang": "en",
+        "created_at": "2021-02-10T09:50:22.000Z"
+    },
+    {
+        "author_id": "14124310",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5512601,
+                    33.96729768
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1359227734422147073",
+        "text": "I'm at The Whitcher Street Cafe in Marietta, GA https://t.co/yvpNbjaJwH",
+        "edit_history_tweet_ids": [
+            "1359227734422147073"
+        ],
+        "lang": "en",
+        "created_at": "2021-02-09T19:48:39.000Z"
+    },
+    {
+        "author_id": "29016059",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5498348,
+                    33.95218056
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1352472668298240001",
+        "text": "Bernie wanted some fish and chips. @ Australian Bakery Cafe https://t.co/qXuJyG8xdq",
+        "edit_history_tweet_ids": [
+            "1352472668298240001"
+        ],
+        "lang": "en",
+        "created_at": "2021-01-22T04:26:26.000Z"
+    },
+    {
+        "author_id": "184884501",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5498348,
+                    33.95218056
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1350655344092061697",
+        "text": "Just posted a photo @ Australian Bakery Cafe https://t.co/fSBY9b3KaC",
+        "edit_history_tweet_ids": [
+            "1350655344092061697"
+        ],
+        "lang": "en",
+        "created_at": "2021-01-17T04:05:02.000Z"
+    },
+    {
+        "author_id": "339915081",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.55599927,
+                    33.97763522
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "id": "1339399843924439041",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "#comegetit best #homecooking #acworth @ Come-N-Get It Family Restaurant https://t.co/roX4kmxUKT",
+        "edit_history_tweet_ids": [
+            "1339399843924439041"
+        ],
+        "created_at": "2020-12-17T02:39:42.000Z"
+    },
+    {
+        "author_id": "168741709",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.55046,
+                    33.95253
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "id": "1338282001686810625",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "The year of the tea \ud83d\ude00 @ Tiny Bubbles Tea Bar https://t.co/iISe9glnKE",
+        "edit_history_tweet_ids": [
+            "1338282001686810625"
+        ],
+        "created_at": "2020-12-14T00:37:47.000Z"
+    },
+    {
+        "author_id": "363981724",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.6076,
+                    33.9516
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "id": "1332141746109751296",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Not really my thing, but I finished it.   I\u2019m not the right person to rate this beer. - Drinking a Mole Porter by @secondselfbeer @ Billys Patio Bar And Grille  \u2014 https://t.co/5FfXxWv2I2",
+        "edit_history_tweet_ids": [
+            "1332141746109751296"
+        ],
+        "created_at": "2020-11-27T01:58:36.000Z"
+    },
+    {
+        "author_id": "14124310",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.551592,
+                    33.953692
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "id": "1330195927559180291",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "With Debora (@ D Cuban Cafe in Marietta, GA) https://t.co/LIGRM1yCuo https://t.co/PooKSlLG1l",
+        "edit_history_tweet_ids": [
+            "1330195927559180291"
+        ],
+        "created_at": "2020-11-21T17:06:37.000Z"
+    },
+    {
+        "author_id": "747585390",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.548837,
+                    33.949735
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "id": "1328809658191015937",
+        "lang": "ca",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "\ud83c\uddfa\ud83c\uddf8 #maga @clermontlounge #atlanta @javacatscafe @ Java Cats Cafe Marietta https://t.co/B7tviPdjRy",
+        "edit_history_tweet_ids": [
+            "1328809658191015937"
+        ],
+        "created_at": "2020-11-17T21:18:05.000Z"
+    },
+    {
+        "author_id": "363981724",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5771,
+                    33.9531
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "id": "1327761910377410560",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Cold and lite.   Good beer for great food in a dive bar. - Drinking a Miller Lite by @Miller_Global @ Loco Willy's  \u2014 https://t.co/laY0ozCzwg",
+        "edit_history_tweet_ids": [
+            "1327761910377410560"
+        ],
+        "created_at": "2020-11-14T23:54:42.000Z"
+    },
+    {
+        "author_id": "528681280",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5406,
+                    33.9534
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "id": "1322984491854548992",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Let's celebrate \ud83c\udf7e \u2728 you @colabbo Restaurant And Bar @ Marietta, Georgia https://t.co/FnqnZBAAeC",
+        "edit_history_tweet_ids": [
+            "1322984491854548992"
+        ],
+        "created_at": "2020-11-01T19:30:57.000Z"
+    },
+    {
+        "author_id": "1139670216680648705",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.58215298,
+                    33.95274968
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "id": "1318004533415579648",
+        "lang": "es",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Wasssupp \ud83e\udd19\ud83c\udffd @ 3 Amigos Mexican Bar &amp; Grill https://t.co/BdKLtLvKnr",
+        "edit_history_tweet_ids": [
+            "1318004533415579648"
+        ],
+        "created_at": "2020-10-19T01:42:22.000Z"
+    },
+    {
+        "author_id": "2354160920",
+        "id": "1315340919877574661",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Stratejic was happy to partake in the 8th Annual Law Day Classic Golf Tournament organized by the Cobb County Bar Association by playing golf, donating, enjoying great food &amp; meaningful conversations. All proceeds will benefit the Cobb County Bar Children's Emergency Fund. https://t.co/qvqimSI3PU",
+        "edit_history_tweet_ids": [
+            "1315340919877574661"
+        ],
+        "geo": {
+            "place_id": "07d9ecbb52086000"
+        },
+        "created_at": "2020-10-11T17:18:07.000Z"
+    },
+    {
+        "author_id": "3312759970",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.55092314,
+                    33.95339639
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "id": "1313466050688811008",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Thaicoon &amp; Sushi Bar https://t.co/Qzgn7Ldq1s",
+        "edit_history_tweet_ids": [
+            "1313466050688811008"
+        ],
+        "created_at": "2020-10-06T13:08:04.000Z"
+    },
+    {
+        "author_id": "346253011",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.55046,
+                    33.95253
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "id": "1308096017712263174",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "My littlest is getting so big, I love it and hate it at the same time. #estellakatherine @ Tiny Bubbles Tea Bar https://t.co/MZsRd7mBNv",
+        "edit_history_tweet_ids": [
+            "1308096017712263174"
+        ],
+        "created_at": "2020-09-21T17:29:28.000Z"
+    },
+    {
+        "author_id": "2654945970",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.52748296,
+                    33.95734397
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "id": "1307995913114189825",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 1
+        },
+        "text": "Pandemic or not, #foodsafety is always our priority!  Way to go @mariettahsofficial Cafe Team!  #eatlearngraduate and keep washing your hands!! @ Marietta City Schools https://t.co/ZgCJIJIMKc",
+        "edit_history_tweet_ids": [
+            "1307995913114189825"
+        ],
+        "created_at": "2020-09-21T10:51:41.000Z"
+    },
+    {
+        "author_id": "2654945970",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.52748296,
+                    33.95734397
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "id": "1305921991925477377",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "Our Cafe Teams each received an @innoseal_americas to seal our fresh fruits and veggies in an appealing way!  #eatlearngraduate Enjoy!! @ Marietta City Schools https://t.co/uqDseVpUnf",
+        "edit_history_tweet_ids": [
+            "1305921991925477377"
+        ],
+        "created_at": "2020-09-15T17:30:40.000Z"
+    },
+    {
+        "author_id": "15507483",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.551468,
+                    33.950779
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "id": "1303477874771595265",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Checking out the new Sichuan restaurant next to #MariettaSquare. \ud83c\udf36\ufe0f #WeiSichuanCuisine (@ Wei in Marietta, GA) https://t.co/tw9koFss7W https://t.co/4NJ5WwMcoc",
+        "edit_history_tweet_ids": [
+            "1303477874771595265"
+        ],
+        "created_at": "2020-09-08T23:38:37.000Z"
+    },
+    {
+        "author_id": "75104523",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.57706,
+                    33.95306
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "id": "1301964025237037058",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "I'm at Gabriel's Desserts &amp; Bakery in Marietta, GA https://t.co/jTgDvEE9Hx https://t.co/BMrAaoT7oY",
+        "edit_history_tweet_ids": [
+            "1301964025237037058"
+        ],
+        "created_at": "2020-09-04T19:23:07.000Z"
+    },
+    {
+        "author_id": "26671196",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.548837,
+                    33.949735
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "id": "1301665325394558978",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "This place is heaven! Don't expect to get much work done with pretty kitties running about.\n\n#catsofinstagram #catlife @ Java Cats Cafe Marietta https://t.co/lD8GTqrjxS",
+        "edit_history_tweet_ids": [
+            "1301665325394558978"
+        ],
+        "created_at": "2020-09-03T23:36:12.000Z"
+    },
+    {
+        "author_id": "43793006",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5406,
+                    33.9534
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "id": "1301513174735257604",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "I don't like alcohol wipes. I ordered HOCl, a powerful oxidizing agent used to sanitize dentist offices and other medical facilities. We used it to clean our restaurant. I keep it in a spray bottle for my hands. I\u2026 https://t.co/KHoeQYRmAe",
+        "edit_history_tweet_ids": [
+            "1301513174735257604"
+        ],
+        "created_at": "2020-09-03T13:31:36.000Z"
+    },
+    {
+        "author_id": "2654945970",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.52746986,
+                    33.95735826
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "id": "1301465720186904576",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Our Elementary Cafe Managers are ready to welcome our PreK-2 graders with warm air hugs!!  See you Tuesday!!  #eatlearngraduate @ MCSNutrition https://t.co/xN6R7fc8U3",
+        "edit_history_tweet_ids": [
+            "1301465720186904576"
+        ],
+        "created_at": "2020-09-03T10:23:02.000Z"
+    },
+    {
+        "author_id": "75104523",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.55165222,
+                    33.95116084
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "id": "1299111905425063937",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "This week I was invited to try out a new Chinese restaurant in #Marietta called Wei. They specialize in Sichuan cuisine, because their chef is from Sichuan Province, but you'll also find dishes to please less spicy\u2026 https://t.co/0P6rXmvHrG",
+        "edit_history_tweet_ids": [
+            "1299111905425063937"
+        ],
+        "created_at": "2020-08-27T22:29:49.000Z"
+    },
+    {
+        "author_id": "75104523",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.56980216,
+                    33.98270076
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "id": "1295086371636498432",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "This is one of my top 5 breakfast/brunch places in Atlanta. Normally they only have the fried chicken and French toast at their sister restaurant, marietta_local, but if there is one good thing to come out of Covid,\u2026 https://t.co/JfY5sZ0LSH",
+        "edit_history_tweet_ids": [
+            "1295086371636498432"
+        ],
+        "created_at": "2020-08-16T19:53:47.000Z"
+    },
+    {
+        "author_id": "411144846",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5406,
+                    33.9534
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "id": "1292490731588923393",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Cafe au lait and beignets today. Missing NOLA. #cafedumonde #thanksbillandjulie @ Marietta, Georgia https://t.co/R3RuZp1VtB",
+        "edit_history_tweet_ids": [
+            "1292490731588923393"
+        ],
+        "created_at": "2020-08-09T15:59:38.000Z"
+    },
+    {
+        "author_id": "23788858",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5406,
+                    33.9534
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "id": "1291114108163706881",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "@karinahill88 got us dinner from one of our favorite restaurants, springmarietta for an early birthday. It\u2019s an incredible dine-in experience but they have adapted to the changing restaurant landscape exceptionally.\u2026 https://t.co/begtuVmryC",
+        "edit_history_tweet_ids": [
+            "1291114108163706881"
+        ],
+        "created_at": "2020-08-05T20:49:25.000Z"
+    },
+    {
+        "author_id": "29205711",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.57620179,
+                    33.95285607
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "id": "1289229622459027456",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "Daily realiZe HOPE always STOPs at FaiTh    All days are great Some days are just more great. GOD bless.  FaiTh Family Friends @ Gabriel's Restaurant and Bakery https://t.co/qavCQURLXj",
+        "edit_history_tweet_ids": [
+            "1289229622459027456"
+        ],
+        "created_at": "2020-07-31T16:01:09.000Z"
+    },
+    {
+        "author_id": "17547167",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5406,
+                    33.9534
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "id": "1288473973009915904",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Lavender lovers it's here! Our luscious Yes! It's Lavender Goatmilk Soap, made exclusively with Goatmilk from decimalplacefarm , made it's appearance this weekend at the markets. Grab your bar fast because once it's\u2026 https://t.co/ADvrWalorD",
+        "edit_history_tweet_ids": [
+            "1288473973009915904"
+        ],
+        "created_at": "2020-07-29T13:58:28.000Z"
+    },
+    {
+        "author_id": "2654945970",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5855,
+                    33.9478
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "id": "1288432206474403840",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 1
+        },
+        "text": "Need we say more?  Our Cafe Managers Teams rocked out SY COVID 19-20!  They are all winners!!  #eatlearngraduate @ Marietta High School https://t.co/io8etEMAEq",
+        "edit_history_tweet_ids": [
+            "1288432206474403840"
+        ],
+        "created_at": "2020-07-29T11:12:30.000Z"
+    },
+    {
+        "author_id": "2654945970",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.52748296,
+                    33.95734397
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "id": "1286432793350877191",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Our Cafe Managers are preparing to feed our virtual students virtually via bus routes!  More details will be published soon!  #eatlearngraduate #fuelingga @ Marietta City Schools https://t.co/EsKnrPV7Wl",
+        "edit_history_tweet_ids": [
+            "1286432793350877191"
+        ],
+        "created_at": "2020-07-23T22:47:33.000Z"
+    },
+    {
+        "author_id": "35289348",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5406,
+                    33.9534
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "id": "1283425439222988802",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Events this week:\nTopps Bar tonight!\n@MariettaWine Saturday! \nCome on out.. be safe.. and let\u2019s have some fun!\n#musician\n#stagelife\n#besafe\n#washyourhands\n#dontshakemyhand\n#lightknuckles \n#musiciansofinstagram @\u2026 https://t.co/ncinF75z3V",
+        "edit_history_tweet_ids": [
+            "1283425439222988802"
+        ],
+        "created_at": "2020-07-15T15:37:24.000Z"
+    },
+    {
+        "author_id": "170845456",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.55153989,
+                    33.95427707
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "id": "1280651806150995970",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "It\u2019s a pretty good day when you are able to support a local blackowned restaurant and find vegan options || @justloafnpoboys has few vegan options like this Vegan Shrimp PoBoy, but  plenty of New Orleans style\u2026 https://t.co/pTIK07Jd6F",
+        "edit_history_tweet_ids": [
+            "1280651806150995970"
+        ],
+        "created_at": "2020-07-07T23:55:58.000Z"
+    },
+    {
+        "created_at": "2020-06-10T20:35:48.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5406,
+                    33.9534
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "text": "There\u2019s something about the aroma of freshly brewed coffee that just sings to my soul. Sigh* And since cafe runs are on pause right now, it\u2019s time to activate Cafe Quarantine and queue up the coffee pot.\ud83d\ude00Hey,\u2026 https://t.co/Pn7NRulLh9",
+        "lang": "en",
+        "id": "1270816958993305605",
+        "author_id": "323636283",
+        "edit_history_tweet_ids": [
+            "1270816958993305605"
+        ]
+    },
+    {
+        "created_at": "2020-06-05T21:51:00.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.58214696,
+                    33.95270671
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "text": "I'm at 3 Amigos Mexican Bar &amp; Grill in Marietta, GA https://t.co/xGRhxuFklq",
+        "lang": "en",
+        "id": "1269023945254154241",
+        "author_id": "146147070",
+        "edit_history_tweet_ids": [
+            "1269023945254154241"
+        ]
+    },
+    {
+        "created_at": "2020-06-03T18:39:04.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "@AdamCarollaShow just 1 reason as to why GA is better than CA.  We can eat in a restaurant. https://t.co/Bj5q4McbVn",
+        "lang": "en",
+        "geo": {
+            "place_id": "0fc36d6dfbd47001"
+        },
+        "id": "1268250866802470914",
+        "author_id": "22275356",
+        "edit_history_tweet_ids": [
+            "1268250866802470914"
+        ]
+    },
+    {
+        "created_at": "2020-05-29T20:32:37.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5406,
+                    33.9534
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "text": "Pie number 2! Meat lovers - hamburger, pepperoni, ham, fresh mozzarella, home grown tomatoes and basil. I can't take credit for the crust, got it at publix bakery.  Mmmmm! Happy Friday people. \n\n#wehavethemeats\u2026 https://t.co/3stInDo4HS",
+        "lang": "en",
+        "id": "1266467502814609409",
+        "author_id": "57174752",
+        "edit_history_tweet_ids": [
+            "1266467502814609409"
+        ]
+    },
+    {
+        "created_at": "2020-05-18T01:49:31.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.52708,
+                    33.95752
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "text": "Guess what?  It\u2019s the last week of \u201cschool\u201d and the @mcsnutrition Cafe Staff is still going strong!  Way to go team!  You\u2019ve got this!!  #eatlearngraduate  #classof2020 #mariettamorethanabuilding  #besomebody @\u2026 https://t.co/QLjEwDK9sy",
+        "lang": "en",
+        "id": "1262198598537748485",
+        "author_id": "2654945970",
+        "edit_history_tweet_ids": [
+            "1262198598537748485"
+        ]
+    },
+    {
+        "created_at": "2020-05-15T02:37:44.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5406,
+                    33.9534
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "text": "Beretta 92...its a love/hate thing with most people. I don't mind them. Mine shoot accurately.  Just need to lighten the hammer spring. I run a 13# spring. I flip the trigger bar and sear. The top one is a M9 with\u2026 https://t.co/YxLu7oiB0s",
+        "lang": "en",
+        "id": "1261123570727616513",
+        "author_id": "43793006",
+        "edit_history_tweet_ids": [
+            "1261123570727616513"
+        ]
+    },
+    {
+        "created_at": "2020-05-14T19:50:23.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.57276214,
+                    33.95225121
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "text": "#HappyBirthday tjlatronica ! #SoHappy #SoStrong #SoYoung \ud83c\udfcd\ud83d\udca8\ud83c\udf82\ud83d\ude01 @ Hoboken Cafe on Whitlock https://t.co/6DFjsOCM0a",
+        "lang": "sv",
+        "id": "1261021056132939777",
+        "author_id": "833593916",
+        "edit_history_tweet_ids": [
+            "1261021056132939777"
+        ]
+    },
+    {
+        "created_at": "2020-04-20T01:12:58.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.54448382,
+                    33.95156199
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "text": "Miss This \ud83d\ude1e\ud83c\udf51\n-\nNo better feeling than being under a heavy bar loaded with some heavy weight with your Team around you firing you up to stand that shit back up. That rush after you get up. Most underrated feeling. @\u2026 https://t.co/h1NxtbsZtQ",
+        "lang": "en",
+        "id": "1252042543719727107",
+        "author_id": "622900256",
+        "edit_history_tweet_ids": [
+            "1252042543719727107"
+        ]
+    },
+    {
+        "created_at": "2020-04-10T23:33:44.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5406,
+                    33.9534
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "text": "It has indeed been a #goodFriday.  God is truly good and faithful.  Today I joined my Cobb NAACP family and Soul Food Train Restaurant to help package and deliver lunch to  Cobb Co. firefighters of Precinct 1.... as\u2026 https://t.co/sRG18UlvC5",
+        "lang": "en",
+        "id": "1248756078096994305",
+        "author_id": "913556890767982597",
+        "edit_history_tweet_ids": [
+            "1248756078096994305"
+        ]
+    },
+    {
+        "created_at": "2020-04-04T20:28:57.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5406,
+                    33.9534
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "text": "Thanks to my FLGS Giga-Bites Cafe for shipping products and keeping hobby stuff going.  For my future Greek army for CLASH of Spears.\n\n#clashofspears #fightinghedgehog #ancientbattles #punicwars #warmongers\u2026 https://t.co/w9GEbF7Rdt",
+        "lang": "en",
+        "id": "1246535250295087104",
+        "author_id": "271043646",
+        "edit_history_tweet_ids": [
+            "1246535250295087104"
+        ]
+    },
+    {
+        "created_at": "2020-03-28T19:15:21.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5406,
+                    33.9534
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "text": "Quarantine project profile. Lyrical libations expansion into an upstairs wine bar. Complete with local art and resident musician @patrick7doyle \ud83c\udf77 \ud83c\udfb6 \ud83d\udc19 #covid_19 #stayhome @ Marietta, Georgia https://t.co/Wuu33nCrzB",
+        "lang": "en",
+        "id": "1243980013558468610",
+        "author_id": "170146437",
+        "edit_history_tweet_ids": [
+            "1243980013558468610"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-03-19T03:12:30.000Z",
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5406,
+                    33.9534
+                ]
+            }
+        },
+        "id": "1240476213841473536",
+        "lang": "en",
+        "author_id": "43793006",
+        "text": "HOME SECURITY: Do you lock you bedroom door? Have you checked the hinge and strike plate screws? Are they at least 2\" long steel screws; enough to dig into the studs? What about a door bar? Maybe I'm just paranoid.\u2026 https://t.co/i8fL2bVu8u",
+        "edit_history_tweet_ids": [
+            "1240476213841473536"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-03-18T17:52:50.000Z",
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.58215298,
+                    33.95274968
+                ]
+            }
+        },
+        "id": "1240335368928583681",
+        "lang": "en",
+        "author_id": "22275356",
+        "text": "Nailing this social distancing thing...\n\n#everythingisbetterwithmexicanfood # lunch #introvertsruletheworld #sorrynotsorry @ 3 Amigos Mexican Bar &amp; Grill https://t.co/UvV4syIWIo",
+        "edit_history_tweet_ids": [
+            "1240335368928583681"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-03-14T23:15:09.000Z",
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.54946,
+                    33.9696799
+                ]
+            }
+        },
+        "id": "1238966930951684096",
+        "lang": "en",
+        "author_id": "168343861",
+        "text": "#pieday a slice of pie from pie_bar and getting a #pizzapie from @YourPie. @ Your Pie https://t.co/KfKVil0mSJ",
+        "edit_history_tweet_ids": [
+            "1238966930951684096"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "created_at": "2020-03-14T18:00:46.000Z",
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.57276214,
+                    33.95225121
+                ]
+            }
+        },
+        "id": "1238887813837279232",
+        "lang": "en",
+        "author_id": "995616247",
+        "text": "Always good to stop at hobokencafe_whitlock to say hi to Johnny and grab a sandwich. Listen to my @wetravelthere #podcast episode with Bill from @mariettapodcast @ Hoboken Cafe on Whitlock https://t.co/O1Cnv8AH11",
+        "edit_history_tweet_ids": [
+            "1238887813837279232"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "created_at": "2020-03-14T17:27:13.000Z",
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.57277251,
+                    33.95223956
+                ]
+            }
+        },
+        "id": "1238879370095271939",
+        "lang": "en",
+        "author_id": "995616247",
+        "text": "Here for the meatball sandwich \ud83d\ude0b Go to https://t.co/xcLUzS234t to hear the #podcast (@ Hoboken Cafe in Marietta, GA w/ @am0509) https://t.co/dV3fQXwZTy https://t.co/ToRqkzP4Yu",
+        "edit_history_tweet_ids": [
+            "1238879370095271939"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-03-10T22:26:26.000Z",
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.58214696,
+                    33.95270671
+                ]
+            }
+        },
+        "id": "1237505119228485632",
+        "lang": "en",
+        "author_id": "146147070",
+        "text": "I'm at 3 Amigos Mexican Bar &amp; Grill in Marietta, GA https://t.co/Junay6HVqR",
+        "edit_history_tweet_ids": [
+            "1237505119228485632"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "created_at": "2020-03-10T18:14:23.000Z",
+        "geo": {
+            "place_id": "0fc292bd96946000"
+        },
+        "id": "1237441687955345408",
+        "lang": "en",
+        "author_id": "302271362",
+        "text": "oh to be a lazy kitty living in a cat cafe https://t.co/nk0WStS41b",
+        "edit_history_tweet_ids": [
+            "1237441687955345408"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-03-03T22:16:41.000Z",
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.58214696,
+                    33.95270671
+                ]
+            }
+        },
+        "id": "1234965950941794304",
+        "lang": "en",
+        "author_id": "146147070",
+        "text": "I'm at 3 Amigos Mexican Bar &amp; Grill in Marietta, GA https://t.co/GffNocA4ex",
+        "edit_history_tweet_ids": [
+            "1234965950941794304"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-02-27T22:56:11.000Z",
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.58214696,
+                    33.95270671
+                ]
+            }
+        },
+        "id": "1233163949849358337",
+        "lang": "en",
+        "author_id": "146147070",
+        "text": "I'm at 3 Amigos Mexican Bar &amp; Grill in Marietta, GA https://t.co/Ia8x5y0Hi8",
+        "edit_history_tweet_ids": [
+            "1233163949849358337"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "created_at": "2020-02-26T02:43:26.000Z",
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.55934392,
+                    33.95511232
+                ]
+            }
+        },
+        "id": "1232496362538749953",
+        "lang": "en",
+        "author_id": "2654945970",
+        "text": "mariettahsofficial Teachers and Staff - Come straight to the Academy\u2019s Bistro Bar Wednesday morning. We will have #GoldPeak coffee brewing!!  #eatlearngraduate  #ineedcoffee #squarepayments @mcsnutrition @ Marietta\u2026 https://t.co/kujhc4m26A",
+        "edit_history_tweet_ids": [
+            "1232496362538749953"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-02-23T03:03:37.000Z",
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.548837,
+                    33.949735
+                ]
+            }
+        },
+        "id": "1231414280806899712",
+        "lang": "en",
+        "author_id": "61626190",
+        "text": "@javacatscafe - got to spend a few hours celebrating my daughter\u2019s birthday with a few of her friends @ Java Cats Cafe Marietta https://t.co/stkeQYWOWH",
+        "edit_history_tweet_ids": [
+            "1231414280806899712"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-02-22T22:22:57.000Z",
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.58214696,
+                    33.95270671
+                ]
+            }
+        },
+        "id": "1231343648249393154",
+        "lang": "en",
+        "author_id": "146147070",
+        "text": "I'm at 3 Amigos Mexican Bar &amp; Grill in Marietta, GA https://t.co/tfWSMI5K4J",
+        "edit_history_tweet_ids": [
+            "1231343648249393154"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-02-15T21:12:49.000Z",
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.54448382,
+                    33.95156199
+                ]
+            }
+        },
+        "id": "1228789281855963136",
+        "lang": "en",
+        "author_id": "622900256",
+        "text": "Last Night\u2019s Bench Redemption\n-\nTwo PRs one night. \n-\nMisloaded the bar and hit 385 for a smooth set if 4 and just did three more. Then a rep-out PR of 15 reps with 315 lbs. Slowly but surely these floppy boobs are\u2026 https://t.co/yA246wmyx3",
+        "edit_history_tweet_ids": [
+            "1228789281855963136"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-02-15T17:15:30.000Z",
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.551592,
+                    33.953692
+                ]
+            }
+        },
+        "id": "1228729560549687298",
+        "lang": "en",
+        "author_id": "14124310",
+        "text": "I'm at D Cuban Cafe in Marietta, GA https://t.co/Jc5jo0sCvY",
+        "edit_history_tweet_ids": [
+            "1228729560549687298"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-02-14T01:19:11.000Z",
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.54448382,
+                    33.95156199
+                ]
+            }
+        },
+        "id": "1228126506787975168",
+        "lang": "en",
+        "author_id": "622900256",
+        "text": "It ain\u2019t much but it\u2019s honest work\n-\nStiff bar is always humbling but i REFUSE for any of my lifts to be less than elite. Don\u2019t believe me just watch @ Marietta Barbell Gym https://t.co/tNw2BCzWQ9",
+        "edit_history_tweet_ids": [
+            "1228126506787975168"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "created_at": "2020-02-01T23:05:57.000Z",
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.58214696,
+                    33.95270671
+                ]
+            }
+        },
+        "id": "1223744323306631168",
+        "lang": "en",
+        "author_id": "146147070",
+        "text": "Been a crazy cuisine this past week! Time for some good ole nachos :) (@ 3 Amigos Mexican Bar &amp; Grill in Marietta, GA) https://t.co/yzRqAjWTsl",
+        "edit_history_tweet_ids": [
+            "1223744323306631168"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-02-01T18:32:26.000Z",
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.57276214,
+                    33.95225121
+                ]
+            }
+        },
+        "id": "1223675491477065742",
+        "lang": "en",
+        "author_id": "52842350",
+        "text": "Good Afternoon Saints! @ Hoboken Cafe on Whitlock https://t.co/9kZbjocZib",
+        "edit_history_tweet_ids": [
+            "1223675491477065742"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "created_at": "2020-01-25T00:56:14.000Z",
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.548837,
+                    33.949735
+                ]
+            }
+        },
+        "id": "1220872975592886272",
+        "lang": "en",
+        "author_id": "3266217894",
+        "text": "same time next week??? \ud83d\udc31\ud83d\udc99 @ Java Cats Cafe Marietta https://t.co/vYpZ5imdJx",
+        "edit_history_tweet_ids": [
+            "1220872975592886272"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-01-20T16:57:31.000Z",
+        "geo": {
+            "place_id": "07d9ec8389882000"
+        },
+        "id": "1219302951413592064",
+        "lang": "en",
+        "author_id": "998629184",
+        "text": "At Canvas Bakery in Marietta\ud83d\udd25",
+        "edit_history_tweet_ids": [
+            "1219302951413592064"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "created_at": "2020-01-19T03:44:33.000Z",
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5406,
+                    33.9534
+                ]
+            }
+        },
+        "id": "1218741005689794560",
+        "lang": "en",
+        "author_id": "15041038",
+        "text": "The sign on the door of the restroom at the Marietta Burger Bar (try it for a great burger. Linda and I ate there tonight) @ Marietta, Georgia https://t.co/ixn42ZcyV6",
+        "edit_history_tweet_ids": [
+            "1218741005689794560"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-01-18T18:54:27.000Z",
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5406,
+                    33.9534
+                ]
+            }
+        },
+        "id": "1218607601652502528",
+        "lang": "en",
+        "author_id": "18163298",
+        "text": "So this went down last night:  4 full racks of baby backs,  2 hours indirect, 2 hours wrapped in foil with a little beer or juice, 1 hour direct, bathed in some spicy bar-b-que sauce. All\u2026 https://t.co/gnYK2rt6tw",
+        "edit_history_tweet_ids": [
+            "1218607601652502528"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "created_at": "2020-01-18T04:24:32.000Z",
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.55046,
+                    33.95268
+                ]
+            }
+        },
+        "id": "1218388678998781957",
+        "lang": "en",
+        "author_id": "26920457",
+        "text": "Can\u2019t thank these guys for coming (AND WAITING) tonight for opening night. You guys are the best and you\u2019ll never know how much I appreciate you all being there. @ Hemingway's Bar &amp; Grill https://t.co/5qGUS5rXIY",
+        "edit_history_tweet_ids": [
+            "1218388678998781957"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-01-15T12:52:11.000Z",
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.55,
+                    33.95198
+                ]
+            }
+        },
+        "id": "1217429271347695616",
+        "lang": "en",
+        "author_id": "77123364",
+        "text": "Yesterday's Happy Hour was spent at silladeltoro, the new tapas restaurant on the #mariettasquare. If you're looking for fresh cocktails, gorgeous charcuterie and impeccable service, this is the place to go! @ Silla\u2026 https://t.co/QFHulR0bD8",
+        "edit_history_tweet_ids": [
+            "1217429271347695616"
+        ]
+    }
+]

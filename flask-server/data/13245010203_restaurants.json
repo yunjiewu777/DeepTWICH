@@ -1,0 +1,2751 @@
+[
+    {
+        "edit_history_tweet_ids": [
+            "1527860073594249216"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07029951,
+                    33.47859828
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2022-05-21T03:53:22.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "229105281",
+        "id": "1527860073594249216",
+        "text": "#IYKYK @ Raes Coastal Cafe https://t.co/A9ZKT4lPQo"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1525303830749093888"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07439346,
+                    33.49143936
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2022-05-14T02:35:46.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1525303830749093888",
+        "text": "On it!!! @ Bar West Augusta https://t.co/pgAw9qQ0Po"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1519497550344110081"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07836397,
+                    33.48699944
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2022-04-28T02:03:41.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1519497550344110081",
+        "text": "Late start....but it's ON!! #batmanhours @ The Limelite Cafe https://t.co/QWglU84bHC"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1511147115094884352"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07836397,
+                    33.48699944
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2022-04-05T01:02:02.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1511147115094884352",
+        "text": "Almost game time!! \ud83d\ude4c\ud83c\udffe #Tarheels4Life @ The Limelite Cafe https://t.co/aLUZAuUHpe"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1509367351103279105"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.08653859,
+                    33.46759362
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2022-03-31T03:09:53.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1509367351103279105",
+        "text": "Just posted a video @ Top Crab Seafood &amp; Bar https://t.co/ds7QrnNl4w"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1509322985752178695"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.08653859,
+                    33.46759362
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2022-03-31T00:13:36.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1509322985752178695",
+        "text": "On it. @ Top Crab Seafood &amp; Bar https://t.co/PkyXwbQmaQ"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1505380128217567236"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07439346,
+                    33.49143936
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2022-03-20T03:06:05.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1505380128217567236",
+        "text": "Round 2!! @ Bar West Augusta https://t.co/PD075M8wfi"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1503811308638158851"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.08059123,
+                    33.48585597
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2022-03-15T19:12:10.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "1337105530725216256",
+        "id": "1503811308638158851",
+        "text": "Privately Lounging in public \ud83d\udcf8 by @_chrissy_mb @ Tropical Smoothie Cafe https://t.co/5tSTkErhvm"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1490463005464748032"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.0826712,
+                    33.485273
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2022-02-06T23:10:46.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "11867632",
+        "id": "1490463005464748032",
+        "text": "I'm at @Chilis Grill &amp; Bar in Augusta, GA w/ @whiskeydragon1 @megarush1024 https://t.co/G5lRncyQTF"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1487764647281311748"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07836397,
+                    33.48699944
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2022-01-30T12:28:27.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1487764647281311748",
+        "text": "Round 3 @ The Limelite Cafe https://t.co/ca1g1iBZyS"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1487660269430087681"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07439346,
+                    33.49143936
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2022-01-30T05:33:42.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1487660269430087681",
+        "text": "Round 4!! @ Bar West Augusta https://t.co/W1p33HnDA1"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1487609561724997637"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07836397,
+                    33.48699944
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2022-01-30T02:12:12.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1487609561724997637",
+        "text": "Round 3 @ The Limelite Cafe https://t.co/9NyiZdWt24"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1481113435437998080"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.08653859,
+                    33.46759362
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2022-01-12T03:58:55.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1481113435437998080",
+        "text": "Just posted a video @ Top Crab Seafood &amp; Bar https://t.co/KGh7QaizJK"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1479297210533744645"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07439346,
+                    33.49143936
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2022-01-07T03:41:53.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1479297210533744645",
+        "text": "Round 3! @ Bar West Augusta https://t.co/UuHe6x8djc"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1478898292905889796"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.03131184,
+                    33.4859676
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2022-01-06T01:16:44.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "29832358",
+        "id": "1478898292905889796",
+        "text": "Just posted a photo @ Abel Brown Southern Kitchen &amp; Oyster Bar https://t.co/ASYLcLZUGJ"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1474957615331434496"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07836397,
+                    33.48699944
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-12-26T04:17:53.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1474957615331434496",
+        "text": "Round 3!! @ The Limelite Cafe https://t.co/yNAR6M9HgR"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1473022661676580865"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.080515,
+                    33.48484
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-12-20T20:09:04.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1473022661676580865",
+        "text": "Round 1!! @ O'Charley's Restaurant + Bar https://t.co/6qQmxFIItG"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1471509013732859906"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.0537846,
+                    33.46981532
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-12-16T15:54:22.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "11867632",
+        "id": "1471509013732859906",
+        "text": "I'm at Vallarta Mexican Restaurant in Augusta, GA w/ @megarush1024 @whiskeydragon1 https://t.co/Y4QdZOSc76"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1468707219764137987"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07439346,
+                    33.49143936
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-12-08T22:21:03.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1468707219764137987",
+        "text": "Round 2!! @ Bar West Augusta https://t.co/HBdSmfL9Uq"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1466630262956122113"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07836397,
+                    33.48699944
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-12-03T04:47:58.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1466630262956122113",
+        "text": "Round 3 @ The Limelite Cafe https://t.co/E2os4wNGzo"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1465486214446858251"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.08653859,
+                    33.46759362
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-11-30T01:01:55.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1465486214446858251",
+        "text": "#FTJ @ Top Crab Seafood &amp; Bar https://t.co/J5tfWOGWXY"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1458967264443736067"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.08653859,
+                    33.46759362
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-11-12T01:17:56.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1458967264443736067",
+        "text": "On it after work....\ud83e\udd43 #courvoisier @ Top Crab Seafood &amp; Bar https://t.co/aBSHDCmBqS"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1458220974432718856"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.03131184,
+                    33.4859676
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-11-09T23:52:27.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "249983596",
+        "id": "1458220974432718856",
+        "text": "@abelbrownaugusta always FABULOUS!!! Pre-concert amazement!!! @ Abel Brown Southern Kitchen &amp; Oyster Bar https://t.co/OXfxhLNHL9"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1450973652191752194"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07836397,
+                    33.48699944
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-10-20T23:54:11.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1450973652191752194",
+        "text": "Round 2! #bluemoon\ud83c\udf7a @ The Limelite Cafe https://t.co/qr90IDf64U"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1436396681994637312"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.08653859,
+                    33.46759362
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-09-10T18:30:30.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1436396681994637312",
+        "text": "DOUBLE Gucci Margarita\ud83c\udf79....#daydrinkers\ud83e\udd74 @ Top Crab Seafood &amp; Bar https://t.co/6fdN4SDKfv"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1430348485820358657"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07836397,
+                    33.48699944
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-08-25T01:57:08.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1430348485820358657",
+        "text": "Just posted a video @ The Limelite Cafe https://t.co/pOblJwGBte"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1430325806140731395"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07836397,
+                    33.48699944
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-08-25T00:27:01.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1430325806140731395",
+        "text": "On it @ The Limelite Cafe https://t.co/qxND15GG0a"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1426842975544426501"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07836397,
+                    33.48699944
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-08-15T09:47:29.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1426842975544426501",
+        "text": "My Saturday night.... @ The Limelite Cafe https://t.co/MrhyGDziph"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1426695742899490822"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07836397,
+                    33.48699944
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-08-15T00:02:26.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1426695742899490822",
+        "text": "Let's get it started\ud83e\udd43\ud83c\udf7b!! @ The Limelite Cafe https://t.co/M4oWMgssX9"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1424790955044085764"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.0537846,
+                    33.46981532
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-08-09T17:53:29.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "11867632",
+        "id": "1424790955044085764",
+        "text": "I'm at Vallarta Mexican Restaurant in Augusta, GA w/ @megarush1024 @whiskeydragon1 @wiljames https://t.co/YLEjXlMIXJ"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1424790343678111748"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.0537846,
+                    33.46981532
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-08-09T17:51:03.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "ca",
+        "author_id": "11826622",
+        "id": "1424790343678111748",
+        "text": "I'm at Vallarta Mexican Restaurant in Augusta, GA https://t.co/39P0xFw3sr"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1424165706111856644"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07836397,
+                    33.48699944
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-08-08T00:28:58.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1424165706111856644",
+        "text": "On it!! @ The Limelite Cafe https://t.co/OHhDVZd2AV"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1422359405413249025"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.08479791,
+                    33.48640708
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-08-03T00:51:23.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "24529122",
+        "id": "1422359405413249025",
+        "text": "I'm at Lotus Bar, Doubletree Hotel in Augusta, GA https://t.co/jwzMG7VMi9"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1414427280818982916"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07836397,
+                    33.48699944
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-07-12T03:31:57.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1414427280818982916",
+        "text": "Round 2!! @ The Limelite Cafe https://t.co/Q7yB0ZTzFq"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1410080707062415362"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.08653859,
+                    33.46759362
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-06-30T03:40:13.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1410080707062415362",
+        "text": "DOUBLE Gucci\ud83c\udf79 Margarita\u203c. THIS is the reason I'm JUST really waking back up\ud83e\udd74. I was supposed to go out tonight\ud83d\ude44. Shiiiiiiiiiiit!\ud83d\udc80\ud83d\ude02\ud83d\ude02\ud83d\ude02 #daydrinking @ Top Crab Seafood &amp; Bar https://t.co/FvuiLfu4Ax"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1409926625676959753"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.08653859,
+                    33.46759362
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-06-29T17:27:57.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1409926625676959753",
+        "text": "PowerLunch @ Top Crab Seafood &amp; Bar https://t.co/1GRlNgJBNI"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1403890143925194755"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07439346,
+                    33.49143936
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-06-13T01:41:07.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1403890143925194755",
+        "text": "Round 2!! @ Bar West Augusta https://t.co/MQL8f70Luw"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1403866243304673292"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.08653859,
+                    33.46759362
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-06-13T00:06:09.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1403866243304673292",
+        "text": "My Saturday night... @ Top Crab Seafood &amp; Bar https://t.co/kkWqBMv96t"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1403539522957291520"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07439346,
+                    33.49143936
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-06-12T02:27:53.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1403539522957291520",
+        "text": "Round 3!! @ Bar West Augusta https://t.co/2pLD146zSa"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1399858399022616579"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07029951,
+                    33.47859828
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-06-01T22:40:25.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1399858399022616579",
+        "text": "Relaxing.... @ Raes Coastal Cafe https://t.co/3lLJdCE0r3"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1399857025123762180"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07029951,
+                    33.47859828
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-06-01T22:34:57.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1399857025123762180",
+        "text": "Just posted a video @ Raes Coastal Cafe https://t.co/UfxEcLVYXZ"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1396208190325469184"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.0826712,
+                    33.485273
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-05-22T20:55:47.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "1498798484",
+        "id": "1396208190325469184",
+        "text": "I'm at @Chilis Grill &amp; Bar in Augusta, GA https://t.co/OcHfBnyHps"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1394661960340344837"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.067015,
+                    33.478228
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-05-18T14:31:37.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "1101270461986496512",
+        "id": "1394661960340344837",
+        "text": "Can you recommend anyone for this job? Cooks, Bar Back, Host/Hostess https://t.co/uXSiZGqAXX Augusta, GA"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1392853897421762560"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.067015,
+                    33.478228
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-05-13T14:47:01.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "1101270461986496512",
+        "id": "1392853897421762560",
+        "text": "Want to work at Oak Restaurant &amp; Lounge? We're hiring in Augusta, GA! https://t.co/tq7nJRo6v1 Attendantjobs"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1391058181204365316"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.067015,
+                    33.478228
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-05-08T15:51:29.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "1101270461986496512",
+        "id": "1391058181204365316",
+        "text": "See our latest Augusta, GA job opening. https://t.co/Y6bcLczzTr Cooks, Bar Back, Host/Hostess Transportationjobs"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1389277750045954049"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.067015,
+                    33.478228
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-05-03T17:56:41.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "1101270461986496512",
+        "id": "1389277750045954049",
+        "text": "We're hiring! See our latest job opening: Cooks, Bar Back, Host/Hostess https://t.co/bTSdYpagqh Augusta, GA"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1387538841209171968"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07836397,
+                    33.48699944
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-04-28T22:46:53.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1387538841209171968",
+        "text": "My last day off.... @ The Limelite Cafe https://t.co/eMNH4KgHb3"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1381429482330976259"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07836397,
+                    33.48699944
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-04-12T02:10:28.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "1239191874",
+        "id": "1381429482330976259",
+        "text": "Retreat, regroup, Pop Out! @ The Limelite Cafe https://t.co/BGP1xLcAWM"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1379161517933858819"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.0826712,
+                    33.485273
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-04-05T19:58:24.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "117424658",
+        "id": "1379161517933858819",
+        "text": "I'm at @Chilis Grill &amp; Bar in Augusta, GA https://t.co/S2noGV4Fjg"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1379160736170135554"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.08058869,
+                    33.48586283
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-04-05T19:55:17.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "117424658",
+        "id": "1379160736170135554",
+        "text": "I'm at Tropical Smoothie Cafe - @tsmoothiecafe in Augusta, GA https://t.co/FEqFUJX86i"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1377295080973860867"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.08653859,
+                    33.46759362
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-03-31T16:21:50.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1377295080973860867",
+        "text": "\ud83d\ude01#daydrinkers\ud83e\udd74 @ Top Crab Seafood &amp; Bar https://t.co/VUmwKEUfvR"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1375643687510769665"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07836397,
+                    33.48699944
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-03-27T02:59:47.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1375643687510769665",
+        "text": "Round 2!! @ The Limelite Cafe https://t.co/Hv9PIASmky"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1375632755376132099"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07029951,
+                    33.47859828
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-03-27T02:16:21.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1375632755376132099",
+        "text": "Just posted a video @ Raes Coastal Cafe https://t.co/g9AgU0a2Za"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1375606864344408067"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07029951,
+                    33.47859828
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-03-27T00:33:28.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1375606864344408067",
+        "text": "Just posted a photo @ Raes Coastal Cafe https://t.co/BEqUO50YDc"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1375600278511054852"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07029951,
+                    33.47859828
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-03-27T00:07:18.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1375600278511054852",
+        "text": "Let's get it started... @ Raes Coastal Cafe https://t.co/lADGdqalIn"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1369420232767471618"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07029951,
+                    33.47859828
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-03-09T22:50:00.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1369420232767471618",
+        "text": "Just posted a photo @ Raes Coastal Cafe https://t.co/hbt3jrjIDO"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1367482610784559104"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07029951,
+                    33.47859828
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-03-04T14:30:35.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1367482610784559104",
+        "text": "About last evening... @ Raes Coastal Cafe https://t.co/VvJYCB2B9i"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1367249599765831685"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07029951,
+                    33.47859828
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-03-03T23:04:41.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1367249599765831685",
+        "text": "\ud83d\ude09 @ Raes Coastal Cafe https://t.co/egRkuISBMR"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1363276188324532225"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07836397,
+                    33.48699944
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-02-20T23:55:46.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1363276188324532225",
+        "text": "Let's try this again... @ The Limelite Cafe https://t.co/fFOlwc7dsk"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1360819198423924742"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07446286,
+                    33.49145486
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-02-14T05:12:34.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1360819198423924742",
+        "text": "Round 2!! @ Bar West Augusta https://t.co/z9lWyqoNPi"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1357158754052157440"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07446286,
+                    33.49145486
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-02-04T02:47:16.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1357158754052157440",
+        "text": "Round 3! @ Bar West Augusta https://t.co/nmLDFBoHs9"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1355348070368739331"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07446286,
+                    33.49145486
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-01-30T02:52:15.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1355348070368739331",
+        "text": "Round 2!! @ Bar West Augusta https://t.co/cW9wEPk375"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1353179607961370625"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07446286,
+                    33.49145486
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-01-24T03:15:34.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1353179607961370625",
+        "text": "Just posted a video @ Bar West Augusta https://t.co/zMwdeA9NT7"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1353163809809190912"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07446286,
+                    33.49145486
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-01-24T02:12:47.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1353163809809190912",
+        "text": "Round 2 @ Bar West Augusta https://t.co/sjcl35tHPK"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1350607777803202561"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07446286,
+                    33.49145486
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-01-17T00:56:01.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1350607777803202561",
+        "text": "Relaxing after work.... @ Bar West Augusta https://t.co/XCDJrOaQwS"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1345196180217671680"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07446286,
+                    33.49145486
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-01-02T02:32:16.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "is",
+        "author_id": "66673794",
+        "id": "1345196180217671680",
+        "text": "#Barcadimaestro @ Bar West Augusta https://t.co/MD8b1DZWnQ"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1345166199693451265"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07446286,
+                    33.49145486
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2021-01-02T00:33:08.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1345166199693451265",
+        "text": "Round 2! @ Bar West Augusta https://t.co/miuRhOxiW3"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1340791071274655751"
+        ],
+        "created_at": "2020-12-20T22:47:56.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "0fec443a6654c002"
+        },
+        "lang": "en",
+        "author_id": "1300931909103611910",
+        "id": "1340791071274655751",
+        "text": "Chilling at: 5 guys (restaurant)"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1336136408818470913"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07446286,
+                    33.49145486
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-12-08T02:31:58.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1336136408818470913",
+        "text": "Round 2!! @ Bar West Augusta https://t.co/WEWvgK93pk"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1335451591722348544"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07446286,
+                    33.49145486
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-12-06T05:10:45.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1335451591722348544",
+        "text": "Round 2!! @ Bar West Augusta https://t.co/O4HF8cF8qS"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1332907874809499648"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07446286,
+                    33.49145486
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-11-29T04:42:56.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1332907874809499648",
+        "text": "My Saturday night..... @ Bar West Augusta https://t.co/z5f6LzZTnP"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1332867606961942528"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07446286,
+                    33.49145486
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-11-29T02:02:55.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1332867606961942528",
+        "text": "Relaxing.... @ Bar West Augusta https://t.co/uKViQ6KpCF"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1332549045663875073"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07446286,
+                    33.49145486
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-11-28T04:57:04.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1332549045663875073",
+        "text": "Round 3 @ Bar West Augusta https://t.co/vNUJoH8FrU"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1332504418630201345"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.08653859,
+                    33.46759362
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-11-28T01:59:44.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1332504418630201345",
+        "text": "**shots** @ Top Crab Seafood &amp; Bar https://t.co/PCkcLORQxV"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1332494388908449797"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.08653859,
+                    33.46759362
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-11-28T01:19:53.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1332494388908449797",
+        "text": "Round 2 @ Top Crab Seafood &amp; Bar https://t.co/cp7wMYYq6u"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1329207403573817351"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.08653859,
+                    33.46759362
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-11-18T23:38:35.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1329207403573817351",
+        "text": "Round 2 @ Top Crab Seafood &amp; Bar https://t.co/PiPE2LkZTN"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1329045546296897536"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07446286,
+                    33.49145486
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-11-18T12:55:25.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1329045546296897536",
+        "text": "Round 3, SHOTS round 2\ud83e\udd74 @ Bar West Augusta https://t.co/SnYgji56wP"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1328916886738726912"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07446286,
+                    33.49145486
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-11-18T04:24:10.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1328916886738726912",
+        "text": "Round 3! @ Bar West Augusta https://t.co/f0Hk3JcP9r"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1325277831560114177"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07446286,
+                    33.49145486
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-11-08T03:23:52.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "is",
+        "author_id": "66673794",
+        "id": "1325277831560114177",
+        "text": "\ud83d\ude4c @ Bar West Augusta https://t.co/wFynggu5Qy"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1320210080239964160"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07446286,
+                    33.49145486
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-10-25T03:46:26.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1320210080239964160",
+        "text": "Thankyou you @kionadonta1973 for my shot glass from New Orleans \ud83d\ude4c @ Bar West Augusta https://t.co/SDOSpsuqgc"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1320168970633269249"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07446286,
+                    33.49145486
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-10-25T01:03:04.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1320168970633269249",
+        "text": "My Saturday night\ud83c\udf20 @ Bar West Augusta https://t.co/GaFaQqZ62N"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1318667462125211652"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.05377062,
+                    33.46972631
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-10-20T21:36:37.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "es",
+        "author_id": "66673794",
+        "id": "1318667462125211652",
+        "text": "Round 2!! @ Vallarta Mexican Restaurant https://t.co/NWDNNBoTlC"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1314365796320239616"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07446286,
+                    33.49145486
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-10-09T00:43:20.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1314365796320239616",
+        "text": "Round 2!! @ Bar West Augusta https://t.co/diXYxdz9OO"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1306363160899866624"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.05377062,
+                    33.46972631
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-09-16T22:43:43.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1306363160899866624",
+        "text": "Just posted a photo @ Vallarta Mexican Restaurant https://t.co/7XaQm3qB7d"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1294074499394985985"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07446286,
+                    33.49145486
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-08-14T00:52:58.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1294074499394985985",
+        "text": "On it! #guinnessbeer #crownandcoke @ Bar West Augusta https://t.co/AI4nMh1gHH"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1292107206654078983"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.067015,
+                    33.478228
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-08-08T14:35:38.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "1101270461986496512",
+        "id": "1292107206654078983",
+        "text": "Want to work in Augusta, GA? Our latest opening. https://t.co/RORYJa0aHZ. OAK Restaurant &amp;Amp; Lounge"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1290305442032189440"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.067015,
+                    33.478228
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-08-03T15:16:04.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "1101270461986496512",
+        "id": "1290305442032189440",
+        "text": "This job might be a great fit for you: Chefs, Sous Chefs, Cooks https://t.co/kuQPjMXVVv Augusta, GA"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1288518609011126272"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.067015,
+                    33.478228
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-07-29T16:55:50.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "1101270461986496512",
+        "id": "1288518609011126272",
+        "text": "Join the OAK Restaurant &amp;Amp; Lounge team! Our latest job opening https://t.co/2rvZKDiUj9 Cookjobs Augusta, GA"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1288249625888030722"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.05377062,
+                    33.46972631
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-07-28T23:06:59.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "es",
+        "author_id": "66673794",
+        "id": "1288249625888030722",
+        "text": "Round 2!! @ Vallarta Mexican Restaurant https://t.co/pxhuktB9N7"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1286685316984778753"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.067015,
+                    33.478228
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-07-24T15:30:59.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "1101270461986496512",
+        "id": "1286685316984778753",
+        "text": "Check out the latest opening https://t.co/5II9IFgOIo at OAK Restaurant &amp;Amp; Lounge in Augusta, GA. Restaurantjobs"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1286071266328416256"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.05377062,
+                    33.46972631
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-07-22T22:50:58.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "es",
+        "author_id": "66673794",
+        "id": "1286071266328416256",
+        "text": "OLAAAAY!!\ud83c\udf7b\ud83e\udd43 @ Vallarta Mexican Restaurant https://t.co/vwO5jYor9F"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1275971861415854080"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07446286,
+                    33.49145486
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-06-25T01:59:32.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "66673794",
+        "id": "1275971861415854080",
+        "text": "Round 2!!! @ Bar West Augusta https://t.co/4hUE8G3J70"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1275482660379389952"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.082689,
+                    33.485179
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-06-23T17:35:38.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "831716755508699140",
+        "id": "1275482660379389952",
+        "text": "Lunch is better with Guacamole on the side! \n\n#chipsandsalsa #gucamole #chips #salsa #chipsandguac #chilis @ Chili's Grill &amp; Bar https://t.co/VPymvwkTki"
+    },
+    {
+        "created_at": "2020-04-11T20:46:55.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1249076486310592512"
+        ],
+        "author_id": "308267354",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07989,
+                    33.46734
+                ]
+            }
+        },
+        "id": "1249076486310592512",
+        "text": "What in the hell is this? I spent $30 and this is what I got. I shall never return and I advise you not to go either. @ Crab Du Jour - Cajun Seafood &amp; Bar Augusta https://t.co/8iKZlFHRLe"
+    },
+    {
+        "created_at": "2020-03-05T00:07:56.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1235356333068529664"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.082689,
+                    33.485179
+                ]
+            }
+        },
+        "id": "1235356333068529664",
+        "text": "The Lucky Jameson\ud83c\udf79\ud83d\ude1c... @ Chili's Grill &amp; Bar https://t.co/afLtLNhzZv"
+    },
+    {
+        "created_at": "2020-02-23T03:15:12.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1231417194870906880"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07446286,
+                    33.49145486
+                ]
+            }
+        },
+        "id": "1231417194870906880",
+        "text": "On it!! @ Bar West Augusta https://t.co/5QQltxwitU"
+    },
+    {
+        "created_at": "2020-02-23T01:40:01.000Z",
+        "lang": "is",
+        "edit_history_tweet_ids": [
+            "1231393241033060352"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07446286,
+                    33.49145486
+                ]
+            }
+        },
+        "id": "1231393241033060352",
+        "text": "\ud83c\udf7b\ud83d\ude4c\ud83e\udd43 @ Bar West Augusta https://t.co/vgrwEr4rKH"
+    },
+    {
+        "created_at": "2020-02-23T01:00:39.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1231383333260681217"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07446286,
+                    33.49145486
+                ]
+            }
+        },
+        "id": "1231383333260681217",
+        "text": "Just posted a photo @ Bar West Augusta https://t.co/RTouxI7BDS"
+    },
+    {
+        "created_at": "2020-01-30T23:57:21.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1223032482397814787"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07836397,
+                    33.48699944
+                ]
+            }
+        },
+        "id": "1223032482397814787",
+        "text": "Let's get it started!!!! @ The Limelite Cafe https://t.co/Fb4E2Nf8ti"
+    },
+    {
+        "created_at": "2020-01-26T02:23:18.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1221257274557112320"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07836397,
+                    33.48699944
+                ]
+            }
+        },
+        "id": "1221257274557112320",
+        "text": "My nightcap\ud83e\udd43. I'm done after this\ud83e\udd74.. @ The Limelite Cafe https://t.co/esMv88xc0y"
+    },
+    {
+        "created_at": "2020-01-26T00:31:17.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1221229084824539136"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07836397,
+                    33.48699944
+                ]
+            }
+        },
+        "id": "1221229084824539136",
+        "text": "Round 2!! @ The Limelite Cafe https://t.co/sg1mjZgSw8"
+    },
+    {
+        "created_at": "2020-01-19T04:01:26.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1218745252317626368"
+        ],
+        "author_id": "121299471",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07446286,
+                    33.49145486
+                ]
+            }
+        },
+        "id": "1218745252317626368",
+        "text": "Farewell Jesse! @ Bar West Augusta https://t.co/68Di36GO9c"
+    },
+    {
+        "created_at": "2020-01-14T07:28:26.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1216985407965093888"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07446286,
+                    33.49145486
+                ]
+            }
+        },
+        "id": "1216985407965093888",
+        "text": "**shots** @ Bar West Augusta https://t.co/h6iNwzJjOw"
+    },
+    {
+        "created_at": "2020-01-14T01:06:35.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1216889314589544451"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.07446286,
+                    33.49145486
+                ]
+            }
+        },
+        "id": "1216889314589544451",
+        "text": "Game time! @ Bar West Augusta https://t.co/5ICIF98bFq"
+    },
+    {
+        "created_at": "2020-01-03T02:50:21.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1212929158638010369"
+        ],
+        "author_id": "1659925939",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.05377062,
+                    33.46972631
+                ]
+            }
+        },
+        "id": "1212929158638010369",
+        "text": "My birthday dinner @ Vallarta Mexican Restaurant https://t.co/h8jicL6mHl"
+    },
+    {
+        "created_at": "2020-01-03T02:49:46.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1212929012437139457"
+        ],
+        "author_id": "1659925939",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.05377062,
+                    33.46972631
+                ]
+            }
+        },
+        "id": "1212929012437139457",
+        "text": "My birthday dinner @ Vallarta Mexican Restaurant https://t.co/Cbpea1oLIQ"
+    }
+]

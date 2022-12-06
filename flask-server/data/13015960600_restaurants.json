@@ -1,0 +1,4242 @@
+[
+    {
+        "id": "1529179082549825537",
+        "edit_history_tweet_ids": [
+            "1529179082549825537"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79087273,
+                    34.16987605
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "author_id": "2654945970",
+        "text": "Thank you @canesloveschoolfood for the Cafe tours (Elementary &amp; High School)!  We \ud83d\udc9c collaborating with our neighbors! @ Cartersville High School- CHS https://t.co/L9w8o4gAXg",
+        "created_at": "2022-05-24T19:14:38.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1528191569517592577",
+        "edit_history_tweet_ids": [
+            "1528191569517592577"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Live music Friday continues with Michael Lee\n#livemusic #cartersville #georgia @ The Local Bar and Grill https://t.co/5hrWNYFcYz",
+        "created_at": "2022-05-22T01:50:37.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1523448247833878528",
+        "edit_history_tweet_ids": [
+            "1523448247833878528"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Live music Sunday on the deck with Jeff Tuggle\n#cartersville #georgia #livemusic @jefftuggle @ The Local Bar and Grill https://t.co/eBxWN8xW9q",
+        "created_at": "2022-05-08T23:42:21.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1515744674891415553",
+        "edit_history_tweet_ids": [
+            "1515744674891415553"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.7843983,
+                    34.1707174
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "106525785",
+        "text": "I'm at @Applebees Grill + Bar in Cartersville, GA https://t.co/eWBz7zoCIP",
+        "created_at": "2022-04-17T17:31:06.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1514046492281090051",
+        "edit_history_tweet_ids": [
+            "1514046492281090051"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Ethan Senger on the deck for Tuesday live music\n#livemusic  #cartersville #georgia @ethansengermusic @ The Local Bar and Grill https://t.co/G97swKoCVA",
+        "created_at": "2022-04-13T01:03:08.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1514037388871405568",
+        "edit_history_tweet_ids": [
+            "1514037388871405568"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Woody on the deck for live music Tuesday\n#livemusic #cartersville #georgia @woodyearwood @ The Local Bar and Grill https://t.co/qwroQKiZan",
+        "created_at": "2022-04-13T00:26:57.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1513674094046322698",
+        "edit_history_tweet_ids": [
+            "1513674094046322698"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Live music Monday\n#cartersville #georgia #openmic #livemusic @ The Local Bar and Grill https://t.co/WaCjGtVTz7",
+        "created_at": "2022-04-12T00:23:21.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1513302863765770244",
+        "edit_history_tweet_ids": [
+            "1513302863765770244"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Thomas Hinds at Montie's crew\n#cartersville #georgia #livemusic @hindsight_musings @ The Local Bar and Grill https://t.co/6CUNOeI9XI",
+        "created_at": "2022-04-10T23:48:13.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1513288012775440391",
+        "edit_history_tweet_ids": [
+            "1513288012775440391"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Montie and crew on the deck\n#livemusic #georgia #cartersville @ The Local Bar and Grill https://t.co/A2keugzOuC",
+        "created_at": "2022-04-10T22:49:12.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1512883150250295300",
+        "edit_history_tweet_ids": [
+            "1512883150250295300"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "305613705",
+        "text": "I can make my own bacon egg and cheese bagel but it\u2019s something about getting it from the black owned cafe down the street that just hits different",
+        "created_at": "2022-04-09T20:00:25.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1510981851573334020",
+        "edit_history_tweet_ids": [
+            "1510981851573334020"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "46013856",
+        "text": "@ThisIsRadPod I miss this restaurant. The one in atl used to be my \"birthday restaurant\". It's actually a comedy club now. https://t.co/Q22Kp62PLW",
+        "created_at": "2022-04-04T14:05:20.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1505303826907152388",
+        "edit_history_tweet_ids": [
+            "1505303826907152388"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79638646,
+                    34.16498099
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "2277865180",
+        "text": "I'm at Jefferson's Restaurant in Cartersville, GA https://t.co/uzkq4mAKo5",
+        "created_at": "2022-03-19T22:02:54.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1504999831324004358",
+        "edit_history_tweet_ids": [
+            "1504999831324004358"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Live music Friday with Thomas Hinds and Company\n#livemusic #georgia #cartersville @hindsight_musings @ The Local Bar and Grill https://t.co/KGGEVMC3lu",
+        "created_at": "2022-03-19T01:54:55.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1503115236420825089",
+        "edit_history_tweet_ids": [
+            "1503115236420825089"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.7843983,
+                    34.1707174
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "2277865180",
+        "text": "I'm at @Applebees Grill + Bar in Cartersville, GA https://t.co/lVxitr9nmT",
+        "created_at": "2022-03-13T21:06:13.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1501020643617390595",
+        "edit_history_tweet_ids": [
+            "1501020643617390595"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Open Mic Monday with Thomas Hinds\n#openmic #cartersville #georgia @hindsight_musings @ The Local Bar and Grill https://t.co/2sr5ARspyM",
+        "created_at": "2022-03-08T02:23:03.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1501015781961834497",
+        "edit_history_tweet_ids": [
+            "1501015781961834497"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Open Mic Monday with Woody Earwood\n#openmic #cartersville #georgia @woodyearwood @ The Local Bar and Grill https://t.co/1rfIHoYRNr",
+        "created_at": "2022-03-08T02:03:44.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1501009062846091265",
+        "edit_history_tweet_ids": [
+            "1501009062846091265"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Open Mic Monday @ The Local Bar and Grill https://t.co/L9Hccgmlqv",
+        "created_at": "2022-03-08T01:37:02.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1499984092942802961",
+        "edit_history_tweet_ids": [
+            "1499984092942802961"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Ethan Senger love music Friday\n#livemusic #cartersville #georgia @ The Local Bar and Grill https://t.co/rt4lZOzWTy",
+        "created_at": "2022-03-05T05:44:10.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1497030616298115073",
+        "edit_history_tweet_ids": [
+            "1497030616298115073"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Garrett Wheeler at the Local\n#livemusic #cartersville #georgia @garrettwheelerofficial @ The Local Bar and Grill https://t.co/f3ZncQ6o5H",
+        "created_at": "2022-02-25T02:08:07.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1494876397067776002",
+        "edit_history_tweet_ids": [
+            "1494876397067776002"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Live music Friday night with Justin Long\n#livemusic #cartersville #georgia @ The Local Bar and Grill https://t.co/sEh8al7HGQ",
+        "created_at": "2022-02-19T03:28:01.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1494142698223198210",
+        "edit_history_tweet_ids": [
+            "1494142698223198210"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Karaoke fun with Nikki\n#cartersville #georgia #karaoke @ The Local Bar and Grill https://t.co/5rXxZo5zw9",
+        "created_at": "2022-02-17T02:52:33.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1493425095133519873",
+        "edit_history_tweet_ids": [
+            "1493425095133519873"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Blare the Music at open Mic Monday #openmic #georgia #cartersville @ The Local Bar and Grill https://t.co/ernPkDLR0S",
+        "created_at": "2022-02-15T03:21:03.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1493419531624235011",
+        "edit_history_tweet_ids": [
+            "1493419531624235011"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Kelly at open Mic Monday\n#openmic  #georgia #cartersville @ The Local Bar and Grill https://t.co/CQLCVciV0D",
+        "created_at": "2022-02-15T02:58:57.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1493412682871066626",
+        "edit_history_tweet_ids": [
+            "1493412682871066626"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Daniel Lieving at open Mic Monday\n#openmic #cartersville #georgia @daniellieving @ The Local Bar and Grill https://t.co/5XA1Mhqwsg",
+        "created_at": "2022-02-15T02:31:44.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1490873251400200195",
+        "edit_history_tweet_ids": [
+            "1490873251400200195"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Thomas Hinds at open Mic Monday\n#openmic #cartersville #georgia @hindsight_musings @ The Local Bar and Grill https://t.co/r7AA4xS9lZ",
+        "created_at": "2022-02-08T02:20:56.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1490872619742208000",
+        "edit_history_tweet_ids": [
+            "1490872619742208000"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Open Mic Monday with Jerry Gayton\n#openmic #cartersville #georgia @ The Local Bar and Grill https://t.co/Cggdn5Vyop",
+        "created_at": "2022-02-08T02:18:26.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1489055591628783620",
+        "edit_history_tweet_ids": [
+            "1489055591628783620"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Karaoke Wednesday\n#karaoke #cartersville #georgia @ The Local Bar and Grill https://t.co/2061E5J3A0",
+        "created_at": "2022-02-03T01:58:13.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1488359152825114624",
+        "edit_history_tweet_ids": [
+            "1488359152825114624"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Rhett at open Mic Monday\n@rhetthenson #openmic #cartersville #georgia @ The Local Bar and Grill https://t.co/tGeM7Znook",
+        "created_at": "2022-02-01T03:50:49.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1488326986367963139",
+        "edit_history_tweet_ids": [
+            "1488326986367963139"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Thomas Hinds at open Mic Monday\n#openmic #cartersville #georgia @hindsight_musings @ The Local Bar and Grill https://t.co/f1X1fUUj3R",
+        "created_at": "2022-02-01T01:42:59.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1487979776304467972",
+        "edit_history_tweet_ids": [
+            "1487979776304467972"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79329681,
+                    34.16418009
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Ethan Senger at Woody and Friends\n#livemusic #cartersville #georgia @ Archer\u2019s Sports Bar &amp; Grill https://t.co/tvZFlY5Zj2",
+        "created_at": "2022-01-31T02:43:18.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1487975465851793410",
+        "edit_history_tweet_ids": [
+            "1487975465851793410"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79329681,
+                    34.16418009
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Woody Earwood at Woody and friends\n#livemusic #cartersville #georgia @ Archer\u2019s Sports Bar &amp; Grill https://t.co/42MmGA6RNe",
+        "created_at": "2022-01-31T02:26:10.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1487957660255334402",
+        "edit_history_tweet_ids": [
+            "1487957660255334402"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79329681,
+                    34.16418009
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "CW Smith at Woody and Friends\n#livemusic #cartersville #georgia @cwsmith74 @ Archer\u2019s Sports Bar &amp; Grill https://t.co/t6A5l2pkiz",
+        "created_at": "2022-01-31T01:15:25.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1487938333539897345",
+        "edit_history_tweet_ids": [
+            "1487938333539897345"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Montie and Crew for Sunday evening\n#livemusic #cartersville #georgia @montiepython @ The Local Bar and Grill https://t.co/2O2hOZnBef",
+        "created_at": "2022-01-30T23:58:37.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1485827816126038018",
+        "edit_history_tweet_ids": [
+            "1485827816126038018"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "De Shawn Parker open Mic Monday\n#cartersville #georgia #openmic @ The Local Bar and Grill https://t.co/syhbaqD8p8",
+        "created_at": "2022-01-25T04:12:11.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1485806988281925632",
+        "edit_history_tweet_ids": [
+            "1485806988281925632"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Open Mic Monday with CW Smith\n#cartersville #georgia #openmic #livemusic @ The Local Bar and Grill https://t.co/ixqJv471vJ",
+        "created_at": "2022-01-25T02:49:25.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1485788442952880129",
+        "edit_history_tweet_ids": [
+            "1485788442952880129"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Open Mic Monday with Jerry Gayton\n#openmic #livemusic #cartersville #georgia @ The Local Bar and Grill https://t.co/MDErz2BmJ7",
+        "created_at": "2022-01-25T01:35:44.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1484341027657768965",
+        "edit_history_tweet_ids": [
+            "1484341027657768965"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Morgan Campbell playing for live music Thursday\n#cartersville #georgia #livemusic @morgan_campbell_music @ The Local Bar and Grill https://t.co/GZFOqMGSd7",
+        "created_at": "2022-01-21T01:44:13.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1483271710367436800",
+        "edit_history_tweet_ids": [
+            "1483271710367436800"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Blare the Music at open Mic\n#openmic #livemusic #cartersville #georgia @blarethemusic @ The Local Bar and Grill https://t.co/VFWTmqddNi",
+        "created_at": "2022-01-18T02:55:08.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1483262824868564992",
+        "edit_history_tweet_ids": [
+            "1483262824868564992"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Open Mic with Thomas Hinds\n#openmic #livemusic #cartersville #georgia @hindsight_musings @ The Local Bar and Grill https://t.co/Ep671wPr2u",
+        "created_at": "2022-01-18T02:19:49.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1483256926779572226",
+        "edit_history_tweet_ids": [
+            "1483256926779572226"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Open Mic with Woody Earwood\n#openmic #livemusic #cartersville #georgia @woodyearwood @ The Local Bar and Grill https://t.co/6sAz5uv6D0",
+        "created_at": "2022-01-18T01:56:23.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1483248694220640257",
+        "edit_history_tweet_ids": [
+            "1483248694220640257"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Open Mic Monday with Jeff Tuggle\n#livemusic #georgia #cartersville #openmic @ The Local Bar and Grill https://t.co/pRzLqpqfxZ",
+        "created_at": "2022-01-18T01:23:40.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1481090839757611010",
+        "edit_history_tweet_ids": [
+            "1481090839757611010"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Live music with Jeff Tuggle and Thomas Hinds\n@jefftuggle @hindsight_musings \n@redclayrhythms #livemusic #cartersville #georgia @ The Local Bar and Grill https://t.co/xezwZcWcZ1",
+        "created_at": "2022-01-12T02:29:08.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1481088036548976645",
+        "edit_history_tweet_ids": [
+            "1481088036548976645"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Live music Tuesday. Fourth anniversary of Red Clay Rhythms.\nThe Shetlands perform\n#georgia #cartersville #livemusic \n@redclayrhythms @shettyshettybangbang @ The Local Bar and Grill https://t.co/B7ThK7IMlg",
+        "created_at": "2022-01-12T02:17:59.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1474224666784976908",
+        "edit_history_tweet_ids": [
+            "1474224666784976908"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79329681,
+                    34.16418009
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Chloe gets to meet Santa\n#georgia #cartersville #santa @ Archer\u2019s Sports Bar &amp; Grill https://t.co/gMvInOS8TB",
+        "created_at": "2021-12-24T03:45:24.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1472753014251266048",
+        "edit_history_tweet_ids": [
+            "1472753014251266048"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "More live music at The Local Bar and Grill Christmas party\n#livemusic #cartersville #georgia #whohasmorefunthanus @ The Local Bar and Grill https://t.co/5b8XzaeoIE",
+        "created_at": "2021-12-20T02:17:35.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1472726588982800386",
+        "edit_history_tweet_ids": [
+            "1472726588982800386"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Christmas party at the Local Bar &amp; Grill\n#livemusic #cartersville #georgia #whohasmorefunthanus @ The Local Bar and Grill https://t.co/UGp7wzHuqO",
+        "created_at": "2021-12-20T00:32:35.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1470748170770657296",
+        "edit_history_tweet_ids": [
+            "1470748170770657296"
+        ],
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "54561501",
+        "text": "So...there's a bar in the back of this 1930 Duesenberg Model J convertible sedan \ud83d\ude2c @savoyautomuseum @GoodDayAtlanta #fox5atl https://t.co/UYXusjERrg",
+        "created_at": "2021-12-14T13:31:03.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1469713202296631296",
+        "edit_history_tweet_ids": [
+            "1469713202296631296"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "1284678128",
+        "text": "Right now, I am visiting the brand new Savoy Automobile Museum. I have only seen the permanent collection so far, but after lunch here in the cafe I will tour the remaining four exhibitions.",
+        "created_at": "2021-12-11T16:58:28.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1468771906069405697",
+        "edit_history_tweet_ids": [
+            "1468771906069405697"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Wednesday night karaoke\n#cartersville #georgia #karaoke @blarethemusic @ The Local Bar and Grill https://t.co/MHyjhKGUcx",
+        "created_at": "2021-12-09T02:38:05.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1467658106549243913",
+        "edit_history_tweet_ids": [
+            "1467658106549243913"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79329681,
+                    34.16418009
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Live music Sunday ends with Woody and Friends\n#cartersville #georgia #livemusic @woodyearwood @ Archer\u2019s Sports Bar &amp; Grill https://t.co/RIweJ0BZ1i",
+        "created_at": "2021-12-06T00:52:15.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1467209317380153355",
+        "edit_history_tweet_ids": [
+            "1467209317380153355"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "419830922",
+        "text": "I gotta say the worst part about working in the restaurant industry is knowing someone everywhere I go",
+        "created_at": "2021-12-04T19:08:55.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1466985605494153216",
+        "edit_history_tweet_ids": [
+            "1466985605494153216"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "844128072",
+        "text": "@RealTeamJake @Jahthestealer @LetsGoGoose For example, my old boss once pushed an angry client out the bakery door cause he was yelling at cursing and all that. In some perspectives, that's considered assault, just putting her hands on the guy. She didn't get in trouble. Imagine going to prison for that assault charge.",
+        "created_at": "2021-12-04T04:19:58.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1466233184153128960",
+        "edit_history_tweet_ids": [
+            "1466233184153128960"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Wednesday karaoke fun\n#karaoke #cartersville #georgia @ The Local Bar and Grill https://t.co/cfszHfL2h7",
+        "created_at": "2021-12-02T02:30:07.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1463561444033765379",
+        "edit_history_tweet_ids": [
+            "1463561444033765379"
+        ],
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "45863846",
+        "text": "I just flicked a bug on my table outside at a bar and it landed on this girl and she started screaming \ud83d\ude33 but they don\u2019t know it was me lmao I didn\u2019t mean to hit them it just happened",
+        "created_at": "2021-11-24T17:33:34.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1462613748858957824",
+        "edit_history_tweet_ids": [
+            "1462613748858957824"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79329681,
+                    34.16418009
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Woody and friends with Charles Kelley Holmes\n#livemusic #cartersville #georgia @ Archer\u2019s Sports Bar &amp; Grill https://t.co/o4mNO8WG6Z",
+        "created_at": "2021-11-22T02:47:46.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1462597608120233987",
+        "edit_history_tweet_ids": [
+            "1462597608120233987"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79329681,
+                    34.16418009
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Morgan Thompson at Woody and friends\n#livemusic\n#georgia #cartersville @morgan_ct @ Archer\u2019s Sports Bar &amp; Grill https://t.co/kuokLqWiQR",
+        "created_at": "2021-11-22T01:43:38.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1461146804540432385",
+        "edit_history_tweet_ids": [
+            "1461146804540432385"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Karaoke fun for a Wednesday\n#karaoke #cartersville #georgia @ The Local Bar and Grill https://t.co/UkR7k1hgqx",
+        "created_at": "2021-11-18T01:38:39.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1457178745610067972",
+        "edit_history_tweet_ids": [
+            "1457178745610067972"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Live music Friday continues with Woody Earwood\n#livemusic #cartersville #georgia @woodyearwoodmusic @ The Local Bar and Grill https://t.co/ZLwjywB80i",
+        "created_at": "2021-11-07T02:51:00.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1456452391268724740",
+        "edit_history_tweet_ids": [
+            "1456452391268724740"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "\"Catfish\" Hill Roberts for more live music Thursday\n#livemusic #cartersville #georgia  @catfishandthebottom @ The Local Bar and Grill https://t.co/h5cLKIpd6f",
+        "created_at": "2021-11-05T02:44:44.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1455348298471124992",
+        "edit_history_tweet_ids": [
+            "1455348298471124992"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Open Mic Monday continues with Ethan Senger\n#openmic #livemusic #georgia #cartersville @ethansengermusic @ The Local Bar and Grill https://t.co/taDVEGyww8",
+        "created_at": "2021-11-02T01:37:28.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1455337937990717440",
+        "edit_history_tweet_ids": [
+            "1455337937990717440"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Open Mic Monday\n#cartersville #georgia #openmic #livemusic @woodyearwoodmusic @ The Local Bar and Grill https://t.co/MbmoIELxAW",
+        "created_at": "2021-11-02T00:56:17.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1454628191713341441",
+        "edit_history_tweet_ids": [
+            "1454628191713341441"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Music Saturday night\n#cartersville #georgia @ The Local Bar and Grill https://t.co/V8tosgMysi",
+        "created_at": "2021-10-31T01:56:01.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1454275153651638276",
+        "edit_history_tweet_ids": [
+            "1454275153651638276"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Live music Friday with Garrett Wheeler\n#livemusic #georgia #cartersville @garrettwheelerofficial @ The Local Bar and Grill https://t.co/87fi4oPeJo",
+        "created_at": "2021-10-30T02:33:10.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1452802083216822278",
+        "edit_history_tweet_ids": [
+            "1452802083216822278"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Open Mic Monday with Jerry Gayton\n#livemusic #openmic #georgia #cartersville @ The Local Bar and Grill https://t.co/PwhkJI1lwT",
+        "created_at": "2021-10-26T00:59:43.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1449593387766661122",
+        "edit_history_tweet_ids": [
+            "1449593387766661122"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "The Radio Show at the Local\n#livemusic #cartersville #georgia @ The Local Bar and Grill https://t.co/etlhTTHdzJ",
+        "created_at": "2021-10-17T04:29:30.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1448485370455339012",
+        "edit_history_tweet_ids": [
+            "1448485370455339012"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Karaoke fun\n#cartersville #georgia #karaoke @ The Local Bar and Grill https://t.co/fBervsco0P",
+        "created_at": "2021-10-14T03:06:38.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1447733076927283203",
+        "edit_history_tweet_ids": [
+            "1447733076927283203"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Open Mic Monday with Trey Odum\n#livemusic #openmic #georgia #cartersville @treyodumofficial @ The Local Bar and Grill https://t.co/1jcMiHC2Eq",
+        "created_at": "2021-10-12T01:17:17.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1446477917903540228",
+        "edit_history_tweet_ids": [
+            "1446477917903540228"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "46013856",
+        "text": "We train pilled his manager by explaining the concept of a bar car and said you could hop on a train, get hammered, go to NC and gamble, drink more, and then be back home.",
+        "created_at": "2021-10-08T14:09:44.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1445956273367879682",
+        "edit_history_tweet_ids": [
+            "1445956273367879682"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Wednesday karaoke fun\n#karaoke #cartersville #georgia @ The Local Bar and Grill https://t.co/VjulkeYYHz",
+        "created_at": "2021-10-07T03:36:54.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1443660209021407234",
+        "edit_history_tweet_ids": [
+            "1443660209021407234"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "46013856",
+        "text": "@MON0EYE If the char pov is a drunk Quatro in a bar, the feddie pov is Hayato telling embellished stories during museum tours.",
+        "created_at": "2021-09-30T19:33:10.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1443388190509842435",
+        "edit_history_tweet_ids": [
+            "1443388190509842435"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "More karaoke fun on a Wednesday\n#cartersville #georgia #karaoke @ The Local Bar and Grill https://t.co/IGcLcTmd7q",
+        "created_at": "2021-09-30T01:32:16.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1442676366114177025",
+        "edit_history_tweet_ids": [
+            "1442676366114177025"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Open mic Monday\n#cartersville #georgia #livemusic #openmic @ The Local Bar and Grill https://t.co/xVpzxvLA3O",
+        "created_at": "2021-09-28T02:23:43.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1442286134977916931",
+        "edit_history_tweet_ids": [
+            "1442286134977916931"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Live music Sunday\n#livemusic #georgia #cartersville @ The Local Bar and Grill https://t.co/3GlnKv0axL",
+        "created_at": "2021-09-27T00:33:05.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1442273331151921156",
+        "edit_history_tweet_ids": [
+            "1442273331151921156"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Live music Sunday\n#livemusic #cartersville #georgia @morgan_ct @ The Local Bar and Grill https://t.co/4DM0kzPNnp",
+        "created_at": "2021-09-26T23:42:12.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1442259079116857344",
+        "edit_history_tweet_ids": [
+            "1442259079116857344"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Woody and friends on a Sunday\n#cartersville #georgia #livemusic @woodyearwoodmusic @ The Local Bar and Grill https://t.co/FWXVtA4xAh",
+        "created_at": "2021-09-26T22:45:34.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1441962765648744456",
+        "edit_history_tweet_ids": [
+            "1441962765648744456"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Live music Saturday\n#cartersville #georgia #livemusic @jefftuggle @ The Local Bar and Grill https://t.co/dYEB9dX1Gp",
+        "created_at": "2021-09-26T03:08:08.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1441961665679880202",
+        "edit_history_tweet_ids": [
+            "1441961665679880202"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Live music Saturday continues\n#livemusic #georgia #cartersville @woodyearwoodmusic @ The Local Bar and Grill https://t.co/wwKhryaZtA",
+        "created_at": "2021-09-26T03:03:46.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1441234595953852419",
+        "edit_history_tweet_ids": [
+            "1441234595953852419"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Live music Thursday continues\n#livemusic #cartersville #georgia  @chadpattmusic @ The Local Bar and Grill https://t.co/gTtg8YQED9",
+        "created_at": "2021-09-24T02:54:39.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1439059223623655427",
+        "edit_history_tweet_ids": [
+            "1439059223623655427"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Live music Friday\n#cartersville #georgia #livemusic @battle_harris @ The Local Bar and Grill https://t.co/oo9LSiNvGG",
+        "created_at": "2021-09-18T02:50:29.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1438682934559625220",
+        "edit_history_tweet_ids": [
+            "1438682934559625220"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Live music Thursday\n#cartersville #georgia \n@montiepython @ The Local Bar and Grill https://t.co/GTpVitpGxb",
+        "created_at": "2021-09-17T01:55:15.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1437591577715777537",
+        "edit_history_tweet_ids": [
+            "1437591577715777537"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Open Mic Monday continues\n#openmic #livemusic #cartersville #georgia @ The Local Bar and Grill https://t.co/lW2FpwlDMo",
+        "created_at": "2021-09-14T01:38:35.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1437591193102213120",
+        "edit_history_tweet_ids": [
+            "1437591193102213120"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Open mic Monday\n#livemusic #openmic #cartersville #georgia @ The Local Bar and Grill https://t.co/GR0FohBCVV",
+        "created_at": "2021-09-14T01:37:04.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1437590765056765956",
+        "edit_history_tweet_ids": [
+            "1437590765056765956"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Open Mic Monday\n#openmic #livemusic #cartersville #georgia @ The Local Bar and Grill https://t.co/zGlcCSmPmc",
+        "created_at": "2021-09-14T01:35:22.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1436164120097742851",
+        "edit_history_tweet_ids": [
+            "1436164120097742851"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "More live music Thursday\n#livemusic #georgia #cartersville @ The Local Bar and Grill https://t.co/63EBFckZaM",
+        "created_at": "2021-09-10T03:06:23.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1435784211164766211",
+        "edit_history_tweet_ids": [
+            "1435784211164766211"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Karaoke fun on a Wednesday\n#cartersville #georgia #karaoke @ The Local Bar and Grill https://t.co/4w1WoqGmfz",
+        "created_at": "2021-09-09T01:56:46.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1434695819605708800",
+        "edit_history_tweet_ids": [
+            "1434695819605708800"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Music on the Deck\n#livemusic #cartersville #georgia @the_local_bar @ The Local Bar and Grill https://t.co/i0m2mqX8oX",
+        "created_at": "2021-09-06T01:51:53.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1434339483437109251",
+        "edit_history_tweet_ids": [
+            "1434339483437109251"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Live music Saturday continues with smashcastle\n#cartersville #georgia #livemusic  #smashcastle @ The Local Bar and Grill https://t.co/ZKPZ9zdMZB",
+        "created_at": "2021-09-05T02:15:56.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1433624707115454466",
+        "edit_history_tweet_ids": [
+            "1433624707115454466"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "More live music Thursday\n#livemusic #georgia #cartersville @jefftuggle @ The Local Bar and Grill https://t.co/DrtFJvpWOy",
+        "created_at": "2021-09-03T02:55:40.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1433231614281240579",
+        "edit_history_tweet_ids": [
+            "1433231614281240579"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Wednesday night karaoke\n#karaoke #livemusic #cartersville #georgia @ The Local Bar and Grill https://t.co/7pEFtw3r9Y",
+        "created_at": "2021-09-02T00:53:39.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1429600159566950402",
+        "edit_history_tweet_ids": [
+            "1429600159566950402"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Woody and friends on the deck\n#livemusic #cartersville #georgia #thelocalbar @ The Local Bar and Grill https://t.co/MdkT9nZOu3",
+        "created_at": "2021-08-23T00:23:33.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1428380347172114434",
+        "edit_history_tweet_ids": [
+            "1428380347172114434"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.7962,
+                    34.1669
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "339419327",
+        "text": "\u2026restaurant owners, gatekeepers at sporting events, Walmart staff, etc. Am i lying? @ Cartersville, Georgia https://t.co/FLXCpOPhgG",
+        "created_at": "2021-08-19T15:36:27.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1426013502720954368",
+        "edit_history_tweet_ids": [
+            "1426013502720954368"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Live music Thursday.  \n#cartersville #georgia #livemusic @ The Local Bar and Grill https://t.co/24Iq96xXLK",
+        "created_at": "2021-08-13T02:51:27.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1424896684639854596",
+        "edit_history_tweet_ids": [
+            "1424896684639854596"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Open mic Monday\n#livemusic #openmic #georgia #cartersville @ The Local Bar and Grill https://t.co/POO6BSZG9J",
+        "created_at": "2021-08-10T00:53:37.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1424530944669716489",
+        "edit_history_tweet_ids": [
+            "1424530944669716489"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Sunday on the deck\n#cartersville #georgia #livemusic @ The Local Bar and Grill https://t.co/LCHlyJStG9",
+        "created_at": "2021-08-09T00:40:18.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1424516666298445825",
+        "edit_history_tweet_ids": [
+            "1424516666298445825"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Woody and friends on the deck\n#cartersville #georgia #livemusic @ The Local Bar and Grill https://t.co/Nk8LtFHhJo",
+        "created_at": "2021-08-08T23:43:34.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1423476652177305601",
+        "edit_history_tweet_ids": [
+            "1423476652177305601"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Live music Thursday continues\n#livemusic #georgia #cartersville #lucassmith @ The Local Bar and Grill https://t.co/seM7LJbaXA",
+        "created_at": "2021-08-06T02:50:55.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1423109588765790208",
+        "edit_history_tweet_ids": [
+            "1423109588765790208"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Karaoke fun\n#karaoke #georgia #cartersville @ The Local Bar and Grill https://t.co/7VzeiRo23o",
+        "created_at": "2021-08-05T02:32:20.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1423108716623273984",
+        "edit_history_tweet_ids": [
+            "1423108716623273984"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Karaoke fun\n#georgia #cartersville #karaoke @ The Local Bar and Grill https://t.co/ovfYbaKb1G",
+        "created_at": "2021-08-05T02:28:52.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1421678714002317315",
+        "edit_history_tweet_ids": [
+            "1421678714002317315"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "More live music Saturday\n#georgia #livemusic #cartersville #ethansenger @ The Local Bar and Grill https://t.co/3VquLsUlw4",
+        "created_at": "2021-08-01T03:46:33.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1419423534326165518",
+        "edit_history_tweet_ids": [
+            "1419423534326165518"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Woody and Friends.. in the A/C\n#livemusic #cartersville #georgia @ The Local Bar and Grill https://t.co/rcjAw9rITC",
+        "created_at": "2021-07-25T22:25:16.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1419112314767396870",
+        "edit_history_tweet_ids": [
+            "1419112314767396870"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Live music Saturday\n#livemusic #georgia #cartersville #ashleyrae #thelocalbar @ The Local Bar and Grill https://t.co/1N3EJi52fw",
+        "created_at": "2021-07-25T01:48:36.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1418758665708974081",
+        "edit_history_tweet_ids": [
+            "1418758665708974081"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Live music Friday continues\n#livemusic #cartersville #georgia @ The Local Bar and Grill https://t.co/lyztPn3Rl7",
+        "created_at": "2021-07-24T02:23:19.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1418409502098006025",
+        "edit_history_tweet_ids": [
+            "1418409502098006025"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "419830922",
+        "text": "Working at a restaurant feels like being in a weird reality tv show",
+        "created_at": "2021-07-23T03:15:52.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1417282727783567364",
+        "edit_history_tweet_ids": [
+            "1417282727783567364"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Monday night open mic\n#livemusic #georgia #cartersville @ The Local Bar and Grill https://t.co/VVQi1jtXlr",
+        "created_at": "2021-07-20T00:38:28.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1414372191567847426",
+        "edit_history_tweet_ids": [
+            "1414372191567847426"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Sunday on the deck\n#cartersville #georgia #livemusic @ The Local Bar and Grill https://t.co/r3F6DvFQR2",
+        "created_at": "2021-07-11T23:53:02.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1411875116921901057",
+        "edit_history_tweet_ids": [
+            "1411875116921901057"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Snapdragon finishing up music on the deck\n#georgia #cartersville #livemusic @ The Local Bar and Grill https://t.co/aRxyRME12t",
+        "created_at": "2021-07-05T02:30:33.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1411874590142308354",
+        "edit_history_tweet_ids": [
+            "1411874590142308354"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Townsend Drive on the deck\n#livemusic #cartersville #georgia @ The Local Bar and Grill https://t.co/ln31kBFpma",
+        "created_at": "2021-07-05T02:28:28.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1411874181487239169",
+        "edit_history_tweet_ids": [
+            "1411874181487239169"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Sunday on the deck\n#ethansenger #livemusic #cartersville #georgia @ The Local Bar and Grill https://t.co/Dpo2uaEvaa",
+        "created_at": "2021-07-05T02:26:50.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1411541468586692610",
+        "edit_history_tweet_ids": [
+            "1411541468586692610"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Live music Saturday\n#cartersville #georgia #livemusic #woodyearwood @ The Local Bar and Grill https://t.co/mpedxEetu5",
+        "created_at": "2021-07-04T04:24:45.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1411423842992541702",
+        "edit_history_tweet_ids": [
+            "1411423842992541702"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "More live music Friday night\n#carterhorne #livemusic #cartersville #georgia @ The Local Bar and Grill https://t.co/9Bn21SAFdh",
+        "created_at": "2021-07-03T20:37:21.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1406778962336944132",
+        "edit_history_tweet_ids": [
+            "1406778962336944132"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Sunday night on the deck\n#livemusic #cartersville #georgia @ The Local Bar and Grill https://t.co/7Nh4mQfwek",
+        "created_at": "2021-06-21T01:00:15.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1406423334158487552",
+        "edit_history_tweet_ids": [
+            "1406423334158487552"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Rainy Saturday night live music\n#livemusic #georgia #cartersville #ethansenger @ The Local Bar and Grill https://t.co/eRaF5CPx5p",
+        "created_at": "2021-06-20T01:27:07.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1406075564805480456",
+        "edit_history_tweet_ids": [
+            "1406075564805480456"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Friday night live music\n#cartersville #georgia #livemusic @ The Local Bar and Grill https://t.co/HN4SafmGYY",
+        "created_at": "2021-06-19T02:25:12.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1404609590629519360",
+        "edit_history_tweet_ids": [
+            "1404609590629519360"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Open mic Monday\n#cartersville #georgia #openmic #livemusic @ The Local Bar and Grill https://t.co/B45KZXlmmV",
+        "created_at": "2021-06-15T01:19:57.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1404218812019494915",
+        "edit_history_tweet_ids": [
+            "1404218812019494915"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Sunday deck music\n#cartersville #georgia #livemusic @ The Local Bar and Grill https://t.co/XwMhuVqf9I",
+        "created_at": "2021-06-13T23:27:08.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1403898635532840970",
+        "edit_history_tweet_ids": [
+            "1403898635532840970"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Live music Saturday\n#cartersville #georgia #livemusic @drewashworthmusic @ The Local Bar and Grill https://t.co/n7jKilPd6l",
+        "created_at": "2021-06-13T02:14:52.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1403164743465115649",
+        "edit_history_tweet_ids": [
+            "1403164743465115649"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Live music Thursday\n#livemusic #cartersville #georgia #thomashinds @hindsight_musings @ The Local Bar and Grill https://t.co/OEgYm1srKr",
+        "created_at": "2021-06-11T01:38:39.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1401711065377935361",
+        "edit_history_tweet_ids": [
+            "1401711065377935361"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Woody and Friends on a Sunday\n#livemusic #georgia #cartersville @ The Local Bar and Grill https://t.co/ZnhShhc3sh",
+        "created_at": "2021-06-07T01:22:15.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1399160723343917056",
+        "edit_history_tweet_ids": [
+            "1399160723343917056"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Sunday on the deck\n#livemusic #cartersville #georgia @ The Local Bar and Grill https://t.co/vM9RVK2nlk",
+        "created_at": "2021-05-31T00:28:06.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1399150649158287362",
+        "edit_history_tweet_ids": [
+            "1399150649158287362"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "More live music on the deck\n#livemusic #cartersville #georgia @ The Local Bar and Grill https://t.co/bgowj3l7UP",
+        "created_at": "2021-05-30T23:48:04.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1399129055966945286",
+        "edit_history_tweet_ids": [
+            "1399129055966945286"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Sunday on the Deck\n#livemusic #cartersville #georgia @ The Local Bar and Grill https://t.co/5AgaZogjwp",
+        "created_at": "2021-05-30T22:22:16.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1399022566984097796",
+        "edit_history_tweet_ids": [
+            "1399022566984097796"
+        ],
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "419830922",
+        "text": "I hate my boss but he really do be closing the restaurant at random times to give us extra time off on all the holidays",
+        "created_at": "2021-05-30T15:19:07.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1394468029979889671",
+        "edit_history_tweet_ids": [
+            "1394468029979889671"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Open mic continues\n#livemusic #georgia #cartersville @ The Local Bar and Grill https://t.co/hsp2GI2ETI",
+        "created_at": "2021-05-18T01:41:00.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1385420517163737110",
+        "edit_history_tweet_ids": [
+            "1385420517163737110"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Live music Thursday\n#cartersville #georgia #livemusic #thomashinds @ The Local Bar and Grill https://t.co/4BInsx2KVA",
+        "created_at": "2021-04-23T02:29:25.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1383926842915135509",
+        "edit_history_tweet_ids": [
+            "1383926842915135509"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Live music Sunday on the deck\n#livemusic #cartersville #georgia @ The Local Bar and Grill https://t.co/gNB6PetPq8",
+        "created_at": "2021-04-18T23:34:06.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1381588076321968130",
+        "edit_history_tweet_ids": [
+            "1381588076321968130"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "1135883252869345281",
+        "text": "@247Sports Someone post that vid of that blonde girl grinding on him at the bar",
+        "created_at": "2021-04-12T12:40:40.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1367972349165834248",
+        "edit_history_tweet_ids": [
+            "1367972349165834248"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "1229533463272919040",
+        "text": "Shit, I've worked too hard to have a clue who you are\nSet the bar so far above par, we can parlay all day",
+        "created_at": "2021-03-05T22:56:38.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1365775398852788228",
+        "edit_history_tweet_ids": [
+            "1365775398852788228"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.7956,
+                    34.1669
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "20921924",
+        "text": "Drinking a High &amp; Hazy by @TerrapinBeerCo @ Ate Track Bar &amp; Grill \u2014 https://t.co/R8Hsa1i6vz",
+        "created_at": "2021-02-27T21:26:44.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1365110364682207232",
+        "edit_history_tweet_ids": [
+            "1365110364682207232"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "26392145",
+        "text": "I just had Ric Flair &amp; the producer of the new season of Bad Girls Club sitting at my bar. at the same time. \ud83e\udd2f",
+        "created_at": "2021-02-26T01:24:08.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1355932926551199747",
+        "edit_history_tweet_ids": [
+            "1355932926551199747"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "1649319462",
+        "text": "man, i love working in a sports bar. i legit look forward to going to work every day. 75% of my customers are regulars &amp; i\u2019ve met so many cool, down to earth people that treat me like family. doesn\u2019t get any better than this. i\u2019m right where i need to be right now. \ud83e\udd70",
+        "created_at": "2021-01-31T17:36:16.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1355538713388978182",
+        "edit_history_tweet_ids": [
+            "1355538713388978182"
+        ],
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 12,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "1649319462",
+        "text": "......have u never worked in a restaurant? there\u2019s no way y\u2019all are this stupid https://t.co/28EGKVaF3H",
+        "created_at": "2021-01-30T15:29:48.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1351463922465865730",
+        "edit_history_tweet_ids": [
+            "1351463922465865730"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.7999382,
+                    34.1650972
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "22875075",
+        "text": "Want to land a job like \"General Manager\" at Five Guys? Applicant tracking systems look for specific keywords. Use the right keywords and get your resume in front of the hiring manager. #Restaurant #GM",
+        "created_at": "2021-01-19T09:38:02.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1351315018562867206",
+        "edit_history_tweet_ids": [
+            "1351315018562867206"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "35221974",
+        "text": "@AOC Looking forward to going to a bar and singing karoakee",
+        "created_at": "2021-01-18T23:46:21.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1343155205332848653",
+        "edit_history_tweet_ids": [
+            "1343155205332848653"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.7999382,
+                    34.1650972
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "22875075",
+        "text": "Five Guys is hiring in Cartersville, GA! Click the link in our bio to apply: Shift Manager #Restaurant #Manager",
+        "created_at": "2020-12-27T11:22:10.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1338970470012620800",
+        "edit_history_tweet_ids": [
+            "1338970470012620800"
+        ],
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "156882503",
+        "text": "Issa whole lotta black folks passing the bar... https://t.co/SwLezDH1jV",
+        "created_at": "2020-12-15T22:13:31.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1338877314013274112",
+        "edit_history_tweet_ids": [
+            "1338877314013274112"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "234276434",
+        "text": "I\u2019m one of the most laid back niggas in the club/lounge/bar scene. But if you want to turn up one time and get going tell the DJ play that jugg king one time and it\u2019s OV. Scooter was going crazy on that mf, just ask my nigga @TwoShainz bout it.",
+        "created_at": "2020-12-15T16:03:21.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1335876085481816064",
+        "edit_history_tweet_ids": [
+            "1335876085481816064"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.7999382,
+                    34.1650972
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "22875075",
+        "text": "Career tip for landing jobs like \"Shift Lead\" in Cartersville, GA. Go on informational interviews. The best way to get a meeting with a hiring manager is to ask for an informational meeting. #Restaurant #ShiftLeader",
+        "created_at": "2020-12-07T09:17:32.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1333750779254026240",
+        "edit_history_tweet_ids": [
+            "1333750779254026240"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "796921734863667200",
+        "text": "Of this whole belongs to the same BarAssoc as  Bull Barr he will feted at the next Bar quarterly mtg. \nIt pains me as a retired lawyer to witness the PERFIDY of the one group assigned responsibility for certifying trustworthiness of the practicing of attorneys https://t.co/dkvhe2kc64",
+        "created_at": "2020-12-01T12:32:20.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1328904119034241025",
+        "edit_history_tweet_ids": [
+            "1328904119034241025"
+        ],
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "796921734863667200",
+        "text": "Trump fired the guy  in charge of exposing lies and false rumors.\nAttack on Detroit ballots. Thwarted by media exposure\nGA Repug AG says NO to Lindsey and gets death threats \nDT threatens to bomb Iran\nRudy suspended by DC Bar 4 not paying dues\nAnd it is only Tuesday night https://t.co/yNh6mqrCws",
+        "created_at": "2020-11-18T03:33:26.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1328415026693222400",
+        "edit_history_tweet_ids": [
+            "1328415026693222400"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "796921734863667200",
+        "text": "It would appear that many lawers are concerned about their Bar Assoc. status as  their ethics  in filing frivolous lawsuits comes inder scrutiny. https://t.co/DDJ49ta9Fu",
+        "created_at": "2020-11-16T19:09:57.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1327218785565233152",
+        "edit_history_tweet_ids": [
+            "1327218785565233152"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "796921734863667200",
+        "text": "Going to law school and passing.the bar are 2 different things to say nothing of the ethics part https://t.co/Wb9QvfNoJ9",
+        "created_at": "2020-11-13T11:56:31.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1326868444994793472",
+        "edit_history_tweet_ids": [
+            "1326868444994793472"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.78433946,
+                    34.17071874
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "359637481",
+        "text": "Just posted a video @ Applebee's Grill + Bar https://t.co/HQ7Nyv8trr",
+        "created_at": "2020-11-12T12:44:23.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1326116588848812040",
+        "edit_history_tweet_ids": [
+            "1326116588848812040"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "796921734863667200",
+        "text": "What possible excuse is Barr's Bar association ising for their failute to disbar?\nAnyone have a clue. https://t.co/B0K5lbr0en",
+        "created_at": "2020-11-10T10:56:47.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1325108542416826370",
+        "edit_history_tweet_ids": [
+            "1325108542416826370"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.78433946,
+                    34.17071874
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "author_id": "359637481",
+        "text": "Another fun night @ Applebee's Grill + Bar https://t.co/V23KKutKS5",
+        "created_at": "2020-11-07T16:11:10.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1321104476346994689",
+        "edit_history_tweet_ids": [
+            "1321104476346994689"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "144900576",
+        "text": "I remember 7th grade my boy Khalid got pushed in the Cafe line, bruh turned around ain\u2019t even look- stole off on me while I was reachin for the cheesecake \ud83d\ude02then he wanna act mad cause he ain\u2019t get to eat, bruh ain\u2019t nobody tell u to swing at innocent bystanders. I\u2019m tryna grub\ud83d\ude02",
+        "created_at": "2020-10-27T15:00:26.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1319349640316260353",
+        "edit_history_tweet_ids": [
+            "1319349640316260353"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "796921734863667200",
+        "text": "House and senate will be sworn in on Jan 3. Between then &amp; Jan 20 it will be katie bar the door https://t.co/jiQf4iBuzh",
+        "created_at": "2020-10-22T18:47:21.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1314725716056039426",
+        "edit_history_tweet_ids": [
+            "1314725716056039426"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "0fc3a44fda95b000"
+        },
+        "author_id": "1035065983",
+        "text": "It\u2019s so dead at this bar",
+        "created_at": "2020-10-10T00:33:31.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1311041588282437632",
+        "edit_history_tweet_ids": [
+            "1311041588282437632"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "305613705",
+        "text": "I want to watch the presidential debate...I wonder will the bar be playing it",
+        "created_at": "2020-09-29T20:34:07.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1310635047213391872",
+        "edit_history_tweet_ids": [
+            "1310635047213391872"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 1
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "305613705",
+        "text": "Just found this restaurant near me with crab cakes, stuffed oysters, and shrimp &amp; grits! This is dangerous",
+        "created_at": "2020-09-28T17:38:40.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1309901451293057025",
+        "edit_history_tweet_ids": [
+            "1309901451293057025"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "796921734863667200",
+        "text": "I have asked this and been \nTold that hundreds or complaints have been filed but no action has appeared.  Does anyone know what Bar he is a member of? https://t.co/K4fTqGDFMP",
+        "created_at": "2020-09-26T17:03:37.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1308839756063744002",
+        "edit_history_tweet_ids": [
+            "1308839756063744002"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "618233311",
+        "text": "The @bears just set the bar for how to build relationships at the college level. https://t.co/W2TRUsCuwA",
+        "created_at": "2020-09-23T18:44:49.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1304917895420542979",
+        "edit_history_tweet_ids": [
+            "1304917895420542979"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79546,
+                    34.16689
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "2276188481",
+        "text": "Our fav preggo people @ Ate Track Bar &amp; Grill https://t.co/VZASj7Ha5m",
+        "created_at": "2020-09-12T23:00:45.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1303032811939672070",
+        "edit_history_tweet_ids": [
+            "1303032811939672070"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.81410267,
+                    34.13797052
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "1960952780",
+        "text": "It was a  cool morning to be outside...my body was my gym...as it is most days, even at my gym, most of my workouts are bodyweight focused. #parkworkout\n#chesttobarpullups  \n#\n10rds. \n5 bar pull-ups, 20 bw\u2026 https://t.co/jyAoJSoQ1q",
+        "created_at": "2020-09-07T18:10:06.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1302320270770929666",
+        "edit_history_tweet_ids": [
+            "1302320270770929666"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.7962,
+                    34.1669
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "224457949",
+        "text": "Some sweets for the weekend! No, we did not buy one of each, but I was tempted! Agan's Bakery! @ Cartersville, Georgia https://t.co/MKbuJ5SkEZ",
+        "created_at": "2020-09-05T18:58:43.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1292512836430770176",
+        "edit_history_tweet_ids": [
+            "1292512836430770176"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "1060363540463341568",
+        "text": "I need Douglasville to build a tropical smoothie cafe I love this place !!!!",
+        "created_at": "2020-08-09T17:27:28.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1274871504052895750",
+        "edit_history_tweet_ids": [
+            "1274871504052895750"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "1043960368559783936",
+        "text": "@amourdaii Idk when I\u2019m eat in a restaurant again",
+        "created_at": "2020-06-22T01:07:07.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1270486507464384513",
+        "edit_history_tweet_ids": [
+            "1270486507464384513"
+        ],
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 15,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "1173586908",
+        "text": "@Fazolis outstanding customer service!! At the New restaurant in Cartersville and the Manager is walking people out to their cars in the pouring rain. Way to go!!! https://t.co/CPFEc8ORFU",
+        "created_at": "2020-06-09T22:42:42.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1259333147696775169",
+        "edit_history_tweet_ids": [
+            "1259333147696775169"
+        ],
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "796921734863667200",
+        "text": "Bill's. About referral to his bar to investigate using someone else's ID. https://t.co/FhfgghqKb6",
+        "created_at": "2020-05-10T04:03:14.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1256168878213865472",
+        "edit_history_tweet_ids": [
+            "1256168878213865472"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "491853041",
+        "text": "la hierba es mi cafe \ud83d\udca8",
+        "created_at": "2020-05-01T10:29:33.000Z",
+        "lang": "es"
+    },
+    {
+        "id": "1249883159296081926",
+        "edit_history_tweet_ids": [
+            "1249883159296081926"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "3530961135",
+        "text": "Can ATL get it? I still go once but if it in GA I'll go often so where it gonna be at? \n\nhttps://t.co/peqBN8hHXo",
+        "created_at": "2020-04-14T02:12:21.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1245795423555670016",
+        "edit_history_tweet_ids": [
+            "1245795423555670016"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79492,
+                    34.16567
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "21681378",
+        "text": "Yesterday, we delivered meals from @jessicashore_ to families from our RISE and Hope in Your Home programs thanks to peche_beauty_bar who graciously donated money for food to Table 20. We cannot thank our local\u2026 https://t.co/gkyzOIJg2e",
+        "created_at": "2020-04-02T19:29:09.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1245255051628724225",
+        "edit_history_tweet_ids": [
+            "1245255051628724225"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "796921734863667200",
+        "text": "I question if there is a bar low enough.  He will need to dig it to China. https://t.co/T2qNW8TWp2",
+        "created_at": "2020-04-01T07:41:54.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1240424414824497157",
+        "edit_history_tweet_ids": [
+            "1240424414824497157"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79546,
+                    34.16689
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "278815908",
+        "text": "#supportlocal @ Ate Track Bar &amp; Grill https://t.co/0pH9mVBlS5",
+        "created_at": "2020-03-18T23:46:41.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1239713364034625539",
+        "edit_history_tweet_ids": [
+            "1239713364034625539"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Open Mic night\n#georgia #livemusic #cartersville #localbarandgrill @ The Local Bar and Grill https://t.co/hHz5XsOoxt",
+        "created_at": "2020-03-17T00:41:13.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1239222939280523264",
+        "edit_history_tweet_ids": [
+            "1239222939280523264"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.7962,
+                    34.1669
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Virus panic.... empty restaurant..\nSupport local business and their employees\n#georgia #cartersville #wafflehouse @ Cartersville, Georgia https://t.co/7pwwEyFRMj",
+        "created_at": "2020-03-15T16:12:27.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1233971315939454976",
+        "edit_history_tweet_ids": [
+            "1233971315939454976"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79634,
+                    34.16417
+                ]
+            },
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Live music Saturday night\n#cartersville #georgia #localbarandgrill @ The Local Bar and Grill https://t.co/VHVR9eBiRW",
+        "created_at": "2020-03-01T04:24:22.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1233864059524612097",
+        "edit_history_tweet_ids": [
+            "1233864059524612097"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "450019822",
+        "text": "I was today years old when I found out that Shoneys wasn\u2019t a restaurant that Rick and Morty just made up.",
+        "created_at": "2020-02-29T21:18:10.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1230555237095792640",
+        "edit_history_tweet_ids": [
+            "1230555237095792640"
+        ],
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "796921734863667200",
+        "text": "They must have gotten my message.2 days ago I opined that Barr's behavior put him in immediate danger of disbarment from practicing law probably making him ineligible to be AG. This is usually controlled totally by the bar and not political https://t.co/u03w1OM8vK",
+        "created_at": "2020-02-20T18:10:05.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1229970983924248581",
+        "edit_history_tweet_ids": [
+            "1229970983924248581"
+        ],
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "796921734863667200",
+        "text": "Barr has said he might resign\n Perhaps someone has explained to Barr that he 's so far over the line that he is in serious disbarment territory. The 2000 signatures was just fair warning. Lawyers actually are required to report this to the bar. https://t.co/S68752jOOC",
+        "created_at": "2020-02-19T03:28:28.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1229243322331521024",
+        "edit_history_tweet_ids": [
+            "1229243322331521024"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "3530961135",
+        "text": "Tha OG @50cent just said on tha #BreakfastClub @NickCannon is Legendary Corny. As a rap artist. N he would never respond to a Nick record. \ud83e\udd23\ud83e\udd23\ud83e\udd23. fif  just said what we was all thinking. Em won n spit not one bar. How u react when u realize Nick only beat Nick \ud83d\ude02\ud83d\udc47 https://t.co/tksOLvOyHM",
+        "created_at": "2020-02-17T03:17:00.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1225942921955901441",
+        "edit_history_tweet_ids": [
+            "1225942921955901441"
+        ],
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 4,
+            "like_count": 29,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "983422753779961857",
+        "text": "Going to a bar with live music is just hanging out with your friends and yelling back and forth at each other pretending they know what everyone is saying.",
+        "created_at": "2020-02-08T00:42:24.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1223170968966828032",
+        "edit_history_tweet_ids": [
+            "1223170968966828032"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "796921734863667200",
+        "text": "Walter\n\n i am puzzled.\n\n Is the famous bar codified somewhere. \n\nIt must be very high indeed . \n\nI did not study it in law school\n\n Have u seen it . \n\nI do not want to walk into it and get hurt\n\nCan u describe it for me.\n\nIs there am ethical code on its use\n\nHelp\nPat https://t.co/KHL6xyZVjg",
+        "created_at": "2020-01-31T09:07:39.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1221874090417557504",
+        "edit_history_tweet_ids": [
+            "1221874090417557504"
+        ],
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 17,
+            "quote_count": 1
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "312425296",
+        "text": "While we\u2019re yelling at parents to vaccinate their kids, can we also remind them to beat their little shits when they do shit like scream at the top of their lungs inside a restaurant?",
+        "created_at": "2020-01-27T19:14:19.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1220947898105573376",
+        "edit_history_tweet_ids": [
+            "1220947898105573376"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "3530961135",
+        "text": "I ain't no Stan but @Eminem a gotdamned genus. He definitely underappreciated by the music industry n community. I feel like he a modern fuckin Leonardo DaVinci or Michaelangelo when u talk the art of rap. His lyrical ability to paint portraits is bar none. I can't wait for #BME2 https://t.co/xW0HUeSy58",
+        "created_at": "2020-01-25T05:53:57.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1218259694877401088",
+        "edit_history_tweet_ids": [
+            "1218259694877401088"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "2973016363",
+        "text": "I WAS AT A RESTAURANT \ud83d\udc80 https://t.co/kNoM6l5Zaq",
+        "created_at": "2020-01-17T19:52:00.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1213988626675257344",
+        "edit_history_tweet_ids": [
+            "1213988626675257344"
+        ],
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 3,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "652dcd4f43adb5b5"
+        },
+        "author_id": "50877071",
+        "text": "@DoorDash order canceled twice with no explanation.  Terrible customer service.  Went to @Postmates and they had listed \u201crestaurant too busy\u201d. Which is fine. Why would @DoorDash allow you to order to only cancel it? https://t.co/YeCdGAtXoC",
+        "created_at": "2020-01-06T01:00:18.000Z",
+        "lang": "en"
+    }
+]

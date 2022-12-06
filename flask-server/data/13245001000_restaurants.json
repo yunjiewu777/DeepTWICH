@@ -1,0 +1,2574 @@
+[
+    {
+        "edit_history_tweet_ids": [
+            "1514390000783273987"
+        ],
+        "text": "Drinking an Erin Go Braugh by @JekyllBrewing @ Boll Weevil Cafe &amp; Sweetery \u2014 https://t.co/yC7iTigb8t",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.9661865,
+                    33.4780846
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2022-04-13T23:48:06.000Z",
+        "author_id": "369541764",
+        "id": "1514390000783273987"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1514389497173233669"
+        ],
+        "text": "Drinking a Sweet Plum &amp; Cranberry Sour by @Columbia_Craft @ Boll Weevil Cafe &amp; Sweetery \u2014 https://t.co/TIJ1CnxpsY",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.9661865,
+                    33.4780846
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "created_at": "2022-04-13T23:46:06.000Z",
+        "author_id": "369541764",
+        "id": "1514389497173233669"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1512554335493922818"
+        ],
+        "text": "The Masters may not have the Peach Ice Cream Sandwiches, but Vance\u2019s does!! Peach Tea Vodka infused Sugar Cookies with Peach Ice Cream!!   So good!! Yum!! \ud83c\udf51\ud83d\ude0b @ Vance\u2019s Bakery Bar https://t.co/rlgmD6Bduk",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.9672876,
+                    33.4764548
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2022-04-08T22:13:50.000Z",
+        "author_id": "827520132",
+        "id": "1512554335493922818"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1509719561251209227"
+        ],
+        "text": "Round 2!! @ Bar On Broad https://t.co/PGMKm7pcH2",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96781,
+                    33.47661
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2022-04-01T02:29:27.000Z",
+        "author_id": "66673794",
+        "id": "1509719561251209227"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1499615601148497922"
+        ],
+        "text": "Just posted a photo @ Studio Neighborhood Bar https://t.co/v6Shio5d9v",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.97206259,
+                    33.47465905
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2022-03-04T05:19:55.000Z",
+        "author_id": "66673794",
+        "id": "1499615601148497922"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1489383135028596739"
+        ],
+        "text": "I'm at Whiskey Bar (Kitchen) in Augusta, GA w/ @whiskeydragon1 @megarush1024 https://t.co/F6JUlY43Lk",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.97101994,
+                    33.47697659
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2022-02-03T23:39:45.000Z",
+        "author_id": "11867632",
+        "id": "1489383135028596739"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1488957316603039747"
+        ],
+        "text": "Just posted a photo @ The New Moon Cafe https://t.co/WY6l4kwz1v",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96870761,
+                    33.47589094
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2022-02-02T19:27:42.000Z",
+        "author_id": "104762048",
+        "id": "1488957316603039747"
+    },
+    {
+        "edit_history_tweet_ids": [
+            "1478898292905889796"
+        ],
+        "text": "Just posted a photo @ Abel Brown Southern Kitchen &amp; Oyster Bar https://t.co/ASYLcLZUGJ",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.03131184,
+                    33.4859676
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2022-01-06T01:16:44.000Z",
+        "author_id": "29832358",
+        "id": "1478898292905889796"
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96781,
+                    33.47661
+                ]
+            }
+        },
+        "lang": "en",
+        "created_at": "2021-12-04T06:29:11.000Z",
+        "text": "Round 3!! @ Bar On Broad https://t.co/B3Lg9SSjRo",
+        "edit_history_tweet_ids": [
+            "1467018126047027202"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1467018126047027202"
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.97206259,
+                    33.47465905
+                ]
+            }
+        },
+        "lang": "en",
+        "created_at": "2021-11-21T15:45:30.000Z",
+        "text": "Just posted a photo @ Studio Neighborhood Bar https://t.co/wjDZSY8rgu",
+        "edit_history_tweet_ids": [
+            "1462447082862743566"
+        ],
+        "author_id": "3874758261",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1462447082862743566"
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.03131184,
+                    33.4859676
+                ]
+            }
+        },
+        "lang": "en",
+        "created_at": "2021-11-09T23:52:27.000Z",
+        "text": "@abelbrownaugusta always FABULOUS!!! Pre-concert amazement!!! @ Abel Brown Southern Kitchen &amp; Oyster Bar https://t.co/OXfxhLNHL9",
+        "edit_history_tweet_ids": [
+            "1458220974432718856"
+        ],
+        "author_id": "249983596",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1458220974432718856"
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.0067,
+                    33.4479
+                ]
+            }
+        },
+        "lang": "en",
+        "created_at": "2021-10-20T23:08:08.000Z",
+        "text": "NBA 2K Tournament\u2757Sunday November7th, at Primetime Bar &amp; Grill. Sign-Up starts now. Good luck to all! @ Augusta, Georgia https://t.co/77OWahsfLF",
+        "edit_history_tweet_ids": [
+            "1450962064483180544"
+        ],
+        "author_id": "44730928",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1450962064483180544"
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96433,
+                    33.47442
+                ]
+            }
+        },
+        "lang": "en",
+        "created_at": "2021-09-12T04:13:37.000Z",
+        "text": "Just posted a video @ Ice Lounge &amp; Restaurant https://t.co/UfQJJatDqT",
+        "edit_history_tweet_ids": [
+            "1436905817614307335"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1436905817614307335"
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96433,
+                    33.47442
+                ]
+            }
+        },
+        "lang": "en",
+        "created_at": "2021-09-12T02:47:54.000Z",
+        "text": "Round 2!! @ Ice Lounge &amp; Restaurant https://t.co/S4Dxv0ZCTf",
+        "edit_history_tweet_ids": [
+            "1436884245419487237"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1436884245419487237"
+    },
+    {
+        "geo": {
+            "place_id": "0fc29d1bb515e000"
+        },
+        "lang": "en",
+        "created_at": "2021-09-09T20:34:59.000Z",
+        "text": "Pitcher...$5.75\nBartender....sassy\nRainy day....Riverfront Pub\n\nAugusta's Oldest Sport's Bar\n\n#DowntownAugusta #VisitAugusta \n#keepaugustafunky #Augusta \n#RiverFrontPub https://t.co/DIW3mFswyK",
+        "edit_history_tweet_ids": [
+            "1436065619259101184"
+        ],
+        "author_id": "1038531162124238849",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1436065619259101184"
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96433,
+                    33.47442
+                ]
+            }
+        },
+        "lang": "en",
+        "created_at": "2021-08-20T02:27:00.000Z",
+        "text": "Round 2! @ Ice Lounge &amp; Restaurant https://t.co/mZ7oNfaHAe",
+        "edit_history_tweet_ids": [
+            "1428544062190149633"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1428544062190149633"
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96433,
+                    33.47442
+                ]
+            }
+        },
+        "lang": "en",
+        "created_at": "2021-08-13T01:25:43.000Z",
+        "text": "Round 2!! @ Ice Lounge &amp; Restaurant https://t.co/9TPW9uuEYV",
+        "edit_history_tweet_ids": [
+            "1425991924629053440"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1425991924629053440"
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96433,
+                    33.47442
+                ]
+            }
+        },
+        "lang": "en",
+        "created_at": "2021-07-22T23:50:13.000Z",
+        "text": "Let's get it started.. @ Ice Lounge &amp; Restaurant https://t.co/v6lSbqoFX2",
+        "edit_history_tweet_ids": [
+            "1418357747708567552"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1418357747708567552"
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96781,
+                    33.47661
+                ]
+            }
+        },
+        "author_id": "66673794",
+        "lang": "en",
+        "id": "1416743627305459712",
+        "created_at": "2021-07-18T12:56:17.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "\ud83d\ude0a @ Bar On Broad https://t.co/rLIP9IqdB3",
+        "edit_history_tweet_ids": [
+            "1416743627305459712"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.9672876,
+                    33.4764548
+                ]
+            }
+        },
+        "author_id": "41023179",
+        "lang": "en",
+        "id": "1414341053390393345",
+        "created_at": "2021-07-11T21:49:18.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Vance\u2019s Bakery Bar https://t.co/9EBrO2fCcA",
+        "edit_history_tweet_ids": [
+            "1414341053390393345"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "11086d624d146000"
+        },
+        "author_id": "115795305",
+        "lang": "en",
+        "id": "1414069080563269637",
+        "created_at": "2021-07-11T03:48:35.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 13,
+            "quote_count": 0
+        },
+        "text": "This bitch at this bar cannot bartend I\u2019m finna clock in",
+        "edit_history_tweet_ids": [
+            "1414069080563269637"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "07d9db8d9f480001"
+        },
+        "author_id": "22134757",
+        "lang": "en",
+        "id": "1414011429213151236",
+        "created_at": "2021-07-10T23:59:30.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "Dinner at the Boll Weevil restaurant https://t.co/I1HQTCLXJj",
+        "edit_history_tweet_ids": [
+            "1414011429213151236"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96433,
+                    33.47442
+                ]
+            }
+        },
+        "author_id": "66673794",
+        "lang": "en",
+        "id": "1413692236458561538",
+        "created_at": "2021-07-10T02:51:08.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Round 2!! @ Ice Lounge &amp; Restaurant https://t.co/ahHKWHbUQZ",
+        "edit_history_tweet_ids": [
+            "1413692236458561538"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96870761,
+                    33.47589094
+                ]
+            }
+        },
+        "author_id": "104762048",
+        "lang": "en",
+        "id": "1412828279246049290",
+        "created_at": "2021-07-07T17:38:05.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "YWB Health Recovery Plan\n\n So today's lunch is zucchini, bacon, and cream cheese soup.\n Will my weight return?\n.\n.\n.\n#healthrecoveryplan #weight #return #yummysoup #ywb @ The New Moon Cafe https://t.co/IdylOHNunV",
+        "edit_history_tweet_ids": [
+            "1412828279246049290"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.0018399,
+                    33.47543052
+                ]
+            }
+        },
+        "author_id": "104762048",
+        "lang": "en",
+        "id": "1412472638778351618",
+        "created_at": "2021-07-06T18:04:54.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "Hola beautiful people!\nLunchtime Margarita \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\n.\n.\n.\n#hola #holabeautifulpeople #margarita #mexicanfood #love #peace #iloveyou @ Los Cabos Bar and Grill, Augusta, GA https://t.co/R5sKyUnBXm",
+        "edit_history_tweet_ids": [
+            "1412472638778351618"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.01002214,
+                    33.47541018
+                ]
+            }
+        },
+        "author_id": "24529122",
+        "lang": "en",
+        "id": "1407485042541137921",
+        "created_at": "2021-06-22T23:45:58.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "I'm at Partridge Inn - P.I. Bar and Grill in Augusta, GA https://t.co/22bB2LOwJL",
+        "edit_history_tweet_ids": [
+            "1407485042541137921"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.9661865,
+                    33.4780846
+                ]
+            }
+        },
+        "author_id": "4874201819",
+        "lang": "en",
+        "id": "1406421491458117635",
+        "created_at": "2021-06-20T01:19:48.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "Lightly fruity, with a traditional creamy milkshake style finish. I'd probably duck out again if the mood struck. - Drinking a Strawberry Dream by @stbcbeer @ Boll Weevil Cafe &amp; Sweetery  \u2014 https://t.co/dK6QiXhbpn",
+        "edit_history_tweet_ids": [
+            "1406421491458117635"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.0067,
+                    33.4479
+                ]
+            }
+        },
+        "author_id": "953822116335509504",
+        "lang": "en",
+        "id": "1402808987679068162",
+        "created_at": "2021-06-10T02:05:00.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "My buddy Sefk came down and we enjoyed Rhinehart\u2019s Oyster Bar @ Augusta, Georgia https://t.co/yrmUgUAmXU",
+        "edit_history_tweet_ids": [
+            "1402808987679068162"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.01002214,
+                    33.47541018
+                ]
+            }
+        },
+        "author_id": "24529122",
+        "lang": "en",
+        "id": "1402414977991036929",
+        "created_at": "2021-06-08T23:59:21.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "I'm at Partridge Inn - P.I. Bar and Grill in Augusta, GA https://t.co/DBEOUJOTpQ",
+        "edit_history_tweet_ids": [
+            "1402414977991036929"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.97206259,
+                    33.47465905
+                ]
+            }
+        },
+        "author_id": "20968946",
+        "lang": "en",
+        "id": "1399376910346555392",
+        "created_at": "2021-05-31T14:47:09.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Studio Neighborhood Bar https://t.co/con0cCdh4B",
+        "edit_history_tweet_ids": [
+            "1399376910346555392"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.9661865,
+                    33.4780846
+                ]
+            }
+        },
+        "author_id": "546371595",
+        "lang": "en",
+        "id": "1398097649446830083",
+        "created_at": "2021-05-28T02:03:49.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Nope. - Drinking a Carob-Mel Sutra by @DuClawBrewing @ Boll Weevil Cafe &amp; Sweetery  \u2014 https://t.co/LBALMabqbe",
+        "edit_history_tweet_ids": [
+            "1398097649446830083"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96967,
+                    33.47628
+                ]
+            }
+        },
+        "author_id": "140653662",
+        "lang": "en",
+        "id": "1397882810510229505",
+        "created_at": "2021-05-27T11:50:08.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "I will be at Soul Bar in downtown Augusta with some of the CSRAs finest on June 1st...Come laugh with us! @ SoulBarAugusta https://t.co/Al7t7Uksne",
+        "edit_history_tweet_ids": [
+            "1397882810510229505"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.0018399,
+                    33.47543052
+                ]
+            }
+        },
+        "author_id": "104762048",
+        "lang": "en",
+        "id": "1397167227791712258",
+        "created_at": "2021-05-25T12:26:39.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Los Cabos Bar and Grill, Augusta, GA https://t.co/Hk2rmFYlZ0",
+        "edit_history_tweet_ids": [
+            "1397167227791712258"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.97099592,
+                    33.47687921
+                ]
+            }
+        },
+        "author_id": "104762048",
+        "lang": "en",
+        "id": "1393635769940590600",
+        "created_at": "2021-05-15T18:33:54.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Whiskey Bar Kitchen https://t.co/uFtfa2YpcK",
+        "edit_history_tweet_ids": [
+            "1393635769940590600"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96627,
+                    33.47412
+                ]
+            }
+        },
+        "author_id": "336858324",
+        "lang": "en",
+        "id": "1393193452037312512",
+        "created_at": "2021-05-14T13:16:17.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "If you visit Augusta and don\u2019t stop by the wonderful, all-vegan Humanitree House cafe in downtown to feast upon their mouthwatering UnPhilly sandwich, you\u2019ve made a big mistake. @ Humanitree House https://t.co/YzyNYCQHyy",
+        "edit_history_tweet_ids": [
+            "1393193452037312512"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.01002214,
+                    33.47541018
+                ]
+            }
+        },
+        "author_id": "24529122",
+        "lang": "en",
+        "id": "1390450204076294145",
+        "created_at": "2021-05-06T23:35:36.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "I'm at Partridge Inn - P.I. Bar and Grill in Augusta, GA https://t.co/56BCBByyPS",
+        "edit_history_tweet_ids": [
+            "1390450204076294145"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.9672876,
+                    33.4764548
+                ]
+            }
+        },
+        "author_id": "827520132",
+        "lang": "en",
+        "id": "1388679595273162755",
+        "created_at": "2021-05-02T02:19:50.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Founder\u2019s Godiva Martini with The Godfather and Beau Jack &amp; Coke cupcakes!! Yes!! \ud83e\udd43\ud83c\udf6b\ud83e\uddc1\ud83c\udf78 @ Vance\u2019s Bakery Bar https://t.co/sgcGyXL5lF",
+        "edit_history_tweet_ids": [
+            "1388679595273162755"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96646425,
+                    33.47740941
+                ]
+            }
+        },
+        "author_id": "827520132",
+        "lang": "en",
+        "id": "1388649947738824704",
+        "created_at": "2021-05-02T00:22:02.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Birthday Shenanigans are in full effect!! Savannah River Brewery Tour \u2714\ufe0f , Dinner @ Beamie\u2019s \u2714\ufe0f, on to to Vance\u2019s Bakery Bar next!! \ud83e\udd73\ud83e\udd18\ud83c\udffb\ud83c\udf7b\ud83c\udf82 Happy Birthday to us!! @ Beamie's At The River https://t.co/HrOeSDbJXU",
+        "edit_history_tweet_ids": [
+            "1388649947738824704"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.97107218,
+                    33.47682028
+                ]
+            }
+        },
+        "author_id": "104762048",
+        "lang": "ja",
+        "id": "1387889879347077120",
+        "created_at": "2021-04-29T22:01:47.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "\u3084\u3063\u3071\u3001\u98f2\u3080\u3057\u304b\u306a\u3044\u3063\u3057\u3087\u3002\n\nAfter all, there is no choice but to drink.\n.\n.\n.\n#drink #drunk #alcohol #beer #bar #metroacoffeehouse #augustaga #nocode #ywb @ Metro A Coffeehouse https://t.co/eoHTeoOm8V",
+        "edit_history_tweet_ids": [
+            "1387889879347077120"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.0067,
+                    33.4479
+                ]
+            }
+        },
+        "author_id": "2693865277",
+        "lang": "en",
+        "id": "1385779370359365632",
+        "created_at": "2021-04-24T02:15:23.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "On my way to the bar to do some karaoke.  Let's Go to the fish bowl... @ Augusta, Georgia https://t.co/txlyWOGkse",
+        "edit_history_tweet_ids": [
+            "1385779370359365632"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.01002214,
+                    33.47541018
+                ]
+            }
+        },
+        "author_id": "24529122",
+        "lang": "en",
+        "id": "1385053154153271301",
+        "created_at": "2021-04-22T02:09:39.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "I'm at Partridge Inn - P.I. Bar and Grill in Augusta, GA w/ @betsycarver https://t.co/nnpiRiawEP",
+        "edit_history_tweet_ids": [
+            "1385053154153271301"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.97191,
+                    33.48004
+                ]
+            }
+        },
+        "author_id": "104762048",
+        "lang": "en",
+        "id": "1381992246082293765",
+        "created_at": "2021-04-13T15:26:42.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "text": "I checked in @gacybercenter \nIt's the first time visit here. It's good to stay and good for work.\n.\n.\n.\n#georgiacybercenter #nocode #ywb #cafe #greentea #work #seekrealestate #happytuesday #lifeinaugustaga https://t.co/mss4Dx8FkC",
+        "edit_history_tweet_ids": [
+            "1381992246082293765"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.97177827,
+                    33.47822077
+                ]
+            }
+        },
+        "author_id": "104762048",
+        "lang": "en",
+        "id": "1381958484204339202",
+        "created_at": "2021-04-13T13:12:32.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "Good morning beautiful people.\n.\n.\n.\n#goodmorningbeautifulpeople #goodvibes #cafe #uboracoffeeroasters #nocode #ywb #violet #venus @ Ubora Coffee Roasters https://t.co/djHtSM37fe",
+        "edit_history_tweet_ids": [
+            "1381958484204339202"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.97177827,
+                    33.47822077
+                ]
+            }
+        },
+        "author_id": "104762048",
+        "lang": "en",
+        "id": "1380150864527040515",
+        "created_at": "2021-04-08T13:29:42.000Z",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "text": "Good morning beautiful people.\nI got a 15% off coffee this morning.\nThank you @uboracoffeeroasters \n.\n.\n.\n#uboracoffeeroasters #augustaga #nocode #ywb #goodmorningbeautifulpeople #goodvibes #cafe #darkcoffee https://t.co/RX1AZp1iy1",
+        "edit_history_tweet_ids": [
+            "1380150864527040515"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.97177827,
+                    33.47822077
+                ]
+            }
+        },
+        "author_id": "104762048",
+        "lang": "en",
+        "id": "1379844013482778626",
+        "created_at": "2021-04-07T17:10:23.000Z",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "text": "I checked in @uboracoffeeroasters \nHmmm, good coffee!\nIt's a good place to work on my task.\n.\n.\n.\n#uboracoffeeroasters #cafe #coffee #goodcoffee #nocode #ywb @ Ubora Coffee Roasters https://t.co/09gbLGxp1C",
+        "edit_history_tweet_ids": [
+            "1379844013482778626"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96157914,
+                    33.47358432
+                ]
+            }
+        },
+        "author_id": "104762048",
+        "lang": "en",
+        "id": "1377350128563060738",
+        "created_at": "2021-03-31T20:00:35.000Z",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "Finally, I found my favorite bar!\nHmmm, it was tasty beer especially after walk a lot in warm weather.\n.\n.\n.\n#myfavorirebar #beer #burger #baddie #happywednesday #cheers #nocode #ywb @ the sports center https://t.co/1KSxOVHqGa",
+        "edit_history_tweet_ids": [
+            "1377350128563060738"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.9615199,
+                    33.47346
+                ]
+            }
+        },
+        "author_id": "263326862",
+        "lang": "en",
+        "id": "1375620180068417537",
+        "created_at": "2021-03-27T01:26:23.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "Luigi's in downtown Augusta. Iconic Greek family owned Restaurant. Classic recipes, owner sitting at the table, everyone says hey... Great Memories... My 2nd Home.\ud83c\udf77\ud83c\udf77 @ Luigi's https://t.co/wwTm1NMNRf",
+        "edit_history_tweet_ids": [
+            "1375620180068417537"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96781,
+                    33.47661
+                ]
+            }
+        },
+        "author_id": "66673794",
+        "lang": "en",
+        "id": "1355732289712312320",
+        "created_at": "2021-01-31T04:19:00.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Round 2!! @ Bar On Broad https://t.co/sxQ9XfUPvM",
+        "edit_history_tweet_ids": [
+            "1355732289712312320"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.967222,
+                    33.475
+                ]
+            }
+        },
+        "author_id": "104762048",
+        "lang": "en",
+        "id": "1351708440134098946",
+        "created_at": "2021-01-20T01:49:40.000Z",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "I enjoyed the cafe.\nThe terrace seat is lovely to watch the street.\nIt was a sunny warm day. I love sunshine.\n.\n.\n.\n#ilovesunshine #augusta #cafe #niceday #lovelyday #nocode #ywb @ Broad Street Historic District https://t.co/Yut4JVzczy",
+        "edit_history_tweet_ids": [
+            "1351708440134098946"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.97101994,
+                    33.47697659
+                ]
+            }
+        },
+        "author_id": "83215280",
+        "lang": "en",
+        "id": "1351706234567720963",
+        "created_at": "2021-01-20T01:40:54.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "The little whiskey shot (@ Whiskey Bar (Kitchen) in Augusta, GA) https://t.co/T8VHuQHc8e https://t.co/g07iYGNcl6",
+        "edit_history_tweet_ids": [
+            "1351706234567720963"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96877,
+                    33.47576
+                ]
+            }
+        },
+        "author_id": "104762048",
+        "lang": "en",
+        "id": "1346519472497065984",
+        "created_at": "2021-01-05T18:10:34.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ The New Moon Cafe https://t.co/sVANjAkibo",
+        "edit_history_tweet_ids": [
+            "1346519472497065984"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.982467,
+                    33.47770977
+                ]
+            }
+        },
+        "author_id": "421095102",
+        "lang": "en",
+        "id": "1332727232666640385",
+        "created_at": "2020-11-28T16:45:07.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "https://t.co/lOaEogdmm3 Fat Man's Mill Cafe, (706) 733-1740... https://t.co/vrIwdVgMQV",
+        "edit_history_tweet_ids": [
+            "1332727232666640385"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.97099592,
+                    33.47687921
+                ]
+            }
+        },
+        "author_id": "66673794",
+        "lang": "en",
+        "id": "1328664255051288578",
+        "created_at": "2020-11-17T11:40:18.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Last night's episode\ud83e\udd74\ud83c\udf7b\ud83c\udf79\ud83d\ude4c\ud83d\ude09 @ Whiskey Bar Kitchen https://t.co/wXkqlejWmA",
+        "edit_history_tweet_ids": [
+            "1328664255051288578"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.97099592,
+                    33.47687921
+                ]
+            }
+        },
+        "author_id": "66673794",
+        "lang": "en",
+        "id": "1328528833423831042",
+        "created_at": "2020-11-17T02:42:11.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a video @ Whiskey Bar Kitchen https://t.co/e05mdwpkGT",
+        "edit_history_tweet_ids": [
+            "1328528833423831042"
+        ]
+    },
+    {
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.97099592,
+                    33.47687921
+                ]
+            }
+        },
+        "author_id": "66673794",
+        "lang": "en",
+        "id": "1328519451000627202",
+        "created_at": "2020-11-17T02:04:54.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Round 2! @ Whiskey Bar Kitchen https://t.co/6owHIFViMo",
+        "edit_history_tweet_ids": [
+            "1328519451000627202"
+        ]
+    },
+    {
+        "author_id": "66673794",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96428999,
+                    33.47479615
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "text": "Round 2!! @ Sharifa's Bar &amp; Lounge https://t.co/4pQhklsVnl",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1322374828666466304"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1322374828666466304",
+        "created_at": "2020-10-31T03:08:22.000Z"
+    },
+    {
+        "author_id": "2731954112",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96646425,
+                    33.47740941
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "text": "#Monday's special is popcorn shrimp!\n#HappyHour 3p - 7p every day!\nhttps://t.co/84T6zrZB43\n.\nBeamie's at the River \n865 Reynolds Street #Augusta #Georgia\n706-724-6593\n#Seafood #Restaurant and #OysterBar @ Beamie's At\u2026 https://t.co/7m17ODFdhs",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1300232008405311488"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1300232008405311488",
+        "created_at": "2020-08-31T00:40:42.000Z"
+    },
+    {
+        "author_id": "2731954112",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96646425,
+                    33.47740941
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "text": "Bloody Mary Day! Come see us. \nhttps://t.co/84T6zrHZFt\n.\nBeamie's at the River \n865 Reynolds Street #Augusta #Georgia\n706-724-6593\n#Seafood #Restaurant and #OysterBar @ Beamie's At The River https://t.co/xv2ePPXIo5",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1297627118243704832"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1297627118243704832",
+        "created_at": "2020-08-23T20:09:48.000Z"
+    },
+    {
+        "author_id": "2731954112",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96646425,
+                    33.47740941
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "text": "Come downtown and get some Wonderful Seafood!\nhttps://t.co/84T6zrZB43\n.\nBeamie's at the River \n865 Reynolds Street #Augusta #Georgia\n706-724-6593\n#Seafood #Restaurant and #OysterBar @ Beamie's At The River https://t.co/8sKfaos0zf",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1297301713146318849"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1297301713146318849",
+        "created_at": "2020-08-22T22:36:45.000Z"
+    },
+    {
+        "author_id": "782619259759243264",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.03013306,
+                    33.48678485
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "text": "Date night to celebrate the end of summer vacation with this man! Got milkshakes and cookies to bake later tonight. @chuckleslevokia #ImNotReady #RestartSummerVacation @ Oliviana's Bar\u2026 https://t.co/kTqIzyVCEU",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1295902336729178112"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1295902336729178112",
+        "created_at": "2020-08-19T01:56:08.000Z"
+    },
+    {
+        "author_id": "2731954112",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96646425,
+                    33.47740941
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "text": "What is your favorite shark?\n#HappyHour 3 - 7p\nhttps://t.co/84T6zrZB43\n.\nBeamie's at the River \n865 Reynolds Street #Augusta #Georgia\n706-724-6593\n#Seafood #Restaurant and #OysterBar @ Beamie's At The River https://t.co/h4kW3Ta4jR",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1293954113496125441"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1293954113496125441",
+        "created_at": "2020-08-13T16:54:35.000Z"
+    },
+    {
+        "author_id": "2731954112",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96646425,
+                    33.47740941
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "text": "Come enjoy our #SharkWeek specials!\nhttps://t.co/84T6zrZB43\n.\nBeamie's at the River \n865 Reynolds Street #Augusta #Georgia\n706-724-6593\n#Seafood #Restaurant and #OysterBar @ Beamie's At The River https://t.co/G18xlzbPf8",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1293614320178388994"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1293614320178388994",
+        "created_at": "2020-08-12T18:24:22.000Z"
+    },
+    {
+        "author_id": "2731954112",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96646425,
+                    33.47740941
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "text": "Come enjoy some cold #Narragansett #Beer $3.00! While supplies last!\nhttps://t.co/84T6zrZB43\n.\nBeamie's at the River \n865 Reynolds Street #Augusta #Georgia\n706-724-6593\n#Seafood #Restaurant and #OysterBar @ Beamie's At\u2026 https://t.co/3QKwXWbfW2",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1293240492340187136"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1293240492340187136",
+        "created_at": "2020-08-11T17:38:55.000Z"
+    },
+    {
+        "author_id": "2731954112",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96646425,
+                    33.47740941
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "text": "$3 #Landshark on #SharkWeek!\n#HappyHour 3p - 7p\nhttps://t.co/84T6zrZB43\n.\nBeamie's at the River \n865 Reynolds Street #Augusta #Georgia\n706-724-6593\n#Seafood #Restaurant and #OysterBar @ Beamie's At The River https://t.co/KgNyHahmkH",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1293005110453436416"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1293005110453436416",
+        "created_at": "2020-08-11T02:03:35.000Z"
+    },
+    {
+        "author_id": "2731954112",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96646425,
+                    33.47740941
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "text": "#SUNDAY BLOODY MARY $5.00\nhttps://t.co/84T6zrHZFt\n.\nBeamie's at the River \n865 Reynolds Street #Augusta #Georgia\n706-724-6593\n#Seafood #Restaurant and #OysterBar #oysterrockefeller #RawOysters #SteamedOysters #Hungry\u2026 https://t.co/Q5L7rLPh5a",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1289750983162044417"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1289750983162044417",
+        "created_at": "2020-08-02T02:32:51.000Z"
+    },
+    {
+        "author_id": "2731954112",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96646425,
+                    33.47740941
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "text": "Saturday Special! \ud83e\udd90\ud83e\udd9e\ud83c\udf4d\ud83e\udd65\ud83d\udc1f\nShrimp Platter, Blue Hawaiian &amp; Bahama Mama\nhttps://t.co/84T6zrZB43\n.\nBeamie's at the River \n865 Reynolds Street #Augusta #Georgia\n706-724-6593\n#Seafood #Restaurant and #OysterBar\u2026 https://t.co/eaLFAgnQzu",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1286812287353970689"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1286812287353970689",
+        "created_at": "2020-07-24T23:55:31.000Z"
+    },
+    {
+        "author_id": "2731954112",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96646425,
+                    33.47740941
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "text": "Tuesday Soup Special of the Day\n#Gumbo &amp; #Jambalaya \nHappy Hour 3p - 7p everyday \nCOME SEE US!\n\nhttps://t.co/84T6zrZB43\n.\nBeamie's at the River \n865 Reynolds Street #Augusta #Georgia\n706-724-6593\n#Seafood #Restaurant\u2026 https://t.co/r8uv4NtzTT",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1285415812556304384"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1285415812556304384",
+        "created_at": "2020-07-21T03:26:26.000Z"
+    },
+    {
+        "author_id": "2731954112",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96646425,
+                    33.47740941
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "text": "Bloody Mary Sunday special!\nhttps://t.co/84T6zrZB43\n.\nBeamie's at the River \n865 Reynolds Street #Augusta #Georgia\n706-724-6593\n#Seafood #Restaurant and #OysterBar #oysterrockefeller #RawOysters #SteamedOysters\u2026 https://t.co/UdN6B2Ew8R",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1284925780372393984"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1284925780372393984",
+        "created_at": "2020-07-19T18:59:13.000Z"
+    },
+    {
+        "author_id": "33521282",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.030304,
+                    33.486647
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "text": "Fun designs for your bar and kitchen space // new tea towels by cavallinipapers\n.\n.\n.\nAvailable for purchase in store and online!\n.\n.\n.\n#home #accessories #teatowel #cavallini #kitchen #kitchenaccessories #gift\u2026 https://t.co/8UxosE3KQv",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1277701733024743424"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1277701733024743424",
+        "created_at": "2020-06-29T20:33:26.000Z"
+    },
+    {
+        "author_id": "2731954112",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96646425,
+                    33.47740941
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "text": "Hungry?\n#MahiMahi #Scallops \nhttps://t.co/84T6zrZB43\n.\nBeamie's at the River \n865 Reynolds Street #Augusta #Georgia\n706-724-6593\n#Seafood #Restaurant and #OysterBar #oysterrockefeller #RawOysters #SteamedOysters\u2026 https://t.co/IYHNfCqHF9",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1276628107164880896"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1276628107164880896",
+        "created_at": "2020-06-26T21:27:14.000Z"
+    },
+    {
+        "author_id": "2731954112",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96646425,
+                    33.47740941
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "text": "Happy Hour 3-7p\n.\nhttps://t.co/84T6zrZB43\n.\nBeamie's at the River \n865 Reynolds Street #Augusta #Georgia\n706-724-6593\n#Seafood #Restaurant and #OysterBar #oysterrockefeller #RawOysters #SteamedOysters #Hungry\u2026 https://t.co/tGH1O60IpF",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1271170604117491712"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1271170604117491712",
+        "created_at": "2020-06-11T20:01:03.000Z"
+    },
+    {
+        "author_id": "2731954112",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96646425,
+                    33.47740941
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "text": "Best Oyster Rockefeller in town!\nhttps://t.co/84T6zrZB43\n.\nBeamie's at the River \n865 Reynolds Street #Augusta #Georgia\n706-724-6593\n#Seafood #Restaurant and #OysterBar #oysterrockefeller #RawOysters #SteamedOysters\u2026 https://t.co/lL9vSuCOkk",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1269852901431803910"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1269852901431803910",
+        "created_at": "2020-06-08T04:44:59.000Z"
+    },
+    {
+        "author_id": "106801389",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96877,
+                    33.47576
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "text": "I got back on set and in front of the camera for the first time in 79 days! #backtowork #actor #actinglife \ud83c\udf9e\ufe0f\ud83c\udfa5\ud83c\udfac @ The New Moon Cafe https://t.co/fCZUfcL6lF",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1265734293109854208"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1265734293109854208",
+        "created_at": "2020-05-27T19:59:06.000Z"
+    },
+    {
+        "author_id": "2731954112",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96646425,
+                    33.47740941
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "text": "Everyone have a wonderful #MemorialDay weekend! Be safe and come get some #Seafood!\nhttps://t.co/84T6zrZB43\n.\nBeamie's at the River \n865 Reynolds Street #Augusta #Georgia\n706-724-6593\n#Seafood #Restaurant and\u2026 https://t.co/EYzHGNTZkv",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1263939564877602817"
+        ],
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1263939564877602817",
+        "created_at": "2020-05-22T21:07:29.000Z"
+    },
+    {
+        "author_id": "117424658",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.98981357,
+                    33.47036489
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "text": "I'm at Cafe Fresca in Augusta, GA https://t.co/2ZS2fmXF4z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1263584230522490883"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1263584230522490883",
+        "created_at": "2020-05-21T21:35:31.000Z"
+    },
+    {
+        "author_id": "2731954112",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96646425,
+                    33.47740941
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "text": "It maybe raining, but WE ARE OPEN!\nCome see us! Happy Hour 3-7 everyday!\nhttps://t.co/84T6zrZB43\n.\nBeamie's at the River \n865 Reynolds Street #Augusta #Georgia\n706-724-6593\n#Seafood #Restaurant and #OysterBar\u2026 https://t.co/RviVPoqrJn",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1262767896557731841"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1262767896557731841",
+        "created_at": "2020-05-19T15:31:42.000Z"
+    },
+    {
+        "author_id": "2731954112",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96646425,
+                    33.47740941
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "text": "It's #SUNDAY! Bloody Mary on Special!\nCome see Chloe and Elle at the bar!\nhttps://t.co/84T6zrZB43\n.\nBeamie's at the River \n865 Reynolds Street #Augusta #Georgia\n706-724-6593\n#Seafood #Restaurant and #OysterBar\u2026 https://t.co/Qj0xQsuXH8",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1261877928515850241"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1261877928515850241",
+        "created_at": "2020-05-17T04:35:17.000Z"
+    },
+    {
+        "author_id": "2731954112",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96646425,
+                    33.47740941
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "text": "Come see our NEW FLOORS! \nIt's Saturday: Shrimp Platter is on sale!\nhttps://t.co/84T6zrZB43\n.\nBeamie's at the River \n865 Reynolds Street #Augusta #Georgia\n706-724-6593\n#Seafood #Restaurant and #OysterBar\u2026 https://t.co/BfNQP3XKm9",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1261536155322986499"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1261536155322986499",
+        "created_at": "2020-05-16T05:57:12.000Z"
+    },
+    {
+        "author_id": "2731954112",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96646425,
+                    33.47740941
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "text": "#FRIDAY #Catfish platter special \nhttps://t.co/84T6zrHZFt\n.\nBeamie's at the River \n865 Reynolds Street #Augusta #Georgia\n706-724-6593\n#Seafood #Restaurant and #OysterBar #oysterrockefeller #RawOysters #SteamedOysters\u2026 https://t.co/kec2lB6u36",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1261115216797904897"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1261115216797904897",
+        "created_at": "2020-05-15T02:04:32.000Z"
+    },
+    {
+        "author_id": "1026713000",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.0067,
+                    33.4479
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "text": "Hungry? Order Timbuktu Cafe they're on Waitr if you want your food delivered or you call your order in &amp; pickup your food. The quality is top of the line trust me. @ Augusta, Georgia https://t.co/gc0p7cpaaK",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1260644044503302144"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1260644044503302144",
+        "created_at": "2020-05-13T18:52:16.000Z"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96877,
+                    33.47576
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-04-30T13:09:13.000Z",
+        "lang": "en",
+        "id": "1255846671159709696",
+        "author_id": "32142683",
+        "edit_history_tweet_ids": [
+            "1255846671159709696"
+        ],
+        "text": "Breakfast, lunch and mustachio cookies all day. Take out and delivery.\nStay silly, stay safe, stay weird fam. @ The New Moon Cafe https://t.co/ldDOL0TBtb"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96877,
+                    33.47576
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-04-29T14:14:06.000Z",
+        "lang": "en",
+        "id": "1255500611531018242",
+        "author_id": "32142683",
+        "edit_history_tweet_ids": [
+            "1255500611531018242"
+        ],
+        "text": "Order lunch at our Broad St cafe and have a shortbread mustachio. \nBe safe, stay weird fam. \u270c\ufe0f \nTake out and delivery 8a-4p all seven days. @ The New Moon Cafe https://t.co/deDpVncTRm"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96646425,
+                    33.47740941
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-04-09T16:46:43.000Z",
+        "lang": "en",
+        "id": "1248291263087964162",
+        "author_id": "2731954112",
+        "edit_history_tweet_ids": [
+            "1248291263087964162"
+        ],
+        "text": "New Fish!\nhttps://t.co/84T6zrHZFt\n.\nBeamie's at the River \n865 Reynolds Street #Augusta #Georgia\n706-724-6593\n#Seafood #Restaurant and #OysterBar #oysterrockefeller #RawOysters #SteamedOysters #Hungry #AugustaGa\u2026 https://t.co/E6dOARkNO0"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.9781673,
+                    33.48612227
+                ]
+            },
+            "place_id": "6ef112ac2aa9b7cc"
+        },
+        "created_at": "2020-04-03T17:14:39.000Z",
+        "lang": "en",
+        "id": "1246123964570775558",
+        "author_id": "336858324",
+        "edit_history_tweet_ids": [
+            "1246123964570775558"
+        ],
+        "text": "Fabulously savory vegan seitan Philly \u201ccheesesteak\u201d wrap with eggplant \u201cbacon\u201d from Augusta\u2019s best vegan restaurant, Humanitree House, served here with a side of kale salad. @ The Ironwood Apartments https://t.co/H2elxBYICr"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.0067,
+                    33.4479
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-03-28T16:21:57.000Z",
+        "lang": "en",
+        "id": "1243936375201845248",
+        "author_id": "30755709",
+        "edit_history_tweet_ids": [
+            "1243936375201845248"
+        ],
+        "text": "KEIKO BLESSING Y\u2019ALL WITH NEW MUSIC \u2022 NEW SOUND \u2022 \u2018NEW WAVE\u2019 PLAYLIST OUT RIGHT NOW \u2022 FRESH FRIDAYS\n\u2022 Go to search bar\n\u2022 Type in \u2018Keikoxmia\u2019\n\u2022 Scroll down to \u2018People\u2019 feature\n\u2022 Click on my \u2018Profile\u2019\n\u2022 Click \u2018Follow\u2019\u2026 https://t.co/38BqG6jMaW"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.0067,
+                    33.4479
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-03-22T15:58:50.000Z",
+        "lang": "en",
+        "id": "1241756227874553857",
+        "author_id": "2712388046",
+        "edit_history_tweet_ids": [
+            "1241756227874553857"
+        ],
+        "text": "Taking This Pandemic With All Seriousness, It\u2019s Definitely Real, But I Never Turn Down A Challenge\u203c\ufe0f\u203c\ufe0f Me And My TM Just Raised The Bar \u261d\ud83c\udffd \ud83d\udcaf #PushupChallenge  #TeamBunch #StillAtWork #BabiesGottaEat @ Augusta, Georgia https://t.co/G98vQ42RLG"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96646425,
+                    33.47740941
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-03-16T16:02:33.000Z",
+        "lang": "en",
+        "id": "1239582839508570112",
+        "author_id": "2731954112",
+        "edit_history_tweet_ids": [
+            "1239582839508570112"
+        ],
+        "text": "We are open!\nhttps://t.co/84T6zrHZFt\n.\nBeamie's at the River \n865 Reynolds Street #Augusta #Georgia\n706-724-6593\n#Seafood #Restaurant and #OysterBar #oysterrockefeller #RawOysters #SteamedOysters #Hungry #AugustaGa\u2026 https://t.co/jq5DXWGDxM"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96877,
+                    33.47576
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-03-15T15:45:22.000Z",
+        "lang": "en",
+        "id": "1239216126103621632",
+        "author_id": "32142683",
+        "edit_history_tweet_ids": [
+            "1239216126103621632"
+        ],
+        "text": "Shamrock Sandwich Cookies while they last at Broad St cafe!\nVanilla bean cookies w Irish Cream filling and Tullamore Dew chocolate ganache. @ The New Moon Cafe https://t.co/0r2vdmFDgL"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96877,
+                    33.47576
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-03-09T14:49:31.000Z",
+        "lang": "en",
+        "id": "1237027744388694028",
+        "author_id": "32142683",
+        "edit_history_tweet_ids": [
+            "1237027744388694028"
+        ],
+        "text": "The Tipsy Heifer grilled cheese at Broad St has corned beef, Guinness onions and cheddar on marbled sourdough rye. Come see us, we\u2019ll make one for you. @ The New Moon Cafe https://t.co/1egRQb2c04"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.03013306,
+                    33.48678485
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-03-05T01:43:42.000Z",
+        "lang": "en",
+        "id": "1235380434487279616",
+        "author_id": "70581405",
+        "edit_history_tweet_ids": [
+            "1235380434487279616"
+        ],
+        "text": "Celebrity spotting! @ Oliviana's Bar Italiano &amp; Pizzeria https://t.co/2n41FYUbab"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96877,
+                    33.47576
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-03-03T18:59:07.000Z",
+        "lang": "en",
+        "id": "1234916229103616000",
+        "author_id": "32142683",
+        "edit_history_tweet_ids": [
+            "1234916229103616000"
+        ],
+        "text": "We are closing a little early today at Broad St for some maintence. When you have 25 foot ceilings, changing a light bulb is a whole thing. Thanks for the assist Rex...you guys are the best!! @ The New Moon Cafe https://t.co/I9ZZYQIxwn"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96647,
+                    33.47751
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-02-05T16:11:04.000Z",
+        "lang": "en",
+        "id": "1225089465208754176",
+        "author_id": "2731954112",
+        "edit_history_tweet_ids": [
+            "1225089465208754176"
+        ],
+        "text": "#Hungry? Shrimp Salad Wrap #Yum!\nhttps://t.co/84T6zrZB43\n.\nBeamie's at the River \n865 Reynolds Street #Augusta #Georgia\n706-724-6593\n#Seafood #Restaurant and #OysterBar #oysterrockefeller #RawOysters #SteamedOysters\u2026 https://t.co/tRZsw0UOaq"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.97206259,
+                    33.47465905
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-02-04T16:08:06.000Z",
+        "lang": "en",
+        "id": "1224726331105140736",
+        "author_id": "3761857997",
+        "edit_history_tweet_ids": [
+            "1224726331105140736"
+        ],
+        "text": "\ud83d\udc98 Feb 13th \ud83d\udc98\n\ud83c\udf77 Sip &amp; Paint \ud83c\udfa8 \n\ud83c\udf9f Singles $20/Couples $30\n\nhttps://t.co/VYsmbGkByc @ Studio Neighborhood Bar https://t.co/beikBczL80"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-01-25T16:48:42.000Z",
+        "lang": "en",
+        "id": "1221112668720975873",
+        "author_id": "857696936639508480",
+        "geo": {
+            "place_id": "07d9c9820f882000"
+        },
+        "edit_history_tweet_ids": [
+            "1221112668720975873"
+        ],
+        "text": "Whistle Stop Cafe never disappoints!"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96877,
+                    33.47576
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-01-23T16:11:39.000Z",
+        "lang": "en",
+        "id": "1220378569349718017",
+        "author_id": "32142683",
+        "edit_history_tweet_ids": [
+            "1220378569349718017"
+        ],
+        "text": "Meet our new lunch obsession at the Broad St cafe-\nThe Devine Bovine\nMedium rare roast beef with housemaid horseradish Boursin, red wine caramelized onion and arugula on grilled sourdough. \n.\n.\n.\n#newmooncafe\u2026 https://t.co/ig1CKnHHxW"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96647,
+                    33.47751
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-01-21T03:31:36.000Z",
+        "lang": "en",
+        "id": "1219462523386322948",
+        "author_id": "2731954112",
+        "edit_history_tweet_ids": [
+            "1219462523386322948"
+        ],
+        "text": "Welcome augustafuturity to #AugustaGeorgia!\n#Gumbo #Jambalaya #Oysters\nhttps://t.co/84T6zrZB43\n.\nBeamie's at the River \n865 Reynolds Street #Augusta #Georgia\n706-724-6593\n#Seafood #Restaurant and #OysterBar\u2026 https://t.co/XmOoKfHcHK"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.96877,
+                    33.47576
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-01-13T16:12:28.000Z",
+        "lang": "en",
+        "id": "1216754899435823104",
+        "author_id": "32142683",
+        "edit_history_tweet_ids": [
+            "1216754899435823104"
+        ],
+        "text": "Loaded baked potato soup at Broad St cafe today! Text New Moon to 33733 and order online.\n.\n.\n.\n#newmooncafe #soup #lunch #loadedbakedpotato #instalove #augustaga #loveaugusta @ The New Moon Cafe https://t.co/SGhsdhQPld"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.97099592,
+                    33.47687921
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-01-13T02:36:40.000Z",
+        "lang": "en",
+        "id": "1216549596253560832",
+        "author_id": "70581405",
+        "edit_history_tweet_ids": [
+            "1216549596253560832"
+        ],
+        "text": "Dave's Sister @ Whiskey Bar Kitchen https://t.co/MhNhs9xXUA"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.98265076,
+                    33.4777404
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-01-09T17:48:09.000Z",
+        "lang": "en",
+        "id": "1215329425811759104",
+        "author_id": "39793737",
+        "edit_history_tweet_ids": [
+            "1215329425811759104"
+        ],
+        "text": "I'm at Fat Man's Mill Cafe in Augusta, GA w/ @mcasadevall @rickyfuen @lorettahall13 https://t.co/uMJfA8aEO4 https://t.co/rgnYwmw4sF"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -81.97101994,
+                    33.47697659
+                ]
+            },
+            "place_id": "00c6c3cd3e783197"
+        },
+        "created_at": "2020-01-08T22:38:21.000Z",
+        "lang": "en",
+        "id": "1215040070182420482",
+        "author_id": "844909489",
+        "edit_history_tweet_ids": [
+            "1215040070182420482"
+        ],
+        "text": "I'm at Whiskey Bar (Kitchen) in Augusta, GA https://t.co/Yq5QYNhGh8"
+    }
+]

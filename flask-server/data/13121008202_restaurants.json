@@ -1,0 +1,3862 @@
+[
+    {
+        "id": "1530916994337361929",
+        "author_id": "1224796823006720000",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Pull up to @curfewatl tonight!\n\nI\u2019m spinnin 10PM-3AM @ Curfew ATL Restaurant &amp; Lounge https://t.co/kcokNd8C36",
+        "lang": "en",
+        "created_at": "2022-05-29T14:20:29.000Z",
+        "edit_history_tweet_ids": [
+            "1530916994337361929"
+        ]
+    },
+    {
+        "id": "1528121464691507201",
+        "author_id": "1224796823006720000",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Just posted a photo @ Curfew ATL Restaurant &amp; Lounge https://t.co/wSmN5PjVuf",
+        "lang": "en",
+        "created_at": "2022-05-21T21:12:02.000Z",
+        "edit_history_tweet_ids": [
+            "1528121464691507201"
+        ]
+    },
+    {
+        "id": "1517973709868392454",
+        "author_id": "1224796823006720000",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Tonight we party at @curfewatl \nPull up early! 10PM-3AM @ Curfew ATL Restaurant &amp; Lounge https://t.co/WSjPUxcxPC",
+        "lang": "en",
+        "created_at": "2022-04-23T21:08:29.000Z",
+        "edit_history_tweet_ids": [
+            "1517973709868392454"
+        ]
+    },
+    {
+        "id": "1510382674342424576",
+        "author_id": "1224796823006720000",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Every Saturday night we party at @curfewatl \n\nLadies Night Out is lit every weekend!\n\n10PM-3AM @ Curfew ATL Restaurant &amp; Lounge https://t.co/vJe3MaIPmg",
+        "lang": "en",
+        "created_at": "2022-04-02T22:24:25.000Z",
+        "edit_history_tweet_ids": [
+            "1510382674342424576"
+        ]
+    },
+    {
+        "id": "1506143543286448129",
+        "author_id": "24386170",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.51574708,
+                    33.79953002
+                ]
+            },
+            "place_id": "fe4b2b8e51cc85c1"
+        },
+        "text": "Just posted a photo @ Cafe' Social House https://t.co/1iNiTpAjDS",
+        "lang": "en",
+        "created_at": "2022-03-22T05:39:38.000Z",
+        "edit_history_tweet_ids": [
+            "1506143543286448129"
+        ]
+    },
+    {
+        "id": "1500648012175007747",
+        "author_id": "22119091",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 2
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "WE OUTSIDE TONIGHT!! we going up for my sis @cristinamackey_ the newest member of BIG BSF!! If you in the A pull up!! @ Curfew ATL Restaurant &amp; Lounge https://t.co/y8soL0gsVL",
+        "lang": "en",
+        "created_at": "2022-03-07T01:42:21.000Z",
+        "edit_history_tweet_ids": [
+            "1500648012175007747"
+        ]
+    },
+    {
+        "id": "1497710422828462085",
+        "author_id": "1224796823006720000",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "TONIGHT!!\nI\u2019m djaying at @curfewatl \n10PM-3AM @ Curfew ATL Restaurant &amp; Lounge https://t.co/Q9vK6KmwqC",
+        "lang": "en",
+        "created_at": "2022-02-26T23:09:25.000Z",
+        "edit_history_tweet_ids": [
+            "1497710422828462085"
+        ]
+    },
+    {
+        "id": "1495432171573686272",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "@karma_rosee Let\u2019s Make Dat MOVIE \ud83c\udf7f \u270c\ud83c\udffeNight Meet Us At @curfewatl \ud83e\udd76\u203c\ufe0f @ Curfew ATL Restaurant &amp; Lounge https://t.co/jZkrPaNajN",
+        "lang": "en",
+        "created_at": "2022-02-20T16:16:28.000Z",
+        "edit_history_tweet_ids": [
+            "1495432171573686272"
+        ]
+    },
+    {
+        "id": "1495109133888110597",
+        "author_id": "1224796823006720000",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "TONIGHT! Pull up to @curfewatl!\nI\u2019m spinnin all night! 10PM-3AM @ Curfew ATL Restaurant &amp; Lounge https://t.co/N6krp9wjWH",
+        "lang": "en",
+        "created_at": "2022-02-19T18:52:49.000Z",
+        "edit_history_tweet_ids": [
+            "1495109133888110597"
+        ]
+    },
+    {
+        "id": "1494342296162160643",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Got Da Beautiful @karma_rosee \ud83c\udf39 W/ Me Sunday At @curfewatl Let\u2019s Make Dat MOVIE \u203c\ufe0f\u203c\ufe0f @ Curfew ATL Restaurant &amp; Lounge https://t.co/3Xd1wBUjWM",
+        "lang": "en",
+        "created_at": "2022-02-17T16:05:41.000Z",
+        "edit_history_tweet_ids": [
+            "1494342296162160643"
+        ]
+    },
+    {
+        "id": "1493614016274608131",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "@lildonald Live This Sunday @curfewatl Music By Me \ud83d\ude0e Need A Section Or Wanna Perform Hit Me Or @jmillzrmf NOW \u203c\ufe0f\u203c\ufe0f @ Curfew ATL Restaurant &amp; Lounge https://t.co/4zqajU2TDh",
+        "lang": "en",
+        "created_at": "2022-02-15T15:51:46.000Z",
+        "edit_history_tweet_ids": [
+            "1493614016274608131"
+        ]
+    },
+    {
+        "id": "1493305414749851649",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "@lildonald LIVE This SUNDAY At @curfewatl Ladies This Party For You Need A Section Hit Me NOW \u203c\ufe0f\u203c\ufe0f\ud83d\ude08 @ Curfew ATL Restaurant &amp; Lounge https://t.co/ddtTQDDYGz",
+        "lang": "en",
+        "created_at": "2022-02-14T19:25:29.000Z",
+        "edit_history_tweet_ids": [
+            "1493305414749851649"
+        ]
+    },
+    {
+        "id": "1493123946371117057",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "2:24 @curfewatl \ud83d\udccd @ Curfew ATL Restaurant &amp; Lounge https://t.co/iDXaXPPrWI",
+        "lang": "en",
+        "created_at": "2022-02-14T07:24:24.000Z",
+        "edit_history_tweet_ids": [
+            "1493123946371117057"
+        ]
+    },
+    {
+        "id": "1493059584315080707",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "My Dawg @cocavango Takin OVER @curfewatl TONIGHT &amp; I Got A Few Playas &amp; Pretty Ladies POPPIN OUT Too \u203c\ufe0f\u203c\ufe0f @ Curfew ATL Restaurant &amp; Lounge https://t.co/AfZDkAnJLH",
+        "lang": "en",
+        "created_at": "2022-02-14T03:08:39.000Z",
+        "edit_history_tweet_ids": [
+            "1493059584315080707"
+        ]
+    },
+    {
+        "id": "1492867571296751622",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "TONIGHT @curfewatl @cocavango LIVE \ud83d\ude08\u203c\ufe0f Shit Finna Be SIDEWAYZ @ Curfew ATL Restaurant &amp; Lounge https://t.co/epCi50Aak3",
+        "lang": "en",
+        "created_at": "2022-02-13T14:25:39.000Z",
+        "edit_history_tweet_ids": [
+            "1492867571296751622"
+        ]
+    },
+    {
+        "id": "1492610452324503559",
+        "author_id": "1224796823006720000",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "I\u2019m djayin tonight at @curfewatl tonight! \n\nPull up early! 10PM-3AM @ Curfew ATL Restaurant &amp; Lounge https://t.co/a8ZbLRQVEa",
+        "lang": "en",
+        "created_at": "2022-02-12T21:23:57.000Z",
+        "edit_history_tweet_ids": [
+            "1492610452324503559"
+        ]
+    },
+    {
+        "id": "1491493945691426818",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "My Brudda @cocavango Live This SUNDAY At @curfewatl \ud83d\ude08 Who Coming W/ Me \u2753\u2753 @ Curfew ATL Restaurant &amp; Lounge https://t.co/punjfhcG3c",
+        "lang": "en",
+        "created_at": "2022-02-09T19:27:21.000Z",
+        "edit_history_tweet_ids": [
+            "1491493945691426818"
+        ]
+    },
+    {
+        "id": "1490507737389748224",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Just posted a photo @ Curfew ATL Restaurant &amp; Lounge https://t.co/nEwnfFMeDb",
+        "lang": "en",
+        "created_at": "2022-02-07T02:08:31.000Z",
+        "edit_history_tweet_ids": [
+            "1490507737389748224"
+        ]
+    },
+    {
+        "id": "1490505371001114629",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Just posted a photo @ Curfew ATL Restaurant &amp; Lounge https://t.co/9YkbZJUPSd",
+        "lang": "en",
+        "created_at": "2022-02-07T01:59:07.000Z",
+        "edit_history_tweet_ids": [
+            "1490505371001114629"
+        ]
+    },
+    {
+        "id": "1490371605234651148",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "2 Nite @curfewatl \ud83d\udccd \n\n( EVERYBODY FREE UNTIL 12AM )\n\nLet\u2019s Get It \ud83d\ude08\u2757\ufe0f @ Curfew ATL Restaurant &amp; Lounge https://t.co/zGvxiCdkP8",
+        "lang": "en",
+        "created_at": "2022-02-06T17:07:35.000Z",
+        "edit_history_tweet_ids": [
+            "1490371605234651148"
+        ]
+    },
+    {
+        "id": "1490077328160010240",
+        "author_id": "1224796823006720000",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "TONIGHT!\nI\u2019m spinnin at @curfewatl 10PM-3AM \n#OpulenceSaturdays @ Curfew ATL Restaurant &amp; Lounge https://t.co/VTe0EIF7CJ",
+        "lang": "en",
+        "created_at": "2022-02-05T21:38:13.000Z",
+        "edit_history_tweet_ids": [
+            "1490077328160010240"
+        ]
+    },
+    {
+        "id": "1488000498213036032",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Meet Me At @curfewatl \ud83d\udccd Now \ud83d\ude08 @ Curfew ATL Restaurant &amp; Lounge https://t.co/Mom7tzree8",
+        "lang": "en",
+        "created_at": "2022-01-31T04:05:39.000Z",
+        "edit_history_tweet_ids": [
+            "1488000498213036032"
+        ]
+    },
+    {
+        "id": "1487870231150219264",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Just posted a photo @ Curfew ATL Restaurant &amp; Lounge https://t.co/AJl1RcgZ2j",
+        "lang": "en",
+        "created_at": "2022-01-30T19:28:01.000Z",
+        "edit_history_tweet_ids": [
+            "1487870231150219264"
+        ]
+    },
+    {
+        "id": "1487602048895897602",
+        "author_id": "1224796823006720000",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "TONIGHT! \nWe at @curfewatl \n10PM-3AM @ Curfew ATL Restaurant &amp; Lounge https://t.co/H5gIrWSu0Q",
+        "lang": "en",
+        "created_at": "2022-01-30T01:42:21.000Z",
+        "edit_history_tweet_ids": [
+            "1487602048895897602"
+        ]
+    },
+    {
+        "id": "1487200955833753606",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Just posted a photo @ Curfew ATL Restaurant &amp; Lounge https://t.co/kzoZxcS9DK",
+        "lang": "en",
+        "created_at": "2022-01-28T23:08:33.000Z",
+        "edit_history_tweet_ids": [
+            "1487200955833753606"
+        ]
+    },
+    {
+        "id": "1485441218305826819",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "@curfewatl TONIGHT \ud83d\udccd @ Curfew ATL Restaurant &amp; Lounge https://t.co/1FsdDQfOK5",
+        "lang": "en",
+        "created_at": "2022-01-24T02:35:59.000Z",
+        "edit_history_tweet_ids": [
+            "1485441218305826819"
+        ]
+    },
+    {
+        "id": "1485349160563920896",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Just posted a photo @ Curfew ATL Restaurant &amp; Lounge https://t.co/ZiKoCJK4h5",
+        "lang": "en",
+        "created_at": "2022-01-23T20:30:10.000Z",
+        "edit_history_tweet_ids": [
+            "1485349160563920896"
+        ]
+    },
+    {
+        "id": "1485337964175630336",
+        "author_id": "330100055",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Work Hard || Play Harder\u2026.It\u2019s that time again all black affair pull up on me \n\n#curfew #atlanta #capitalwealth @ Curfew ATL Restaurant &amp; Lounge https://t.co/Rca1YGenI8",
+        "lang": "en",
+        "created_at": "2022-01-23T19:45:41.000Z",
+        "edit_history_tweet_ids": [
+            "1485337964175630336"
+        ]
+    },
+    {
+        "id": "1485008839166595074",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Just posted a photo @ Curfew ATL Restaurant &amp; Lounge https://t.co/0yKP7Jc0Wc",
+        "lang": "en",
+        "created_at": "2022-01-22T21:57:52.000Z",
+        "edit_history_tweet_ids": [
+            "1485008839166595074"
+        ]
+    },
+    {
+        "id": "1483955904835985408",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Just posted a photo @ Curfew ATL Restaurant &amp; Lounge https://t.co/oKv5B46vKU",
+        "lang": "en",
+        "created_at": "2022-01-20T00:13:52.000Z",
+        "edit_history_tweet_ids": [
+            "1483955904835985408"
+        ]
+    },
+    {
+        "id": "1483256545362292737",
+        "author_id": "270637221",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.51574708,
+                    33.79953002
+                ]
+            },
+            "place_id": "fe4b2b8e51cc85c1"
+        },
+        "text": "Just posted a photo @ Cafe' Social House https://t.co/11ZnGgGc72",
+        "lang": "en",
+        "created_at": "2022-01-18T01:54:52.000Z",
+        "edit_history_tweet_ids": [
+            "1483256545362292737"
+        ]
+    },
+    {
+        "id": "1482493521487556610",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Tomorrow Night Tho \ud83d\ude0e\ud83d\ude0f @curfewatl \ud83d\udccd #AllBlackDressAffair @ Curfew ATL Restaurant &amp; Lounge https://t.co/gxlD4cFwq6",
+        "lang": "en",
+        "created_at": "2022-01-15T23:22:53.000Z",
+        "edit_history_tweet_ids": [
+            "1482493521487556610"
+        ]
+    },
+    {
+        "id": "1482436429150101514",
+        "author_id": "1224796823006720000",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Just posted a photo @ Curfew ATL Restaurant &amp; Lounge https://t.co/QKyNYpPK4X",
+        "lang": "en",
+        "created_at": "2022-01-15T19:36:01.000Z",
+        "edit_history_tweet_ids": [
+            "1482436429150101514"
+        ]
+    },
+    {
+        "id": "1477345246136745985",
+        "author_id": "1224796823006720000",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "TONIGHT! Pull up on me at @curfewatl for my first party of the year!\n\n#OpulenceSaturdays lit every Saturday! @ Curfew ATL Restaurant &amp; Lounge https://t.co/nWjIqsSYlM",
+        "lang": "en",
+        "created_at": "2022-01-01T18:25:29.000Z",
+        "edit_history_tweet_ids": [
+            "1477345246136745985"
+        ]
+    },
+    {
+        "id": "1467697588346494976",
+        "author_id": "130167334",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.55726188,
+                    33.77178756
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "text": "The Halls Have Been Decked at the  EpiFIT CLUB @epifitclub @riversideepicenter \n\nVisit Us For Lunch &amp; Catch the Spirit!\n\nOur Loft Cafe offers Excellent  Cuisine &amp; Hometown Hospitality! @ EpiFIT Club https://t.co/QcIfNDSGpA",
+        "lang": "en",
+        "created_at": "2021-12-06T03:29:08.000Z",
+        "edit_history_tweet_ids": [
+            "1467697588346494976"
+        ]
+    },
+    {
+        "id": "1463942052610134039",
+        "author_id": "270465776",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "#HappyThanksgiving After you eat some \ud83e\udd83 wit yo family come see some \ud83c\udf51  wit yo gang @ Curfew ATL! DM me for Sections &amp; Free Entry @ Curfew ATL Restaurant &amp; Lounge https://t.co/qRIhBIQc7C",
+        "lang": "en",
+        "created_at": "2021-11-25T18:45:58.000Z",
+        "edit_history_tweet_ids": [
+            "1463942052610134039"
+        ]
+    },
+    {
+        "id": "1463935831383724033",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Just posted a photo @ Curfew ATL Restaurant &amp; Lounge https://t.co/qSxq8vNBpE",
+        "lang": "en",
+        "created_at": "2021-11-25T18:21:15.000Z",
+        "edit_history_tweet_ids": [
+            "1463935831383724033"
+        ]
+    },
+    {
+        "id": "1462912834644418563",
+        "author_id": "270465776",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "\ud83e\udd83 Thanksgiving Night \ud83e\udd83 @ Curfew ATL! Text 678-799-2349 for VIP Sections &amp; Info!!! @ Curfew ATL Restaurant &amp; Lounge https://t.co/IJGLwCgVRr",
+        "lang": "en",
+        "created_at": "2021-11-22T22:36:14.000Z",
+        "edit_history_tweet_ids": [
+            "1462912834644418563"
+        ]
+    },
+    {
+        "id": "1457394222064091147",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "ATL @curfewatl \ud83d\udccd TONIGHT \ud83d\udde3\n\nHappy GDAY @thatfoonook \u203c\ufe0f @ Curfew ATL Restaurant &amp; Lounge https://t.co/ahw0WKBdT0",
+        "lang": "en",
+        "created_at": "2021-11-07T17:07:14.000Z",
+        "edit_history_tweet_ids": [
+            "1457394222064091147"
+        ]
+    },
+    {
+        "id": "1454291542110244867",
+        "author_id": "203080198",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "We in this mf @curfewloungefridays \u203c\ufe0f\ud83d\ude80 \n\n#hotnewhiphop #worldstar #exploremore #foryou #unsignedartist #miami #atlanta #macon @ Curfew ATL Restaurant &amp; Lounge https://t.co/d1XGaa81gy",
+        "lang": "en",
+        "created_at": "2021-10-30T03:38:17.000Z",
+        "edit_history_tweet_ids": [
+            "1454291542110244867"
+        ]
+    },
+    {
+        "id": "1454214368112087044",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Just posted a photo @ Curfew ATL Restaurant &amp; Lounge https://t.co/Nr5koLjmpC",
+        "lang": "en",
+        "created_at": "2021-10-29T22:31:38.000Z",
+        "edit_history_tweet_ids": [
+            "1454214368112087044"
+        ]
+    },
+    {
+        "id": "1452430172108513282",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Meet Me At @curfewatl TONIGHT \u203c\ufe0f\ud83d\ude08 @ Curfew ATL Restaurant &amp; Lounge https://t.co/3hsoyCB4h6",
+        "lang": "en",
+        "created_at": "2021-10-25T00:21:52.000Z",
+        "edit_history_tweet_ids": [
+            "1452430172108513282"
+        ]
+    },
+    {
+        "id": "1451690591444688898",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Just posted a photo @ Curfew ATL Restaurant &amp; Lounge https://t.co/apcfmci7So",
+        "lang": "en",
+        "created_at": "2021-10-22T23:23:02.000Z",
+        "edit_history_tweet_ids": [
+            "1451690591444688898"
+        ]
+    },
+    {
+        "id": "1451689789959376899",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "I\u2019m Fuckin W/ EVERYBODY TONIGHT We At @curfewatl Music By Me \ud83d\ude0e My Brudda @_cincodadon On Da \ud83c\udfa4 Need A Section Hit @eatwhaddyoukill_ ASAP \u203c\ufe0f\u203c\ufe0f\u203c\ufe0f @ Curfew ATL Restaurant &amp; Lounge https://t.co/VCkR2fBvUr",
+        "lang": "en",
+        "created_at": "2021-10-22T23:19:51.000Z",
+        "edit_history_tweet_ids": [
+            "1451689789959376899"
+        ]
+    },
+    {
+        "id": "1451593742138363912",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "( FRIDAYS ) Belong To @curfewatl \ud83d\ude08 @ Curfew ATL Restaurant &amp; Lounge https://t.co/AFf9w7eOQZ",
+        "lang": "en",
+        "created_at": "2021-10-22T16:58:12.000Z",
+        "edit_history_tweet_ids": [
+            "1451593742138363912"
+        ]
+    },
+    {
+        "id": "1450901098588512264",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "@curfewatl This Friday Music By Me Need A Section Hit My Brudda @eatwhaddyoukill_ NOW \u203c\ufe0f\u203c\ufe0f @ Curfew ATL Restaurant &amp; Lounge https://t.co/PAqkvlQVg6",
+        "lang": "en",
+        "created_at": "2021-10-20T19:05:52.000Z",
+        "edit_history_tweet_ids": [
+            "1450901098588512264"
+        ]
+    },
+    {
+        "id": "1449889208043130889",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Just posted a photo @ Curfew ATL Restaurant &amp; Lounge https://t.co/jJ3Chldsr5",
+        "lang": "en",
+        "created_at": "2021-10-18T00:04:59.000Z",
+        "edit_history_tweet_ids": [
+            "1449889208043130889"
+        ]
+    },
+    {
+        "id": "1449824288769339394",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Just posted a photo @ Curfew ATL Restaurant &amp; Lounge https://t.co/hvgCQFEq2y",
+        "lang": "en",
+        "created_at": "2021-10-17T19:47:01.000Z",
+        "edit_history_tweet_ids": [
+            "1449824288769339394"
+        ]
+    },
+    {
+        "id": "1449052375365394432",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "( On My Block ) #WestSideTakeOver\n\nT O N I G H T \u203c\ufe0f\n\n@curfewatl \ud83d\udccd \n\nLADIES FREEEEEEE UNTIL MIDNIGHT LETS ROLL \u203c\ufe0f\u203c\ufe0f @ Curfew ATL Restaurant &amp; Lounge https://t.co/1HzyGt9XaK",
+        "lang": "en",
+        "created_at": "2021-10-15T16:39:43.000Z",
+        "edit_history_tweet_ids": [
+            "1449052375365394432"
+        ]
+    },
+    {
+        "id": "1447638079670562825",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Just posted a photo @ Curfew ATL Restaurant &amp; Lounge https://t.co/rmC0JIEdYQ",
+        "lang": "en",
+        "created_at": "2021-10-11T18:59:48.000Z",
+        "edit_history_tweet_ids": [
+            "1447638079670562825"
+        ]
+    },
+    {
+        "id": "1447327193315561478",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Meet Me At @curfewatl TONIGHT \u203c\ufe0f\u203c\ufe0f @ Curfew ATL Restaurant &amp; Lounge https://t.co/Mo6rxi8esP",
+        "lang": "en",
+        "created_at": "2021-10-10T22:24:27.000Z",
+        "edit_history_tweet_ids": [
+            "1447327193315561478"
+        ]
+    },
+    {
+        "id": "1447305989510901763",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "T O N I G H T \ud83d\udde3\n\n@curfewatl #StatusSundaze \ud83d\udccd \n\nEVERYBODY FREE UNTIL 11PM\n\nMusic By Me \ud83d\ude0e My Brudda @partywithpeoples On Da \ud83c\udfa4 \n\nNeed A Section Hit @thatfoonook ASAP\ud83d\udd12 @ Curfew ATL Restaurant &amp; Lounge https://t.co/u46RvAE2Ur",
+        "lang": "en",
+        "created_at": "2021-10-10T21:00:12.000Z",
+        "edit_history_tweet_ids": [
+            "1447305989510901763"
+        ]
+    },
+    {
+        "id": "1447304100102623238",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Tonight @curfewatl #StatusSundaze Music By Me \ud83d\ude0e\u203c\ufe0f\u203c\ufe0f @ Curfew ATL Restaurant &amp; Lounge https://t.co/MHcDgHVqcf",
+        "lang": "en",
+        "created_at": "2021-10-10T20:52:41.000Z",
+        "edit_history_tweet_ids": [
+            "1447304100102623238"
+        ]
+    },
+    {
+        "id": "1447225919995883525",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "#StatusSundaze Tonight #NeverBeenThisLit Da OFFICIAL WKND Finale &amp; I Got Sum BADDIES W/ Me @curfewatl Finna Be CRAZY Need A Section Hit Me Or My Brudda @thatfoonook \u203c\ufe0f\u203c\ufe0f\ud83d\ude08 @ Curfew ATL Restaurant &amp; Lounge https://t.co/7ba5ZVkj8W",
+        "lang": "en",
+        "created_at": "2021-10-10T15:42:02.000Z",
+        "edit_history_tweet_ids": [
+            "1447225919995883525"
+        ]
+    },
+    {
+        "id": "1446614119482904581",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Tonight @curfewatl \ud83d\udca5 @ Curfew ATL Restaurant &amp; Lounge https://t.co/k2XvcGuVsz",
+        "lang": "en",
+        "created_at": "2021-10-08T23:10:57.000Z",
+        "edit_history_tweet_ids": [
+            "1446614119482904581"
+        ]
+    },
+    {
+        "id": "1446597050863431684",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Don\u2019t Be This Guy TONIGHT \ud83d\ude02 Meet Me At @curfewatl W/ My Brudda @eatwhaddyoukill_ It\u2019s Up BADDIES In Our Section ONLY \u203c\ufe0f\u203c\ufe0f @ Curfew ATL Restaurant &amp; Lounge https://t.co/2ZbZSY4xfc",
+        "lang": "en",
+        "created_at": "2021-10-08T22:03:08.000Z",
+        "edit_history_tweet_ids": [
+            "1446597050863431684"
+        ]
+    },
+    {
+        "id": "1446576139774959625",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Tonight @curfewatl \ud83d\udccd \n\n#CertifiedLibraBash \u203c\ufe0f @ Curfew ATL Restaurant &amp; Lounge https://t.co/ctb8kpdSfJ",
+        "lang": "en",
+        "created_at": "2021-10-08T20:40:02.000Z",
+        "edit_history_tweet_ids": [
+            "1446576139774959625"
+        ]
+    },
+    {
+        "id": "1446492424205963266",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Just posted a photo @ Curfew ATL Restaurant &amp; Lounge https://t.co/F4psjNcOKg",
+        "lang": "en",
+        "created_at": "2021-10-08T15:07:23.000Z",
+        "edit_history_tweet_ids": [
+            "1446492424205963266"
+        ]
+    },
+    {
+        "id": "1446223511043854343",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "#CertifiedLibraBash\n\nThis Friday @curfewatl \ud83d\udccd \n\nWho Gotta Birthday Or A New Single &amp; Wanna MOBB W/ Me \u203c\ufe0f @ Curfew ATL Restaurant &amp; Lounge https://t.co/ZrC4J1QuE8",
+        "lang": "en",
+        "created_at": "2021-10-07T21:18:49.000Z",
+        "edit_history_tweet_ids": [
+            "1446223511043854343"
+        ]
+    },
+    {
+        "id": "1443638502235705346",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "@curfewatl Tomorrow Night W/ Da GUYS @eatwhaddyoukill_ @nostresskamp &amp; @_cincodadon VIBEZ Dm Me Now If Yall Wanna Pop It \ud83d\ude08\ud83d\ude08\u203c\ufe0f @ Curfew ATL Restaurant &amp; Lounge https://t.co/JEkf9zPXg8",
+        "lang": "en",
+        "created_at": "2021-09-30T18:06:55.000Z",
+        "edit_history_tweet_ids": [
+            "1443638502235705346"
+        ]
+    },
+    {
+        "id": "1443340155109130241",
+        "author_id": "1435627537300865024",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.54472619,
+                    33.75516661
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "text": "Just posted a photo @ Pipiolo Mexican Cafe https://t.co/PKFNbw5Qij",
+        "lang": "en",
+        "created_at": "2021-09-29T22:21:23.000Z",
+        "edit_history_tweet_ids": [
+            "1443340155109130241"
+        ]
+    },
+    {
+        "id": "1443198649438199812",
+        "author_id": "1435627537300865024",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.54472619,
+                    33.75516661
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "text": "Just posted a photo @ Pipiolo Mexican Cafe https://t.co/EX1imL7FHr",
+        "lang": "en",
+        "created_at": "2021-09-29T12:59:06.000Z",
+        "edit_history_tweet_ids": [
+            "1443198649438199812"
+        ]
+    },
+    {
+        "id": "1442574146236399622",
+        "author_id": "1435627537300865024",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.54472619,
+                    33.75516661
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "text": "Just posted a photo @ Pipiolo Mexican Cafe https://t.co/X00GbUFgWJ",
+        "lang": "en",
+        "created_at": "2021-09-27T19:37:32.000Z",
+        "edit_history_tweet_ids": [
+            "1442574146236399622"
+        ]
+    },
+    {
+        "id": "1442572004293595136",
+        "author_id": "733117787342786560",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Just posted a video @ Curfew ATL Restaurant &amp; Lounge https://t.co/g9VFnkpbU4",
+        "lang": "en",
+        "created_at": "2021-09-27T19:29:02.000Z",
+        "edit_history_tweet_ids": [
+            "1442572004293595136"
+        ]
+    },
+    {
+        "id": "1442279178259292160",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Just posted a photo @ Curfew ATL Restaurant &amp; Lounge https://t.co/X6Ip5nlQVs",
+        "lang": "en",
+        "created_at": "2021-09-27T00:05:27.000Z",
+        "edit_history_tweet_ids": [
+            "1442279178259292160"
+        ]
+    },
+    {
+        "id": "1442275407299063809",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "G A N G \n\nD E M \ud83d\ude08 @ Curfew ATL Restaurant &amp; Lounge https://t.co/4rg3vELEcK",
+        "lang": "en",
+        "created_at": "2021-09-26T23:50:27.000Z",
+        "edit_history_tweet_ids": [
+            "1442275407299063809"
+        ]
+    },
+    {
+        "id": "1442230800758415360",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "We On Da WESTSIDE \u270c\ud83c\udffeNight @curfewatl All BADDIES Slideeee On Me Music By Me \ud83d\ude0e\u203c\ufe0f @ Curfew ATL Restaurant &amp; Lounge https://t.co/U3rJEbnRtt",
+        "lang": "en",
+        "created_at": "2021-09-26T20:53:12.000Z",
+        "edit_history_tweet_ids": [
+            "1442230800758415360"
+        ]
+    },
+    {
+        "id": "1442034324346449920",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Just posted a video @ Curfew ATL Restaurant &amp; Lounge https://t.co/TOcdjfMFap",
+        "lang": "en",
+        "created_at": "2021-09-26T07:52:29.000Z",
+        "edit_history_tweet_ids": [
+            "1442034324346449920"
+        ]
+    },
+    {
+        "id": "1441899844231057412",
+        "author_id": "1224796823006720000",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "TONIGHT! It\u2019s up at @curfewatl for #OpulenceSaturdays \n\nI\u2019m djaying 10PM-3AM @ Curfew ATL Restaurant &amp; Lounge https://t.co/JVFDtV1H1m",
+        "lang": "en",
+        "created_at": "2021-09-25T22:58:06.000Z",
+        "edit_history_tweet_ids": [
+            "1441899844231057412"
+        ]
+    },
+    {
+        "id": "1441843853250596867",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "@eatwhaddyoukill_ Best Birthday I Done Witnessed All 2021 Let\u2019s Pop It Kid \u203c\ufe0f\u203c\ufe0f @ Curfew ATL Restaurant &amp; Lounge https://t.co/WpOo8QR0Dk",
+        "lang": "en",
+        "created_at": "2021-09-25T19:15:37.000Z",
+        "edit_history_tweet_ids": [
+            "1441843853250596867"
+        ]
+    },
+    {
+        "id": "1441683185419489282",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "D A T \n\nP U L L U P\n\nT E X T \ud83d\udcf1 @ Curfew ATL Restaurant &amp; Lounge https://t.co/pqszCLldXH",
+        "lang": "en",
+        "created_at": "2021-09-25T08:37:11.000Z",
+        "edit_history_tweet_ids": [
+            "1441683185419489282"
+        ]
+    },
+    {
+        "id": "1441543896199225346",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "@curfewatl Tonight Let\u2019s Pop It \ud83d\ude08\u203c\ufe0f @ Curfew ATL Restaurant &amp; Lounge https://t.co/ABPcxlheJf",
+        "lang": "en",
+        "created_at": "2021-09-24T23:23:42.000Z",
+        "edit_history_tweet_ids": [
+            "1441543896199225346"
+        ]
+    },
+    {
+        "id": "1441435300400558083",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Just posted a video @ Curfew ATL Restaurant &amp; Lounge https://t.co/kFmWUnj85Q",
+        "lang": "en",
+        "created_at": "2021-09-24T16:12:10.000Z",
+        "edit_history_tweet_ids": [
+            "1441435300400558083"
+        ]
+    },
+    {
+        "id": "1441213889534775312",
+        "author_id": "930204949",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Just posted a photo @ Curfew ATL Restaurant &amp; Lounge https://t.co/w85e8zexqg",
+        "lang": "en",
+        "created_at": "2021-09-24T01:32:22.000Z",
+        "edit_history_tweet_ids": [
+            "1441213889534775312"
+        ]
+    },
+    {
+        "id": "1441072323612741636",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Just posted a video @ Curfew ATL Restaurant &amp; Lounge https://t.co/f5MhqQB13T",
+        "lang": "en",
+        "created_at": "2021-09-23T16:09:50.000Z",
+        "edit_history_tweet_ids": [
+            "1441072323612741636"
+        ]
+    },
+    {
+        "id": "1440747100384284673",
+        "author_id": "1435627537300865024",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.54472619,
+                    33.75516661
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "text": "Just posted a photo @ Pipiolo Mexican Cafe https://t.co/tGOzKQL5qI",
+        "lang": "en",
+        "created_at": "2021-09-22T18:37:31.000Z",
+        "edit_history_tweet_ids": [
+            "1440747100384284673"
+        ]
+    },
+    {
+        "id": "1440387060255186950",
+        "author_id": "1435627537300865024",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.54472619,
+                    33.75516661
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "text": "Just posted a photo @ Pipiolo Mexican Cafe https://t.co/dCzyySCunI",
+        "lang": "en",
+        "created_at": "2021-09-21T18:46:50.000Z",
+        "edit_history_tweet_ids": [
+            "1440387060255186950"
+        ]
+    },
+    {
+        "id": "1439966377868238853",
+        "author_id": "1435627537300865024",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.54472619,
+                    33.75516661
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "text": "Just posted a photo @ Pipiolo Mexican Cafe https://t.co/uhxqzRPsSM",
+        "lang": "en",
+        "created_at": "2021-09-20T14:55:12.000Z",
+        "edit_history_tweet_ids": [
+            "1439966377868238853"
+        ]
+    },
+    {
+        "id": "1439765822512189443",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Tonight @curfewatl Let\u2019s PARTY \ud83d\ude08\u203c\ufe0f @ Curfew ATL Restaurant &amp; Lounge https://t.co/0IZICS0ZMJ",
+        "lang": "en",
+        "created_at": "2021-09-20T01:38:16.000Z",
+        "edit_history_tweet_ids": [
+            "1439765822512189443"
+        ]
+    },
+    {
+        "id": "1439743638712446982",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Pretty Girls Link Up We At @curfewatl TONIGHT For #BadBehavior Only Move In Da City Shit Finna SMACK \u203c\ufe0f @ Curfew ATL Restaurant &amp; Lounge https://t.co/W3a3tTdNYd",
+        "lang": "en",
+        "created_at": "2021-09-20T00:10:07.000Z",
+        "edit_history_tweet_ids": [
+            "1439743638712446982"
+        ]
+    },
+    {
+        "id": "1439733488400412676",
+        "author_id": "1435627537300865024",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.54472619,
+                    33.75516661
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "text": "Just posted a photo @ Pipiolo Mexican Cafe https://t.co/AK7b3D6fYA",
+        "lang": "en",
+        "created_at": "2021-09-19T23:29:47.000Z",
+        "edit_history_tweet_ids": [
+            "1439733488400412676"
+        ]
+    },
+    {
+        "id": "1439663435852263434",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Just posted a video @ Curfew ATL Restaurant &amp; Lounge https://t.co/ysMq4Ybod5",
+        "lang": "en",
+        "created_at": "2021-09-19T18:51:25.000Z",
+        "edit_history_tweet_ids": [
+            "1439663435852263434"
+        ]
+    },
+    {
+        "id": "1439624646035447809",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Just posted a video @ Curfew ATL Restaurant &amp; Lounge https://t.co/ffLWpRF6o4",
+        "lang": "en",
+        "created_at": "2021-09-19T16:17:17.000Z",
+        "edit_history_tweet_ids": [
+            "1439624646035447809"
+        ]
+    },
+    {
+        "id": "1439301946935058441",
+        "author_id": "1224796823006720000",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "TONIGHT! \n\nWho pullin up to @curfewatl?\n\n#OpulenceSaturdays\n10PM-3AM @ Curfew ATL Restaurant &amp; Lounge https://t.co/8yIl95f2Ze",
+        "lang": "en",
+        "created_at": "2021-09-18T18:54:59.000Z",
+        "edit_history_tweet_ids": [
+            "1439301946935058441"
+        ]
+    },
+    {
+        "id": "1438520851054219272",
+        "author_id": "1435627537300865024",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.54472619,
+                    33.75516661
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "text": "Just posted a photo @ Pipiolo Mexican Cafe https://t.co/t411yf5fDd",
+        "lang": "en",
+        "created_at": "2021-09-16T15:11:11.000Z",
+        "edit_history_tweet_ids": [
+            "1438520851054219272"
+        ]
+    },
+    {
+        "id": "1438237294213877768",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Just posted a photo @ Curfew ATL Restaurant &amp; Lounge https://t.co/Owa3FNBNyC",
+        "lang": "en",
+        "created_at": "2021-09-15T20:24:26.000Z",
+        "edit_history_tweet_ids": [
+            "1438237294213877768"
+        ]
+    },
+    {
+        "id": "1437306843005599746",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "B O M B \n\nS H E L L \ud83c\udf51 @ Curfew ATL Restaurant &amp; Lounge https://t.co/wMqlPO4pBL",
+        "lang": "en",
+        "created_at": "2021-09-13T06:47:09.000Z",
+        "edit_history_tweet_ids": [
+            "1437306843005599746"
+        ]
+    },
+    {
+        "id": "1437257686383529988",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "S O U F S I D E \n\nN E W \n\nE R A \ud83d\udcad @ Curfew ATL Restaurant &amp; Lounge https://t.co/Mf7ohOzxrz",
+        "lang": "en",
+        "created_at": "2021-09-13T03:31:50.000Z",
+        "edit_history_tweet_ids": [
+            "1437257686383529988"
+        ]
+    },
+    {
+        "id": "1437207597896065026",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "\ud83e\udd23\ud83e\udd23\ud83e\udd23 Meet Me At @curfewatl TONIGHT W/ @clthebombshell FINE ASS It\u2019s Up DER\u203c\ufe0f @ Curfew ATL Restaurant &amp; Lounge https://t.co/8tSSW7EtbU",
+        "lang": "en",
+        "created_at": "2021-09-13T00:12:48.000Z",
+        "edit_history_tweet_ids": [
+            "1437207597896065026"
+        ]
+    },
+    {
+        "id": "1437160528489627650",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "@curfewatl TONIGHT \u203c\ufe0f Only Shit MOVING On A Sunday Pretty Ladies Pop Let\u2019s Drink Need A Section DM ME NOW \ud83d\udd12 @ Curfew ATL Restaurant &amp; Lounge https://t.co/bNGFpHTGYz",
+        "lang": "en",
+        "created_at": "2021-09-12T21:05:45.000Z",
+        "edit_history_tweet_ids": [
+            "1437160528489627650"
+        ]
+    },
+    {
+        "id": "1437116878678339585",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Just posted a photo @ Curfew ATL Restaurant &amp; Lounge https://t.co/oBj30DJ02l",
+        "lang": "en",
+        "created_at": "2021-09-12T18:12:18.000Z",
+        "edit_history_tweet_ids": [
+            "1437116878678339585"
+        ]
+    },
+    {
+        "id": "1436417967521210380",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "S U N D A Y #SobrietySucks \n\n@curfewatl \ud83d\udccd @ Curfew ATL Restaurant &amp; Lounge https://t.co/X6rIGOyyux",
+        "lang": "en",
+        "created_at": "2021-09-10T19:55:05.000Z",
+        "edit_history_tweet_ids": [
+            "1436417967521210380"
+        ]
+    },
+    {
+        "id": "1434687879624724482",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "M O O D \ud83d\ude02\ud83d\ude02\ud83d\ude02 : @curfewatl \ud83d\udccd TONIGHT @ Curfew ATL Restaurant &amp; Lounge https://t.co/vMxaH4Mlzx",
+        "lang": "en",
+        "created_at": "2021-09-06T01:20:20.000Z",
+        "edit_history_tweet_ids": [
+            "1434687879624724482"
+        ]
+    },
+    {
+        "id": "1434669008381521921",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "T O N I G H T @curfewatl \u203c\ufe0f @ Curfew ATL Restaurant &amp; Lounge https://t.co/0INikFmhmy",
+        "lang": "en",
+        "created_at": "2021-09-06T00:05:21.000Z",
+        "edit_history_tweet_ids": [
+            "1434669008381521921"
+        ]
+    },
+    {
+        "id": "1434640578558320643",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Meet Me At @curfewatl TONIGHT EVERYBODY Outside Wanna Slideeee FOR FREE Txt #LaborDaySunday ( Include # ) To 470.398.0824 &amp; You In DERE Let\u2019s Roll @thatfoonook Its \u23f0 \ud83d\ude08 @ Curfew ATL Restaurant &amp; Lounge https://t.co/5Ujl9D54Wc",
+        "lang": "en",
+        "created_at": "2021-09-05T22:12:22.000Z",
+        "edit_history_tweet_ids": [
+            "1434640578558320643"
+        ]
+    },
+    {
+        "id": "1434576065431842820",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "2nite ONLY Move In ATL @curfewatl WHOLE CITY COMING \u203c\ufe0f\u203c\ufe0f\ud83d\udd25 @ Curfew ATL Restaurant &amp; Lounge https://t.co/A4SoNCzPFU",
+        "lang": "en",
+        "created_at": "2021-09-05T17:56:01.000Z",
+        "edit_history_tweet_ids": [
+            "1434576065431842820"
+        ]
+    },
+    {
+        "id": "1434563576551854082",
+        "author_id": "29156588",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "IF YOU SLIDIN WIT ME AND THE GANG TONIGHT TAP TF IN \ud83e\udd8d\ud83e\udd8d\ud83e\udd8d! #ItsUp @curfewatl \ud83d\udcf8\ud83d\udcf8\ud83d\udcf8 @ Curfew ATL Restaurant &amp; Lounge https://t.co/8r9D0K3RSK",
+        "lang": "en",
+        "created_at": "2021-09-05T17:06:24.000Z",
+        "edit_history_tweet_ids": [
+            "1434563576551854082"
+        ]
+    },
+    {
+        "id": "1433589115635871746",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Got My Dawg @tkkravitz + Da Beautiful @theasianae W/ Me Sunday At @curfewatl I Need Girls To Walk In W/ Me @thatfoonook Sunday Finna Be CRAZY \u203c\ufe0f @ Curfew ATL Restaurant &amp; Lounge https://t.co/gfi3DdgB9K",
+        "lang": "en",
+        "created_at": "2021-09-03T00:34:14.000Z",
+        "edit_history_tweet_ids": [
+            "1433589115635871746"
+        ]
+    },
+    {
+        "id": "1433582314303508481",
+        "author_id": "29156588",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "SUNDAY ITS UP! WE AT DAT @curfewatl MF! \ud83c\udfcc\ud83c\udffd\u200d\u2642\ufe0f\ud83d\udca8\ud83d\udca8\ud83d\udca8\ud83d\udca8 @ Curfew ATL Restaurant &amp; Lounge https://t.co/cRDyue6ne9",
+        "lang": "en",
+        "created_at": "2021-09-03T00:07:13.000Z",
+        "edit_history_tweet_ids": [
+            "1433582314303508481"
+        ]
+    },
+    {
+        "id": "1433510484607569928",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "SUNDAY @curfewatl \ud83d\udccd \n\nNeed Da Whole SOUFSIDE W/ Me \u203c\ufe0f @ Curfew ATL Restaurant &amp; Lounge https://t.co/ipIhIPLa3C",
+        "lang": "en",
+        "created_at": "2021-09-02T19:21:47.000Z",
+        "edit_history_tweet_ids": [
+            "1433510484607569928"
+        ]
+    },
+    {
+        "id": "1432099935718150147",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Pretty Girls PARTY On SUNDAY \ud83d\ude0e\n\nMeet Me At @curfewatl TONIGHT \u203c\ufe0f\n\n#StatusSundaze Need A Section Dm Me Now \ud83d\udd12 @ Curfew ATL Restaurant &amp; Lounge https://t.co/tCMAzu4hdW",
+        "lang": "en",
+        "created_at": "2021-08-29T21:56:46.000Z",
+        "edit_history_tweet_ids": [
+            "1432099935718150147"
+        ]
+    },
+    {
+        "id": "1429510604818206724",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "SUNDAYS Belong To @curfewatl Meet Me There TONIGHT #StatusSundaze If You Gotta Birthday &amp; Wanna Pop Out W/ Da Gang Dm Me NOW \u203c\ufe0f @ Curfew ATL Restaurant &amp; Lounge https://t.co/ltD7G4a8j1",
+        "lang": "en",
+        "created_at": "2021-08-22T18:27:41.000Z",
+        "edit_history_tweet_ids": [
+            "1429510604818206724"
+        ]
+    },
+    {
+        "id": "1429495596059090958",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "T O N I G H T We On Da Best Side Da WESTSIDE At @curfewatl For My Brudda @iwantthemmillions Birthday Bash I Need All Da BADDIES On Bankhead W/ Me Need A Section Hit Me Now \u203c\ufe0f\u203c\ufe0f\ud83d\udd25 @ Curfew ATL Restaurant &amp; Lounge https://t.co/xSfwOWWZLw",
+        "lang": "en",
+        "created_at": "2021-08-22T17:28:03.000Z",
+        "edit_history_tweet_ids": [
+            "1429495596059090958"
+        ]
+    },
+    {
+        "id": "1429187920251039748",
+        "author_id": "1224796823006720000",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "TONIGHT! \n\nI\u2019m djaying at @curfewatl 10PM-3AM\n\n#OpulenceSaturdays every Sat night! @ Curfew ATL Restaurant &amp; Lounge https://t.co/VcpToDyJAp",
+        "lang": "en",
+        "created_at": "2021-08-21T21:05:27.000Z",
+        "edit_history_tweet_ids": [
+            "1429187920251039748"
+        ]
+    },
+    {
+        "id": "1429125483766108167",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "#StatusSundaze \ud83d\udde3\n\nDa \ud83d\udc10 Is BACK \u203c\ufe0f\n\nMeet Me At @curfewatl Tomorrow Let\u2019s ROLL \ud83d\ude08 @ Curfew ATL Restaurant &amp; Lounge https://t.co/XhVKoWbnBB",
+        "lang": "en",
+        "created_at": "2021-08-21T16:57:21.000Z",
+        "edit_history_tweet_ids": [
+            "1429125483766108167"
+        ]
+    },
+    {
+        "id": "1416959242322522112",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "ATLANTA Meet Me At @curfewatl \ud83d\udde3\n\nTONIGHT \n\nIt\u2019s \ud83c\udd99 &amp; Stuck Sounds By Da Kid \ud83d\ude0e ! @ Curfew ATL Restaurant &amp; Lounge https://t.co/gcp2sVZyCz",
+        "lang": "en",
+        "created_at": "2021-07-19T03:13:03.000Z",
+        "edit_history_tweet_ids": [
+            "1416959242322522112"
+        ]
+    },
+    {
+        "id": "1416835157865205770",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "#BirthdayBashWKND Finale \n\nT O N I G H T @curfewatl \n\nMeet Me DERE \u203c\ufe0f\n\nWhole City COMING \ud83d\ude0e\ud83e\udd96 @ Curfew ATL Restaurant &amp; Lounge https://t.co/CfYPMqoXbr",
+        "lang": "en",
+        "created_at": "2021-07-18T18:59:59.000Z",
+        "edit_history_tweet_ids": [
+            "1416835157865205770"
+        ]
+    },
+    {
+        "id": "1414573487151255555",
+        "author_id": "1481137530",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.53166199,
+                    33.76574326
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "text": "I'm at Mels Restaurant in Atlanta, GA https://t.co/2wrqBMpB6U",
+        "lang": "en",
+        "created_at": "2021-07-12T13:12:55.000Z",
+        "edit_history_tweet_ids": [
+            "1414573487151255555"
+        ]
+    },
+    {
+        "id": "1414460046101164032",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "@curfewatl Right Now \ud83e\udd2f @ Curfew ATL Restaurant &amp; Lounge https://t.co/lkOaXkBuWc",
+        "lang": "en",
+        "created_at": "2021-07-12T05:42:09.000Z",
+        "edit_history_tweet_ids": [
+            "1414460046101164032"
+        ]
+    },
+    {
+        "id": "1414311357978193924",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "\u270c\ud83c\udffeNight @curfewatl \n\nMilwaukee VZ Atlanta \n\nMusic By Me \ud83d\ude0e #YKTFV \n\nNeed A Section Hit @thatfoonook \u203c\ufe0f\u203c\ufe0f @ Curfew ATL Restaurant &amp; Lounge https://t.co/n5O2h92ulV",
+        "lang": "en",
+        "created_at": "2021-07-11T19:51:19.000Z",
+        "edit_history_tweet_ids": [
+            "1414311357978193924"
+        ]
+    },
+    {
+        "id": "1413522304521445383",
+        "author_id": "772139403540062210",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "text": "Still up\u2026 at Cafe social before i go to my appointment. https://t.co/2cwHB11FJS",
+        "geo": {
+            "place_id": "0ea3445e0a150000"
+        },
+        "lang": "en",
+        "created_at": "2021-07-09T15:35:54.000Z",
+        "edit_history_tweet_ids": [
+            "1413522304521445383"
+        ]
+    },
+    {
+        "id": "1408821586866577409",
+        "author_id": "960004443797368832",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.51574708,
+                    33.79953002
+                ]
+            },
+            "place_id": "fe4b2b8e51cc85c1"
+        },
+        "text": "Thanks for the recommendation @Melissa!!!  #sefcaresaturday @ Cafe' Social House https://t.co/gNrakisAjL",
+        "lang": "en",
+        "created_at": "2021-06-26T16:16:55.000Z",
+        "edit_history_tweet_ids": [
+            "1408821586866577409"
+        ]
+    },
+    {
+        "id": "1404472974930071552",
+        "author_id": "1164889210177953792",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "\ud83d\udde3Preciate you for pushing up on me lastnite  bro!!!\ud83d\ude4f\ud83c\udffe\u270a\ud83c\udffe\ud83d\udcaf#Pc448ent#NeverNotWorkin#getmoneydjs #qcdjs @ Curfew ATL Restaurant &amp; Lounge https://t.co/ABxroZIi5M",
+        "lang": "en",
+        "created_at": "2021-06-14T16:17:05.000Z",
+        "edit_history_tweet_ids": [
+            "1404472974930071552"
+        ]
+    },
+    {
+        "id": "1404279630702469120",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "We Drinking TONIGHT \u203c\ufe0f @curfewatl @ Curfew ATL Restaurant &amp; Lounge https://t.co/JnsVIogbv4",
+        "lang": "en",
+        "created_at": "2021-06-14T03:28:48.000Z",
+        "edit_history_tweet_ids": [
+            "1404279630702469120"
+        ]
+    },
+    {
+        "id": "1404218321608884225",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "@curfewatl SUNDAYS #StatusSundaze \ud83d\ude0e @ Curfew ATL Restaurant &amp; Lounge https://t.co/5eX3N3c32E",
+        "lang": "en",
+        "created_at": "2021-06-13T23:25:11.000Z",
+        "edit_history_tweet_ids": [
+            "1404218321608884225"
+        ]
+    },
+    {
+        "id": "1404217856729006081",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Slideeee On Me We Showing Love Tonight At @curfewatl \u203c\ufe0f @ Curfew ATL Restaurant &amp; Lounge https://t.co/oh7PKkI4az",
+        "lang": "en",
+        "created_at": "2021-06-13T23:23:20.000Z",
+        "edit_history_tweet_ids": [
+            "1404217856729006081"
+        ]
+    },
+    {
+        "id": "1404213954579255297",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "\u270c\ud83c\udffeNight @curfewatl \n\n#StatusSundaze \ud83d\ude0e\n\nCrowd Control Da Kid \u274c @slickmitch_  \ud83d\udd25 \n\nNeed A Section Hit @jmillzrmf Or @thatfoonook ASAP Let\u2019s Go \u203c\ufe0f\u203c\ufe0f @ Curfew ATL Restaurant &amp; Lounge https://t.co/7jCy8Ul0LD",
+        "lang": "en",
+        "created_at": "2021-06-13T23:07:50.000Z",
+        "edit_history_tweet_ids": [
+            "1404213954579255297"
+        ]
+    },
+    {
+        "id": "1404159986532589573",
+        "author_id": "1164889210177953792",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Kicked Back In The VIP\n#Pc448ent #NoLoveOtw @ Curfew ATL Restaurant &amp; Lounge https://t.co/LMnR6kJxeq",
+        "lang": "en",
+        "created_at": "2021-06-13T19:33:23.000Z",
+        "edit_history_tweet_ids": [
+            "1404159986532589573"
+        ]
+    },
+    {
+        "id": "1402813682724257793",
+        "author_id": "116772645",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5131989,
+                    33.7987366
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "text": "Drinking a Bud Light by @AnheuserBusch @ Pizza Bar \u2014 https://t.co/DPEwCol2Sx",
+        "lang": "en",
+        "created_at": "2021-06-10T02:23:39.000Z",
+        "edit_history_tweet_ids": [
+            "1402813682724257793"
+        ]
+    },
+    {
+        "id": "1401677774344146945",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "@curfewatl \u270c\ud83c\udffeNight I\u2019m Getting DRUNK For My @atlhawks + We Showing The #MayWeatherVsPaul Fight Slideeee On Me EARLY Sections Goin FAST \u203c\ufe0f @ Curfew ATL Restaurant &amp; Lounge https://t.co/lRgBGzsiMD",
+        "lang": "en",
+        "created_at": "2021-06-06T23:09:57.000Z",
+        "edit_history_tweet_ids": [
+            "1401677774344146945"
+        ]
+    },
+    {
+        "id": "1401610549079822336",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "@younghunxho Live \u270c\ud83c\udffeNight At @curfewatl Music By Me \ud83d\ude0e + I\u2019m Bringing Da Whole SOUFSIDE On My Mama Let\u2019s Roll Hit @thatfoonook For All Sections We Got 2 LEFT \ud83e\udd2f @ Curfew ATL Restaurant &amp; Lounge https://t.co/6bxq9eDCpx",
+        "lang": "en",
+        "created_at": "2021-06-06T18:42:50.000Z",
+        "edit_history_tweet_ids": [
+            "1401610549079822336"
+        ]
+    },
+    {
+        "id": "1400493134644121604",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Sunday Let\u2019s Go Tag \ud83c\udff7 Somebody HARD \u2b07\ufe0f @ Curfew ATL Restaurant &amp; Lounge https://t.co/8i7ubbqGZV",
+        "lang": "en",
+        "created_at": "2021-06-03T16:42:37.000Z",
+        "edit_history_tweet_ids": [
+            "1400493134644121604"
+        ]
+    },
+    {
+        "id": "1396529767990677509",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "@curfewatl TONIGHT \u203c\ufe0f\n\nW O C K E S H A \ud83c\udf47 \n\nMusic By Me \ud83d\ude0e\n\nNeed A Section Hit @thatfoonook ASAP \ud83d\udd0c @ Curfew ATL Restaurant &amp; Lounge https://t.co/H1PyYK2txe",
+        "lang": "en",
+        "created_at": "2021-05-23T18:13:37.000Z",
+        "edit_history_tweet_ids": [
+            "1396529767990677509"
+        ]
+    },
+    {
+        "id": "1394213474390188033",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "P O D C A S T \ud83d\ude0e @ Curfew ATL Restaurant &amp; Lounge https://t.co/qlEQRGRyYH",
+        "lang": "en",
+        "created_at": "2021-05-17T08:49:30.000Z",
+        "edit_history_tweet_ids": [
+            "1394213474390188033"
+        ]
+    },
+    {
+        "id": "1393966300309950465",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "\u270c\ud83c\udffeNight @curfewatl \ud83d\ude08\n\n@eurogotit Album Release Party \ud83e\udd18\ud83c\udffe\n\nMusic By Da Kid \ud83d\ude0e\n\nNeed A Section Hit @tezgdaboss or @thatfoonook ASAP\u203c\ufe0f @ Curfew ATL Restaurant &amp; Lounge https://t.co/re0ziksjS4",
+        "lang": "en",
+        "created_at": "2021-05-16T16:27:19.000Z",
+        "edit_history_tweet_ids": [
+            "1393966300309950465"
+        ]
+    },
+    {
+        "id": "1391463676771803139",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "@curfewatl T O N I G H T\u203c\ufe0f\n\nMother\u2019s Day Edition \ud83d\udc99\n\nMother\u2019s \ud83c\udd93 Until Midnight \ud83d\udd0c \n\nMusic By Me \ud83d\ude0e DUHHHHH \ud83d\udd25\n\nNeed A Section Hit My Guys @tezgdaboss &amp; @thatfoonook \u203c\ufe0f @ Curfew ATL Restaurant &amp; Lounge https://t.co/hy6qKmsfMF",
+        "lang": "en",
+        "created_at": "2021-05-09T18:42:47.000Z",
+        "edit_history_tweet_ids": [
+            "1391463676771803139"
+        ]
+    },
+    {
+        "id": "1391095457187721218",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "C U R F E W \n\nS U N D A Y S \ud83d\udd0c @ Curfew ATL Restaurant &amp; Lounge https://t.co/pZlISpbXQA",
+        "lang": "en",
+        "created_at": "2021-05-08T18:19:36.000Z",
+        "edit_history_tweet_ids": [
+            "1391095457187721218"
+        ]
+    },
+    {
+        "id": "1389024847137808384",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "@curfewatl TONIGHT \u203c\ufe0f @ Curfew ATL Restaurant &amp; Lounge https://t.co/SiXQcmAQyl",
+        "lang": "en",
+        "created_at": "2021-05-03T01:11:45.000Z",
+        "edit_history_tweet_ids": [
+            "1389024847137808384"
+        ]
+    },
+    {
+        "id": "1388923624011276290",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "T O N I G H T @curfewatl \ud83d\udde3\n\nV I B E Z By Me \ud83d\ude0e\n\nNeed A Section Hit @thatfoonook x @tezgdaboss \ud83d\udd0c \n\nLet\u2019s Go \ud83d\udd25 @ Curfew ATL Restaurant &amp; Lounge https://t.co/1lh2qnjsZB",
+        "lang": "en",
+        "created_at": "2021-05-02T18:29:31.000Z",
+        "edit_history_tweet_ids": [
+            "1388923624011276290"
+        ]
+    },
+    {
+        "id": "1384384848593305601",
+        "author_id": "330724891",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "If your really ready to work with us. MessageMeNow #Mentors #CapitalWealthFam #mindsetiseverything  #moneyisextra #PrettyR1ch #hustlepretty #millionairemindset #billionairevibes \ud83d\udd25\ud83d\udd25\ud83d\udd25 @ Curfew ATL Restaurant &amp; Lounge https://t.co/bU93OF0Kw3",
+        "lang": "en",
+        "created_at": "2021-04-20T05:54:03.000Z",
+        "edit_history_tweet_ids": [
+            "1384384848593305601"
+        ]
+    },
+    {
+        "id": "1381284421467308033",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Just posted a photo @ Curfew ATL Restaurant &amp; Lounge https://t.co/L7l63WfhDw",
+        "lang": "en",
+        "created_at": "2021-04-11T16:34:03.000Z",
+        "edit_history_tweet_ids": [
+            "1381284421467308033"
+        ]
+    },
+    {
+        "id": "1380672860751073280",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "@sb_skooly REALEST Cat I Ever Met So You Know Rocking For My Dirty 3\ufe0f\u20e30\ufe0f\u20e3 MEET Us At @curfewatl Sunday ( Pretty Girls ONLY ) @luhdino @daedae @amgtwinz + @1kashmoney._ W/ Me TOO \u203c\ufe0f\ud83e\udd1e\ud83c\udffe @ Curfew ATL Restaurant &amp; Lounge https://t.co/sQ0LVuUIPF",
+        "lang": "en",
+        "created_at": "2021-04-10T00:03:56.000Z",
+        "edit_history_tweet_ids": [
+            "1380672860751073280"
+        ]
+    },
+    {
+        "id": "1378872089067843588",
+        "author_id": "764523060099682304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48102,
+                    33.78072
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "T O N I G H T @curfewatl Home Of Da VIBEZ \u26a1\ufe0f\ud83d\udea8\ud83e\udd18\ud83c\udffe @ Curfew ATL Restaurant &amp; Lounge https://t.co/7S9amea2UF",
+        "lang": "en",
+        "created_at": "2021-04-05T00:48:18.000Z",
+        "edit_history_tweet_ids": [
+            "1378872089067843588"
+        ]
+    },
+    {
+        "id": "1373366193235496961",
+        "author_id": "32586013",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.51574708,
+                    33.79953002
+                ]
+            },
+            "place_id": "fe4b2b8e51cc85c1"
+        },
+        "text": "Cousins in ATL @ Cafe' Social House https://t.co/ZToy5yFy7j",
+        "lang": "en",
+        "created_at": "2021-03-20T20:09:51.000Z",
+        "edit_history_tweet_ids": [
+            "1373366193235496961"
+        ]
+    },
+    {
+        "id": "1362497102304182274",
+        "author_id": "1481137530",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.53314655,
+                    33.76458321
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "text": "I'm at Riley's Show Bar in Atlanta, GA https://t.co/AdNh32NRNr",
+        "lang": "en",
+        "created_at": "2021-02-18T20:19:57.000Z",
+        "edit_history_tweet_ids": [
+            "1362497102304182274"
+        ]
+    },
+    {
+        "id": "1343244177757319168",
+        "author_id": "47193640",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.51574708,
+                    33.79953002
+                ]
+            },
+            "place_id": "fe4b2b8e51cc85c1"
+        },
+        "text": "Breakfast was great this morning with my fam before they leave. @ Cafe' Social House https://t.co/7t7DccBn5B",
+        "lang": "en",
+        "created_at": "2020-12-27T17:15:42.000Z",
+        "edit_history_tweet_ids": [
+            "1343244177757319168"
+        ]
+    },
+    {
+        "id": "1308773468339605506",
+        "author_id": "49196325",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Where\u2019s a cute hookah bar?",
+        "geo": {
+            "place_id": "07d9d527e8c80002"
+        },
+        "lang": "en",
+        "created_at": "2020-09-23T14:21:25.000Z",
+        "edit_history_tweet_ids": [
+            "1308773468339605506"
+        ]
+    },
+    {
+        "id": "1307829059313897474",
+        "author_id": "47193640",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.51574708,
+                    33.79953002
+                ]
+            },
+            "place_id": "fe4b2b8e51cc85c1"
+        },
+        "text": "Margarita salmon, shrimp, and grits!\ud83d\ude0b\ud83d\ude0b @ Cafe' Social House https://t.co/lsBrAk6h0w",
+        "lang": "en",
+        "created_at": "2020-09-20T23:48:40.000Z",
+        "edit_history_tweet_ids": [
+            "1307829059313897474"
+        ]
+    },
+    {
+        "author_id": "42698718",
+        "geo": {
+            "place_id": "fe4b2b8e51cc85c1",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.51574708,
+                    33.79953002
+                ]
+            }
+        },
+        "created_at": "2020-08-09T18:23:26.000Z",
+        "text": "\ud83e\udd70 She remembered who she was &amp; the game changed. \ud83d\ude18 @ Cafe' Social House https://t.co/OwCghOUoTo",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1292526918655520774"
+        ],
+        "id": "1292526918655520774",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "1098285673428250624",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.547389,
+                    33.76975194
+                ]
+            }
+        },
+        "created_at": "2020-07-06T18:50:25.000Z",
+        "text": "Have you checked out the newly themed Birds of Prey Cafe (f.k.a. Gotham City Eatery) back in the all-new Gotham City area of the park at @sfovergeorgia? If you haven't, it's definitely worth a visit. The revamp looks\u2026 https://t.co/QHZRC3Aa2V",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1280212523841708033"
+        ],
+        "id": "1280212523841708033",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "1481137530",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.53125,
+                    33.765429
+                ]
+            }
+        },
+        "created_at": "2020-06-22T00:37:55.000Z",
+        "text": "I'm at 2 Wheel Bar &amp; Grill in Atlanta, GA https://t.co/n8SO3tgI7L",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1274864156102049792"
+        ],
+        "id": "1274864156102049792",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "330651121",
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.47481135,
+                    33.77690901
+                ]
+            }
+        },
+        "created_at": "2020-06-03T15:44:22.000Z",
+        "text": "Here go the truck delivery #dogmeat to Hans Chinese restaurant @ Nuradio Station https://t.co/4hV2NuEWPv",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1268206901793341440"
+        ],
+        "id": "1268206901793341440",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "1481137530",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.53314655,
+                    33.76458321
+                ]
+            }
+        },
+        "created_at": "2020-05-18T07:29:55.000Z",
+        "text": "I'm at Riley's Show Bar in Atlanta, GA https://t.co/QRh4Vv9KfX",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1262284263447318528"
+        ],
+        "id": "1262284263447318528",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "30190594",
+        "geo": {
+            "place_id": "fe4b2b8e51cc85c1",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.51574708,
+                    33.79953002
+                ]
+            }
+        },
+        "created_at": "2020-05-14T19:16:26.000Z",
+        "text": "I\u2019m not single. I\u2019m in a long term relationship with action, adventure and fun. \ud83d\udcaf\u2708\ufe0f\ud83c\udfd6 \n.\n.\n.\n#adventure #fun #travel #lovingme @ Cafe' Social House https://t.co/RaC3C7NjPp",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1261012513384206339"
+        ],
+        "id": "1261012513384206339",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "59043415",
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5054,
+                    33.7595
+                ]
+            }
+        },
+        "created_at": "2020-05-02T19:24:57.000Z",
+        "text": "Air bender \ud83c\udfa7 @bobatl #inspiringthenext I don\u2019t care who you came to see but you gone cheer for me \u270a\ud83c\udffe that\u2019s a bar \ud83d\ude02 #peopleschamp tag a friend who remember rocky love Emberley #3ninjas \ud83e\udd23 @ Adamsville, Atlanta https://t.co/1vOadRgWbp",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1256666003691495424"
+        ],
+        "id": "1256666003691495424",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "59043415",
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5054,
+                    33.7595
+                ]
+            }
+        },
+        "created_at": "2020-04-25T00:52:13.000Z",
+        "text": "#fbf The hood ain\u2019t been the same since Reagan \ud83d\ude24 that a bar! @bobatl \ud83c\udfa7Swipe for my dunk doe \ud83d\ude05\ud83e\udd37\ud83c\udffe\u200d\u2642\ufe0f\ud83e\udd9f tag a friend play any style \n#squitostyle #quickdontlie #inspiringthenext #ballislife #atllegend #sizemattersnot @\u2026 https://t.co/gwCU75al1l",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1253849258685542408"
+        ],
+        "id": "1253849258685542408",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "941358134127415299",
+        "geo": {
+            "place_id": "5b8df26e6d0be60b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.51335372,
+                    33.79971077
+                ]
+            }
+        },
+        "created_at": "2020-03-08T21:48:38.000Z",
+        "text": "Infusions are our thang here Margarita filled Skrrrawberries are available \n#sluttybrownies #atlantabakery #sweetsbysweetz #sweettooth #sweetdreams #sweettreats #brownies #cupcakes #cakes #atlanta #bakery #baker\u2026 https://t.co/wj76YNAvjF",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1236770831390461952"
+        ],
+        "id": "1236770831390461952",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "941358134127415299",
+        "geo": {
+            "place_id": "5b8df26e6d0be60b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.51335372,
+                    33.79971077
+                ]
+            }
+        },
+        "created_at": "2020-03-08T19:08:37.000Z",
+        "text": "IF HUSTLE#IN WAS A CURSE I THINK I WOULD BE FUCKED SO GOOD\ud83e\udd37\ud83c\udffe\u200d\u2642\ufe0f SO WE GOT A BAKERY GRAND OPENING COMIN THIS FALL SHOP WITH UR FOLKS I SWEAR U WONT BE LET DOWN  \n#sluttybrownies #atlantabakery #sweetsbysweetz\u2026 https://t.co/oLQ2lYquIT",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1236730559818326019"
+        ],
+        "id": "1236730559818326019",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "1481137530",
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.49035779,
+                    33.78657543
+                ]
+            }
+        },
+        "created_at": "2020-01-23T12:00:09.000Z",
+        "text": "I'm at Iron Skillet Restaurant - @petrocenters in Atlanta, GA https://t.co/qmhhNnibqP",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1220315277184962561"
+        ],
+        "id": "1220315277184962561",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    }
+]

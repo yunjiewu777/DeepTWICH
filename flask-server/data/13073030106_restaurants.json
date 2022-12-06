@@ -1,0 +1,3255 @@
+[
+    {
+        "created_at": "2022-05-31T22:47:23.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1531769336766926848"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.05029178,
+                    33.51338583
+                ]
+            }
+        },
+        "id": "1531769336766926848",
+        "text": "Meet me at the TRAAAAAAP,  it's going downnnn!\ud83c\udf7b @ Rhinehart's Oyster Bar https://t.co/N5KsK3rgb3"
+    },
+    {
+        "created_at": "2022-05-26T20:21:54.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1529920784789032967"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.05029178,
+                    33.51338583
+                ]
+            }
+        },
+        "id": "1529920784789032967",
+        "text": "Round 3!! @ Rhinehart's Oyster Bar https://t.co/y60j77Q2Ht"
+    },
+    {
+        "created_at": "2022-05-25T15:56:51.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1529491697427783683"
+        ],
+        "author_id": "340358356",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1529491697427783683",
+        "text": "@JTolbert29 @Mrpeterbone I like the fact I don't have wait to get a bar seat"
+    },
+    {
+        "created_at": "2022-05-24T02:47:45.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1528930724476293126"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.05508699,
+                    33.51423815
+                ]
+            }
+        },
+        "id": "1528930724476293126",
+        "text": "Next round!! @ Applebee's Grill + Bar https://t.co/SbiiIgesxG"
+    },
+    {
+        "created_at": "2022-05-20T14:57:11.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1527664742394904576"
+        ],
+        "author_id": "340358356",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1527664742394904576",
+        "text": "@Mrpeterbone @JTolbert29 \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02 I'm fr tho ... so y'all don't like that the bar bigger and that they have a patio ??!!"
+    },
+    {
+        "created_at": "2022-05-17T20:22:07.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1526659351225806849"
+        ],
+        "author_id": "151665707",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 1
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1526659351225806849",
+        "text": "Is toffee even real? Like wtf is a Heath bar?"
+    },
+    {
+        "created_at": "2022-05-07T15:50:49.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1522967193842978816"
+        ],
+        "author_id": "444062873",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1522967193842978816",
+        "text": "Working at a nicer restaurant is great bc people get all dressed up for their night out and I've worn the same shirt 3 days in a row \ud83d\ude43"
+    },
+    {
+        "created_at": "2022-05-07T05:04:19.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1522804500376993794"
+        ],
+        "author_id": "340358356",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1522804500376993794",
+        "text": "We left the restaurant and this Nigga was still hungry. \n\nJust greedy AF"
+    },
+    {
+        "created_at": "2022-05-03T23:50:49.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1521638440118497280"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.05508699,
+                    33.51423815
+                ]
+            }
+        },
+        "id": "1521638440118497280",
+        "text": "Just posted a photo @ Applebee's Grill + Bar https://t.co/8QdF7zh5KZ"
+    },
+    {
+        "created_at": "2022-04-19T03:58:03.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1516264842067333123"
+        ],
+        "author_id": "79153192",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1516264842067333123",
+        "text": "@Howard_Cole I get it, but that\u2019s a really low bar."
+    },
+    {
+        "created_at": "2022-04-12T20:36:26.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1513979375565385736"
+        ],
+        "author_id": "1437457773743194117",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1513979375565385736",
+        "text": "@neutromelon @Zora8me Our Cafe manager played around an her informal experiences,  if you seed 2 or 3 dollar bills and some pocket change,  people see it and tip more often... if seed a $5 bill.... it takes awhile to start getting tips"
+    },
+    {
+        "created_at": "2022-04-06T21:16:36.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1511815158284402689"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.05029178,
+                    33.51338583
+                ]
+            }
+        },
+        "id": "1511815158284402689",
+        "text": "#daydrinking @ Rhinehart's Oyster Bar https://t.co/pVCaobmIID"
+    },
+    {
+        "created_at": "2022-04-02T22:10:05.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1510379066683281409"
+        ],
+        "author_id": "914571284",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.05056,
+                    33.5132446
+                ]
+            }
+        },
+        "id": "1510379066683281409",
+        "text": "Drinking a Savannah River IPA by @SavRivBrewCo @ Rhinehart's Oyster Bar \u2014 https://t.co/wAaRhgjCjA"
+    },
+    {
+        "created_at": "2022-03-24T23:59:28.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1507145104401874947"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.04559862,
+                    33.51363487
+                ]
+            }
+        },
+        "id": "1507145104401874947",
+        "text": "Finally on my 7\ud83d\ude4c\ud83c\udffe....#FTJ @ Veracruz Mexican Restaurant https://t.co/cBPvvYSVpM"
+    },
+    {
+        "created_at": "2022-03-20T12:14:20.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1505518097289166852"
+        ],
+        "author_id": "2241513510",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1505518097289166852",
+        "text": "Makes sense to me...and @NewYorkStateAG has the State crimes covered in her case, with the ability to shut him down, with a lower bar for proof!\nMakes sense to me.\nAnd it looks like the Vance replacement did appoint a new prosecutor. \nhttps://t.co/FUO4u7UmCI https://t.co/BqGrYZFC9j"
+    },
+    {
+        "created_at": "2022-03-14T16:12:24.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1503403681806495747"
+        ],
+        "author_id": "2241513510",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1503403681806495747",
+        "text": "3) a bar (never happened).  I lost my only brother, who looked about 12 years old. (He's 66. Never happened.)  I was fighting with a lover, who's  been dead since the early nineties. \nSome govt workers seized my hot tub from my old house (haven't  had a hot"
+    },
+    {
+        "created_at": "2022-03-10T21:59:15.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1502041417262284803"
+        ],
+        "author_id": "1437457773743194117",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1502041417262284803",
+        "text": "@MrJoeSteel @Tactical_review I'm willing to go \"supercenter\" so we can have indoor rifle range and hooka bar..."
+    },
+    {
+        "created_at": "2022-03-07T02:09:46.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1500654909951291395"
+        ],
+        "author_id": "284702883",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1500654909951291395",
+        "text": "I would love to franchise a restaurant, big dreams"
+    },
+    {
+        "created_at": "2022-03-06T01:58:51.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1500289777387585537"
+        ],
+        "author_id": "2493256911",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1500289777387585537",
+        "text": "We sitting outside at the mexican restaurant &amp; this damn lady done brought a damn highchair seat in this mf \ud83d\ude02\ud83d\ude02 dawg, i just know you fucking lying!"
+    },
+    {
+        "created_at": "2022-02-28T23:04:22.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1498433928755036160"
+        ],
+        "author_id": "24706050",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "01af006c3a91a348",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.12688615,
+                    33.53263109
+                ]
+            }
+        },
+        "id": "1498433928755036160",
+        "text": "My not-so-little-anymore foodie enjoying her birthday supper at her favorite restaurant. She\u2019s gonna love traveling the holy land with me! @ Laziza Mediterranean Grill - Evans https://t.co/48DYGL2seA"
+    },
+    {
+        "created_at": "2022-02-28T14:08:46.000Z",
+        "lang": "zxx",
+        "edit_history_tweet_ids": [
+            "1498299140912164867"
+        ],
+        "author_id": "2241513510",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1498299140912164867",
+        "text": "https://t.co/mMjVe4XlQ0 https://t.co/pyvqoGh7kQ"
+    },
+    {
+        "created_at": "2022-01-29T02:04:23.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1487245206382653443"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.04952543,
+                    33.51346352
+                ]
+            }
+        },
+        "id": "1487245206382653443",
+        "text": "My birthday weekend starting right... @ Fujiyama Japanese Steak House &amp; Sushi Bar https://t.co/ns4b7pXSDS"
+    },
+    {
+        "created_at": "2022-01-20T17:47:55.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1484221162645303296"
+        ],
+        "author_id": "1205645826934091776",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1484221162645303296",
+        "text": "@JoyAnnReid I tell U the truth, it is a high bar to ask Minorities to get behind political unseating w/out focus leadership and resources, we are short on both. I tell U the truth, It\u2019s good to charge, but we must be committed to take the hill. Where is that civil rights leader &amp; community?"
+    },
+    {
+        "created_at": "2022-01-19T17:31:23.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1483854614965407748"
+        ],
+        "author_id": "544057082",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1483854614965407748",
+        "text": "@YaBoiHakim My wife and I were running a small bakery until COVID ruined it."
+    },
+    {
+        "created_at": "2022-01-15T16:52:49.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1482395359519420417"
+        ],
+        "author_id": "902511268548018176",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1482395359519420417",
+        "text": "@brownstowneric @NickChubb21 @Browns I won this last Sunday through our Garden City Brown's backers bar in Augusta Georgia https://t.co/UHzZx2JeqL"
+    },
+    {
+        "created_at": "2021-12-19T17:49:41.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1472625197647904769"
+        ],
+        "author_id": "11867632",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.10395254,
+                    33.51031401
+                ]
+            }
+        },
+        "id": "1472625197647904769",
+        "text": "I'm at Monterrey Mexican Restaurant in Augusta, GA w/ @megarush1024 @whiskeydragon1 https://t.co/T3domPf2Y3"
+    },
+    {
+        "created_at": "2021-12-05T07:06:56.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1467390011037425665"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.05029178,
+                    33.51338583
+                ]
+            }
+        },
+        "id": "1467390011037425665",
+        "text": "*shots* @ Rhinehart's Oyster Bar https://t.co/q0VmhHt5IA"
+    },
+    {
+        "created_at": "2021-12-05T02:58:16.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1467327433649139713"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.05029178,
+                    33.51338583
+                ]
+            }
+        },
+        "id": "1467327433649139713",
+        "text": "I think all this \"night drinking\"is throwing off my mojo\ud83d\ude43.... @ Rhinehart's Oyster Bar https://t.co/MUjEzjdSfC"
+    },
+    {
+        "created_at": "2021-11-17T03:12:43.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1460808090324983810"
+        ],
+        "author_id": "3076281130",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1460808090324983810",
+        "text": "@SkylabGames @ShlibOnSwitch @azureboy @PremiumEdition1 That\u2019s cool that they are offering in store preorders!\n\nYou all rock and thanks for the support. We are certainly planning on raising the bar again!"
+    },
+    {
+        "created_at": "2021-11-15T01:02:09.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1460050455355138056"
+        ],
+        "author_id": "1271861884447268866",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.05508699,
+                    33.51423815
+                ]
+            }
+        },
+        "id": "1460050455355138056",
+        "text": "Celebrating my W tonight the right way. @ Applebee's Grill + Bar https://t.co/uBNPrsiulh"
+    },
+    {
+        "created_at": "2021-11-14T03:59:42.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1459732748348891141"
+        ],
+        "author_id": "27966820",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 10,
+            "like_count": 26,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1459732748348891141",
+        "text": "Honey, I don\u2019t care what kind of place it is. You don\u2019t show up to the bar in joggers."
+    },
+    {
+        "created_at": "2021-10-29T17:46:48.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1454142688320688128"
+        ],
+        "author_id": "41609330",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1454142688320688128",
+        "text": "Saturday Oct 30th\n\u201cHigh Octane Halloween\u201d\n\n@ Octane Bar &amp; Lounge \n\n35 Whitaker St, Downtown Savannah\n\nMusic by DJ Ignant x DJ EJ Franchise\n\nBest Drinks in the city! https://t.co/YVL2U7AnjV"
+    },
+    {
+        "created_at": "2021-10-10T14:39:04.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1447210075794325511"
+        ],
+        "author_id": "2241513510",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1447210075794325511",
+        "text": "WHEN WILL THEY STOP?\n\n1 dead, at least 14 others injured in Minnesota bar shooting #NewsBreak  https://t.co/3rE5fNDrQx"
+    },
+    {
+        "created_at": "2021-10-09T09:01:17.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1446762680342228998"
+        ],
+        "author_id": "1271861884447268866",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.0571727,
+                    33.5360966
+                ]
+            }
+        },
+        "id": "1446762680342228998",
+        "text": "I bought her to a nice fusion restaurant she picked out. Such a nice date! @ mirinfusionkitchen https://t.co/f7dnCwkdyP"
+    },
+    {
+        "created_at": "2021-09-27T22:22:56.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1442615770979213312"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.05029178,
+                    33.51338583
+                ]
+            }
+        },
+        "id": "1442615770979213312",
+        "text": "Pre-game before the GAME! #cowboys4life\ud83c\udf1f\ud83c\udfc6\ud83c\udfc8\ud83c\udfc6\ud83c\udfc8\ud83c\udfc6\ud83c\udfc8\ud83c\udfc6\ud83c\udfc8\ud83c\udfc6\ud83c\udfc8  #candycorona\ud83c\udf7a @ Rhinehart's Oyster Bar https://t.co/hZUXBSZmOA"
+    },
+    {
+        "created_at": "2021-09-14T16:11:02.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1437811134497701900"
+        ],
+        "author_id": "28268530",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.05029178,
+                    33.51338583
+                ]
+            }
+        },
+        "id": "1437811134497701900",
+        "text": "This month has an r in it. #oysters #oyster #oysterbar #steamedoysters #oysterseason #rhinehartsoysterbar #halfshell #bivalves #oysterlover #oystersonthehalfshell #augusta #augustaga @ Rhinehart's Oyster Bar https://t.co/Is5VnaV41X"
+    },
+    {
+        "created_at": "2021-09-06T23:59:10.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1435029840902688768"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.05508699,
+                    33.51423815
+                ]
+            }
+        },
+        "id": "1435029840902688768",
+        "text": "Trying to relax after work\ud83d\udc86\u200d\u2642\ufe0f...#FTJ @ Applebee's Grill + Bar https://t.co/YhLRR8sNmO"
+    },
+    {
+        "created_at": "2021-08-30T22:05:26.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1432464502759600129"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.05029178,
+                    33.51338583
+                ]
+            }
+        },
+        "id": "1432464502759600129",
+        "text": "League business\ud83c\udf7b\ud83e\udd43\ud83d\ude02...#JusticeLeague @ Rhinehart's Oyster Bar https://t.co/8smomIEX5n"
+    },
+    {
+        "created_at": "2021-08-30T02:53:27.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1432174597189914624"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.05508699,
+                    33.51423815
+                ]
+            }
+        },
+        "id": "1432174597189914624",
+        "text": "Relaxing after work... @ Applebee's Grill + Bar https://t.co/EyI06vdx5m"
+    },
+    {
+        "created_at": "2021-08-29T01:36:44.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1431792904671055873"
+        ],
+        "author_id": "1279815129090097152",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1431792904671055873",
+        "text": "@johnrich @rnrbarnash Hard to believe most of them weren\u2019t even old enough to go to a bar.  They were brave, but they were really only kids.  Such a sad state our leaders have put us in."
+    },
+    {
+        "created_at": "2021-08-26T22:21:54.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1431019096485814278"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.04952543,
+                    33.51346352
+                ]
+            }
+        },
+        "id": "1431019096485814278",
+        "text": "Round 2!! @ Fujiyama Japanese Steak House &amp; Sushi Bar https://t.co/SjlA3Qepux"
+    },
+    {
+        "created_at": "2021-08-26T21:23:46.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1431004466455711748"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.04952543,
+                    33.51346352
+                ]
+            }
+        },
+        "id": "1431004466455711748",
+        "text": "Patiently waiting...\ud83d\ude0e @ Fujiyama Japanese Steak House &amp; Sushi Bar https://t.co/Wcre5dFm3G"
+    },
+    {
+        "created_at": "2021-08-03T00:03:33.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1422347369266389023"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.05029178,
+                    33.51338583
+                ]
+            }
+        },
+        "id": "1422347369266389023",
+        "text": "On it!! #Ccrewchronicles @ Rhinehart's Oyster Bar https://t.co/sUno0L918z"
+    },
+    {
+        "created_at": "2021-08-02T20:48:08.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1422298190922100751"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.05029178,
+                    33.51338583
+                ]
+            }
+        },
+        "id": "1422298190922100751",
+        "text": "On it!! @ Rhinehart's Oyster Bar https://t.co/VP8X4YZUCH"
+    },
+    {
+        "created_at": "2021-07-27T22:46:32.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1420153661452345349"
+        ],
+        "author_id": "1142816614989123584",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.051231,
+                    33.512836
+                ]
+            }
+        },
+        "id": "1420153661452345349",
+        "text": "While half my heart is in Washington my grandma is visiting to help out \ud83e\udd70. So very grateful. @ Mi Rancho Restaurant  Washington Rd https://t.co/DAIOu1uAxl"
+    },
+    {
+        "created_at": "2021-07-22T00:11:25.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1418000695186399236"
+        ],
+        "author_id": "340358356",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1418000695186399236",
+        "text": "My baby will sit on the phone with me  all day at work ... then get mad with me because im out shopping, bar hopping, take care of business while being a lil lit all before he gets off \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83d\ude02\ud83e\udd23\ud83e\udd23"
+    },
+    {
+        "created_at": "2021-07-19T02:46:25.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1416952536825798668"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.048912,
+                    33.513194
+                ]
+            }
+        },
+        "id": "1416952536825798668",
+        "text": "**shots** @ Wild Wing Cafe https://t.co/QKLEsOp73X"
+    },
+    {
+        "created_at": "2021-07-18T23:53:02.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1416908903099609089"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.048912,
+                    33.513194
+                ]
+            }
+        },
+        "id": "1416908903099609089",
+        "text": "Sunday sippin' \ud83d\ude09... @ Wild Wing Cafe https://t.co/PHiMbOHEwM"
+    },
+    {
+        "created_at": "2021-07-16T01:19:28.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1415843493239566347"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.05508699,
+                    33.51423815
+                ]
+            }
+        },
+        "id": "1415843493239566347",
+        "text": "Round 2!! @ Applebee's Grill + Bar https://t.co/x0IOGds7H8"
+    },
+    {
+        "created_at": "2021-07-16T00:55:53.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1415837559146622983"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.05508699,
+                    33.51423815
+                ]
+            }
+        },
+        "id": "1415837559146622983",
+        "text": "Finally off work...7 whole days\ud83c\udf7b\ud83e\udd43\ud83d\ude09.. @ Applebee's Grill + Bar https://t.co/BpJVtJ1rHp"
+    },
+    {
+        "created_at": "2021-07-12T00:01:42.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1414374371506929670"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.048912,
+                    33.513194
+                ]
+            }
+        },
+        "id": "1414374371506929670",
+        "text": "Game time\ud83c\udfc0\ud83c\udf7b @ Wild Wing Cafe https://t.co/6g2USPSWbv"
+    },
+    {
+        "created_at": "2021-07-03T00:12:17.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1411115543936090117"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.04559862,
+                    33.51363487
+                ]
+            }
+        },
+        "id": "1411115543936090117",
+        "text": "Tower of power\ud83c\udf79\ud83d\ude01..#FTJ @ Veracruz Mexican Restaurant https://t.co/0yzfzg6pp6"
+    },
+    {
+        "created_at": "2021-07-01T16:15:10.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1410633087403298817"
+        ],
+        "author_id": "3338142099",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 1
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1410633087403298817",
+        "text": "\"On a diet but doing donuts in the six speed\" is Nicki's hardest bar"
+    },
+    {
+        "created_at": "2021-07-01T13:46:37.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1410595700816199682"
+        ],
+        "author_id": "2159327728",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 12,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1410595700816199682",
+        "text": "A local restaurant: *closes after getting caught selling alcohol to minors*\nAugusta: OMG THIS IS SO STUPID AND UNNECESSARY THAT THE POLICE DID THIS TO THEM\nMe: maybe they should\u2019ve complied, as you all like to say. \ud83d\ude0c"
+    },
+    {
+        "created_at": "2021-06-28T00:03:36.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1409301418557808640"
+        ],
+        "author_id": "213171254",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 1
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1409301418557808640",
+        "text": "@Fearad Local fried chicken restaurant chain called \u201cWife Saver.\u201d It\u2019s only in Augusta. They used to make the pimento cheese for the tournament."
+    },
+    {
+        "created_at": "2021-06-11T02:33:50.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1403178631569055745"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.098816,
+                    33.520918
+                ]
+            }
+        },
+        "id": "1403178631569055745",
+        "text": "\"We don't go on dates\ud83d\udc6b, just meet me at the bar for a drink\ud83e\udd43\" . Ain't no free food bih\ud83e\udd74 @ Martinez https://t.co/qVw4cXuhS1"
+    },
+    {
+        "created_at": "2021-05-31T12:36:38.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1399344065578213377"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.098816,
+                    33.520918
+                ]
+            }
+        },
+        "id": "1399344065578213377",
+        "text": "It's been a rough first 48\ud83d\ude14 at \"RMS Bar and Grill\"\ud83d\ude1c..Finally off tonight tho'\ud83d\ude0e. #FTJ @ Martinez https://t.co/eKvBK1flEQ"
+    },
+    {
+        "created_at": "2021-05-30T17:45:39.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1399059444303028233"
+        ],
+        "author_id": "11867632",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.10395254,
+                    33.51031401
+                ]
+            }
+        },
+        "id": "1399059444303028233",
+        "text": "I'm at Monterrey Mexican Restaurant in Augusta, GA w/ @whiskeydragon1 @megarush1024 @wiljames https://t.co/NJeKGfKgBY"
+    },
+    {
+        "created_at": "2021-05-30T17:43:28.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1399058896292044802"
+        ],
+        "author_id": "11826622",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.10395254,
+                    33.51031401
+                ]
+            }
+        },
+        "id": "1399058896292044802",
+        "text": "I'm at Monterrey Mexican Restaurant in Augusta, GA https://t.co/4NXmRK29YH"
+    },
+    {
+        "created_at": "2021-05-21T18:05:43.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1395803003345678340"
+        ],
+        "author_id": "623086087",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.0757,
+                    33.5168
+                ]
+            }
+        },
+        "id": "1395803003345678340",
+        "text": "Drinking a Son of a Peach by @RJRockers @ Willie Jewells Bar B Que \u2014 https://t.co/NTgwbdLfAp"
+    },
+    {
+        "created_at": "2021-05-21T14:22:58.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1395746946732773379"
+        ],
+        "author_id": "29832358",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.08354,
+                    33.50629
+                ]
+            }
+        },
+        "id": "1395746946732773379",
+        "text": "i can assure you, the slightest of work lol @ Inner Bean Cafe https://t.co/IiIaX2Nxbi"
+    },
+    {
+        "created_at": "2021-05-16T17:56:57.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1393988856324759552"
+        ],
+        "author_id": "1498798484",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.05501459,
+                    33.51410542
+                ]
+            }
+        },
+        "id": "1393988856324759552",
+        "text": "Lunch with wifey (at @Applebees Grill + Bar in Augusta, GA) https://t.co/TJo8cvcIwe"
+    },
+    {
+        "created_at": "2021-05-16T17:21:11.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1393979858888400904"
+        ],
+        "author_id": "1498798484",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.05508699,
+                    33.51423815
+                ]
+            }
+        },
+        "id": "1393979858888400904",
+        "text": "Sunday Brunch @ Applebee's Grill + Bar https://t.co/8ourTvs644"
+    },
+    {
+        "created_at": "2021-05-16T01:01:54.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1393733413333524481"
+        ],
+        "author_id": "3226918269",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1393733413333524481",
+        "text": "Asked a guy at the bar if anyone was sitting next to him and he was like \u201cyou\u201d Sir don\u2019t start. I\u2019ll tase you."
+    },
+    {
+        "created_at": "2021-05-06T19:01:53.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1390381321684279297"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.09373,
+                    33.5097
+                ]
+            }
+        },
+        "id": "1390381321684279297",
+        "text": "Yesterday\u2600\ufe0f\ud83c\udf79\ud83d\ude1c @ Salsa's Bar &amp; Grill https://t.co/gKqcUBVXGk"
+    },
+    {
+        "created_at": "2021-05-06T01:53:35.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1390122541012987909"
+        ],
+        "author_id": "1236928945",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1390122541012987909",
+        "text": "@PGALockerRoom No no no... \n1. Pimento (which I hate but Im a fair guy so I'll leave it at 1 because it is iconic.)\n2. Masters Club\n3. Chicken Biscuit\n4. Chicken Salad\n5. BBQ ( gotta remember,  ita basically fast food BBQ, not a real restaurant!)\nThe rest aren't even on the list."
+    },
+    {
+        "created_at": "2021-05-05T17:48:31.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1390000470341586947"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.09373,
+                    33.5097
+                ]
+            }
+        },
+        "id": "1390000470341586947",
+        "text": "OLAAAAY\ud83c\udf7b\ud83c\udf79\ud83c\udf7b!!\ud83e\udd2a @ Salsa's Bar &amp; Grill https://t.co/eb4aVA4MAj"
+    },
+    {
+        "created_at": "2021-05-05T03:52:45.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1389790141410156545"
+        ],
+        "author_id": "1455021114",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1389790141410156545",
+        "text": "Might work a half of day tomorrow just to be at the Mexican restaurant early \ud83e\udd23\ud83e\udd23\ud83d\udc80 @nishamae__"
+    },
+    {
+        "created_at": "2021-04-21T17:47:26.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1384926766356209675"
+        ],
+        "author_id": "86775396",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1384926766356209675",
+        "text": "My bar regular said I\u2019m her on call doctor. Lol"
+    },
+    {
+        "created_at": "2021-04-07T23:54:05.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1379945606408511490"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.05029178,
+                    33.51338583
+                ]
+            }
+        },
+        "id": "1379945606408511490",
+        "text": "Just posted a photo @ Rhinehart's Oyster Bar https://t.co/BKAzaq3eqX"
+    },
+    {
+        "created_at": "2021-04-05T22:07:17.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1379193953493250050"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.05029178,
+                    33.51338583
+                ]
+            }
+        },
+        "id": "1379193953493250050",
+        "text": "It's \ud83c\udd99\ufe0f @ Rhinehart's Oyster Bar https://t.co/G3Kz1YFzck"
+    },
+    {
+        "created_at": "2021-04-03T23:57:13.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1378496842023993348"
+        ],
+        "author_id": "104762048",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.08354,
+                    33.50629
+                ]
+            }
+        },
+        "id": "1378496842023993348",
+        "text": "Be the change that you wish to see in the world.\n\nMahatma Gandhi\n\n#action #change #inspirational #philosophy #wish #nocode #ywb #love #peace @ Inner Bean Cafe https://t.co/jalQaVAmtD"
+    },
+    {
+        "created_at": "2021-04-01T19:06:38.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1377698941366628353"
+        ],
+        "author_id": "104762048",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.08682384,
+                    33.51130019
+                ]
+            }
+        },
+        "id": "1377698941366628353",
+        "text": "Sometimes I don't know why I stay here now but these Mexican restaurant tacos are so good \ud83c\udf1f \nI strongly recommend it.\n.\n.\n.\n#idontknowwhy #istayherenow #tacos #mexicanrestaurant #nocode #ywb @ Taqueria El Rey https://t.co/dUJoeQr11T"
+    },
+    {
+        "created_at": "2021-03-25T15:39:59.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1375110220549095432"
+        ],
+        "author_id": "104762048",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.08354,
+                    33.50629
+                ]
+            }
+        },
+        "id": "1375110220549095432",
+        "text": "Just posted a photo @ Inner Bean Cafe https://t.co/20g3yVCAjP"
+    },
+    {
+        "created_at": "2021-03-05T04:20:59.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1367691585568333824"
+        ],
+        "author_id": "919429176050028544",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1367691585568333824",
+        "text": "Just saw someone marry two beers together and I had to do a double take, weirdest thing I\u2019ve seen in a bar since that one cashier told me he was fucking half the customers and just stared at me."
+    },
+    {
+        "created_at": "2021-02-01T02:39:03.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1356069523573665793"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.051231,
+                    33.512836
+                ]
+            }
+        },
+        "id": "1356069523573665793",
+        "text": "\ud83d\ude1c @ Mi Rancho Restaurant  Washington Rd https://t.co/WRMQkVlyFQ"
+    },
+    {
+        "created_at": "2021-02-01T00:44:28.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1356040686152212482"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.051231,
+                    33.512836
+                ]
+            }
+        },
+        "id": "1356040686152212482",
+        "text": "Sunday evening chronicles.... @ Mi Rancho Restaurant  Washington Rd https://t.co/n5Q102ZVx8"
+    },
+    {
+        "created_at": "2021-01-29T06:18:07.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1355037489392709633"
+        ],
+        "author_id": "491299796",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1355037489392709633",
+        "text": "Me &amp; a Taurus were just talking in a bar about this subject \ud83d\ude02\ud83d\ude02\ud83d\ude02 https://t.co/mJDWA7cfFG"
+    },
+    {
+        "created_at": "2021-01-26T01:41:31.000Z",
+        "lang": "es",
+        "edit_history_tweet_ids": [
+            "1353880717697163265"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.04517517,
+                    33.51346089
+                ]
+            }
+        },
+        "id": "1353880717697163265",
+        "text": "Round 2! #CrownBlack\ud83e\udd43 @ Veracruz Mexican Restaurant https://t.co/JpnVN7p7Kd"
+    },
+    {
+        "created_at": "2021-01-12T03:59:45.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1348842074565701635"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.05508699,
+                    33.51423815
+                ]
+            }
+        },
+        "id": "1348842074565701635",
+        "text": "**shots** @ Applebee's Grill + Bar https://t.co/zSAgl2y0Xx"
+    },
+    {
+        "created_at": "2021-01-11T15:35:49.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1348654858665078791"
+        ],
+        "author_id": "1254285696",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1348654858665078791",
+        "text": "@pvnaden There was a restaurant in Atlanta called Nana G's Chicken &amp; Waffles (can you guess their most ordered dish?). Unfortunately, I believe it\u2019s closed down."
+    },
+    {
+        "created_at": "2021-01-08T03:25:34.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1347383918677405698"
+        ],
+        "author_id": "22582517",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 10,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1347383918677405698",
+        "text": "I love my little star gazing caf\u00e9 area \ud83c\udf19\ud83d\udcab https://t.co/97ah5JqLJM"
+    },
+    {
+        "created_at": "2020-12-20T22:47:56.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1340791071274655751"
+        ],
+        "author_id": "1300931909103611910",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "0fec443a6654c002"
+        },
+        "id": "1340791071274655751",
+        "text": "Chilling at: 5 guys (restaurant)"
+    },
+    {
+        "created_at": "2020-12-04T00:46:40.000Z",
+        "lang": "es",
+        "edit_history_tweet_ids": [
+            "1334660358020055040"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.04517517,
+                    33.51346089
+                ]
+            }
+        },
+        "id": "1334660358020055040",
+        "text": "\ud83d\ude4c #doseqisamber #crownandcoke @ Veracruz Mexican Restaurant https://t.co/idqLqw1RQt"
+    },
+    {
+        "created_at": "2020-12-01T13:46:44.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1333769503394717696"
+        ],
+        "author_id": "2241513510",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1333769503394717696",
+        "text": "So, Mr diGenova is an attorney.  File a complaint with the D.C. Bar.\nBannon is already under indictment.\nI guess those who were threatened need to file complaints  with the police, FBI...? https://t.co/T5xjPr12D8"
+    },
+    {
+        "created_at": "2020-12-01T13:38:19.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1333767384973398016"
+        ],
+        "author_id": "2241513510",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1333767384973398016",
+        "text": "Where is he licensed?  File a complaint with his Bar Association.  They may already have several.\ud83e\udd14\nSeriously. https://t.co/cP4LLEvzYX"
+    },
+    {
+        "created_at": "2020-11-26T04:53:21.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1331823332153581568"
+        ],
+        "author_id": "919429176050028544",
+        "public_metrics": {
+            "retweet_count": 9,
+            "reply_count": 17,
+            "like_count": 299,
+            "quote_count": 31
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1331823332153581568",
+        "text": "@AiraSynthesis40 @SMPZA Okay say you like chocolate bars, you know what\u2019s better than 1 chocolate bar?? 2 chocolate bars. Same applies to women in the mind of a male. Sorry if we\u2019re pigs but that shits hot \ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f"
+    },
+    {
+        "created_at": "2020-11-19T20:01:12.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1329515085795106816"
+        ],
+        "author_id": "998181224",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1329515085795106816",
+        "text": "@SudoMaurice @rednecglobalist @ToddHagopian Here\u2019s a fun challenge\u2026 Say positive things about Trump without mentioning Obama, Clinton or Democrats. It\u2019s harder. (\u201cBetter than the Democrats\u201d is a pretty low bar for success.) Oh, and GOP had a majority in both houses + POTUS from 17-19."
+    },
+    {
+        "created_at": "2020-11-14T23:31:00.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1327755947142471680"
+        ],
+        "author_id": "324646685",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 1
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1327755947142471680",
+        "text": "We\u2019re at a restaurant , I spend $21 on myself , My friend &amp; his wife spent $21 together \ud83c\udf1a\ud83c\udf1a\ud83c\udf1a\ud83c\udf1a Welp"
+    },
+    {
+        "created_at": "2020-11-11T21:53:59.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1326644364664188929"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.0502917,
+                    33.51356312
+                ]
+            }
+        },
+        "id": "1326644364664188929",
+        "text": "\ud83d\ude01 @ Rhinehart's Oyster Bar https://t.co/sbTbqyKF6W"
+    },
+    {
+        "created_at": "2020-11-11T00:22:50.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1326319436442329088"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.051231,
+                    33.512836
+                ]
+            }
+        },
+        "id": "1326319436442329088",
+        "text": "Just posted a video @ Mi Rancho Restaurant  Washington Rd https://t.co/u5Ss4fnykX"
+    },
+    {
+        "created_at": "2020-11-10T22:27:24.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1326290389893074944"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.051231,
+                    33.512836
+                ]
+            }
+        },
+        "id": "1326290389893074944",
+        "text": "\ud83d\ude01 @ Mi Rancho Restaurant  Washington Rd https://t.co/TFPV5fPHYm"
+    },
+    {
+        "created_at": "2020-11-08T00:32:33.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1325234719454351361"
+        ],
+        "author_id": "3368001813",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.0938,
+                    33.51627
+                ]
+            }
+        },
+        "id": "1325234719454351361",
+        "text": "From bar tender, to movie usher, to blackjack dealer @seancarmell  does it all for @csra_scavengerfest \n#loveaugusta @ Mr. Tees!! Screenprinting &amp; Design https://t.co/GEy2hodN4M"
+    },
+    {
+        "created_at": "2020-11-05T22:47:00.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1324483380105400327"
+        ],
+        "author_id": "27221242",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1324483380105400327",
+        "text": "@tonedibiase Pre-pandemic it was the sushi bar at miyabis. Now it\u2019s Kyoto on doordash lol"
+    },
+    {
+        "created_at": "2020-11-03T22:49:53.000Z",
+        "lang": "hi",
+        "edit_history_tweet_ids": [
+            "1323759333180612609"
+        ],
+        "author_id": "739894668389810178",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1323759333180612609",
+        "text": "@rssurjewala Kya baat jo Mla ke Chunav mein do bar deposit khota hai woh congressi prabhari ban jata hai"
+    },
+    {
+        "created_at": "2020-10-24T23:53:45.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1320151524706844672"
+        ],
+        "author_id": "37716785",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.048912,
+                    33.513194
+                ]
+            }
+        },
+        "id": "1320151524706844672",
+        "text": "Relaxing after a day of baseball. \n\n#baseballfamily\u26be\ufe0f @ Wild Wing Cafe https://t.co/tKkJe5W9V9"
+    },
+    {
+        "created_at": "2020-10-22T01:10:04.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1319083568329523200"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.0502917,
+                    33.51356312
+                ]
+            }
+        },
+        "id": "1319083568329523200",
+        "text": "Round 3!! @ Rhinehart's Oyster Bar https://t.co/QYEm5dbCvx"
+    },
+    {
+        "created_at": "2020-10-20T12:50:28.000Z",
+        "lang": "hi",
+        "edit_history_tweet_ids": [
+            "1318535051076919296"
+        ],
+        "author_id": "739894668389810178",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1318535051076919296",
+        "text": "@rssurjewala Kya baat jo Mla ke Chunav mein do bar deposit khota hai woh congressi prabhari ban jata hai"
+    },
+    {
+        "created_at": "2020-10-03T01:20:47.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1312200894834900992"
+        ],
+        "author_id": "3398007394",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 4,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1312200894834900992",
+        "text": "Toki is the best Hibachi restaurant in Augusta!"
+    },
+    {
+        "created_at": "2020-09-02T16:15:13.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1301191960657637376"
+        ],
+        "author_id": "154240037",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1301191960657637376",
+        "text": "Chinese restaurant just highly blew me stoopid ass lady"
+    },
+    {
+        "created_at": "2020-08-30T11:32:43.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1300033707282247684"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.051231,
+                    33.512836
+                ]
+            }
+        },
+        "id": "1300033707282247684",
+        "text": "Just posted a video @ Mi Rancho Restaurant  Washington Rd https://t.co/8Bkv4hIvQj"
+    },
+    {
+        "created_at": "2020-08-30T11:31:52.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1300033490143113220"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.051231,
+                    33.512836
+                ]
+            }
+        },
+        "id": "1300033490143113220",
+        "text": "Just posted a video @ Mi Rancho Restaurant  Washington Rd https://t.co/SS6SmtLlTF"
+    },
+    {
+        "created_at": "2020-08-30T03:19:14.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1299909516151021570"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.051231,
+                    33.512836
+                ]
+            }
+        },
+        "id": "1299909516151021570",
+        "text": "Cheers\ud83c\udf7b @ Mi Rancho Restaurant  Washington Rd https://t.co/PfyzJdkx3G"
+    },
+    {
+        "created_at": "2020-08-29T23:52:09.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1299857401970073602"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.051231,
+                    33.512836
+                ]
+            }
+        },
+        "id": "1299857401970073602",
+        "text": "OLAAAAY\ud83c\udf7a!! @ Mi Rancho Restaurant  Washington Rd https://t.co/KNm2dtOJvS"
+    },
+    {
+        "created_at": "2020-08-18T14:57:56.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1295736696215162881"
+        ],
+        "author_id": "2492851932",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1295736696215162881",
+        "text": "Imagine working at a restaurant and your boss walks up and gets mad for taking a tip someone gave you. And says you did to well at your job and shouldn\u2019t have taken the tip. https://t.co/76mNei4Ybf"
+    },
+    {
+        "created_at": "2020-08-12T22:25:23.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1293674971877781509"
+        ],
+        "author_id": "340358356",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1293674971877781509",
+        "text": "Aye when you single at the bar more than likely others will by your drinks and pay for your dinner."
+    },
+    {
+        "created_at": "2020-08-12T21:58:12.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1293668130909233154"
+        ],
+        "author_id": "340358356",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1293668130909233154",
+        "text": "Sitting at the bar and commenting on everybody shit on social media."
+    },
+    {
+        "created_at": "2020-06-24T13:43:34.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1275786649969049600"
+        ],
+        "author_id": "1254285696",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1275786649969049600",
+        "text": "@walkonredshirts Do some research on unique fan traditions. I also wish you could find one of the Wisc fans who pregamed at the only bar in Provo, UT, before the BYU game in 15."
+    },
+    {
+        "created_at": "2020-06-12T20:29:09.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1271540064040951809"
+        ],
+        "author_id": "549801417",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.048912,
+                    33.513194
+                ]
+            }
+        },
+        "id": "1271540064040951809",
+        "text": "TONIGHT (FRI)\nAn Epic return of THE LLAMAS to Wild Wing Cafe in Augusta.  We have missed our friends and fans as well as shots of Jameson.  Sabo has been working on his mullet and mustache durning the pandemic.  It\u2019s\u2026 https://t.co/fnWwiv5QyH"
+    },
+    {
+        "created_at": "2020-06-09T21:12:55.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1270463911184281601"
+        ],
+        "author_id": "974847185006354432",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1270463911184281601",
+        "text": "...with a keen sense of the responsibility which we shall continue to assume, we look forward to a future with promise and hope. Seeking no favors because of our color, nor patronage because of our needs, we knock at the bar of justice, asking an equal chance.\"Mary Church Terrell https://t.co/Oq7dy6qjBQ"
+    },
+    {
+        "created_at": "2020-06-02T14:50:46.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1267831025511493638"
+        ],
+        "author_id": "919429176050028544",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1267831025511493638",
+        "text": "@MsPlutoQueen Happy burfday!!!!!!!!! Have fun at the bars and know that you can go around bar hopping and like everyone wants to buy you drinks, happy 21st bih"
+    },
+    {
+        "created_at": "2020-05-21T23:49:48.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1263618024663384066"
+        ],
+        "author_id": "340358356",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1263618024663384066",
+        "text": "@CRyanSchadel I bet your bar is set up nice"
+    },
+    {
+        "created_at": "2020-05-13T01:56:26.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1260388402286989312"
+        ],
+        "author_id": "4692887610",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1260388402286989312",
+        "text": "My therapist likes to say \u201cthe fact that you worry about being a good parent makes you a good parent\u201d and like that bar seems awfullyyy low. So I don\u2019t know. But all of the positive vibes / warm wishes I got on Sunday just made me cringe and feel like a fake."
+    },
+    {
+        "created_at": "2020-05-11T23:46:40.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1259993357503336450"
+        ],
+        "author_id": "996071502507331586",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1259993357503336450",
+        "text": "#HappeningNow: Local restaurant is working overtime to safely reopen tomorrow morning! \n\n#Aiken #COVID19 #coronavirus https://t.co/bgYeb8S6FV"
+    },
+    {
+        "created_at": "2020-05-09T21:12:16.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1259229725446344704"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.04566,
+                    33.51363
+                ]
+            }
+        },
+        "id": "1259229725446344704",
+        "text": "Just posted a photo @ Veracruz Mexican Restaurant https://t.co/GwhfWI9SpU"
+    },
+    {
+        "created_at": "2020-05-08T19:38:23.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1258843711309524992"
+        ],
+        "author_id": "4210861767",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1258843711309524992",
+        "text": "This lady got 1 more time to cough without covering her mouth and I\u2019m gone ask her to leave from the bar \ud83d\ude0c"
+    },
+    {
+        "created_at": "2020-05-01T17:17:29.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1256271537319141378"
+        ],
+        "author_id": "16422096",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.04566,
+                    33.51363
+                ]
+            }
+        },
+        "id": "1256271537319141378",
+        "text": "Today... it\u2019s Veracruz. I am determined to help our local businesses recover. #ShopLocal @ Veracruz Mexican Restaurant https://t.co/CNHaLdsAM1"
+    },
+    {
+        "created_at": "2020-04-06T02:00:57.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1246981186896965632"
+        ],
+        "author_id": "1254285696",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1246981186896965632",
+        "text": "@ESPNDari I was watching that at a restaurant. Left at the start of the third quarter and didn\u2019t turn the game on again until a buddy of mind texted me in all caps asking if I was watching!"
+    },
+    {
+        "created_at": "2020-03-20T23:54:35.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1241151181554139141"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.051231,
+                    33.512836
+                ]
+            }
+        },
+        "id": "1241151181554139141",
+        "text": "Outside on the new addition deck.... @ Mi Rancho Restaurant  Washington Rd https://t.co/2Rh02PvpYr"
+    },
+    {
+        "created_at": "2020-03-16T17:57:26.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1239611748094603266"
+        ],
+        "author_id": "831716755508699140",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.051231,
+                    33.512836
+                ]
+            }
+        },
+        "id": "1239611748094603266",
+        "text": "After lunch, I feel like sleeping for an hour or two! \n\n#lunch #naptime #mexican #mexicanrestaurant #taco #enchiladas #rice #mexicanfood @ Mi Rancho Restaurant  Washington Rd https://t.co/ey0j0IHbvd"
+    },
+    {
+        "created_at": "2020-03-15T21:21:07.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1239300618101182470"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.04351723,
+                    33.50800187
+                ]
+            }
+        },
+        "id": "1239300618101182470",
+        "text": "Life's simple pleasures\ud83d\ude0e... #modeloespecial #martellcognac @ Teresa's Mexican Restaurant https://t.co/kEJNYIcL0a"
+    },
+    {
+        "created_at": "2020-03-14T00:12:41.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1238619020028346368"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.09373,
+                    33.5097
+                ]
+            }
+        },
+        "id": "1238619020028346368",
+        "text": "Maaaaaaan,  it was a rough day at work.\ud83d\ude14 @ Salsa's Bar &amp; Grill https://t.co/w205OxSsXJ"
+    },
+    {
+        "created_at": "2020-03-08T15:25:05.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1236674304525377536"
+        ],
+        "author_id": "844909489",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.09383846,
+                    33.50959519
+                ]
+            }
+        },
+        "id": "1236674304525377536",
+        "text": "I'm at Salsa's Bar &amp; Grill in Augusta, GA https://t.co/cNTdHmgdco"
+    },
+    {
+        "created_at": "2020-03-01T04:34:06.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1233973766167855104"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.051231,
+                    33.512836
+                ]
+            }
+        },
+        "id": "1233973766167855104",
+        "text": "Ova' wit'!!\ud83d\ude1c @ Mi Rancho Restaurant  Washington Rd https://t.co/RnN8M4sOaw"
+    },
+    {
+        "created_at": "2020-03-01T00:53:29.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1233918244861296642"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.051231,
+                    33.512836
+                ]
+            }
+        },
+        "id": "1233918244861296642",
+        "text": "OLAAAAY\ud83d\ude1c!! #dosequisamberxx #crownandcoke\ud83d\udc51 @ Mi Rancho Restaurant  Washington Rd https://t.co/rW94fxSofL"
+    },
+    {
+        "created_at": "2020-02-28T03:28:31.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1233232485519101953"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.051231,
+                    33.512836
+                ]
+            }
+        },
+        "id": "1233232485519101953",
+        "text": "\ud83c\udf7b\ud83d\udde3\ud83e\udd43\ud83d\ude1c#thirstythursday @ Mi Rancho Restaurant  Washington Rd https://t.co/qAZT7MvFJi"
+    },
+    {
+        "created_at": "2020-02-28T00:05:27.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1233181381154369536"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.051231,
+                    33.512836
+                ]
+            }
+        },
+        "id": "1233181381154369536",
+        "text": "On it!!\ud83c\udf7a#dosequisamberxx @ Mi Rancho Restaurant  Washington Rd https://t.co/5durYrzrwl"
+    },
+    {
+        "created_at": "2020-02-26T13:18:15.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1232656120696770560"
+        ],
+        "author_id": "48196643",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 5,
+            "quote_count": 4
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1232656120696770560",
+        "text": "Definitely investing in a pair of them vibrating panties LoL I can see myself now hittin the shit every time she try to take a bite of her food in a restaurant or sumn \ud83d\ude0f"
+    },
+    {
+        "created_at": "2020-02-16T17:07:30.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1229089936768409603"
+        ],
+        "author_id": "2691370080",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.058148,
+                    33.515335
+                ]
+            }
+        },
+        "id": "1229089936768409603",
+        "text": "Breakfast Bar \n$150 Now $105!!!\n#dealsandsteals #promotions #sundayfunday #retailtherapy #apartmentliving #augustaga #shopfinalcut @ Final Cut https://t.co/x3q8BClxCj"
+    },
+    {
+        "created_at": "2020-01-25T02:13:35.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1220892438673481730"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.051231,
+                    33.512836
+                ]
+            }
+        },
+        "id": "1220892438673481730",
+        "text": "*shots* @ Mi Rancho Restaurant  Washington Rd https://t.co/KZKVSFz7wq"
+    },
+    {
+        "created_at": "2020-01-25T00:26:35.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1220865510834954246"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.051231,
+                    33.512836
+                ]
+            }
+        },
+        "id": "1220865510834954246",
+        "text": "OLAAAAY! Olay, Olay, Olay!! @ Mi Rancho Restaurant  Washington Rd https://t.co/YZxDtuBi7O"
+    },
+    {
+        "created_at": "2020-01-19T20:02:18.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1218987065280516096"
+        ],
+        "author_id": "888028328",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "07d9db2d38087000"
+        },
+        "id": "1218987065280516096",
+        "text": "drinking long island\u2019s @ the bar"
+    },
+    {
+        "created_at": "2020-01-13T13:45:34.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1216717928072122368"
+        ],
+        "author_id": "2872429445",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1216717928072122368",
+        "text": "@F3EvansGA 4 Warriors have Great coffeteria this am. Thanks guys, I needed that! Possible new restaurant coming soon. Ask Moonshine. Thanks @goldsgymevansga for the Washateria! #BeStrong"
+    },
+    {
+        "created_at": "2020-01-12T01:31:53.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1216170902339117062"
+        ],
+        "author_id": "2691370080",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.1,
+                    33.5161
+                ]
+            }
+        },
+        "id": "1216170902339117062",
+        "text": "Lovell Bar Stools \n34\u201dH 17\u201dW 20\u201dD \n$100 Now $70 Each \n\n#dealsandsteals #interiordesign #midcenturymodern #barstools #promotions #breakfastbar #designerbrands #augustaga #shopfinalcut @ Martinez, Georgia https://t.co/fzuSQOjtKC"
+    },
+    {
+        "created_at": "2020-01-09T17:32:59.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1215325610995744768"
+        ],
+        "author_id": "2691370080",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.1,
+                    33.5161
+                ]
+            }
+        },
+        "id": "1215325610995744768",
+        "text": "Wicker Bar Stools \n$70 Each \n3 Available \n#dealsandsteals #interiordesign #farmhousestyle #homedecor #barstools #designerbrandsforless #augustaga #shopfinalcut @ Martinez, Georgia https://t.co/Wy2WYDY5dw"
+    },
+    {
+        "created_at": "2020-01-09T14:18:50.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1215276749333811200"
+        ],
+        "author_id": "549801417",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.048912,
+                    33.513194
+                ]
+            }
+        },
+        "id": "1215276749333811200",
+        "text": "Prom night at Wild Wing Cafe in Augusta Tonight!  Well not really, but we will be selling Sabo Signature Mullet Wigs.  He has been designing these bad boys for the past few months.  They are being made in China and\u2026 https://t.co/euictWaL8W"
+    },
+    {
+        "created_at": "2020-01-07T05:03:38.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1214412253614751745"
+        ],
+        "author_id": "2349660231",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "f49a4a8acee0f86c"
+        },
+        "id": "1214412253614751745",
+        "text": "@lizzen2em should we go back to the salad bar"
+    },
+    {
+        "created_at": "2020-01-06T22:21:59.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1214311172947578880"
+        ],
+        "author_id": "66673794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.051231,
+                    33.512836
+                ]
+            }
+        },
+        "id": "1214311172947578880",
+        "text": "I wanted some sh*t with some BOP in it\ud83d\ude09...OLAAAAY, OLAY, OLAY, OLAY!! @ Mi Rancho Restaurant  Washington Rd https://t.co/38oEwC3wbI"
+    },
+    {
+        "created_at": "2020-01-04T17:49:27.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1213517815484956672"
+        ],
+        "author_id": "844909489",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.05501459,
+                    33.51410542
+                ]
+            }
+        },
+        "id": "1213517815484956672",
+        "text": "I'm at @Applebees Grill + Bar in Augusta, GA https://t.co/LFwl16xSSt"
+    },
+    {
+        "created_at": "2020-01-03T16:12:02.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1213130911321116674"
+        ],
+        "author_id": "844909489",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "01af006c3a91a348",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.1212138,
+                    33.5302583
+                ]
+            }
+        },
+        "id": "1213130911321116674",
+        "text": "I'm at Paris Natural Nail Bar in Evans, GA https://t.co/WqxzD2fYmS"
+    },
+    {
+        "created_at": "2020-01-03T00:12:34.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1212889450793095168"
+        ],
+        "author_id": "549801417",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "00c6c3cd3e783197",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -82.048912,
+                    33.513194
+                ]
+            }
+        },
+        "id": "1212889450793095168",
+        "text": "Playing tonight 8pm Wild Wing with @joestevenson72 @ Wild Wing Cafe https://t.co/dzGKDYKWT8"
+    }
+]

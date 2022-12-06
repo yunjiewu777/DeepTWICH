@@ -1,0 +1,3464 @@
+[
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3542,
+                    33.5244
+                ]
+            }
+        },
+        "lang": "ca",
+        "author_id": "427220546",
+        "id": "1531388553762164736",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "text": "Restaurant floor care part III @ Jonesboro, Georgia https://t.co/3nmkfsPH8l",
+        "edit_history_tweet_ids": [
+            "1531388553762164736"
+        ],
+        "created_at": "2022-05-30T21:34:17.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda"
+        },
+        "lang": "en",
+        "author_id": "2482954758",
+        "id": "1531094224996794368",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Drunk on a Sunday night in front of church folks crazy..but open bar at a hs graduation crazier",
+        "edit_history_tweet_ids": [
+            "1531094224996794368"
+        ],
+        "created_at": "2022-05-30T02:04:44.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3551107,
+                    33.5215221
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "37289818",
+        "id": "1529086088660279297",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Nouveau Bar &amp; Grill Jonesboro https://t.co/gNonUcJ7Ii",
+        "edit_history_tweet_ids": [
+            "1529086088660279297"
+        ],
+        "created_at": "2022-05-24T13:05:07.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36552644,
+                    33.5364047
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "165341499",
+        "id": "1528204851288723456",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Sugar Bush Restaurant &amp; Sports Bar https://t.co/BcpNDvt0Un",
+        "edit_history_tweet_ids": [
+            "1528204851288723456"
+        ],
+        "created_at": "2022-05-22T02:43:23.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3551107,
+                    33.5215221
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "37289818",
+        "id": "1528145330708938752",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Nouveau Bar &amp; Grill Jonesboro https://t.co/i4oWOs5m44",
+        "edit_history_tweet_ids": [
+            "1528145330708938752"
+        ],
+        "created_at": "2022-05-21T22:46:53.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3551107,
+                    33.5215221
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "37289818",
+        "id": "1528048797305012224",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Nouveau Bar &amp; Grill Jonesboro https://t.co/Vy6QOjo8Zc",
+        "edit_history_tweet_ids": [
+            "1528048797305012224"
+        ],
+        "created_at": "2022-05-21T16:23:17.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3551107,
+                    33.5215221
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "37289818",
+        "id": "1524364176306720768",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Nouveau Bar &amp; Grill Jonesboro https://t.co/cPrA5LclHM",
+        "edit_history_tweet_ids": [
+            "1524364176306720768"
+        ],
+        "created_at": "2022-05-11T12:21:55.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3551107,
+                    33.5215221
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "37289818",
+        "id": "1524122634484473856",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Nouveau Bar &amp; Grill Jonesboro https://t.co/KkNlEZC677",
+        "edit_history_tweet_ids": [
+            "1524122634484473856"
+        ],
+        "created_at": "2022-05-10T20:22:07.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.355246,
+                    33.521308
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "22494344",
+        "id": "1521682601458688003",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Lunch time (@ Nouveau Bar &amp; Grill in Jonesboro, GA) https://t.co/xIUMCva4WZ",
+        "edit_history_tweet_ids": [
+            "1521682601458688003"
+        ],
+        "created_at": "2022-05-04T02:46:18.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3551107,
+                    33.5215221
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "37289818",
+        "id": "1521309422626222080",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Nouveau Bar &amp; Grill Jonesboro https://t.co/aFwPbxsl5g",
+        "edit_history_tweet_ids": [
+            "1521309422626222080"
+        ],
+        "created_at": "2022-05-03T02:03:25.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3551107,
+                    33.5215221
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "37289818",
+        "id": "1516759544524943360",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Nouveau Bar &amp; Grill Jonesboro https://t.co/ka4sQ7HMbs",
+        "edit_history_tweet_ids": [
+            "1516759544524943360"
+        ],
+        "created_at": "2022-04-20T12:43:50.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3551107,
+                    33.5215221
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "37289818",
+        "id": "1515054186991431689",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Nouveau Bar &amp; Grill Jonesboro https://t.co/BfoL7zPNkz",
+        "edit_history_tweet_ids": [
+            "1515054186991431689"
+        ],
+        "created_at": "2022-04-15T19:47:21.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3551107,
+                    33.5215221
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "37289818",
+        "id": "1514193341134651393",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Nouveau Bar &amp; Grill Jonesboro https://t.co/0LqB6x0cR2",
+        "edit_history_tweet_ids": [
+            "1514193341134651393"
+        ],
+        "created_at": "2022-04-13T10:46:39.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3551107,
+                    33.5215221
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "37289818",
+        "id": "1514046332478103557",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Nouveau Bar &amp; Grill Jonesboro https://t.co/RplBvgYzB8",
+        "edit_history_tweet_ids": [
+            "1514046332478103557"
+        ],
+        "created_at": "2022-04-13T01:02:29.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "43188800",
+        "id": "1513292063407751173",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "I normally take a couple shots at the bar but between that long island and rum punch ion need it.  The drinks did its job \ud83e\udd23",
+        "edit_history_tweet_ids": [
+            "1513292063407751173"
+        ],
+        "created_at": "2022-04-10T23:05:18.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3551107,
+                    33.5215221
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "37289818",
+        "id": "1511366281529860101",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a video @ Nouveau Bar &amp; Grill Jonesboro https://t.co/2BoJYoHZ4c",
+        "edit_history_tweet_ids": [
+            "1511366281529860101"
+        ],
+        "created_at": "2022-04-05T15:32:56.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3551107,
+                    33.5215221
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "37289818",
+        "id": "1510400993388867585",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Nouveau Bar &amp; Grill Jonesboro https://t.co/nSjvYMyzKr",
+        "edit_history_tweet_ids": [
+            "1510400993388867585"
+        ],
+        "created_at": "2022-04-02T23:37:13.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3551107,
+                    33.5215221
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "37289818",
+        "id": "1510270202482733060",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Nouveau Bar &amp; Grill Jonesboro https://t.co/E4V7VCAAs1",
+        "edit_history_tweet_ids": [
+            "1510270202482733060"
+        ],
+        "created_at": "2022-04-02T14:57:30.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "979294103165898752",
+        "id": "1510049668578881544",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "@KyriacosONYX Imma inbox u \u2026 I need a order when I leave the bar that and some other",
+        "edit_history_tweet_ids": [
+            "1510049668578881544"
+        ],
+        "created_at": "2022-04-02T00:21:11.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3551107,
+                    33.5215221
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "37289818",
+        "id": "1508964406574477314",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Nouveau Bar &amp; Grill Jonesboro https://t.co/ViBQMMT0se",
+        "edit_history_tweet_ids": [
+            "1508964406574477314"
+        ],
+        "created_at": "2022-03-30T00:28:44.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "1423412533956841476",
+        "id": "1507740834690707456",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 22,
+            "quote_count": 0
+        },
+        "text": "If you know me then you know I don't go out much because ppl really don't know how to act.. finally decided to get out the house with my husband and we almost had to turn valet tf out at the restaurant bout my car... smfh.. Do Not Go To Apt4B ATL restaurant.. you've been warned. https://t.co/z34Tsh0omc",
+        "edit_history_tweet_ids": [
+            "1507740834690707456"
+        ],
+        "created_at": "2022-03-26T15:26:42.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3551107,
+                    33.5215221
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "37289818",
+        "id": "1506437140120485890",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Nouveau Bar &amp; Grill Jonesboro https://t.co/10RvLAViKn",
+        "edit_history_tweet_ids": [
+            "1506437140120485890"
+        ],
+        "created_at": "2022-03-23T01:06:17.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3551107,
+                    33.5215221
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "22498452",
+        "id": "1505544320719495169",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Nouveau Bar &amp; Grill Jonesboro https://t.co/S6qf1iSFun",
+        "edit_history_tweet_ids": [
+            "1505544320719495169"
+        ],
+        "created_at": "2022-03-20T13:58:32.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "85354782",
+        "id": "1503072402837757954",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 13,
+            "quote_count": 0
+        },
+        "text": "If you complain at every restaurant.. we can not go out together \u270c\ufe0f",
+        "edit_history_tweet_ids": [
+            "1503072402837757954"
+        ],
+        "created_at": "2022-03-13T18:16:01.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "1338472153012989954",
+        "id": "1502620155502862349",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "text": "my power is out &amp; i need to find a restaurant with some electricity bc babyyyy \ud83d\ude2d",
+        "edit_history_tweet_ids": [
+            "1502620155502862349"
+        ],
+        "created_at": "2022-03-12T12:18:57.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3551107,
+                    33.5215221
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "37289818",
+        "id": "1501710790390427653",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Nouveau Bar &amp; Grill Jonesboro https://t.co/Zir0ghVzv2",
+        "edit_history_tweet_ids": [
+            "1501710790390427653"
+        ],
+        "created_at": "2022-03-10T00:05:27.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3551107,
+                    33.5215221
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "37289818",
+        "id": "1499779911929659392",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Nouveau Bar &amp; Grill Jonesboro https://t.co/icLNG4sFph",
+        "edit_history_tweet_ids": [
+            "1499779911929659392"
+        ],
+        "created_at": "2022-03-04T16:12:50.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3551107,
+                    33.5215221
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "901199299677220867",
+        "id": "1499557498914844711",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Nouveau Bar &amp; Grill Jonesboro https://t.co/K1KkEwqgrR",
+        "edit_history_tweet_ids": [
+            "1499557498914844711"
+        ],
+        "created_at": "2022-03-04T01:29:02.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.34367331,
+                    33.52706838
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "95131596",
+        "id": "1497826497880784896",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Classy, Sassy &amp; Fly.. Only by @nailsbytiara \nLove them! \ud83d\udc85\ud83c\udfff\u2764\ud83d\udc4c\ud83c\udffe\n#nailsbytiara #instanails #nailart #blacknailtech #southgeorgia #beautyindustry #nails @ House of Pretty Beauty Bar &amp; Boutiques https://t.co/mfCgoqEdZl",
+        "edit_history_tweet_ids": [
+            "1497826497880784896"
+        ],
+        "created_at": "2022-02-27T06:50:40.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3551107,
+                    33.5215221
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "37289818",
+        "id": "1493398372090327043",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Nouveau Bar &amp; Grill Jonesboro https://t.co/8tx120zU8g",
+        "edit_history_tweet_ids": [
+            "1493398372090327043"
+        ],
+        "created_at": "2022-02-15T01:34:52.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3551107,
+                    33.5215221
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "37289818",
+        "id": "1490027587120222209",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Nouveau Bar &amp; Grill Jonesboro https://t.co/jikruyOMqO",
+        "edit_history_tweet_ids": [
+            "1490027587120222209"
+        ],
+        "created_at": "2022-02-05T18:20:34.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "1472946464032796673",
+        "id": "1489270252106129415",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Check out Veilment Care Soothing  https://t.co/s5b8wiqEAQ shop Synt magical at AVONNOW",
+        "edit_history_tweet_ids": [
+            "1489270252106129415"
+        ],
+        "created_at": "2022-02-03T16:11:12.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35469,
+                    33.52055
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "901199299677220867",
+        "id": "1488974488821772289",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Fig Tree Cafe Jonesboro https://t.co/JgJvl5QsTY",
+        "edit_history_tweet_ids": [
+            "1488974488821772289"
+        ],
+        "created_at": "2022-02-02T20:35:56.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "1423412533956841476",
+        "id": "1486081025319096324",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 6,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "text": "Tell me how someone goes to Friends on Ponce...clearly intoxicated..hits a few cars..runs over the 1 car owner..hits more cars while fleeing the scene..come back to the same bar 2 weeks later but still isn't charged yet..how are they not charged already???? How???? \ud83d\udc40\ud83d\udc40\ud83d\udc40 https://t.co/jWnTZi48lf",
+        "edit_history_tweet_ids": [
+            "1486081025319096324"
+        ],
+        "created_at": "2022-01-25T20:58:21.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "1472946464032796673",
+        "id": "1479039143208529922",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "Check out Veilment Hemp Seed Oil Ultra-Nourishing Bathing Bar via @AvonInsider https://t.co/EbOOBTeqbe God shop Synt magical at AVONNOW",
+        "edit_history_tweet_ids": [
+            "1479039143208529922"
+        ],
+        "created_at": "2022-01-06T10:36:25.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "0ea2a39c4a95b000"
+        },
+        "lang": "en",
+        "author_id": "1286431933480816642",
+        "id": "1478803427014725639",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": ".@JohannaStyne1 taking a coffee break at Fig Tree Cafe. https://t.co/Bv1XJN0vDD",
+        "edit_history_tweet_ids": [
+            "1478803427014725639"
+        ],
+        "created_at": "2022-01-05T18:59:46.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "1070182511773433857",
+        "id": "1477718559417643014",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 1
+        },
+        "text": "Wordpress. This search bar with this hard code. Remove it from the default option. Thank you.",
+        "edit_history_tweet_ids": [
+            "1477718559417643014"
+        ],
+        "created_at": "2022-01-02T19:08:53.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3551107,
+                    33.5215221
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "136725759",
+        "id": "1477696763351994374",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "One of my favorite restaurants in Atlanta! @ Nouveau Bar &amp; Grill Jonesboro https://t.co/RsjQvlVQDX",
+        "edit_history_tweet_ids": [
+            "1477696763351994374"
+        ],
+        "created_at": "2022-01-02T17:42:17.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "1338472153012989954",
+        "id": "1475866106468474886",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "text": "y\u2019all be in hookah lounges, at the bar, at the club, etc &amp; wonder why covid goin crazy lmaoooo",
+        "edit_history_tweet_ids": [
+            "1475866106468474886"
+        ],
+        "created_at": "2021-12-28T16:27:54.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda"
+        },
+        "lang": "en",
+        "author_id": "16581857",
+        "id": "1470930324448231427",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "You learn so much about a person by their behavior at a buffet or open bar.",
+        "edit_history_tweet_ids": [
+            "1470930324448231427"
+        ],
+        "created_at": "2021-12-15T01:34:52.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda"
+        },
+        "lang": "en",
+        "author_id": "984447442451161088",
+        "id": "1466562577295556609",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Cus why is this Jamaican restaurant line MAD fkn long like \ud83d\ude44",
+        "edit_history_tweet_ids": [
+            "1466562577295556609"
+        ],
+        "created_at": "2021-12-03T00:19:00.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3551107,
+                    33.5215221
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "27824225",
+        "id": "1462959557425217544",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Nouveau Bar &amp; Grill Jonesboro https://t.co/sAnp4KhkXZ",
+        "edit_history_tweet_ids": [
+            "1462959557425217544"
+        ],
+        "created_at": "2021-11-23T01:41:53.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3551107,
+                    33.5215221
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "37289818",
+        "id": "1458936186702114817",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Nouveau Bar &amp; Grill Jonesboro https://t.co/fmDSepYYOi",
+        "edit_history_tweet_ids": [
+            "1458936186702114817"
+        ],
+        "created_at": "2021-11-11T23:14:27.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "1423412533956841476",
+        "id": "1456485553973698560",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "text": "Im such a light weight..I had 1 stiff drink and I feel like I been bar hopping \n\ud83e\udd74\ud83e\udd26\ud83c\udffe\u200d\u2642\ufe0f\ud83d\ude29\ud83e\udd23",
+        "edit_history_tweet_ids": [
+            "1456485553973698560"
+        ],
+        "created_at": "2021-11-05T04:56:30.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3435978,
+                    33.52709865
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "95131596",
+        "id": "1454596198174642176",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ House of Pretty Beauty Bar &amp; Boutiques https://t.co/nC8K4B1RA0",
+        "edit_history_tweet_ids": [
+            "1454596198174642176"
+        ],
+        "created_at": "2021-10-30T23:48:53.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3551107,
+                    33.5215221
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "37289818",
+        "id": "1453531523181842434",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Nouveau Bar &amp; Grill Jonesboro https://t.co/uW7YjxpPF6",
+        "edit_history_tweet_ids": [
+            "1453531523181842434"
+        ],
+        "created_at": "2021-10-28T01:18:15.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "0ea2a39c4a95b000"
+        },
+        "lang": "en",
+        "author_id": "16581857",
+        "id": "1452620960079695874",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Thinking of hitting Fig Tree Cafe in Jonesboro to do some work today. Who\u2019s there?",
+        "edit_history_tweet_ids": [
+            "1452620960079695874"
+        ],
+        "created_at": "2021-10-25T12:59:59.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3542,
+                    33.5244
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "361947500",
+        "id": "1451927098440945669",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Chef Baker's Place 2 LLC open today Saturday 10/23/21 from 12pm-8pm. Come get your lunch and dinner.\n\n309 N. Main Street Jonesboro Ga 30236\n\nCall in order are available!!!\nRestaurant Number: 678-519-3354 https://t.co/HUUgaH6MXI",
+        "edit_history_tweet_ids": [
+            "1451927098440945669"
+        ],
+        "created_at": "2021-10-23T15:02:50.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "1338472153012989954",
+        "id": "1449855471318409218",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "ion want the oxtail plate if the restaurant gon b stingy wit the gravy lmaooo",
+        "edit_history_tweet_ids": [
+            "1449855471318409218"
+        ],
+        "created_at": "2021-10-17T21:50:56.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3551107,
+                    33.5215221
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "467156821",
+        "id": "1447545709545197569",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Nouveau Bar &amp; Grill Jonesboro https://t.co/7NtEA1TGvW",
+        "edit_history_tweet_ids": [
+            "1447545709545197569"
+        ],
+        "created_at": "2021-10-11T12:52:45.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3551107,
+                    33.5215221
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "67207029",
+        "id": "1447319304676937731",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "Early Birthday brunch back at Nouveau again with my Fam!  #LibraSeason Family #SisterCousin #BrotherCousin \ud83c\udf89\ud83c\udf89\ud83c\udf7e\ud83c\udf7e\ud83c\udf81 @ Nouveau Bar &amp; Grill Jonesboro https://t.co/ec2disvC3v",
+        "edit_history_tweet_ids": [
+            "1447319304676937731"
+        ],
+        "created_at": "2021-10-10T21:53:06.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3551107,
+                    33.5215221
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "37289818",
+        "id": "1443024687794110471",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Nouveau Bar &amp; Grill Jonesboro https://t.co/DfNG9Ed5Mt",
+        "edit_history_tweet_ids": [
+            "1443024687794110471"
+        ],
+        "created_at": "2021-09-29T01:27:50.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3551107,
+                    33.5215221
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "136725759",
+        "id": "1441838931050336258",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Better check it out!  \ud83e\udd24 #nouveaubaratl #nubiantv #nubiantvatlanta #southside @ Nouveau Bar &amp; Grill Jonesboro https://t.co/Gj2x7HnKWK",
+        "edit_history_tweet_ids": [
+            "1441838931050336258"
+        ],
+        "created_at": "2021-09-25T18:56:03.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "4509474023",
+        "id": "1441127337139965963",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "text": "Yo\u2019Ma cafe \n (curry lobster \ud83e\udd9e an shrimp \ud83e\udd90 pasta) #Privatechef #PersonChef #kinglexz #yomacafe https://t.co/aWF6wFAqsP",
+        "edit_history_tweet_ids": [
+            "1441127337139965963"
+        ],
+        "created_at": "2021-09-23T19:48:26.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "926735415444418560",
+        "id": "1436170181160669185",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "that fresh cut really have you goin to the grocery store for a box of pop tarts and a bar of deodorant.",
+        "edit_history_tweet_ids": [
+            "1436170181160669185"
+        ],
+        "created_at": "2021-09-10T03:30:28.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "4093606349",
+        "id": "1433098606152724482",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "If I like you best believe your Ben in my search bar \ud83d\udeb6\ud83c\udffd\u200d\u2642\ufe0f",
+        "edit_history_tweet_ids": [
+            "1433098606152724482"
+        ],
+        "created_at": "2021-09-01T16:05:08.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35531385,
+                    33.52133761
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "467156821",
+        "id": "1431283123539480576",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Nouveau Bar and Grill https://t.co/aFrCiebDA8",
+        "edit_history_tweet_ids": [
+            "1431283123539480576"
+        ],
+        "created_at": "2021-08-27T15:51:03.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "253839076",
+        "id": "1419642911415836672",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "\"Let's go to the bar bruh\"... go get your kud and let's hit the park cuzzy... my life only consist of bars now when  they pay me to come lol",
+        "edit_history_tweet_ids": [
+            "1419642911415836672"
+        ],
+        "created_at": "2021-07-26T12:57:00.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3503512,
+                    33.53849294
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "590106385",
+        "id": "1412440997255077893",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Good eats in #claytoncountyga @freshsmoothiecafe! #blackownedbusiness #blackowned #blackculturematters @ Fresh Smoothie Cafe https://t.co/G84VRcFLah",
+        "edit_history_tweet_ids": [
+            "1412440997255077893"
+        ],
+        "created_at": "2021-07-06T15:59:10.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.40879791,
+                    33.54765819
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "432181269",
+        "id": "1409171019844177920",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Keeping it real everyday it aint easy\ud83d\ude14\ud83e\udd1e\ud83c\udffe @ Seafood Cafe' https://t.co/nOBfvC6pk1",
+        "edit_history_tweet_ids": [
+            "1409171019844177920"
+        ],
+        "created_at": "2021-06-27T15:25:26.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41618236,
+                    33.54803815
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "25929737",
+        "id": "1398493725291126784",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Gotta love a great saxophonist @theoneandonly_jsaxx1 @ Legends Headquarters Sports Bar &amp; Lounge https://t.co/nzwD6gxHtZ",
+        "edit_history_tweet_ids": [
+            "1398493725291126784"
+        ],
+        "created_at": "2021-05-29T04:17:41.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36406,
+                    33.52284
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "41025482",
+        "id": "1396664999217610752",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Goodtimes in the city with @tequilla_love @ Sports Cafe Jonesboro https://t.co/lTuvIpuPQf",
+        "edit_history_tweet_ids": [
+            "1396664999217610752"
+        ],
+        "created_at": "2021-05-24T03:10:59.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda"
+        },
+        "lang": "en",
+        "author_id": "266721389",
+        "id": "1393142547107749888",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "@Fred_Plugdn It was a era lol type it in your search bar but fasho",
+        "edit_history_tweet_ids": [
+            "1393142547107749888"
+        ],
+        "created_at": "2021-05-14T09:54:01.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41618236,
+                    33.54803815
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "477363704",
+        "id": "1388645115946749955",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Lord I thank you for this meal.. @ Legends Headquarters Sports Bar &amp; Lounge https://t.co/KBV5UpwX1B",
+        "edit_history_tweet_ids": [
+            "1388645115946749955"
+        ],
+        "created_at": "2021-05-02T00:02:50.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.39993,
+                    33.54329
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "277910469",
+        "id": "1383479730125434880",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "MAN SHOUT OUT @wewantmello @keke_handsondeck &amp; the whole QPM ENT @qpment !!\n\nNUN BUT GRATITUDE FRFR \ud83d\ude24\ud83d\ude4f\ud83c\udffe\n\nROSE GOLD DONT OWE ME SHIIIIIT\n\nSong : CULPRIT \nOUT NOW #linkinbio @ Rose Gold Bar &amp; Lounge https://t.co/PXs77toyY3",
+        "edit_history_tweet_ids": [
+            "1383479730125434880"
+        ],
+        "created_at": "2021-04-17T17:57:26.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.39993,
+                    33.54329
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "277910469",
+        "id": "1381357007660269568",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "\ud83d\udea8 THIS FRIDAY \ud83d\udea8\n\nSPECIAL SOUFSIDE EXCLUSIVE FESTURING SOME OF THE HOTTEST FEMALE ARTIST IN THE STATE \ud83d\udd25\ud83d\udd25\ud83d\udd25\n\nCULPRIT OFFICIAL RELEASE CELEBRATION  AS WELL \ud83d\ude80\ud83d\ude80\ud83d\ude80\n\nONLY @ ROSE GOLD BAR &amp; LOUNGE @ Rose Gold Bar &amp; Lounge https://t.co/4MvFqdLEH2",
+        "edit_history_tweet_ids": [
+            "1381357007660269568"
+        ],
+        "created_at": "2021-04-11T21:22:29.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.39993,
+                    33.54329
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "45670265",
+        "id": "1378555013442772992",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a video @ Rose Gold Bar &amp; Lounge https://t.co/sac0JSmfVO",
+        "edit_history_tweet_ids": [
+            "1378555013442772992"
+        ],
+        "created_at": "2021-04-04T03:48:22.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.39993,
+                    33.54329
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "277910469",
+        "id": "1378496457263702016",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "REAL JIG SESSION WAS GOIN ON \ud83d\ude24\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe\ud83e\udd23\n\nCULPRIT DROPPIN NEXT FRIDAY 4/9\n\n#ROCKSTARREBEL #HOAR #LIVEPERFORMANCE #indiemusic #atlanta #femalerapper #lgbtq @ Rose Gold Bar &amp; Lounge https://t.co/DFh4crVmos",
+        "edit_history_tweet_ids": [
+            "1378496457263702016"
+        ],
+        "created_at": "2021-04-03T23:55:41.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "32887889",
+        "id": "1372285272805740547",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "This line at this restaurant wrapped twice and I\u2019m finna sit in it \u263a\ufe0f",
+        "edit_history_tweet_ids": [
+            "1372285272805740547"
+        ],
+        "created_at": "2021-03-17T20:34:39.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "291744555",
+        "id": "1371311108527652866",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "@Mme_Falcon @Air_Falcon225 Here is a great reaction/bar breakdown of a track he did with Em on the Southpaw soundtrack. \n[h/t @theknoxhill]\n\nhttps://t.co/qINSGYclF1",
+        "edit_history_tweet_ids": [
+            "1371311108527652866"
+        ],
+        "created_at": "2021-03-15T04:03:40.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda"
+        },
+        "lang": "en",
+        "author_id": "2440206319",
+        "id": "1370865027809480706",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "anybody in Atlanta knows of good hookah lounges or somewhere in Atlanta that\u2019s popping tonight ?? (also can be a restaurant)?!?!",
+        "edit_history_tweet_ids": [
+            "1370865027809480706"
+        ],
+        "created_at": "2021-03-13T22:31:06.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda"
+        },
+        "lang": "en",
+        "author_id": "372587160",
+        "id": "1367229708853780489",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Damn I did not realize I only had one bar left until I run out of gas \ud83d\ude2c",
+        "edit_history_tweet_ids": [
+            "1367229708853780489"
+        ],
+        "created_at": "2021-03-03T21:45:39.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.39993,
+                    33.54329
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "1136136868016340992",
+        "id": "1361886311297114113",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "text": "@3qtrzslyk presents soufside jeepers creepers @ Rose Gold Bar &amp; Lounge https://t.co/xazv9KVqsF",
+        "edit_history_tweet_ids": [
+            "1361886311297114113"
+        ],
+        "created_at": "2021-02-17T03:52:53.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.39993,
+                    33.54329
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "1136136868016340992",
+        "id": "1361505649717305350",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "text": "Mr google me himself @3qtrzslyk @ Rose Gold Bar &amp; Lounge https://t.co/jOlkKQUPnF",
+        "edit_history_tweet_ids": [
+            "1361505649717305350"
+        ],
+        "created_at": "2021-02-16T02:40:17.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.39993,
+                    33.54329
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "1594810860",
+        "id": "1361039177199063049",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Rose Gold Bar &amp; Lounge https://t.co/By8qpOlZSo",
+        "edit_history_tweet_ids": [
+            "1361039177199063049"
+        ],
+        "created_at": "2021-02-14T19:46:41.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.39993,
+                    33.54329
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "2459819233",
+        "id": "1359028372207259648",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Thank You All... We did it Naturally no fake friend Followers all Real... \n..\n..\n#wemade #10k \ud83d\udcaf\ud83d\udcaa\u2764\ud83c\udf89\ud83c\udf89 @ Rose Gold Bar &amp; Lounge https://t.co/tuyRJ6rWXE",
+        "edit_history_tweet_ids": [
+            "1359028372207259648"
+        ],
+        "created_at": "2021-02-09T06:36:28.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.39993,
+                    33.54329
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "277910469",
+        "id": "1358270177427734528",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "\ud83d\udea8\ud83d\udea8 SOUFSIDE EXCLUSIVE \ud83d\udea8\ud83d\udea8\nITS BLVCKREBEL\u2019s FIRST PERFORMANCE OF 2021 AND YOU DONT WANNA MISS THIS SHIT \ud83e\udd2f\ud83d\ude24\u2694\ufe0f\ud83d\udce1 \n\nROSE GOLD BAR AND LOUNGE \n\n02/19 \n\n#REBEL #indiemusic #liveperformance #atlanta @ Rose Gold Bar &amp; Lounge https://t.co/aFsySel55i",
+        "edit_history_tweet_ids": [
+            "1358270177427734528"
+        ],
+        "created_at": "2021-02-07T04:23:40.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.39993,
+                    33.54329
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "277910469",
+        "id": "1358269115501318144",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "\ud83d\udea8\ud83d\udea8 SOUFSIDE EXCLUSIVE \ud83d\udea8\ud83d\udea8\nITS BLVCKREBEL\u2019s FIRST LIVE PERFORMANCE OF 2021 AND YOU DONT WANNA MISS THIS SH*T \ud83e\udd2f\ud83d\ude24\u2694\ufe0f\ud83d\udce1 \n\nROSE GOLD BAR AND LOUNGE FRIDAY 02/19 \n\n#REBEL #indiemusic #liveperformance #atlanta https://t.co/NtIenMlNaJ",
+        "edit_history_tweet_ids": [
+            "1358269115501318144"
+        ],
+        "created_at": "2021-02-07T04:19:27.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.39993,
+                    33.54329
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "1594810860",
+        "id": "1358214963245031424",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a video @ Rose Gold Bar &amp; Lounge https://t.co/2Ob9ikLtlI",
+        "edit_history_tweet_ids": [
+            "1358214963245031424"
+        ],
+        "created_at": "2021-02-07T00:44:16.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.39993,
+                    33.54329
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "1594810860",
+        "id": "1358204116078592000",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a video @ Rose Gold Bar &amp; Lounge https://t.co/vUS4DG9tlS",
+        "edit_history_tweet_ids": [
+            "1358204116078592000"
+        ],
+        "created_at": "2021-02-07T00:01:10.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "347315597",
+        "id": "1355526414297133057",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "text": "Myself from the restaurant https://t.co/OhBJljx5Z3",
+        "edit_history_tweet_ids": [
+            "1355526414297133057"
+        ],
+        "created_at": "2021-01-30T14:40:56.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "420574149",
+        "id": "1354874011205963781",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "Wonder how niggas that get caught fucking other bitches get they girl back ? Cause mine get mad at a name in a search bar",
+        "edit_history_tweet_ids": [
+            "1354874011205963781"
+        ],
+        "created_at": "2021-01-28T19:28:31.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.39993,
+                    33.54329
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "1136136868016340992",
+        "id": "1354314889284775937",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "@3qtrzslyk they show me plenty love every trip #plentyent #soufside @rosegoldbarlounge @ Rose Gold Bar &amp; Lounge https://t.co/OekMmxiiZk",
+        "edit_history_tweet_ids": [
+            "1354314889284775937"
+        ],
+        "created_at": "2021-01-27T06:26:46.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.39993,
+                    33.54329
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "1136136868016340992",
+        "id": "1352452032351891458",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "@3qtrzslyk performing nobody live #3qtrzslyk #Big3 #Plentyent #explorepage @ Rose Gold Bar &amp; Lounge https://t.co/chU572JZNY",
+        "edit_history_tweet_ids": [
+            "1352452032351891458"
+        ],
+        "created_at": "2021-01-22T03:04:26.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3641051,
+                    33.5229178
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "33761314",
+        "id": "1350282507220971520",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Feeling a bit ethnic tonight!!! @ Sports Cafe Jonesboro https://t.co/oKdw6pWhxf",
+        "edit_history_tweet_ids": [
+            "1350282507220971520"
+        ],
+        "created_at": "2021-01-16T03:23:31.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.39993,
+                    33.54329
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "1136136868016340992",
+        "id": "1349342404562702338",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "@3qtrzslyk Pre order that google me now brought to you live PlentyEnt &amp; CME @ Rose Gold Bar &amp; Lounge https://t.co/wkLt1Ln7F1",
+        "edit_history_tweet_ids": [
+            "1349342404562702338"
+        ],
+        "created_at": "2021-01-13T13:07:53.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3647199,
+                    33.5350751
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "19850691",
+        "id": "1349143326520266752",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Nut Cafe https://t.co/aihTwyHVa5",
+        "edit_history_tweet_ids": [
+            "1349143326520266752"
+        ],
+        "created_at": "2021-01-12T23:56:49.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.353035,
+                    33.512639
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "24186110",
+        "id": "1346544147163979776",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "I'm at The Fig Tree Cafe in Jonesboro, GA https://t.co/2OMj2MzW4n",
+        "edit_history_tweet_ids": [
+            "1346544147163979776"
+        ],
+        "created_at": "2021-01-05T19:48:36.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda"
+        },
+        "lang": "en",
+        "author_id": "1272043670326435846",
+        "id": "1343218011629637634",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "don\u2019t settle for less, not in education, financials, friendships, and relationships. raise the bar!",
+        "edit_history_tweet_ids": [
+            "1343218011629637634"
+        ],
+        "created_at": "2020-12-27T15:31:44.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3641051,
+                    33.5229178
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "33761314",
+        "id": "1335028076368048128",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Sports Cafe Jonesboro https://t.co/z56fXMi4KX",
+        "edit_history_tweet_ids": [
+            "1335028076368048128"
+        ],
+        "created_at": "2020-12-05T01:07:51.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "2931659749",
+        "id": "1333490700013408259",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "Man I would\u2019ve Ran out that bitch so fast &amp; slapped his ass while doing so cause who Tf you talking to , You don\u2019t need to be playing twerk songs in a \u201c classy \u201c restaurant. That\u2019s just that . https://t.co/vtXtlbWHbc",
+        "edit_history_tweet_ids": [
+            "1333490700013408259"
+        ],
+        "created_at": "2020-11-30T19:18:52.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.39993,
+                    33.54329
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "2459819233",
+        "id": "1332907342107697154",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Rose Gold Bar &amp; Lounge https://t.co/kMrxAYSu5e",
+        "edit_history_tweet_ids": [
+            "1332907342107697154"
+        ],
+        "created_at": "2020-11-29T04:40:49.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "1238295329356865536",
+        "id": "1331708298131812354",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "I never been to a Caribbean restaurant wea they was polite \ud83e\uddd0",
+        "edit_history_tweet_ids": [
+            "1331708298131812354"
+        ],
+        "created_at": "2020-11-25T21:16:14.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda"
+        },
+        "lang": "en",
+        "author_id": "35568334",
+        "id": "1330285171279601666",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Sports Cafe back opppeeennnn",
+        "edit_history_tweet_ids": [
+            "1330285171279601666"
+        ],
+        "created_at": "2020-11-21T23:01:14.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "174144959",
+        "id": "1328831851390259204",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Who gone be the first rapper to mention Twitter fleets in a bar",
+        "edit_history_tweet_ids": [
+            "1328831851390259204"
+        ],
+        "created_at": "2020-11-17T22:46:16.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.39993,
+                    33.54329
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "80619539",
+        "id": "1323768171124412430",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Rose Gold Bar &amp; Lounge https://t.co/70S3mTONbb",
+        "edit_history_tweet_ids": [
+            "1323768171124412430"
+        ],
+        "created_at": "2020-11-03T23:25:01.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda"
+        },
+        "lang": "en",
+        "author_id": "224664814",
+        "id": "1322236980319686663",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "Our business of the week is Plaza Gourmet in Jonesboro, GA! Local restaurants have been hit hard by the COVID-19 pandemic. If you're able, we encourage you to support this awesome local restaurant today! \ud83d\ude0d\u2063\u2009\n\u2063\u2009\nVisit https://t.co/JZSxAEQpkD for more info.\u2063 https://t.co/ufew4HYDaa",
+        "edit_history_tweet_ids": [
+            "1322236980319686663"
+        ],
+        "created_at": "2020-10-30T18:00:36.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda"
+        },
+        "lang": "en",
+        "author_id": "916744100690481153",
+        "id": "1322234683321712642",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "The bar is really in hell with you niggas",
+        "edit_history_tweet_ids": [
+            "1322234683321712642"
+        ],
+        "created_at": "2020-10-30T17:51:29.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "333212288",
+        "id": "1320820003134971906",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "My manager keeps getting bad reviews because she be telling the hosts to not let anybody in or walk around the restaurant without a mask on.",
+        "edit_history_tweet_ids": [
+            "1320820003134971906"
+        ],
+        "created_at": "2020-10-26T20:10:03.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda"
+        },
+        "lang": "en",
+        "author_id": "916744100690481153",
+        "id": "1319789059695312901",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "@NiaaG__ Yeah I got the Roku tv with the matching sound bar system. I love it",
+        "edit_history_tweet_ids": [
+            "1319789059695312901"
+        ],
+        "created_at": "2020-10-23T23:53:26.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "325123039",
+        "id": "1318404461035966464",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "he can pick! on mommy I\u2019m spittin dat shit word to word,  bar to bar \ud83d\ude2d\ud83d\udcaf https://t.co/7mvQxnVDID",
+        "edit_history_tweet_ids": [
+            "1318404461035966464"
+        ],
+        "created_at": "2020-10-20T04:11:32.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3503512,
+                    33.53849294
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "26778596",
+        "id": "1315715957042671618",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "I'm at Fresh Smoothie Cafe in Jonesboro, GA https://t.co/IjhZX8aDDO",
+        "edit_history_tweet_ids": [
+            "1315715957042671618"
+        ],
+        "created_at": "2020-10-12T18:08:23.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda"
+        },
+        "lang": "en",
+        "author_id": "224664814",
+        "id": "1312120442325409792",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Join the City of Jonesboro Government tomorrow at Lee Street Park for the first annual \"Market Day!\" This event will feature Jonesboro's weekly farmers market, Fig Tree Cafe, food vendors &amp; the Jonesboro High School Marching Band. Enjoy good food and fun for the entire family. https://t.co/Y1qcbauc4s",
+        "edit_history_tweet_ids": [
+            "1312120442325409792"
+        ],
+        "created_at": "2020-10-02T20:01:06.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35469,
+                    33.52055
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "901199299677220867",
+        "id": "1311784314523332615",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Fig Tree Cafe Jonesboro https://t.co/f6N81xFFSa",
+        "edit_history_tweet_ids": [
+            "1311784314523332615"
+        ],
+        "created_at": "2020-10-01T21:45:27.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda"
+        },
+        "lang": "en",
+        "author_id": "1226515295113793536",
+        "id": "1308586953546309634",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "I laugh every time I see women on here talk about how little they\u2019ll settle for. The bar for some of you is set in Hell if you ask me..\u2728",
+        "edit_history_tweet_ids": [
+            "1308586953546309634"
+        ],
+        "created_at": "2020-09-23T02:00:16.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.353035,
+                    33.512639
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "24186110",
+        "id": "1305567117002051585",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "I'm at The Fig Tree Cafe in Jonesboro, GA https://t.co/Wff4an1gR4",
+        "edit_history_tweet_ids": [
+            "1305567117002051585"
+        ],
+        "created_at": "2020-09-14T18:00:31.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35459774,
+                    33.52066307
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "24186110",
+        "id": "1305566895907762182",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "I'm at My Place Coffee cafe in Jonesboro, GA https://t.co/i264DdTlRs",
+        "edit_history_tweet_ids": [
+            "1305566895907762182"
+        ],
+        "created_at": "2020-09-14T17:59:38.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.39993,
+                    33.54329
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "713166850188820480",
+        "id": "1299538991612678144",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Chillin' At rosegoldbarlounge in Riverdale Georgia come chill with me.  And @djswaydusa on the 1s and 2s @ Rose Gold Bar &amp; Lounge https://t.co/9JagbAztLt",
+        "edit_history_tweet_ids": [
+            "1299538991612678144"
+        ],
+        "created_at": "2020-08-29T02:46:54.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.39993,
+                    33.54329
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "72645324",
+        "id": "1290838304850493441",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Celebrating another year #leoseason @ Rose Gold Bar &amp; Lounge https://t.co/dGiVpF4mOS",
+        "edit_history_tweet_ids": [
+            "1290838304850493441"
+        ],
+        "created_at": "2020-08-05T02:33:29.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3647199,
+                    33.5350751
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "1257202622",
+        "id": "1288600652713787393",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Vegan nachos tonight #nutcafe check out consciouslycre8 art decor @ Nut Cafe https://t.co/qMYpjSlVTK",
+        "edit_history_tweet_ids": [
+            "1288600652713787393"
+        ],
+        "created_at": "2020-07-29T22:21:51.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.40072,
+                    33.54223
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "16059111",
+        "id": "1283802094336712706",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Today's lunch #friedfish #tacosalad while working in Riverdale @ Los Amigos Restaurant https://t.co/dvuqfiuJco",
+        "edit_history_tweet_ids": [
+            "1283802094336712706"
+        ],
+        "created_at": "2020-07-16T16:34:05.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "394976090",
+        "id": "1283115765948981248",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "text": "I love Black people man. I had a lil wait to get my jerk chicken alfredo but I wasn't tripping. they gave me extra food &amp; told me \"gotta feed that baby\" kept apologizing for the wait\ud83d\ude2d . Yummies Cafe, Black Owned in Riverdale, Ga ! https://t.co/pgjbXTMKom",
+        "edit_history_tweet_ids": [
+            "1283115765948981248"
+        ],
+        "created_at": "2020-07-14T19:06:52.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda"
+        },
+        "lang": "en",
+        "author_id": "224664814",
+        "id": "1281560057239527426",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "The Millar Law Firm business of the week is Fig Tree Cafe Jonesboro! They have now reopened from 7AM - 2:30PM Monday \u2013 Friday and offer coffee, tea, pastries, salad, sandwiches, and more! \u2615\ufe0f\ud83e\udd50\ud83e\udd6a\ud83e\udd57\u2009\n\u2009\n126 South Main St. Jonesboro, GA 30236\u2009\n\n#support #community #neighbors https://t.co/jO56KUA19Q",
+        "edit_history_tweet_ids": [
+            "1281560057239527426"
+        ],
+        "created_at": "2020-07-10T12:05:02.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "zxx",
+        "author_id": "2976858754",
+        "id": "1281556294462246914",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "https://t.co/5mO1EmyQO6",
+        "edit_history_tweet_ids": [
+            "1281556294462246914"
+        ],
+        "created_at": "2020-07-10T11:50:05.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3647199,
+                    33.5350751
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "1257202622",
+        "id": "1280621799689064450",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Stop by, you won\u2019t be disappointed, all vegan! I\u2019m having the G14 burger, cheese fries &amp; mellow mango smoothie  #blackouttuesday #blackownedbusiness @ Nut Cafe https://t.co/KQEI8VSOni",
+        "edit_history_tweet_ids": [
+            "1280621799689064450"
+        ],
+        "created_at": "2020-07-07T21:56:44.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "357049990",
+        "id": "1280220737823887360",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "I value my health like everyone else! We will have masks, hand sanitizer and practice social distancing, BUT if I can get 67 people to DRIVE THRU the Ice Bar Restaurant and Lounge from 5-8pm TODAY to wish Your favorite Georgia State Senator a Happy 67th Birthday, I would be HAPPY https://t.co/TClHYKcJ16",
+        "edit_history_tweet_ids": [
+            "1280220737823887360"
+        ],
+        "created_at": "2020-07-06T19:23:03.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda"
+        },
+        "lang": "en",
+        "author_id": "224664814",
+        "id": "1279067518620110849",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "It's 4th of July weekend, so it's only right that The Millar Law Firm Business of the Week be a local BBQ restaurant! Arnaud's in Jonesboro, GA offers ribs, smoked chicken wings, sides, dessert, and more!\n\nOrder at https://t.co/df611VpNgy or apps including doordash and grubhub. https://t.co/Ky994ux0ts",
+        "edit_history_tweet_ids": [
+            "1279067518620110849"
+        ],
+        "created_at": "2020-07-03T15:00:35.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "2268260506",
+        "id": "1276184542890602497",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "This is flat out FILTHY, TRIFLING &amp; DISGUSTING. These soap boxes were packaged within a sealed 10-bar pack of soap. I don\u2019t know who or how anyone could\u2019ve managed to do this type of exchange..... this is completely unacceptable. \ud83d\ude21\ud83e\udd2e",
+        "edit_history_tweet_ids": [
+            "1276184542890602497"
+        ],
+        "created_at": "2020-06-25T16:04:40.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3503512,
+                    33.53849294
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "26778596",
+        "id": "1274451854135635974",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "I'm at Fresh Smoothie Cafe in Jonesboro, GA https://t.co/YCJvXfhoUL",
+        "edit_history_tweet_ids": [
+            "1274451854135635974"
+        ],
+        "created_at": "2020-06-20T21:19:34.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.40879791,
+                    33.54765819
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "34996993",
+        "id": "1273041556296159237",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "This you food report! Please go visit seafoodcafe138 this best there is @ Seafood Cafe' https://t.co/J8iO1Sw592",
+        "edit_history_tweet_ids": [
+            "1273041556296159237"
+        ],
+        "created_at": "2020-06-16T23:55:33.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.40879791,
+                    33.54765819
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "237132978",
+        "id": "1271952169596522496",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "I cooked...you know that I\u2019m gotdamn lying. @ Seafood Cafe' https://t.co/JNozFmFWEB",
+        "edit_history_tweet_ids": [
+            "1271952169596522496"
+        ],
+        "created_at": "2020-06-13T23:46:43.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda"
+        },
+        "lang": "en",
+        "author_id": "224664814",
+        "id": "1271457393323511809",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Our featured restaurant of the week is NoToSo's on N. Main St. in Jonesboro, GA, serving \"elite flavors from north to south\". Stop in and order breakfast all day or some southern favorites for lunch! Currently open until 4 PM. \ud83d\ude0b \u2063\u2063\n\u2063\u2063\nSupport a local restaurant today!\u2063 https://t.co/5r3iHG3ufB",
+        "edit_history_tweet_ids": [
+            "1271457393323511809"
+        ],
+        "created_at": "2020-06-12T15:00:39.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda"
+        },
+        "lang": "en",
+        "author_id": "916744100690481153",
+        "id": "1270920428291309570",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "Y\u2019all ever been driving through Tennessee and stopped in any restaurant or gas station \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d they was looking at us like McDonald\u2019s was whites only https://t.co/Q9TkNhih4r",
+        "edit_history_tweet_ids": [
+            "1270920428291309570"
+        ],
+        "created_at": "2020-06-11T03:26:57.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "1180836979",
+        "id": "1266421059080851456",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "@TheGreatSlashby Yea they were bouncers at a nearby restaurant.",
+        "edit_history_tweet_ids": [
+            "1266421059080851456"
+        ],
+        "created_at": "2020-05-29T17:28:04.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "65510794",
+        "id": "1266139258785595394",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "He worked at a Puerto Rican restaurant \ud83d\ude2d#JusticeForGeorgeFloyd https://t.co/aNKhjV8ZaA",
+        "edit_history_tweet_ids": [
+            "1266139258785595394"
+        ],
+        "created_at": "2020-05-28T22:48:17.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda"
+        },
+        "lang": "en",
+        "author_id": "916744100690481153",
+        "id": "1265988184065937409",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Is Bose the best sound bar?",
+        "edit_history_tweet_ids": [
+            "1265988184065937409"
+        ],
+        "created_at": "2020-05-28T12:47:58.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "50171917",
+        "id": "1264359020955078662",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "@brandname_shay @fiyaniya_ Lol that\u2019s sad af cause she still not married if this the bar I feel sorry for women now a days",
+        "edit_history_tweet_ids": [
+            "1264359020955078662"
+        ],
+        "created_at": "2020-05-24T00:54:15.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "65510794",
+        "id": "1262926112490958852",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "text": "@milesy09 @jelisamorris This is why I blame some fans for the decline. The bar has been lowered so much.",
+        "edit_history_tweet_ids": [
+            "1262926112490958852"
+        ],
+        "created_at": "2020-05-20T02:00:23.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda"
+        },
+        "lang": "en",
+        "author_id": "110858340",
+        "id": "1258908516393328640",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "What y\u2019all doing tonight come see me Taps Bar n Grill",
+        "edit_history_tweet_ids": [
+            "1258908516393328640"
+        ],
+        "created_at": "2020-05-08T23:55:54.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda"
+        },
+        "lang": "en",
+        "author_id": "224664814",
+        "id": "1257702101389639680",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Today is #GivingTuesdayNow, a global day of unity created by @GivingTuesday in response to the unprecedented need caused by COVID-19. \n\nIt's also Cinco De Mayo - a great day to order takeout or delivery from a local restaurant or taqueria! Here are a few other ideas... https://t.co/mS0RCwEGnk",
+        "edit_history_tweet_ids": [
+            "1257702101389639680"
+        ],
+        "created_at": "2020-05-05T16:02:02.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "1180836979",
+        "id": "1253771343272841216",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "Its like he stole his voice word for word bar for bar that\u2019s crazy",
+        "edit_history_tweet_ids": [
+            "1253771343272841216"
+        ],
+        "created_at": "2020-04-24T19:42:36.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "1180836979",
+        "id": "1243640982551384066",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "What\u2019s a good Jamaican restaurant that delivers with succulent oxtails and non dry rice and peas in clay co?",
+        "edit_history_tweet_ids": [
+            "1243640982551384066"
+        ],
+        "created_at": "2020-03-27T20:48:10.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "829907238",
+        "id": "1242978542515871749",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "@Lex0calypse That been lying for the past 6 years\ud83e\udd23 your the new one not me\ud83e\udd37\ud83c\udffe\u200d\u2640\ufe0f the real question is why you decided to to type my name on your search bar and see wtf I got going on\ud83e\udd21",
+        "edit_history_tweet_ids": [
+            "1242978542515871749"
+        ],
+        "created_at": "2020-03-26T00:55:52.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "889479262356594691",
+        "id": "1241355233516756992",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "We serving restaurant food at my babyshower just be patient \ud83d\ude02\u203c\ufe0f https://t.co/iaxob7taDR",
+        "edit_history_tweet_ids": [
+            "1241355233516756992"
+        ],
+        "created_at": "2020-03-21T13:25:25.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "zxx",
+        "author_id": "2976858754",
+        "id": "1238799425989992448",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "https://t.co/HVrddDiWLu",
+        "edit_history_tweet_ids": [
+            "1238799425989992448"
+        ],
+        "created_at": "2020-03-14T12:09:33.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3641051,
+                    33.5229178
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "62182828",
+        "id": "1238498148051386368",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "We back at it Tonight on the Southside @SportCafeJonesboro Show is 9:30 pm. @ Sports Cafe Jonesboro https://t.co/iTI2Xh11ru",
+        "edit_history_tweet_ids": [
+            "1238498148051386368"
+        ],
+        "created_at": "2020-03-13T16:12:23.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3641051,
+                    33.5229178
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "30590011",
+        "id": "1236476420806885376",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Hanging with my beautiful daughter shaleaswinton  \ud83c\udf6b\u2764\ufe0f @ Sports Cafe Jonesboro https://t.co/vLKxf11ojg",
+        "edit_history_tweet_ids": [
+            "1236476420806885376"
+        ],
+        "created_at": "2020-03-08T02:18:45.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "455388918",
+        "id": "1235067073757208578",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "@Lakers @DGreen_14 @quez4real_ jumpin like danny green \ud83d\ude02 they prolly get da bar now brada",
+        "edit_history_tweet_ids": [
+            "1235067073757208578"
+        ],
+        "created_at": "2020-03-04T04:58:31.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda"
+        },
+        "lang": "en",
+        "author_id": "218148149",
+        "id": "1235044491456737285",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "This new bar I found by my house coool as hell",
+        "edit_history_tweet_ids": [
+            "1235044491456737285"
+        ],
+        "created_at": "2020-03-04T03:28:47.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "2720894049",
+        "id": "1234171024347975681",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Damn the book going up this morning fuck happened in liquid cafe last night in the pote",
+        "edit_history_tweet_ids": [
+            "1234171024347975681"
+        ],
+        "created_at": "2020-03-01T17:37:56.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "44035634",
+        "id": "1232501503568621568",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Headed To Bowling Alley, It\u2019s The Full Bar Fa Me Thoooooo",
+        "edit_history_tweet_ids": [
+            "1232501503568621568"
+        ],
+        "created_at": "2020-02-26T03:03:51.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "284875189",
+        "id": "1230693190807613440",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "I Feel Like They Should Make A Black Version Of \"The Office\" Called \"The Restaurant\" With Mad Black People And A Couple Of White People (No Racist\ud83e\udd23\ud83e\udd26\ud83c\udffe\u200d\u2642\ufe0f)",
+        "edit_history_tweet_ids": [
+            "1230693190807613440"
+        ],
+        "created_at": "2020-02-21T03:18:16.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda"
+        },
+        "lang": "en",
+        "author_id": "916744100690481153",
+        "id": "1226137492174311424",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "@tylerkeithj Me in spin when the bar is hyping me and people recording \ud83d\ude2d",
+        "edit_history_tweet_ids": [
+            "1226137492174311424"
+        ],
+        "created_at": "2020-02-08T13:35:33.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b"
+        },
+        "lang": "en",
+        "author_id": "97305951",
+        "id": "1223253632272957443",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "Damn, mfs was shooting at the Sports Cafe.",
+        "edit_history_tweet_ids": [
+            "1223253632272957443"
+        ],
+        "created_at": "2020-01-31T14:36:07.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda"
+        },
+        "lang": "en",
+        "author_id": "31246220",
+        "id": "1223094431684927488",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 2,
+            "like_count": 0,
+            "quote_count": 5
+        },
+        "text": "Damn it\u2019s a dead body at this sports bar on Tara bruh omg",
+        "edit_history_tweet_ids": [
+            "1223094431684927488"
+        ],
+        "created_at": "2020-01-31T04:03:31.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda"
+        },
+        "lang": "en",
+        "author_id": "436856622",
+        "id": "1223090266690785280",
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "text": "#BREAKING\u2014 #Jonesboro police are investigating an incident at the Sports Cafe. Working to learn more. Look for an update on @FOX5Atlanta https://t.co/J1a31qZ7tz",
+        "edit_history_tweet_ids": [
+            "1223090266690785280"
+        ],
+        "created_at": "2020-01-31T03:46:58.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41618005,
+                    33.54803887
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "756201382563221504",
+        "id": "1220611512026456064",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Tomorrow night!! Come on out!! @ The Peach Sports Bar and Lounge https://t.co/CBBa39lIZd",
+        "edit_history_tweet_ids": [
+            "1220611512026456064"
+        ],
+        "created_at": "2020-01-24T07:37:16.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41618005,
+                    33.54803887
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "756201382563221504",
+        "id": "1219125890208206848",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Friday. Jan. 24, 9-11. No cover charge. Come party with TJSE @ The Peach Sports Bar and Lounge https://t.co/8Rpptbr8hs",
+        "edit_history_tweet_ids": [
+            "1219125890208206848"
+        ],
+        "created_at": "2020-01-20T05:13:57.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41667229,
+                    33.55011594
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "65665423",
+        "id": "1219124036698927106",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Saturday February 22, 2020\nCome out to yummies_cafe\nTo get some great food and great inspiration from yours truly. 1pm-6pm\n\nI'll be signing copies of:\n\nBlack Empowerment Minority &amp; Issues the book\n\nEmpowerment\u2026 https://t.co/iybSmXLsGJ",
+        "edit_history_tweet_ids": [
+            "1219124036698927106"
+        ],
+        "created_at": "2020-01-20T05:06:35.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.40072,
+                    33.54223
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "16059111",
+        "id": "1216177818968772609",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "#yucafries my first. Not bad. @ Los Amigos Restaurant https://t.co/DgQl8hzDtM",
+        "edit_history_tweet_ids": [
+            "1216177818968772609"
+        ],
+        "created_at": "2020-01-12T01:59:22.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "6443187b9b4b748b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.40072,
+                    33.54223
+                ]
+            }
+        },
+        "lang": "en",
+        "author_id": "16059111",
+        "id": "1212774961196273664",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "#selfiereflection while waiting for lunch. Working in Riverdale this rainy morning. @ Los Amigos Restaurant https://t.co/GqYusG2K2p",
+        "edit_history_tweet_ids": [
+            "1212774961196273664"
+        ],
+        "created_at": "2020-01-02T16:37:37.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "4ff21355b6fb2bda"
+        },
+        "lang": "ja",
+        "author_id": "338959641",
+        "id": "1212512406116679683",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "text": "\u5c0f\u3055\u306a\u8857\u306e\u5fc3\u5730\u3088\u3044cafe \u3002European\u306a\u3093\u3068\u304b\u3068\u3044\u3046\u540d\u306e\u30b3\u30fc\u30d2\u30fc\u306e\u3001\u3068\u3066\u3082\u304d\u3081\u7d30\u304b\u3067\u5f3e\u529b\u3042\u308b\u30d5\u30aa\u30fc\u30e0\u30c9\u30df\u30eb\u30af\u306b\u611f\u52d5\u2764\ufe0f\uff03The Fig Tree Cafe #\u304d\u3081\u7d30\u304b\u306a\u30d5\u30a9\u30fc\u30e0\u30c9\u30df\u30eb\u30af \uff03Jonesboro \uff03Georgia https://t.co/jg35m3ddl7",
+        "edit_history_tweet_ids": [
+            "1212512406116679683"
+        ],
+        "created_at": "2020-01-01T23:14:19.000Z"
+    }
+]

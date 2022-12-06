@@ -1,0 +1,2443 @@
+[
+    {
+        "author_id": "17214652",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.51228,
+                    33.88063
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1530713630534037504",
+        "text": "Custom job\ud83d\ude05 @ Bad Daddy's Burger Bar https://t.co/F7JV39ZoKX",
+        "edit_history_tweet_ids": [
+            "1530713630534037504"
+        ],
+        "lang": "en",
+        "created_at": "2022-05-29T00:52:23.000Z"
+    },
+    {
+        "author_id": "1257759875213516812",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1528100019651346437",
+        "geo": {
+            "place_id": "a80d3803a636a10f"
+        },
+        "text": "@JJatFSU @SumoDion @JDCocchiarella @SenatorWarnock @staceyabrams And you likely think DeSantis is a great governor.  Sounds like you got your information from some guy outside of a bar.",
+        "edit_history_tweet_ids": [
+            "1528100019651346437"
+        ],
+        "lang": "en",
+        "created_at": "2022-05-21T19:46:50.000Z"
+    },
+    {
+        "author_id": "1257759875213516812",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "id": "1527471164309766144",
+        "geo": {
+            "place_id": "a80d3803a636a10f"
+        },
+        "text": "@SonnyUga @SumoDion @JDCocchiarella @SenatorWarnock @staceyabrams Sounds like you get your information from a drunk guy outside of a bar.",
+        "edit_history_tweet_ids": [
+            "1527471164309766144"
+        ],
+        "lang": "en",
+        "created_at": "2022-05-20T02:07:59.000Z"
+    },
+    {
+        "author_id": "41068884",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.51228,
+                    33.88063
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1518539841729933318",
+        "text": "Fried Deviled Eggs #food #foodporn #foodie #foodphotography @ Bad Daddy's Burger Bar https://t.co/BVNDDVkhtR",
+        "edit_history_tweet_ids": [
+            "1518539841729933318"
+        ],
+        "lang": "en",
+        "created_at": "2022-04-25T10:38:06.000Z"
+    },
+    {
+        "author_id": "41068884",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.51228,
+                    33.88063
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1518538742809649157",
+        "text": "The first burger we had for burger week. Double with cheese, lettuce, onion, garlic aioli, fried egg, and deep fried bacon @ Bad Daddy's Burger Bar https://t.co/oNLGYQxykh",
+        "edit_history_tweet_ids": [
+            "1518538742809649157"
+        ],
+        "lang": "en",
+        "created_at": "2022-04-25T10:33:44.000Z"
+    },
+    {
+        "author_id": "14901527",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5336533,
+                    33.8726959
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1517327091985002500",
+        "text": "Surprisingly good. Like alcoholic Sprite. I dig it. - Drinking a Sparkling Citrus Refresher by @bevylongdrink @ Varners Restaurant &amp; Tavern  \u2014 https://t.co/9KfS2bmPKa",
+        "edit_history_tweet_ids": [
+            "1517327091985002500"
+        ],
+        "lang": "en",
+        "created_at": "2022-04-22T02:19:03.000Z"
+    },
+    {
+        "author_id": "1303782494",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.52329934,
+                    33.87619953
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1495514183059787788",
+        "text": "Just posted a photo @ Ben's Crab Seafood &amp; Bar https://t.co/ZU7DXUiU8Q",
+        "edit_history_tweet_ids": [
+            "1495514183059787788"
+        ],
+        "lang": "en",
+        "created_at": "2022-02-20T21:42:21.000Z"
+    },
+    {
+        "author_id": "83040815",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.52329934,
+                    33.87619953
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1492709026601259012",
+        "text": "Quick late night bite @benscrabseafoodandbar ! The calamari &amp; fish was delish!  I met some great new friends too!  #neverastranger @ Ben's Crab Seafood &amp; Bar https://t.co/UhXW4I5tzK",
+        "edit_history_tweet_ids": [
+            "1492709026601259012"
+        ],
+        "lang": "en",
+        "created_at": "2022-02-13T03:55:39.000Z"
+    },
+    {
+        "author_id": "174330313",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 4,
+            "like_count": 16,
+            "quote_count": 0
+        },
+        "id": "1492643278088548357",
+        "geo": {
+            "place_id": "10bf3f8b4e955000"
+        },
+        "text": "I\u2019ve ended up in some growler bar in Smyrna with Jon and JT. Lots of Democrats here. They didn\u2019t have Budweiser. Will report back. https://t.co/SO1PSCR9fV",
+        "edit_history_tweet_ids": [
+            "1492643278088548357"
+        ],
+        "lang": "en",
+        "created_at": "2022-02-12T23:34:24.000Z"
+    },
+    {
+        "author_id": "747585390",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.51481,
+                    33.8837
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1483199011423080455",
+        "text": "Prost \ud83c\udf7a @sweetwatertaproom - tasty \ud83d\ude0b lunch with my baby brother who is visiting from Chicago in #smyrna #goodtimes #olderbrother #wareagle @ Zucca Bar &amp; Pizzeria https://t.co/0GGHKjJpyq",
+        "edit_history_tweet_ids": [
+            "1483199011423080455"
+        ],
+        "lang": "en",
+        "created_at": "2022-01-17T22:06:15.000Z"
+    },
+    {
+        "author_id": "15691729",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.53724,
+                    33.88939
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1474873352770797571",
+        "text": "#thisdayincc @ Mexico Lindo Restaurant Smyrna https://t.co/06jIKHeb8k",
+        "edit_history_tweet_ids": [
+            "1474873352770797571"
+        ],
+        "lang": "es",
+        "created_at": "2021-12-25T22:43:03.000Z"
+    },
+    {
+        "author_id": "617807896",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "id": "1469437189444538371",
+        "geo": {
+            "place_id": "0db822919a553001"
+        },
+        "text": "When you miss coaching ball and manage a bar. Have to support the home team. https://t.co/bbv2DwM72Z",
+        "edit_history_tweet_ids": [
+            "1469437189444538371"
+        ],
+        "lang": "en",
+        "created_at": "2021-12-10T22:41:41.000Z"
+    },
+    {
+        "author_id": "138192285",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "id": "1469055519004495882",
+        "geo": {
+            "place_id": "0fc293d51094d000"
+        },
+        "text": "The BBQ pit is hot for this week\u2019s Restaurant Report Card!  Be sure to watch @cbs46 at 5:30 PM tonight for this weeks best and worst scores around metro #Atlanta.  You can also watch it on @peachtreetv every Thursday at 9 PM.  #RRC #RRCAtlanta #GoldenSpatula #BoyThatsGood https://t.co/x47Caqbpim",
+        "edit_history_tweet_ids": [
+            "1469055519004495882"
+        ],
+        "lang": "en",
+        "created_at": "2021-12-09T21:25:04.000Z"
+    },
+    {
+        "author_id": "1266433437352820738",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1467185828992622593",
+        "geo": {
+            "place_id": "a80d3803a636a10f"
+        },
+        "text": "@goaziago @_XtraGrams I got some recommendations for little wings. Wings on wheat, discover wings, or clay's sports cafe",
+        "edit_history_tweet_ids": [
+            "1467185828992622593"
+        ],
+        "lang": "en",
+        "created_at": "2021-12-04T17:35:35.000Z"
+    },
+    {
+        "author_id": "3250102350",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.53361635,
+                    33.87274495
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1455713825227825155",
+        "text": "#bigjimmize  is starting to smell a #worldseries championship \n\n#atlanta \n\n#braves \n\n#battleatl\u26be\ufe0f \n\n#chopon\u26be\ufe0f \n\n#forthea \n\n#mib @ Varners Restaurant and Tavern https://t.co/6YWiwB2IJy",
+        "edit_history_tweet_ids": [
+            "1455713825227825155"
+        ],
+        "lang": "en",
+        "created_at": "2021-11-03T01:49:56.000Z"
+    },
+    {
+        "author_id": "3250102350",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.53361635,
+                    33.87274495
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1455704137484677121",
+        "text": "#bigjimmize \n\n#braves 3 #astros 0 \n\n#battleatl \n\n#chopon\u26be\ufe0f \n\n#forthea \n\n#mlb @ Varners Restaurant and Tavern https://t.co/KtrN2olbbg",
+        "edit_history_tweet_ids": [
+            "1455704137484677121"
+        ],
+        "lang": "ca",
+        "created_at": "2021-11-03T01:11:26.000Z"
+    },
+    {
+        "author_id": "17214652",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.51481,
+                    33.8837
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1452424533781188615",
+        "text": "#Bacon Jam and Arugula Pizza @ Zucca Bar &amp; Pizzeria https://t.co/wWSZAN7Pnp",
+        "edit_history_tweet_ids": [
+            "1452424533781188615"
+        ],
+        "lang": "sv",
+        "created_at": "2021-10-24T23:59:28.000Z"
+    },
+    {
+        "author_id": "747585390",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.53982,
+                    33.89644
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1452214788927463439",
+        "text": "\ud83d\ude1e @wafflehouseofficial is only #togo this morning, no sit down \ud83e\ude91 home \ud83c\udfe1 cook \ud83d\udc69\u200d\ud83c\udf73 family restaurant meal \ud83e\udd58 #togo #wafflehouse @ Waffle House https://t.co/C0VleH8H4Q",
+        "edit_history_tweet_ids": [
+            "1452214788927463439"
+        ],
+        "lang": "en",
+        "created_at": "2021-10-24T10:06:01.000Z"
+    },
+    {
+        "author_id": "2654945970",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.55900303,
+                    33.91756448
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1447633132178579457",
+        "text": "The Dunleith Cafe team is sporting our new #nslw T-shirts which also honor our breast cancer survivors!  #fuelingga @ Dunleith Elementary School https://t.co/RBVEB4rmIZ",
+        "edit_history_tweet_ids": [
+            "1447633132178579457"
+        ],
+        "lang": "en",
+        "created_at": "2021-10-11T18:40:09.000Z"
+    },
+    {
+        "author_id": "363981724",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5336533,
+                    33.8726959
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1441934082250792961",
+        "text": "Great mango flavor. - Drinking a Fresh Pressed (Mango, Pineapple, Guava) by @wickedweedbeer @ Varners Restaurant &amp; Tavern  \u2014 https://t.co/eW4dZf7pjo",
+        "edit_history_tweet_ids": [
+            "1441934082250792961"
+        ],
+        "lang": "en",
+        "created_at": "2021-09-26T01:14:09.000Z"
+    },
+    {
+        "author_id": "363981724",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5336533,
+                    33.8726959
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1441924803129131008",
+        "text": "Really sweet with almost a sour hint.  The aftertaste is really nice. - Drinking a Sweet Mangolia by @LeftNutBrewing @ Varners Restaurant &amp; Tavern  \u2014 https://t.co/AP5GgTJCCU",
+        "edit_history_tweet_ids": [
+            "1441924803129131008"
+        ],
+        "lang": "en",
+        "created_at": "2021-09-26T00:37:17.000Z"
+    },
+    {
+        "author_id": "197291320",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5126724,
+                    33.8809204
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1437917864665681922",
+        "text": "Drinking a Basement IPA by @ScofflawBrewing @ Bad Daddys Burger Bar \u2014 https://t.co/DxBExBGGYe",
+        "edit_history_tweet_ids": [
+            "1437917864665681922"
+        ],
+        "lang": "en",
+        "created_at": "2021-09-14T23:15:08.000Z"
+    },
+    {
+        "author_id": "846635100",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1433883843136720903",
+        "geo": {
+            "place_id": "a80d3803a636a10f"
+        },
+        "text": "The Wing Bar knew what I needed today \ud83d\ude2d",
+        "edit_history_tweet_ids": [
+            "1433883843136720903"
+        ],
+        "lang": "en",
+        "created_at": "2021-09-03T20:05:23.000Z"
+    },
+    {
+        "author_id": "363981724",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5336533,
+                    33.8726959
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1429257187222818827",
+        "text": "Sweet and vanilla    Pretty light, considering the dark colors. - Drinking an Everyday Black Porter by @Printersbeer @ Varners Restaurant &amp; Tavern  \u2014 https://t.co/mMYpdNFqQp",
+        "edit_history_tweet_ids": [
+            "1429257187222818827"
+        ],
+        "lang": "en",
+        "created_at": "2021-08-22T01:40:42.000Z"
+    },
+    {
+        "author_id": "363981724",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5336533,
+                    33.8726959
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "id": "1429235193467084800",
+        "text": "Sweet and fresh.  Nutty and good. - Drinking an All Hail The Home Run King by @reformationbrew/@BeerWildHeaven @ Varners Restaurant &amp; Tavern  \u2014 https://t.co/DnK63Ckdrl",
+        "edit_history_tweet_ids": [
+            "1429235193467084800"
+        ],
+        "lang": "en",
+        "created_at": "2021-08-22T00:13:18.000Z"
+    },
+    {
+        "author_id": "44064586",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5126744,
+                    33.8809215
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1423795999223472131",
+        "text": "I'm at Bad Daddys Burger Bar in Smyrna, GA https://t.co/Efmx0Bps0c",
+        "edit_history_tweet_ids": [
+            "1423795999223472131"
+        ],
+        "lang": "sv",
+        "created_at": "2021-08-06T23:59:53.000Z"
+    },
+    {
+        "author_id": "569766915",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.53724,
+                    33.88939
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1420222391725305859",
+        "text": "Taco Tuesday with the fam!!! Love these babies!!! #foe @ Mexico Lindo Restaurant Smyrna https://t.co/DZ2oThkHac",
+        "edit_history_tweet_ids": [
+            "1420222391725305859"
+        ],
+        "lang": "en",
+        "created_at": "2021-07-28T03:19:39.000Z"
+    },
+    {
+        "author_id": "113777724",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5336533,
+                    33.8726959
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1418983903965106183",
+        "text": "Elvis is in the building? - Drinking an Elvis Juice 6.5% by @BrewDog @ Varners Restaurant &amp; Tavern  \u2014 https://t.co/px23YoFJyD",
+        "edit_history_tweet_ids": [
+            "1418983903965106183"
+        ],
+        "lang": "en",
+        "created_at": "2021-07-24T17:18:20.000Z"
+    },
+    {
+        "author_id": "317453368",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5126724,
+                    33.8809204
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1418009942288654339",
+        "text": "Drinking a We're Gonna Need A Bigger Pontoon by @PontoonBrewing @ Bad Daddys Burger Bar \u2014 https://t.co/m0Y2r09Z4d",
+        "edit_history_tweet_ids": [
+            "1418009942288654339"
+        ],
+        "lang": "en",
+        "created_at": "2021-07-22T00:48:10.000Z"
+    },
+    {
+        "author_id": "363981724",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5126724,
+                    33.8809204
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1415464473222127618",
+        "text": "Sweet and citrusy. - Drinking a Tecate by @HeinekenMexico @ Bad Daddys Burger Bar  \u2014 https://t.co/pzFQOjHSqx",
+        "edit_history_tweet_ids": [
+            "1415464473222127618"
+        ],
+        "lang": "en",
+        "created_at": "2021-07-15T00:13:23.000Z"
+    },
+    {
+        "author_id": "52581089",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5336533,
+                    33.8726959
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1411730071627382784",
+        "text": "Drinking a Hoptropolis by @newrealmbrewing @ Varners Restaurant &amp; Tavern \u2014 https://t.co/AfEgHQCo89",
+        "edit_history_tweet_ids": [
+            "1411730071627382784"
+        ],
+        "lang": "en",
+        "created_at": "2021-07-04T16:54:12.000Z"
+    },
+    {
+        "author_id": "113777724",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5126724,
+                    33.8809204
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1401266542977990663",
+        "text": "So good with the best pickles ever. - Drinking a Blood Orange Wheat Ale by @fullsailbrewing @ Bad Daddys Burger Bar  \u2014 https://t.co/f1VWsIUUJC",
+        "edit_history_tweet_ids": [
+            "1401266542977990663"
+        ],
+        "lang": "en",
+        "created_at": "2021-06-05T19:55:52.000Z"
+    },
+    {
+        "author_id": "113777724",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5126744,
+                    33.8809215
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1401265951337861126",
+        "text": "The BEST fried pickles I\u2019ve ever had. \ud83d\udc9a (@ Bad Daddys Burger Bar in Smyrna, GA) https://t.co/CnzyxuDs1z https://t.co/5geGi1rsGn",
+        "edit_history_tweet_ids": [
+            "1401265951337861126"
+        ],
+        "lang": "en",
+        "created_at": "2021-06-05T19:53:31.000Z"
+    },
+    {
+        "author_id": "84928761",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5127,
+                    33.8809
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1390810605985140737",
+        "text": "whatevs but the patio is nice - Drinking a Bad Daddy\u2019s IPA by Bad Daddy's @ Bad Daddys Burger Bar  \u2014 https://t.co/UX3J5KAF2Y",
+        "edit_history_tweet_ids": [
+            "1390810605985140737"
+        ],
+        "lang": "en",
+        "created_at": "2021-05-07T23:27:43.000Z"
+    },
+    {
+        "author_id": "2654945970",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.55900303,
+                    33.91756448
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1390308794832281601",
+        "text": "Feeling the love at @dunleithdolphins  Cafe!  Thank you!   #eatlearngraduate @ Dunleith Elementary School https://t.co/OtAGIG1MX1",
+        "edit_history_tweet_ids": [
+            "1390308794832281601"
+        ],
+        "lang": "en",
+        "created_at": "2021-05-06T14:13:42.000Z"
+    },
+    {
+        "author_id": "1657078825",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1390104744983736320",
+        "geo": {
+            "place_id": "a80d3803a636a10f"
+        },
+        "text": "my coworkers drag me everywhere - now bitches got me at the bar",
+        "edit_history_tweet_ids": [
+            "1390104744983736320"
+        ],
+        "lang": "en",
+        "created_at": "2021-05-06T00:42:52.000Z"
+    },
+    {
+        "author_id": "1227583482668384259",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1385955068223053827",
+        "geo": {
+            "place_id": "a80d3803a636a10f"
+        },
+        "text": "@gmbcrush Yes, when I look at GMB photos, it now has the option to add a comment. Before that was only for restaurant pictures of dishes.",
+        "edit_history_tweet_ids": [
+            "1385955068223053827"
+        ],
+        "lang": "en",
+        "created_at": "2021-04-24T13:53:32.000Z"
+    },
+    {
+        "author_id": "113777724",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5337,
+                    33.8727
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1385746608604819459",
+        "text": "Drinking a Wild On Cherry by @urbantreecider @ Varners Restaurant &amp; Tavern \u2014 https://t.co/OwvJoiGpRW",
+        "edit_history_tweet_ids": [
+            "1385746608604819459"
+        ],
+        "lang": "en",
+        "created_at": "2021-04-24T00:05:12.000Z"
+    },
+    {
+        "author_id": "113777724",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5337,
+                    33.8727
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1385729140624666624",
+        "text": "Amazing. Also, I\u2019m at MHAFH for the first time in over a year. - Drinking an Oreo Speedwagon by @mariettabeer @ Varners Restaurant &amp; Tavern  \u2014 https://t.co/dPJOkmSutB",
+        "edit_history_tweet_ids": [
+            "1385729140624666624"
+        ],
+        "lang": "en",
+        "created_at": "2021-04-23T22:55:47.000Z"
+    },
+    {
+        "author_id": "1227583482668384259",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1385630619452026885",
+        "geo": {
+            "place_id": "a80d3803a636a10f"
+        },
+        "text": "@TheSocialDude @moniscope I've been asked about dishes at restaurants, but never for another image that's not a menu item and not at a restaurant.",
+        "edit_history_tweet_ids": [
+            "1385630619452026885"
+        ],
+        "lang": "en",
+        "created_at": "2021-04-23T16:24:18.000Z"
+    },
+    {
+        "author_id": "1227583482668384259",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 3,
+            "quote_count": 1
+        },
+        "id": "1385428039195037699",
+        "geo": {
+            "place_id": "a80d3803a636a10f"
+        },
+        "text": "I don't remember being able to add captions to my photos before unless it was a dish at a restaurant. This was a regular photo and not addes under posts. (Isn't my Moxi adorable?\ud83d\udc15\ud83d\ude0d) #GMB #LocalSEO https://t.co/ZdKSpiR9gA",
+        "edit_history_tweet_ids": [
+            "1385428039195037699"
+        ],
+        "lang": "en",
+        "created_at": "2021-04-23T02:59:19.000Z"
+    },
+    {
+        "author_id": "18137474",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.51228,
+                    33.88063
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1377780451780268032",
+        "text": "The Misses treated me to a wonderful dinner with Bad Daddy Burgers @baddaddysburger #365mealsfor365days @ Bad Daddy's Burger Bar https://t.co/8b2bI0f17S",
+        "edit_history_tweet_ids": [
+            "1377780451780268032"
+        ],
+        "lang": "en",
+        "created_at": "2021-04-02T00:30:32.000Z"
+    },
+    {
+        "author_id": "18137474",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5126744,
+                    33.8809215
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1377761437297311748",
+        "text": "I'm at Bad Daddys Burger Bar in Smyrna, GA https://t.co/MQ3yXLq1rB",
+        "edit_history_tweet_ids": [
+            "1377761437297311748"
+        ],
+        "lang": "sv",
+        "created_at": "2021-04-01T23:14:58.000Z"
+    },
+    {
+        "author_id": "363981724",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5337,
+                    33.8727
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1371987841585143815",
+        "text": "Smells like coffee, tastes like chocolate pudding.  Maybe a hint of milk chocolate. - Drinking a Hershey\u2019s Chocolate Porter by Yuengling Brewery @ Varners Restaurant &amp; Tavern  \u2014 https://t.co/mcavbfNnP5",
+        "edit_history_tweet_ids": [
+            "1371987841585143815"
+        ],
+        "lang": "en",
+        "created_at": "2021-03-17T00:52:46.000Z"
+    },
+    {
+        "author_id": "363981724",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5337,
+                    33.8727
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1361869130358525952",
+        "text": "Lager and wet. A good friend bought be this beer.   Ahh, good friends. - Drinking a Pabst Blue Ribbon by @pabstblueribbon @ Varners Restaurant &amp; Tavern  \u2014 https://t.co/8q3Z2wy96F",
+        "edit_history_tweet_ids": [
+            "1361869130358525952"
+        ],
+        "lang": "en",
+        "created_at": "2021-02-17T02:44:37.000Z"
+    },
+    {
+        "author_id": "2654945970",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.55900303,
+                    33.91756448
+                ]
+            },
+            "place_id": "e229de11a7eb6823"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1356707255761141761",
+        "text": "Our @dunleithdolphins  Cafe Manager, Verina, &amp; Shawn have perfect attendance thus far!  They\u2019re amazing!  Thank you!  #eatlearngraduate @ Dunleith Elementary School https://t.co/SmsUWBnLam",
+        "edit_history_tweet_ids": [
+            "1356707255761141761"
+        ],
+        "lang": "en",
+        "created_at": "2021-02-02T20:53:10.000Z"
+    },
+    {
+        "author_id": "611745386",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.53785,
+                    33.8911
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1352779221085507589",
+        "text": "Dinner tonight #pekingGarden #smyrna #chinese #friedRice #crabragoons #trivinostrong @abcvision @ Peking Garden Restaurant https://t.co/CG6OQMisHL",
+        "edit_history_tweet_ids": [
+            "1352779221085507589"
+        ],
+        "lang": "en",
+        "created_at": "2021-01-23T00:44:34.000Z"
+    },
+    {
+        "author_id": "363981724",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5337,
+                    33.8727
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1333952189782429699",
+        "text": "Aromatic and fresh, hazy/cloudy and fruity  with great lager flavor. - Drinking a Bitburger Triple Hop'd Lager by Bitburger Brauerei/@SierraNevada @ Varners Restaurant &amp; Tavern  \u2014 https://t.co/EU8pxq2AWv",
+        "edit_history_tweet_ids": [
+            "1333952189782429699"
+        ],
+        "lang": "en",
+        "created_at": "2020-12-02T01:52:40.000Z"
+    },
+    {
+        "author_id": "22875075",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5143761,
+                    33.8839926
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1332628777654833152",
+        "text": "Five Guys is hiring in Smyrna, GA! Read about our latest Shift Manager job opening via the link in our bio: Shift Manager #Restaurant #Manager",
+        "edit_history_tweet_ids": [
+            "1332628777654833152"
+        ],
+        "lang": "en",
+        "created_at": "2020-11-28T10:13:54.000Z"
+    },
+    {
+        "author_id": "363981724",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5337,
+                    33.8727
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1328878008313245696",
+        "text": "You know what time it is?   Trivia time!!!    It\u2019s my halftime beer. - Drinking a Gaelic Ale by @highlandbrews @ Varners Restaurant &amp; Tavern  \u2014 https://t.co/Az6KAzzhON",
+        "edit_history_tweet_ids": [
+            "1328878008313245696"
+        ],
+        "lang": "en",
+        "created_at": "2020-11-18T01:49:41.000Z"
+    },
+    {
+        "author_id": "363981724",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5337,
+                    33.8727
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "id": "1326347310012489728",
+        "text": "@thatsagreatbeer  I look forward to this beer each night I play trivia.   This beer is so good, carmalley and sweet. - Drinking a Gaelic Ale by @highlandbrews @ Varners Restaurant &amp; Tavern  \u2014 https://t.co/WB7YQEEosI",
+        "edit_history_tweet_ids": [
+            "1326347310012489728"
+        ],
+        "lang": "en",
+        "created_at": "2020-11-11T02:13:35.000Z"
+    },
+    {
+        "author_id": "611745386",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5394821,
+                    33.9021988
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1323761778900176897",
+        "text": "Today is #11 #eleven years since being sworn into the #georgia #bar @statebarofga #judgeSchuster @cobbcountygovt #missmypapi #lawyer #attorney #trivinostrong @ T4 Law Group LLC https://t.co/gZGRzyfnPt",
+        "edit_history_tweet_ids": [
+            "1323761778900176897"
+        ],
+        "lang": "en",
+        "created_at": "2020-11-03T22:59:37.000Z"
+    },
+    {
+        "author_id": "363981724",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5337,
+                    33.8727
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1314397598946603009",
+        "text": "Not a huge IPA fan, but I am a huge Fire \ud83d\udd25 Maker \ud83d\udc09 fan.    Nice a floral and fruity, no bitterness and really smooth. - Drinking a Perfect Match by @firemakerbeer @ Varners Restaurant &amp; Tavern  \u2014 https://t.co/OjSBV7SygY",
+        "edit_history_tweet_ids": [
+            "1314397598946603009"
+        ],
+        "lang": "en",
+        "created_at": "2020-10-09T02:49:42.000Z"
+    },
+    {
+        "author_id": "363981724",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5337,
+                    33.8727
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1311835716243140608",
+        "text": "Fantastic!!!    Fruity with the right amount of bitterness. - Drinking a Bitburger Triple Hop'd Lager by Bitburger Brauerei/@SierraNevada @ Varners Restaurant &amp; Tavern  \u2014 https://t.co/ujeTPWLwkh",
+        "edit_history_tweet_ids": [
+            "1311835716243140608"
+        ],
+        "lang": "en",
+        "created_at": "2020-10-02T01:09:42.000Z"
+    },
+    {
+        "author_id": "363981724",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5337,
+                    33.8727
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1308577734726164481",
+        "text": "This one NEVER disappoints.  Fragrant and flavorful.   Sweet, caramely  and bitter.   So so good. - Drinking a Gaelic Ale by @highlandbrews @ Varners Restaurant &amp; Tavern  \u2014 https://t.co/r8LBKgXq01",
+        "edit_history_tweet_ids": [
+            "1308577734726164481"
+        ],
+        "lang": "en",
+        "created_at": "2020-09-23T01:23:38.000Z"
+    },
+    {
+        "author_id": "43793006",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.549865,
+                    33.91764
+                ]
+            },
+            "place_id": "a80d3803a636a10f"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1308426916815396866",
+        "text": "Martini glasses (@ Restaurant Solutions in Marietta, GA) https://t.co/5q0T2MaUpT",
+        "edit_history_tweet_ids": [
+            "1308426916815396866"
+        ],
+        "lang": "ca",
+        "created_at": "2020-09-22T15:24:21.000Z"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5337,
+                    33.8727
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "text": "Shitty warm and flat, thanks @varners - Drinking a Pabst Blue Ribbon by @pabstblueribbon @ Varners Restaurant &amp; Tavern  \u2014 https://t.co/ZaiuP5bp36",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1299146348625833989",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1299146348625833989"
+        ],
+        "created_at": "2020-08-28T00:46:41.000Z",
+        "author_id": "363981724"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5337,
+                    33.8727
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "text": "Flat as fuck.   Not D9s problem but Varner\u2019s problem.   The draft beers here really struggle.   This one is so flat it has no bubbles at all. - Drinking a Brown Sugar Brown Cow by @D9Brewing @ Varners Restaurant &amp; Tavern  \u2014 https://t.co/Hjtsc16vwK",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1296617182617571328",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1296617182617571328"
+        ],
+        "created_at": "2020-08-21T01:16:40.000Z",
+        "author_id": "363981724"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5337,
+                    33.8727
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "text": "One of the better red ales I\u2019ve ever had. - Drinking a Gaelic Ale by @highlandbrews @ Varners Restaurant &amp; Tavern  \u2014 https://t.co/QGjT5tLWZ5",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1296606588795604992",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1296606588795604992"
+        ],
+        "created_at": "2020-08-21T00:34:35.000Z",
+        "author_id": "363981724"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5337,
+                    33.8727
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "text": "Trivia bucket o\u2019lights. - Drinking a Coors Light by @MolsonCoors @ Varners Restaurant &amp; Tavern  \u2014 https://t.co/6fpMvCY6WL",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1290802599260762117",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1290802599260762117"
+        ],
+        "created_at": "2020-08-05T00:11:36.000Z",
+        "author_id": "363981724"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5337,
+                    33.8727
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "text": "Always a great trivia night treat.   Love coming back for this one. - Drinking a Gaelic Ale by @highlandbrews @ Varners Restaurant &amp; Tavern  \u2014 https://t.co/VDLRwv7MWB",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1289000219632447492",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1289000219632447492"
+        ],
+        "created_at": "2020-07-31T00:49:35.000Z",
+        "author_id": "363981724"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5337,
+                    33.8727
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "text": "Beautiful Caramel flavor and color.  Get in my belly. - Drinking a Gaelic Ale by @highlandbrews @ Varners Restaurant &amp; Tavern  \u2014 https://t.co/0iGIxrfb7p",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1286464273913389057",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1286464273913389057"
+        ],
+        "created_at": "2020-07-24T00:52:38.000Z",
+        "author_id": "363981724"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5337,
+                    33.8727
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "text": "#smellbaseball - Drinking a Coors Light by @MolsonCoors @ Varners Restaurant &amp; Tavern  \u2014 https://t.co/bAPe7LvirS",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1286453957993410561",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1286453957993410561"
+        ],
+        "created_at": "2020-07-24T00:11:39.000Z",
+        "author_id": "363981724"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5337,
+                    33.8727
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "text": "Love this beer.   Wish I could find it in stores locally. - Drinking a Gaelic Ale by @highlandbrews @ Varners Restaurant &amp; Tavern  \u2014 https://t.co/0XqRA91Vht",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1283936609545707520",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1283936609545707520"
+        ],
+        "created_at": "2020-07-17T01:28:36.000Z",
+        "author_id": "363981724"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5337,
+                    33.8727
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "text": "Always a good go to IPA. - Drinking a POG Basement by @ScofflawBrewing @ Varners Restaurant &amp; Tavern  \u2014 https://t.co/yDkcnwQuF7",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1281397634775879686",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1281397634775879686"
+        ],
+        "created_at": "2020-07-10T01:19:38.000Z",
+        "author_id": "363981724"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5337,
+                    33.8727
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "text": "Drinking a Gaelic Ale by @highlandbrews @ Varners Restaurant &amp; Tavern \u2014 https://t.co/fdmsQkAWiW",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1281392102816067584",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1281392102816067584"
+        ],
+        "created_at": "2020-07-10T00:57:39.000Z",
+        "author_id": "363981724"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5337,
+                    33.8727
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "text": "Drinking a Gaelic Ale by @highlandbrews @ Varners Restaurant &amp; Tavern \u2014 https://t.co/FpStt6Dfdm",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1278858403650076672",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1278858403650076672"
+        ],
+        "created_at": "2020-07-03T01:09:38.000Z",
+        "author_id": "363981724"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5337,
+                    33.8727
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "text": "Love this gose.   Just enough salt to well the tartness. - Drinking a Watermelon Gose by @TerrapinBeerCo @ Varners Restaurant &amp; Tavern  \u2014 https://t.co/VU5ccnvXU1",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1278131383655960576",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1278131383655960576"
+        ],
+        "created_at": "2020-07-01T01:00:43.000Z",
+        "author_id": "363981724"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5337,
+                    33.8727
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "text": "Golf beer, pool beer and trivia beer.  #CHILL - Drinking a Coors Light by @MolsonCoors @ Varners Restaurant &amp; Tavern  \u2014 https://t.co/SEax9OgKV2",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1278115262714327040",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1278115262714327040"
+        ],
+        "created_at": "2020-06-30T23:56:39.000Z",
+        "author_id": "363981724"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.53785,
+                    33.8911
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "text": "The #fortune from #pekingGarden #chinese #restaurant #smyrna #dinner @ Peking Garden Restaurant https://t.co/lmYlMtqkIV",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1276665973089529857",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1276665973089529857"
+        ],
+        "created_at": "2020-06-26T23:57:41.000Z",
+        "author_id": "611745386"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.53785,
+                    33.8911
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "text": "The #mongolianbeef from #pekingGarden #chinese #restaurant #smyrna #dinner @ Peking Garden Restaurant https://t.co/3IVuDvdtFv",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1276664176501501952",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1276664176501501952"
+        ],
+        "created_at": "2020-06-26T23:50:33.000Z",
+        "author_id": "611745386"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5337,
+                    33.8727
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "text": "Fruity and fragrant.   Very joyful to drink. - Drinking a JOGR by @reformationbrew @ Varners Restaurant &amp; Tavern  \u2014 https://t.co/XOG8pRnR4h",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1274512053819105281",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1274512053819105281"
+        ],
+        "created_at": "2020-06-21T01:18:47.000Z",
+        "author_id": "363981724"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.51228,
+                    33.88063
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "text": "Lone protester in #Smyrna #blm #blacklivesmatter #maga #sitesindahood @ Bad Daddy's Burger Bar https://t.co/cIOaKJc5TH",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1274018135255977985",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1274018135255977985"
+        ],
+        "created_at": "2020-06-19T16:36:08.000Z",
+        "author_id": "747585390"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5337,
+                    33.8727
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "text": "My go to light beer. - Drinking a Coors Light by @MolsonCoors @ Varners Restaurant &amp; Tavern  \u2014 https://t.co/dDvW123LaN",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1271958734630268928",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1271958734630268928"
+        ],
+        "created_at": "2020-06-14T00:12:48.000Z",
+        "author_id": "363981724"
+    },
+    {
+        "text": "So i wrote a pretty good paper for my masters and submitted it for review; everything was fantastic.. but then I went to the bar. Here in GA bars are open (thank God). I still had to post on the discussion board for this class. Of course I was like a few beers wont hurt...",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1271567038478274567",
+        "geo": {
+            "place_id": "a80d3803a636a10f"
+        },
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1271567038478274567"
+        ],
+        "created_at": "2020-06-12T22:16:21.000Z",
+        "author_id": "145442865"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5337,
+                    33.8727
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "text": "This beer is sooooo good.   I had to have two. - Drinking a Gaelic Ale by @highlandbrews @ Varners Restaurant &amp; Tavern  \u2014 https://t.co/WWaf3XFazc",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1271256817205743616",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1271256817205743616"
+        ],
+        "created_at": "2020-06-12T01:43:38.000Z",
+        "author_id": "363981724"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5337,
+                    33.8727
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "text": "Very sweet and carnally the flavor is awesome. - Drinking a Gaelic Ale by @highlandbrews @ Varners Restaurant &amp; Tavern  \u2014 https://t.co/UdzR2LEhJ4",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1271249280762773507",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1271249280762773507"
+        ],
+        "created_at": "2020-06-12T01:13:41.000Z",
+        "author_id": "363981724"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5337,
+                    33.8727
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "text": "The OG!! - Drinking an 420 Extra Pale Ale by @SweetWaterBrew @ Varners Restaurant &amp; Tavern  \u2014 https://t.co/iRiptZtHZk",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1271235179248525315",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1271235179248525315"
+        ],
+        "created_at": "2020-06-12T00:17:39.000Z",
+        "author_id": "363981724"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5337,
+                    33.8727
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "text": "Drinking a Watermelon Gose by @TerrapinBeerCo @ Varners Restaurant &amp; Tavern \u2014 https://t.co/tnuxi1Nri0",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1268714828866125825",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1268714828866125825"
+        ],
+        "created_at": "2020-06-05T01:22:41.000Z",
+        "author_id": "363981724"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5337,
+                    33.8727
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "text": "Go to light beer.  Other than Saint Archer Gold light lager. - Drinking a Coors Light by @MolsonCoors @ Varners Restaurant &amp; Tavern  \u2014 https://t.co/q9DIMgR4qS",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1268694454480887808",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1268694454480887808"
+        ],
+        "created_at": "2020-06-05T00:01:43.000Z",
+        "author_id": "363981724"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5337,
+                    33.8727
+                ]
+            },
+            "place_id": "5b8df26e6d0be60b"
+        },
+        "text": "Drinking a Tequila Barrel Lime Gose by @Boulevard_Beer @ Varners Restaurant &amp; Tavern \u2014 https://t.co/aUkk8ztVEp",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1266180377749663744",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1266180377749663744"
+        ],
+        "created_at": "2020-05-29T01:31:41.000Z",
+        "author_id": "363981724"
+    },
+    {
+        "id": "1249072458088484864",
+        "geo": {
+            "place_id": "a80d3803a636a10f"
+        },
+        "author_id": "145442865",
+        "created_at": "2020-04-11T20:30:55.000Z",
+        "edit_history_tweet_ids": [
+            "1249072458088484864"
+        ],
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "I remember the bar I was at when Ray hit that three going nuts."
+    },
+    {
+        "id": "1241827811914125312",
+        "geo": {
+            "place_id": "a80d3803a636a10f"
+        },
+        "author_id": "74366281",
+        "created_at": "2020-03-22T20:43:17.000Z",
+        "edit_history_tweet_ids": [
+            "1241827811914125312"
+        ],
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 1,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "text": "@azure_vox @ayquez @itsKARY_ By that logic then every little hood baby that can rap bar for bar the new NBA Young boy mixtape has a calling to be a rapper"
+    },
+    {
+        "id": "1238902272882552838",
+        "geo": {
+            "place_id": "a80d3803a636a10f"
+        },
+        "author_id": "60617758",
+        "created_at": "2020-03-14T18:58:14.000Z",
+        "edit_history_tweet_ids": [
+            "1238902272882552838"
+        ],
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "text": "@keaneli @vixengolden @CAgovernor Just had our temperature taken and given a bar of SOAP! Sweet! #DobbinsLife"
+    },
+    {
+        "id": "1238887380066734080",
+        "geo": {
+            "place_id": "a80d3803a636a10f"
+        },
+        "author_id": "60617758",
+        "created_at": "2020-03-14T17:59:03.000Z",
+        "edit_history_tweet_ids": [
+            "1238887380066734080"
+        ],
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "@keaneli @vixengolden @CAgovernor No, still working with the hotel size bar of soap that was here at #DobbinsLife  it's getting mighty then."
+    },
+    {
+        "id": "1238231691803521025",
+        "geo": {
+            "place_id": "5b8df26e6d0be60b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.51559,
+                    33.88414
+                ]
+            }
+        },
+        "author_id": "133446526",
+        "created_at": "2020-03-12T22:33:35.000Z",
+        "edit_history_tweet_ids": [
+            "1238231691803521025"
+        ],
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Cafe Lucia Smyrna https://t.co/R4xGTfjF0u"
+    },
+    {
+        "id": "1236088531073658880",
+        "geo": {
+            "place_id": "5b8df26e6d0be60b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5155792,
+                    33.8837395
+                ]
+            }
+        },
+        "author_id": "2704215943",
+        "created_at": "2020-03-07T00:37:25.000Z",
+        "edit_history_tweet_ids": [
+            "1236088531073658880"
+        ],
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "#highlandbrewing Blackwatch\u2014taste like a dark chocolate bar. Delicious! @ Smyrna Beer Market by The Stout Brothers https://t.co/YOFFnAWyN3"
+    },
+    {
+        "id": "1235751389319639040",
+        "geo": {
+            "place_id": "5b8df26e6d0be60b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5336,
+                    33.8727
+                ]
+            }
+        },
+        "author_id": "113777724",
+        "created_at": "2020-03-06T02:17:45.000Z",
+        "edit_history_tweet_ids": [
+            "1235751389319639040"
+        ],
+        "lang": "in",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Drinking a Friki Tiki - Papaya IPA by @catawbabeer @ Varners Restaurant &amp; Tavern \u2014 https://t.co/2JA20wnfwM"
+    },
+    {
+        "id": "1233442531582627840",
+        "geo": {
+            "place_id": "5b8df26e6d0be60b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.51253573,
+                    33.88078402
+                ]
+            }
+        },
+        "author_id": "148096299",
+        "created_at": "2020-02-28T17:23:10.000Z",
+        "edit_history_tweet_ids": [
+            "1233442531582627840"
+        ],
+        "lang": "sv",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Lunch (@ Bad Daddy\u2019s Burger Bar in Smyrna, GA) https://t.co/KWfn2yTn8e"
+    },
+    {
+        "id": "1232293454304235521",
+        "geo": {
+            "place_id": "07d9ca2c9f882003"
+        },
+        "author_id": "951173515083943936",
+        "created_at": "2020-02-25T13:17:09.000Z",
+        "edit_history_tweet_ids": [
+            "1232293454304235521"
+        ],
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "text": "Today in our Cafes we are offering Jambalaya made with chicken and turkey sausage!  The team in the @LaBelleESLions Cafe is prepped and ready to start the cooking process. #fuelingstudentsuccess #todayonly #yum https://t.co/UOPkwXUS1V"
+    },
+    {
+        "id": "1230578389423153152",
+        "geo": {
+            "place_id": "5b8df26e6d0be60b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.53785,
+                    33.8911
+                ]
+            }
+        },
+        "author_id": "611745386",
+        "created_at": "2020-02-20T19:42:05.000Z",
+        "edit_history_tweet_ids": [
+            "1230578389423153152"
+        ],
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "Thanks craigfordfineart for visiting for #lunch #chinese #pekingGarden @abcvision @ Peking Garden Restaurant https://t.co/pLAn1RIzRC"
+    },
+    {
+        "id": "1229056318620798976",
+        "geo": {
+            "place_id": "5b8df26e6d0be60b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.53340069,
+                    33.87026378
+                ]
+            }
+        },
+        "author_id": "39407537",
+        "created_at": "2020-02-16T14:53:55.000Z",
+        "edit_history_tweet_ids": [
+            "1229056318620798976"
+        ],
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just let your sooouulllll GLOOOOOOOWWWW! \n@gochasalon 70\u2019s Glow Skate Party!\n\nEvent Planner/Designer: @ctaylormadeent \nCatering: kraveekitchenz \nDessert Bar: mrshallcandycreations \nCustom Cookies, Macarons, Donuts:\u2026 https://t.co/SpJtHIfzcO"
+    },
+    {
+        "id": "1227197496302198784",
+        "geo": {
+            "place_id": "e229de11a7eb6823",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.55900303,
+                    33.91756448
+                ]
+            }
+        },
+        "author_id": "2654945970",
+        "created_at": "2020-02-11T11:47:38.000Z",
+        "edit_history_tweet_ids": [
+            "1227197496302198784"
+        ],
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "Dunleith Dolphins are loved by our Cafe Team!  Have a fun week!  #eatlearngraduate @ Dunleith Elementary School https://t.co/u0VUQU0MEX"
+    },
+    {
+        "id": "1225490517938581505",
+        "geo": {
+            "place_id": "5b8df26e6d0be60b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.53340069,
+                    33.87026378
+                ]
+            }
+        },
+        "author_id": "3160358070",
+        "created_at": "2020-02-06T18:44:42.000Z",
+        "edit_history_tweet_ids": [
+            "1225490517938581505"
+        ],
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "@gochasalon 70\u2019s Glow Skate Party! Thanks @imjustb0290, family and friends for entrusting our services! \n\nVendors: \nEvent Planner/Designer: @ctaylormadeent Dessert Bar: mrshallcandycreations \nCustom Cookies,\u2026 https://t.co/eqnwMwYZyi"
+    },
+    {
+        "id": "1225365431080411136",
+        "geo": {
+            "place_id": "07d9f38eba086000"
+        },
+        "author_id": "887462301321883650",
+        "created_at": "2020-02-06T10:27:39.000Z",
+        "edit_history_tweet_ids": [
+            "1225365431080411136"
+        ],
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 9,
+            "quote_count": 2
+        },
+        "text": "To kick off our equivalent fractions unit, I let students do some discovery with the fraction bar manipulatives. I passed them out and told students they had 3 mins. to discover &amp; make connections. Solina created equivalent fractions with her fraction bars! @BirneyBobcats https://t.co/RlXO0Fsa4W"
+    },
+    {
+        "id": "1225259629095067649",
+        "geo": {
+            "place_id": "5b8df26e6d0be60b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.53340069,
+                    33.87026378
+                ]
+            }
+        },
+        "author_id": "3160358070",
+        "created_at": "2020-02-06T03:27:14.000Z",
+        "edit_history_tweet_ids": [
+            "1225259629095067649"
+        ],
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "@gochasalon 70\u2019s Glow Skate Party! Thanks @imjustb0290, family and friends for entrusting our services! \n\nVendors: \nEvent Planner/Designer: @ctaylormadeent Dessert Bar: mrshallcandycreations \nCustom Cookies,\u2026 https://t.co/ZjhIoSkYGv"
+    },
+    {
+        "id": "1225259629078294528",
+        "geo": {
+            "place_id": "5b8df26e6d0be60b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.53340069,
+                    33.87026378
+                ]
+            }
+        },
+        "author_id": "3160358070",
+        "created_at": "2020-02-06T03:27:14.000Z",
+        "edit_history_tweet_ids": [
+            "1225259629078294528"
+        ],
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "@gochasalon 70\u2019s Glow Skate Party! Thanks @imjustb0290, family and friends for entrusting our services! \n\nVendors: \nEvent Planner/Designer: @ctaylormadeent Dessert Bar: mrshallcandycreations \nCustom Cookies,\u2026 https://t.co/0Oefynd2VA"
+    },
+    {
+        "id": "1221225189423403010",
+        "geo": {
+            "place_id": "5b8df26e6d0be60b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.51228,
+                    33.8806299
+                ]
+            }
+        },
+        "author_id": "375749404",
+        "created_at": "2020-01-26T00:15:49.000Z",
+        "edit_history_tweet_ids": [
+            "1221225189423403010"
+        ],
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "\u2728 @ Bad Daddy's Burger Bar https://t.co/fl3VzFfzpc"
+    },
+    {
+        "id": "1217580702352494592",
+        "geo": {
+            "place_id": "a80d3803a636a10f"
+        },
+        "author_id": "2252794801",
+        "created_at": "2020-01-15T22:53:55.000Z",
+        "edit_history_tweet_ids": [
+            "1217580702352494592"
+        ],
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 1
+        },
+        "text": "I don\u2019t know who told me it was a good idea to be a full time student taking the hardest classes in my career while opening up a new restaurant. \ud83e\udd26\ud83c\udffb\u200d\u2640\ufe0f"
+    }
+]

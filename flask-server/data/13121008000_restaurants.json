@@ -1,0 +1,5086 @@
+[
+    {
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "We out dropping them gems! Dope Timeless Classics lifestyle!!! @ 640 West Community Cafe https://t.co/jITnDjRI7s",
+        "id": "1528139645900541953",
+        "created_at": "2022-05-21T22:24:17.000Z",
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41552965,
+                    33.73758846
+                ]
+            }
+        },
+        "author_id": "54882439"
+    },
+    {
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "@staceyhopkinsga @StateAffairsGA @hicksreport @CapitalB_ATL @AtlCivicCircle @DexterJBPorter @maggie_a_lee @beauvans Exactly. Magistrate Court is the first tier of Georgia's unified court system. That's too much judicial power for such a minimum qualification threshold. Low bar. https://t.co/6bNQ2Anydz",
+        "id": "1527286759721119744",
+        "created_at": "2022-05-19T13:55:13.000Z",
+        "geo": {
+            "place_id": "14689a00da154000"
+        },
+        "author_id": "17928714"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1526020972918231043",
+        "author_id": "54882439",
+        "lang": "en",
+        "text": "Just posted a photo @ 640 West Community Cafe https://t.co/Fg8YfhFYRx",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41552965,
+                    33.73758846
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2022-05-16T02:05:26.000Z"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1526005163064012801",
+        "author_id": "1481137530",
+        "lang": "en",
+        "text": "Checked in automatically with the Ultimate Checkin app! https://t.co/GMzxkkpzpr (@ UNITY RESTAURANT (SOULFOOD) in Atlanta, GA) https://t.co/aRUv3qohU8",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.45327071,
+                    33.750302
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2022-05-16T01:02:37.000Z"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1524775293155782656",
+        "author_id": "54882439",
+        "lang": "en",
+        "text": "Just posted a photo @ 640 West Community Cafe https://t.co/52lJvOOMdm",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41552965,
+                    33.73758846
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2022-05-12T15:35:33.000Z"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1521286714253271040",
+        "author_id": "839849319276630019",
+        "lang": "en",
+        "text": "This weekend celebrating my 60th Birthday was epic! Do prepare to be sick of me! My offical day is May 8th @ D Caf\u00e9 &amp; Catering https://t.co/tY7qAv0k4W",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2022-05-03T00:33:11.000Z"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1520926492611465225",
+        "author_id": "1481137530",
+        "lang": "en",
+        "text": "Checked in automatically with the Ultimate Checkin app! https://t.co/GMzxkkpzpr (@ UNITY RESTAURANT (SOULFOOD) in Atlanta, GA) https://t.co/El3minLL9K",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.45327071,
+                    33.750302
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2022-05-02T00:41:47.000Z"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1514054225306734593",
+        "author_id": "1481137530",
+        "lang": "en",
+        "text": "Checked in automatically with the Ultimate Checkin app! https://t.co/GMzxkkpzpr (@ UNITY RESTAURANT (SOULFOOD) in Atlanta, GA) https://t.co/AJ94Tr5811",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.45327071,
+                    33.750302
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2022-04-13T01:33:51.000Z"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1513638152434601988",
+        "author_id": "1481137530",
+        "lang": "en",
+        "text": "Checked in automatically with the Ultimate Checkin app! https://t.co/GMzxkkpzpr (@ UNITY RESTAURANT (SOULFOOD) in Atlanta, GA) https://t.co/MzgdOucLSb",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.45327071,
+                    33.750302
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2022-04-11T22:00:32.000Z"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1513321715086020614",
+        "author_id": "1481137530",
+        "lang": "en",
+        "text": "Checked in automatically with the Ultimate Checkin app! https://t.co/GMzxkkpzpr (@ UNITY RESTAURANT (SOULFOOD) in Atlanta, GA) https://t.co/oFqVv1oVWE",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.45327071,
+                    33.750302
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2022-04-11T01:03:07.000Z"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1511424796759838722",
+        "author_id": "839849319276630019",
+        "lang": "en",
+        "text": "Finalizing the plans for my 60th birthday weekend with planner Dennis Toliver of @kreativesolutionscompany @ D Caf\u00e9 &amp; Catering https://t.co/Qikjt1DTaN",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2022-04-05T19:25:27.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "0f14b6247e946001"
+        },
+        "author_id": "1263953177742905344",
+        "id": "1503930709228109827",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "text": "Shout out to @SluttyVeganATL !!!!THE ONLY RESTAURANT that (I\u2019ve seen) SEAL their deliveries from germs when being delivered to your front door!!! THANK YOU!! https://t.co/0T9PX32dsL",
+        "created_at": "2022-03-16T03:06:37.000Z",
+        "lang": "en"
+    },
+    {
+        "author_id": "260464129",
+        "created_at": "2022-02-19T19:35:10.000Z",
+        "id": "1495119787776692230",
+        "text": "honey hot lemon pepper @ queenz cafe https://t.co/3NUgzu1wZE",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "07d9e74588880003"
+        }
+    },
+    {
+        "author_id": "834203335355940864",
+        "created_at": "2022-01-07T22:12:11.000Z",
+        "id": "1479576627742969858",
+        "text": "Just posted a photo @ Cafe Bourbon St. https://t.co/rl9GMOjAzz",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41774,
+                    33.71902
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        }
+    },
+    {
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41655,
+                    33.73773
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "id": "1474472691025555457",
+        "text": "Just posted a photo @ Wadada Healthy Market &amp; Juice Bar https://t.co/JFcIos2mPq",
+        "created_at": "2021-12-24T20:10:58.000Z",
+        "author_id": "39969360"
+    },
+    {
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "103920cebb545000"
+        },
+        "id": "1473722675260530692",
+        "text": "This is Holy Shenanigans from @BestEndBrewing. It\u2019s a Dry Irish Stout that\u2019s become a holiday favorite of mine. The Mingle &amp; Jingle Christmas Bar set-up is so much fun. Thanks to JB for making some great drinks and for the hospitality.\n4.6/5 \ud83c\udf7b\ud83c\udf84\ud83c\udf85\ud83c\udffb https://t.co/gMqODSVpKQ",
+        "created_at": "2021-12-22T18:30:40.000Z",
+        "author_id": "1151234505367326731"
+    },
+    {
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.45327071,
+                    33.750302
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "id": "1468548165141942278",
+        "text": "I'm at UNITY RESTAURANT (SOULFOOD) in Atlanta, GA https://t.co/1fp2c7IVQV",
+        "created_at": "2021-12-08T11:49:01.000Z",
+        "author_id": "1481137530"
+    },
+    {
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.42185321,
+                    33.73168668
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "id": "1468372184192200704",
+        "text": "#Angel got herself a new favorite spot..... Y'all should come check it out... @mingleandjinglebar @bestendbrewing @ Mingle &amp; Jingle Christmas Bar https://t.co/9lfNXVfKZX",
+        "created_at": "2021-12-08T00:09:44.000Z",
+        "author_id": "54447276"
+    },
+    {
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.43796188,
+                    33.74330079
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "id": "1467580972967374857",
+        "text": "I'm at D Cafe and Catering in Atlanta, GA https://t.co/16Hd5YEtc6",
+        "created_at": "2021-12-05T19:45:44.000Z",
+        "author_id": "1481137530"
+    },
+    {
+        "author_id": "1363354998",
+        "text": "Just posted a photo @ 640 West Community Cafe https://t.co/hlNb0WhzIE",
+        "id": "1464005262893674496",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "created_at": "2021-11-25T22:57:09.000Z",
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41552965,
+                    33.73758846
+                ]
+            }
+        },
+        "lang": "en"
+    },
+    {
+        "author_id": "224381577",
+        "created_at": "2021-11-10T01:10:47.000Z",
+        "id": "1458240689494499333",
+        "text": "Okay, this is getting ridiculous. This burned out restaurant has sat for well over a year in this state on Campbellton Rd. in @CityofAtlanta and now they are dumping at this site.\n\nThis along with the burned out Family Dollar is simply not a good look; where is Code Enforcement? https://t.co/0RY264Uy7p",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 4,
+            "reply_count": 0,
+            "like_count": 13,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "5c7eb6c0610d6c85"
+        }
+    },
+    {
+        "author_id": "107896296",
+        "created_at": "2021-10-31T22:43:17.000Z",
+        "id": "1454942078463586304",
+        "text": "A Sokovian Fortune Teller and a Mexican Wrestler walk into a bar #WandaVision \n\nP.s we should\u2019ve won the couples costume contest @ Westview https://t.co/tdUbnFXV0o",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.439677,
+                    33.740293
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        }
+    },
+    {
+        "author_id": "57866008",
+        "created_at": "2021-10-27T16:52:11.000Z",
+        "id": "1453404167549116422",
+        "text": "Throwing a Halloween costume party this weekend we got @PastorTroyDSGB and Trillville popping up to add to the vibez! 5 DJS, Open Bar from 10pm-12am , cash prize costume contest, best damn dance party you\u2019ll go to this weekend!\n\nRsvp at: https://t.co/Aus8sOsknb https://t.co/dRelQo6tjl",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 5,
+            "reply_count": 1,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "103920cebb545000"
+        }
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41815138,
+                    33.72926522
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2021-09-27T02:27:55.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "54447276",
+        "text": "@bonfireatl @mondaynightgarage #newspot #samevibes I'm at the bar come see me.!!!!!? @ Monday Night Garage https://t.co/O2xgXjBora",
+        "id": "1442315034353410052"
+    },
+    {
+        "geo": {
+            "place_id": "0fc2fdab7d947001"
+        },
+        "created_at": "2021-09-26T19:15:19.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "1225968770847559680",
+        "text": "It\u2019s taking an hour for my order at an almost empty restaurant/cafe. I hate going out.",
+        "id": "1442206166642159617"
+    },
+    {
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.430423,
+                    33.73718492
+                ]
+            }
+        },
+        "author_id": "521496528",
+        "id": "1416256749385011202",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Long time friend and on tour DJ. @ Fire Restaurant and Lounge https://t.co/Pie4K13e3h",
+        "created_at": "2021-07-17T04:41:36.000Z",
+        "lang": "en"
+    },
+    {
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41552965,
+                    33.73758846
+                ]
+            }
+        },
+        "author_id": "1534378056",
+        "id": "1406619363411644417",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ 640 West Community Cafe https://t.co/z4jcybdD4O",
+        "created_at": "2021-06-20T14:26:04.000Z",
+        "lang": "en"
+    },
+    {
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41655,
+                    33.73773
+                ]
+            }
+        },
+        "author_id": "114977218",
+        "id": "1403119806707081216",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Wadada Healthy Market &amp; Juice Bar https://t.co/Of5Ozmbyy0",
+        "created_at": "2021-06-10T22:40:05.000Z",
+        "lang": "en"
+    },
+    {
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41655,
+                    33.73773
+                ]
+            }
+        },
+        "author_id": "813828972568047625",
+        "id": "1402383103939682306",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Learning #TradeStrategies from the best, to become...\n#MarathonContinues\ud83c\udfc1 \n#MoorishAmerican\n#CashTrap\n#HFX @ Wadada Healthy Market &amp; Juice Bar https://t.co/fr8ipAFdKY",
+        "created_at": "2021-06-08T21:52:41.000Z",
+        "lang": "en"
+    },
+    {
+        "author_id": "114977218",
+        "text": "Just posted a photo @ Wadada Healthy Market &amp; Juice Bar https://t.co/JE4GJ3EPQ7",
+        "id": "1395559537470582784",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-05-21T01:58:16.000Z",
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41655,
+                    33.73773
+                ]
+            }
+        },
+        "lang": "en"
+    },
+    {
+        "author_id": "1072521852",
+        "text": "Vokal Dialect/Rebel X open Mic Show @anray360 @ 640 West Community Cafe https://t.co/miswM5c7mX",
+        "id": "1394694222293475332",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-05-18T16:39:49.000Z",
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41552965,
+                    33.73758846
+                ]
+            }
+        },
+        "lang": "en"
+    },
+    {
+        "author_id": "85183320",
+        "text": "Let me see how they do jerk chicken down here in Georgia. #touratlanta #litework @ Mangos Caribbean Restaurant https://t.co/s2yoOrjL1t",
+        "id": "1393648303426920452",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-05-15T19:23:42.000Z",
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41422611,
+                    33.73814137
+                ]
+            }
+        },
+        "lang": "en"
+    },
+    {
+        "id": "1387062131284226052",
+        "text": "Just posted a photo @ 640 West Community Cafe https://t.co/SPF3BG8frK",
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41552965,
+                    33.73758846
+                ]
+            }
+        },
+        "author_id": "1072521852",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "created_at": "2021-04-27T15:12:37.000Z"
+    },
+    {
+        "lang": "en",
+        "text": "Yep, we\u2019re open today 12-4pm!!! The Veggie Tortilla Soup is on deck from The Soup Bar...try pairing it with the Southern Sante Fe dog for taste bud frenzy! \ud83e\udd55\ud83c\udf2d\ud83d\udd25 @ The Window https://t.co/THkHKm6QvS",
+        "created_at": "2021-04-10T13:04:01.000Z",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41194475,
+                    33.73631845
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1380869174587691011",
+        "author_id": "464136817"
+    },
+    {
+        "lang": "en",
+        "text": "Vokal Dialect/Rebel X Poetry Show:4/5/21!! V.I.P\nWho the leader \ud83d\udde3\ud83d\udde3\ud83d\udde3\ud83d\udde3. https://t.co/JhJf64a2rE @ 640 West Community Cafe https://t.co/xnKEbnGeJN",
+        "created_at": "2021-04-05T16:10:01.000Z",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41552965,
+                    33.73758846
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1379104043507798016",
+        "author_id": "1072521852"
+    },
+    {
+        "lang": "en",
+        "text": "@moniquechappill_realtor with the Bourbon St wings and Bourbon fries #smack #cafebourbonst @cafebourbonst @ogmarkel @masterchefjb @ Cafe Bourbon St. https://t.co/6lecJEe1oT",
+        "created_at": "2021-04-02T20:07:21.000Z",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41798607,
+                    33.71862492
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1378076610168033281",
+        "author_id": "1345946780"
+    },
+    {
+        "lang": "en",
+        "text": "Bourbon St Shrimp Basket with the Bourbon Fries and side of Beignets! #goodeats #neworleansfood #cafebourbonst @cafebourbonst @ogmarkel @masterchefjb \ud83d\udcaf\ud83d\udcaf @ Cafe Bourbon St. https://t.co/NSItTjJOPM",
+        "created_at": "2021-04-02T19:04:43.000Z",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41798607,
+                    33.71862492
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1378060847105384462",
+        "author_id": "1345946780"
+    },
+    {
+        "lang": "en",
+        "text": "In my mind, I\u2019ve tried these on IG multiple times \ud83d\ude02 but TODAY I got my hands on these jambalaya eye rolls and wheww... @cafebourbonst @masterchefjb @ogmarkel \ud83d\udcaf\ud83d\udcaf @ Cafe Bourbon St. https://t.co/lQViZTo7b1",
+        "created_at": "2021-04-02T18:32:03.000Z",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41798607,
+                    33.71862492
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1378052626571526145",
+        "author_id": "1345946780"
+    },
+    {
+        "lang": "en",
+        "text": "@moniquechappill_realtor @ogmarkel @masterchefjb @cafebourbonst \ud83d\ude01 @ Cafe Bourbon St. https://t.co/uQopgoAl6l",
+        "created_at": "2021-04-02T18:22:26.000Z",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41798607,
+                    33.71862492
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1378050203928829955",
+        "author_id": "1345946780"
+    },
+    {
+        "lang": "en",
+        "text": "Me and @moniquechappill_realtor here today!! @cafebourbonst let\u2019s get it \ud83d\ude01 @ Cafe Bourbon St. https://t.co/EKSveozc1n",
+        "created_at": "2021-04-02T17:35:12.000Z",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41798607,
+                    33.71862492
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1378038316520644611",
+        "author_id": "1345946780"
+    },
+    {
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Just posted a photo @ Wadada Healthy Market &amp; Juice Bar https://t.co/ispcpbQUcd",
+        "id": "1377289428842987530",
+        "created_at": "2021-03-31T15:59:23.000Z",
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41655,
+                    33.73773
+                ]
+            }
+        },
+        "author_id": "75981928"
+    },
+    {
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Today I'm featuring my collegiate masks, and I still have more in store.\nMarch madness is here. Pick your team up and represent your squad. @ Wadada Healthy Market &amp; Juice Bar https://t.co/SNTFkSkncS",
+        "id": "1376536047014797314",
+        "created_at": "2021-03-29T14:05:43.000Z",
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41655,
+                    33.73773
+                ]
+            }
+        },
+        "author_id": "173011925"
+    },
+    {
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "@Beyonce a whole damn restaurant depleted listening to you husband. #\ud83d\udc80  I\u2019m getting seafood. It may be a five hour contemplation I\u2019m gonna cut it short. #Yourfakefriend https://t.co/IAL5Kgn28W",
+        "id": "1373707357247651842",
+        "created_at": "2021-03-21T18:45:30.000Z",
+        "geo": {
+            "place_id": "07d9e5bb51880001"
+        },
+        "author_id": "1107010354884808705"
+    },
+    {
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "5c7eb6c0610d6c85"
+        },
+        "id": "1369164207799869440",
+        "text": "Let\u2019s work toward a more recyclable future. #EveryWrapperCounts with @NatureValley\u2019s new Store Drop-off recyclable Crunchy bar wrappers! \ud83c\udf0e",
+        "created_at": "2021-03-09T05:52:39.000Z",
+        "author_id": "224411573"
+    },
+    {
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.46253335,
+                    33.72229073
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "id": "1368337883006918660",
+        "text": "Just posted a photo @ The Beautiful Restaurant https://t.co/8ldRdAlmWR",
+        "created_at": "2021-03-06T23:09:08.000Z",
+        "author_id": "860621915215605762"
+    },
+    {
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41552965,
+                    33.73758846
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "id": "1366070025602412554",
+        "text": "Just posted a photo @ 640 West Community Cafe https://t.co/zG4fGy97D9",
+        "created_at": "2021-02-28T16:57:29.000Z",
+        "author_id": "732714054276374528"
+    },
+    {
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41655,
+                    33.73773
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "id": "1364941165074599938",
+        "text": "Stepped out into the sunlight to get God's vitamin D. And I came across my spot!!! #ilovethisplace @ Wadada Healthy Market &amp; Juice Bar https://t.co/oXTY11lp6b",
+        "created_at": "2021-02-25T14:11:47.000Z",
+        "author_id": "173011925"
+    },
+    {
+        "author_id": "1072521852",
+        "text": "Just posted a video @ 640 West Community Cafe https://t.co/4KGAiltB4l",
+        "id": "1362111132954025984",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-02-17T18:46:15.000Z",
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41552965,
+                    33.73758846
+                ]
+            }
+        },
+        "lang": "en"
+    },
+    {
+        "author_id": "244158159",
+        "text": "1st Go Round w/ @serioussteelfitness Banded Trap Bar deadlift. A touch sloppy but a step closer to getting it....... \n \n@willpowerfitatl_ \n@roguefitness @ Willpowerfitatl https://t.co/oUK19qN0qA",
+        "id": "1361438305921998857",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-02-15T22:12:41.000Z",
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.40702,
+                    33.72085
+                ]
+            }
+        },
+        "lang": "en"
+    },
+    {
+        "author_id": "2197717099",
+        "text": "Just posted a video @ Blendz Cafe ATL https://t.co/dxfiKB2wO0",
+        "id": "1358130079226761218",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-02-06T19:06:58.000Z",
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41842,
+                    33.70841
+                ]
+            }
+        },
+        "lang": "en"
+    },
+    {
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41690683,
+                    33.72425043
+                ]
+            }
+        },
+        "lang": "en",
+        "text": "Special Thanks to a Real One for having me tonight!! @sosotheplug_ @ Apache Cafe https://t.co/GXQGX0Fut4",
+        "author_id": "245190997",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1355742530449666050",
+        "created_at": "2021-01-31T04:59:42.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41690683,
+                    33.72425043
+                ]
+            }
+        },
+        "lang": "en",
+        "text": "Just posted a photo @ Apache Cafe https://t.co/1aEgfoEKak",
+        "author_id": "2502827731",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1355224931387240454",
+        "created_at": "2021-01-29T18:42:57.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41690683,
+                    33.72425043
+                ]
+            }
+        },
+        "lang": "en",
+        "text": "Just posted a photo @ Apache Cafe https://t.co/K3mTKcw8GX",
+        "author_id": "49934964",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1354829874821820416",
+        "created_at": "2021-01-28T16:33:08.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41690683,
+                    33.72425043
+                ]
+            }
+        },
+        "lang": "en",
+        "text": "Just posted a photo @ Apache Cafe https://t.co/VAuZm98vhv",
+        "author_id": "49934964",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1353767348570906625",
+        "created_at": "2021-01-25T18:11:02.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.45067585,
+                    33.75068665
+                ]
+            }
+        },
+        "lang": "en",
+        "text": "I'm at Intimate Cafe in Atlanta, GA https://t.co/67UmuzPzT2",
+        "author_id": "1481137530",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1353083484143837187",
+        "created_at": "2021-01-23T20:53:36.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "3e34c7b80456e588"
+        },
+        "lang": "en",
+        "text": "African cafe vibes \ud83c\uddff\ud83c\udde6 #selflove \n#African #BlackLove #Atlanta https://t.co/fVrTNbuM5k",
+        "author_id": "1343546013471145986",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1350843924064202753",
+        "created_at": "2021-01-17T16:34:23.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41842,
+                    33.70841
+                ]
+            }
+        },
+        "lang": "en",
+        "text": "#EADWM \n#FreeCoffee #FreeSnoball\n\n#HappySunday\n#happydining\ud83d\ude4b\ud83c\udffe\u200d\u2640\ufe0f\n\nPosted @withregram \u2022 @everythangnolacafe @ Blendz Cafe ATL https://t.co/Jm6C5E1CeK",
+        "author_id": "2197717099",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1350813243376234500",
+        "created_at": "2021-01-17T14:32:28.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41690683,
+                    33.72425043
+                ]
+            }
+        },
+        "lang": "en",
+        "text": "Just posted a photo @ Apache Cafe https://t.co/dKOOY9eqlX",
+        "author_id": "193782233",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1349893681021640706",
+        "created_at": "2021-01-15T01:38:28.000Z"
+    },
+    {
+        "author_id": "49187382",
+        "created_at": "2021-01-08T01:46:07.000Z",
+        "id": "1347358893312151552",
+        "text": "What an incredible moment @apachexlr !!! \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\n\nPhoto credits: @raymondadamsimagery @ Apache Cafe https://t.co/2SG94FP9bk",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41690683,
+                    33.72425043
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        }
+    },
+    {
+        "author_id": "49187382",
+        "created_at": "2021-01-07T18:25:27.000Z",
+        "id": "1347247997189574658",
+        "text": "It\u2019s the turn for me..... @iamtroydurden @vocal_narcotic @jamsinatl  @kariepps .... what a moment \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\n\nOne of my favorite love songs \u2764\ufe0f\u2764\ufe0f\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe\ud83d\ude4c\ud83c\udffe @ Apache Cafe https://t.co/cBLNx7r9Nr",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41690683,
+                    33.72425043
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        }
+    },
+    {
+        "author_id": "709767310819463169",
+        "created_at": "2021-01-06T16:09:06.000Z",
+        "id": "1346851293625802754",
+        "text": "\ud83c\udf74 Window is up! Paige\u2019s Pastries ATL is at Come inside the park. Don\u2019t wait in line out front. That\u2019s for Cafe Bourbon!! until 4:30pm. Details on @MobileNom https://t.co/Zuz29CMbd3 https://t.co/6fXRMtsalL",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4177688,
+                    33.7191065
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        }
+    },
+    {
+        "author_id": "16468883",
+        "created_at": "2021-01-02T06:34:21.000Z",
+        "id": "1345257102663671808",
+        "text": "Just posted a photo @ Apache Cafe https://t.co/2budlOix1s",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41690683,
+                    33.72425043
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        }
+    },
+    {
+        "author_id": "276591744",
+        "created_at": "2020-12-31T23:16:12.000Z",
+        "id": "1344784448508686338",
+        "text": "We Take Branding Ourselves Serious! I See Why They Copy Us \ud83d\ude0e See Y\u2019all Tonight! We Going Up! @BossBrittxDJeXeL #NYE @ Apache Cafe https://t.co/GkNrumZbIF",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41690683,
+                    33.72425043
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        }
+    },
+    {
+        "author_id": "54447276",
+        "created_at": "2020-12-30T19:44:39.000Z",
+        "id": "1344368823835639808",
+        "text": "#TomorrowNight we say good riddens to #2020...\n\nReposted from @bestendbrewing Join us tomorrow night for live music, full dinner menu + bar, and champagne toast at midnight\ud83e\udd42 @ Best End Brewing Co. https://t.co/miptlKSxYJ",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.42111,
+                    33.73148
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        }
+    },
+    {
+        "author_id": "276591744",
+        "created_at": "2020-12-29T18:15:00.000Z",
+        "id": "1343983873600987137",
+        "text": "Bringing In The New Year With 2 Of My Favorite Ppl @lolaa.moniiii \ud83e\udd2a We Only Have 2 Sections Left! Text 4046829893 For Yours Asap! SWIPE TO SEE HOW LAST YEAR WENT! Imagine This Year \ud83d\ude29 #NYE @ Apache Cafe https://t.co/91CM5fFW8B",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41690683,
+                    33.72425043
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        }
+    },
+    {
+        "id": "1342247877737910272",
+        "text": "Just posted a photo @ Apache Cafe https://t.co/NZ31EO6QqG",
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41690683,
+                    33.72425043
+                ]
+            }
+        },
+        "author_id": "276591744",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "created_at": "2020-12-24T23:16:46.000Z"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1339699872476237824",
+        "author_id": "1481137530",
+        "lang": "en",
+        "text": "I'm at KarbonStar Vitality Vegan Cafe &amp; Juice Bar in Atlanta, GA https://t.co/9ehFDNSgJo",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.43800777,
+                    33.74335103
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-12-17T22:31:54.000Z"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1339699631769456644",
+        "author_id": "1481137530",
+        "lang": "en",
+        "text": "I'm at Elite Cafe in Atlanta, GA https://t.co/oRXcrcTunc",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.450439,
+                    33.750562
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-12-17T22:30:57.000Z"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1338925031628435458",
+        "author_id": "276591744",
+        "lang": "en",
+        "text": "Just posted a video @ Apache Cafe https://t.co/jyKr7FnExO",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41690683,
+                    33.72425043
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-12-15T19:12:58.000Z"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1336071945843068930",
+        "author_id": "2502827731",
+        "lang": "en",
+        "text": "Just posted a photo @ Apache Cafe https://t.co/spovo5vRmD",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41690683,
+                    33.72425043
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-12-07T22:15:49.000Z"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.43799,
+                    33.74329
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1334227478609465345",
+        "text": "Taste a new place Wednesday!! Great spot and B.O.B @augiescafe #blackownedbusiness #bob #supportsmallbusiness #supportblackownedbusinesses #supportlocalbusiness #supportyourlocalbusiness @ Augie's Cafe https://t.co/C7SZtVlAO8",
+        "created_at": "2020-12-02T20:06:34.000Z",
+        "lang": "en",
+        "author_id": "792196952200994820"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41842,
+                    33.70841
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1333805607359455234",
+        "text": "Just posted a video @ Blendz Cafe ATL https://t.co/ABhPBOhI2Y",
+        "created_at": "2020-12-01T16:10:12.000Z",
+        "lang": "en",
+        "author_id": "2197717099"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41842,
+                    33.70841
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1333804407859896326",
+        "text": "Just posted a photo @ Blendz Cafe ATL https://t.co/d2JKIf7VCf",
+        "created_at": "2020-12-01T16:05:26.000Z",
+        "lang": "en",
+        "author_id": "2197717099"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41842,
+                    33.70841
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1333717836380987395",
+        "text": "#EADWM #repost #TacoTuesday \n\nPosted @withregram \u2022 @everythangnolacafe Big Mike is back tomorrow!!!!! We can\u2019t wait !!! See y\u2019all !!! Les geaux @bigmiketacos @ Blendz Cafe ATL https://t.co/xu6Z8cdiyE",
+        "created_at": "2020-12-01T10:21:26.000Z",
+        "lang": "en",
+        "author_id": "2197717099"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41647448,
+                    33.73802074
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1333553414937194496",
+        "text": "Oh hey Dad \ud83d\udc4b\ud83c\udffd @ Wadada Healthy Market &amp; Juice Bar https://t.co/J0gpfzl1uy",
+        "created_at": "2020-11-30T23:28:05.000Z",
+        "lang": "en",
+        "author_id": "29124545"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "id": "1333404565992054785",
+        "geo": {
+            "place_id": "24c97ca86aad96d2"
+        },
+        "text": "@jimmylittle @ishabazz Depends on the TV you have the Sonos sound bar connected to.\n\nI have a TCL Roku TV with a Sonos Beam and I can control the volume with the Apple TV Remote app.\n\nAlso have an older LG TV with a Sonos PlayBar, and I can\u2019t use the Apple TV Remote app to change volume there.",
+        "created_at": "2020-11-30T13:36:36.000Z",
+        "lang": "en",
+        "author_id": "642123"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41690683,
+                    33.72425043
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1331472283286859782",
+        "text": "Spoken words @ Apache Cafe https://t.co/LmQD0gWzL6",
+        "created_at": "2020-11-25T05:38:24.000Z",
+        "lang": "en",
+        "author_id": "143879218"
+    },
+    {
+        "text": "Just posted a video @ Blendz Cafe ATL https://t.co/lGfums0lFv",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-11-22T16:02:41.000Z",
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41842,
+                    33.70841
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "author_id": "2197717099",
+        "id": "1330542227156832263"
+    },
+    {
+        "text": "#EADWM \nGot my #cronut &amp; turmeric/ginger tea from @everythangnolacafe\n\nLive #DineAndReview. Coming soon.\n\n#foodie #blogger #DineAndReview #foodblogger #EADWM #EatAnDrinkWithMe. @ Blendz Cafe ATL https://t.co/UxmPygFvSq",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-11-21T16:41:57.000Z",
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41842,
+                    33.70841
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "author_id": "2197717099",
+        "id": "1330189719452475401"
+    },
+    {
+        "text": "#EADWM I\u2019m tying to see what this #cronut is about... heading out...\ud83d\udc40\u263a\ufe0f #neighborhoodCoffeeShop #EverythingNola at #blendzCafe #SWATS #SylvanRdSW @ Blendz Cafe ATL https://t.co/Ouu8v2zpBE",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-11-21T16:18:43.000Z",
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41842,
+                    33.70841
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "author_id": "2197717099",
+        "id": "1330183874656264199"
+    },
+    {
+        "text": "Just posted a photo @ Apache Cafe https://t.co/0QKKv9pNBc",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-11-20T18:04:31.000Z",
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41690683,
+                    33.72425043
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "author_id": "276591744",
+        "id": "1329848108084301825"
+    },
+    {
+        "text": "Our vegan breakfast is next level. Head into our cafe today and try our new menu options!! #TheDCafeExperience #atlbrunch #veganfood @ D Caf\u00e9 https://t.co/iZEX1OTn1X",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "created_at": "2020-11-19T17:59:59.000Z",
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "author_id": "2677801656",
+        "id": "1329484582295662593"
+    },
+    {
+        "text": "You haven\u2019t had good catfish until you\u2019ve had ours! Don\u2019t forget to pair it with our greens and mac n cheese, topped with your choice of peach cognac sauce or tequila lime sauce! @ D Caf\u00e9 https://t.co/5Q39x7k2gl",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "created_at": "2020-11-18T17:52:05.000Z",
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "author_id": "2677801656",
+        "id": "1329120206594088960"
+    },
+    {
+        "lang": "en",
+        "text": "I'm at UNITY RESTAURANT (SOULFOOD) in Atlanta, GA https://t.co/LdN0QEHjvI",
+        "created_at": "2020-11-14T20:09:03.000Z",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.45327071,
+                    33.750302
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1327705122202333184",
+        "author_id": "1481137530"
+    },
+    {
+        "lang": "en",
+        "text": "Have you tried our rice bowls? They\u2019re flavorful grilled veggie medleys over a bed of rice. You could even top it off with your choice of protein! #TheDCafeExperience @ D Caf\u00e9 https://t.co/MOvy5fUFv5",
+        "created_at": "2020-11-13T17:04:09.000Z",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1327296202619170818",
+        "author_id": "2677801656"
+    },
+    {
+        "lang": "en",
+        "text": "Chicken &amp; waffles w/ Peach Cognac Sauce, just what you need to get over the #hump! #TheDCafeExperience #AtlantaBrunch #BlackOwnedAtlanta #chickenandwaffles @ D Caf\u00e9 https://t.co/nGkEamjknL",
+        "created_at": "2020-11-11T16:58:31.000Z",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1326570008626008064",
+        "author_id": "2677801656"
+    },
+    {
+        "lang": "en",
+        "text": "#Repost @djrevlee with @get_repost\n\u30fb\u30fb\u30fb\nhttps://t.co/YM5jqOjsQq @ Apache Cafe https://t.co/rpOTRnhpzm",
+        "created_at": "2020-11-10T23:59:49.000Z",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41690683,
+                    33.72425043
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1326313645853167616",
+        "author_id": "25319425"
+    },
+    {
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "id": "1324718441044082690",
+        "text": "Partners in crime. Happy Weekend everyone! #SauceItUp @ D Caf\u00e9 https://t.co/WMG0X5lGcH",
+        "author_id": "2677801656",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-11-06T14:21:03.000Z"
+    },
+    {
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.45327071,
+                    33.750302
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "id": "1322873840171732992",
+        "text": "I'm at UNITY RESTAURANT (SOULFOOD) in Atlanta, GA https://t.co/uB5i5aIhl6",
+        "author_id": "1481137530",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-11-01T12:11:15.000Z"
+    },
+    {
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.45349121,
+                    33.75028992
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "id": "1322873641319747584",
+        "text": "I'm at Unity Restaurant in Atlanta, GA https://t.co/njflq454dT",
+        "author_id": "1481137530",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-11-01T12:10:28.000Z"
+    },
+    {
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "id": "1321826638900834307",
+        "text": "It\u2019s Friday Eve, where else is better than D Caf\u00e9 to get your fat started? Try our new sauces and vegan options! See you soon \ud83d\ude0e #veganatl  #thedcafeexperience @ D Caf\u00e9 https://t.co/2hOcHjvesy",
+        "author_id": "2677801656",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-10-29T14:50:03.000Z"
+    },
+    {
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "id": "1321485469184630784",
+        "text": "What goes perfect with your chicken and waffles from D Caf\u00e9? Our Peach Cognac Sauce of course! #SauceItUp #TheDCafeExperience @ D Caf\u00e9 https://t.co/F7pbG3ih8m",
+        "author_id": "2677801656",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-10-28T16:14:22.000Z"
+    },
+    {
+        "text": "Special sauce announcement coming soon! Have you gotten your hands on a bottle yet? #SauceItUp @ D Caf\u00e9 https://t.co/4Mwbl3G4FE",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-10-23T16:42:20.000Z",
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "author_id": "2677801656",
+        "id": "1319680568527884288"
+    },
+    {
+        "text": "Just posted a photo @ Blendz Cafe ATL https://t.co/MW735japoM",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-10-23T15:46:04.000Z",
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41842,
+                    33.70841
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "author_id": "2197717099",
+        "id": "1319666405751590918"
+    },
+    {
+        "text": "Our beef and turkey burgers with homemade seasoned fries are just what you need for your Hump Day cravings. Come see us now! #TheDcafeExperience #Burgers #AtlantaBrunch @ D Caf\u00e9 https://t.co/ETD4olHuXp",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-10-21T15:26:06.000Z",
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "author_id": "2677801656",
+        "id": "1318936606619758592"
+    },
+    {
+        "text": "Have you tried our signature Tequila Lime Sauce yet? You\u2019re missing out if you haven\u2019t!! Perfect for almost anything! @ D Caf\u00e9 https://t.co/N2GUTtcswq",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-10-20T17:44:31.000Z",
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "author_id": "2677801656",
+        "id": "1318609053501751299"
+    },
+    {
+        "text": "Feed your body that gud gud, another #BOB to support @ Wadada Healthy Market &amp; Juice Bar https://t.co/cBSQzYJdMc",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-10-17T17:24:41.000Z",
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41647448,
+                    33.73802074
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "author_id": "510497632",
+        "id": "1317516899501133835"
+    },
+    {
+        "text": "It\u2019s brunch time and @chefgatl is in the kitchen whipping it up! Get here now, doors are wide open! #TheDCafeExperience @ D Caf\u00e9 https://t.co/PdwkJ1rGQm",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-10-17T15:42:47.000Z",
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "author_id": "2677801656",
+        "id": "1317491255845228546"
+    },
+    {
+        "text": "What\u2019s better than our chef\u2019s rice dish? Chef\u2019s rice dish WITH your choice of meat! It\u2019s the many options on our menu for me \ud83d\ude0e #TheDCafeExperience #BlackOwnedAtlanta #Brunch #Catering @ D Caf\u00e9 https://t.co/yHXiT6dQyZ",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "created_at": "2020-10-15T20:20:26.000Z",
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "author_id": "2677801656",
+        "id": "1316836350948257794"
+    },
+    {
+        "text": "Just posted a photo @ D Caf\u00e9 https://t.co/W0ddcmnrHd",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-10-13T20:34:28.000Z",
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "author_id": "2677801656",
+        "id": "1316115107366174721"
+    },
+    {
+        "text": "Get your copy of that Soulcraft Scroll Series by @drenqi @ Wadada Healthy Market &amp; Juice Bar https://t.co/ZwiRe1Sps6",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-10-12T16:19:53.000Z",
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41647448,
+                    33.73802074
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "author_id": "3619389440",
+        "id": "1315688649787400197"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1315017288714801153",
+        "author_id": "2197717099",
+        "lang": "en",
+        "text": "Just posted a video @ Blendz Cafe ATL https://t.co/hJ1svldgkt",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41842,
+                    33.70841
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-10-10T19:52:08.000Z"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1315004397596938240",
+        "author_id": "2197717099",
+        "lang": "en",
+        "text": "Just posted a video @ Blendz Cafe ATL https://t.co/bUGAqa80KX",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41842,
+                    33.70841
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-10-10T19:00:54.000Z"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1314995600484687872",
+        "author_id": "2197717099",
+        "lang": "en",
+        "text": "Just posted a video @ Blendz Cafe ATL https://t.co/efBROGCWg4",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41842,
+                    33.70841
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-10-10T18:25:57.000Z"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1314955728885633026",
+        "author_id": "22122757",
+        "lang": "en",
+        "text": "Just posted a video @ 640 West Community Cafe https://t.co/Fv5x2vwAij",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4154,
+                    33.73756
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-10-10T15:47:31.000Z"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1314541698438004738",
+        "author_id": "2677801656",
+        "lang": "en",
+        "text": "Have you tried our new vegan options? The Vegan Vaffle (TM) is AMAZING! Come on in this weekend and try it! #TheDCafeExperience #Vegan #BlackOwned @ D Caf\u00e9 https://t.co/o3qLeWvq4n",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-10-09T12:22:18.000Z"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1313520388203253760",
+        "author_id": "2677801656",
+        "lang": "en",
+        "text": "Need your next event catered or need a space to have it? Look no further! We have all your event needs in one place! Book us today! #TheDCafeExperience @ D Caf\u00e9 https://t.co/wdjNjjxUZH",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-10-06T16:43:59.000Z"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1312514924535398400",
+        "author_id": "29124545",
+        "lang": "en",
+        "text": "\ud83d\ude0b @ The Beautiful Restaurant https://t.co/stSkbdUukr",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.46251,
+                    33.72218
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-10-03T22:08:38.000Z"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1312512613914345473",
+        "author_id": "29124545",
+        "lang": "en",
+        "text": "Lawd I wish my gma could see this \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02 @ The Beautiful Restaurant https://t.co/ugizOgdETW",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.46251,
+                    33.72218
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-10-03T21:59:27.000Z"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1312429420444037122",
+        "author_id": "2677801656",
+        "lang": "en",
+        "text": "Shrimp &amp; grits. That\u2019s it, that\u2019s the caption. Come get you some! \ud83d\ude01 #TheDCafeExperience #shrimpandgrits #AtlantaBrunch @ D Caf\u00e9 https://t.co/IuOnJOQ7Pj",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-10-03T16:28:52.000Z"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1310981837968289792",
+        "text": "Get your week really going with one of our flavorful Asian salads! Head on in today and try one. #TheDCafeExperience @ D Caf\u00e9 https://t.co/oAsrLHSAE0",
+        "created_at": "2020-09-29T16:36:41.000Z",
+        "lang": "en",
+        "author_id": "2677801656"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4154,
+                    33.73756
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1310745696795009024",
+        "text": "Just posted a photo @ 640 West Community Cafe https://t.co/JnIwGxuJqA",
+        "created_at": "2020-09-29T00:58:21.000Z",
+        "lang": "en",
+        "author_id": "114553401"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1309854451189141510",
+        "text": "Get your morning started off RIGHT with our amazing salmon croquettes. Our doors are wide open! See you soon. #TheDCafeExperience @ D Caf\u00e9 https://t.co/akQClqlf9k",
+        "created_at": "2020-09-26T13:56:51.000Z",
+        "lang": "en",
+        "author_id": "2677801656"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41842,
+                    33.70841
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1309527531251474432",
+        "text": "Live #DineAndReview at 12:20p EST on my \"Eat And Drink With Me\" FB page...\nhttps://t.co/9AKlJcmhWs \n\nPictured:\n#salmonHandwich combo from @atlantafoodguy \n\n#HappyDining @ Blendz Cafe ATL https://t.co/e8UHB2aK6p",
+        "created_at": "2020-09-25T16:17:47.000Z",
+        "lang": "en",
+        "author_id": "2197717099"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41842,
+                    33.70841
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1309519862394429440",
+        "text": "Just posted a video @ Blendz Cafe ATL https://t.co/HiaZB2u5gA",
+        "created_at": "2020-09-25T15:47:19.000Z",
+        "lang": "en",
+        "author_id": "2197717099"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1309268303991525378",
+        "text": "We hope you all are having a great week! Don\u2019t forget to head in this weekend to get your hands on our new Strawberry Tequila Lime Sauce! #TheDCafeExperience #BlackOwnedAtlanta #AtlantaBrunch #SauceItUp @ D Caf\u00e9 https://t.co/spq3JHKujP",
+        "created_at": "2020-09-24T23:07:43.000Z",
+        "lang": "en",
+        "author_id": "2677801656"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1308444436863483905",
+        "text": "Just posted a photo @ D Caf\u00e9 https://t.co/jtr8W8hHZu",
+        "created_at": "2020-09-22T16:33:58.000Z",
+        "lang": "en",
+        "author_id": "2677801656"
+    },
+    {
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            }
+        },
+        "author_id": "2677801656",
+        "id": "1306624531784585221",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "No need to wait until Friday to get your fish fix! And did I mention how great our new Strawberry Tequila Lime Sauce tastes paired with the grits and biscuit? \ud83e\udd24 #TheDcafeExperience @ D Caf\u00e9 https://t.co/kvltEGorGT",
+        "created_at": "2020-09-17T16:02:18.000Z",
+        "lang": "en"
+    },
+    {
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.46251,
+                    33.72218
+                ]
+            }
+        },
+        "author_id": "15515085",
+        "id": "1306237030024835072",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "text": "They\u2019re Back! #theBeautifulRestaurant\nDaily 11 to 7 @ The Beautiful Restaurant https://t.co/PoSDjLqKsC",
+        "created_at": "2020-09-16T14:22:31.000Z",
+        "lang": "en"
+    },
+    {
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            }
+        },
+        "author_id": "2677801656",
+        "id": "1305864866507489284",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Our all new vegan breakfast is here and our doors are wife open! Come try yours today! #TheDCafeExperience @ D Caf\u00e9 https://t.co/YjAxIqNcGe",
+        "created_at": "2020-09-15T13:43:40.000Z",
+        "lang": "en"
+    },
+    {
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            }
+        },
+        "author_id": "2677801656",
+        "id": "1304494241037651973",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "I mean, did I mention how good our new Peach Cognac Sauce is on waffles? It\u2019ll make you never want syrup again! #TheDCafeExperience #SauceItUp @ D Caf\u00e9 https://t.co/U4ALraLEEv",
+        "created_at": "2020-09-11T18:57:18.000Z",
+        "lang": "en"
+    },
+    {
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.42111,
+                    33.73148
+                ]
+            }
+        },
+        "author_id": "54447276",
+        "id": "1302466249780322304",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Reposted from seiawards SEI Music Series presents...\nLABOR DAY DAY PARTY\nSEPTEMBER 5, 2020\n4-9PM\n\ud83d\udd25\ud83d\udd25\ud83d\udd25\nGHOST BAR ATLANTA ghost_bar_atlanta\n345 EDGEWOOD AVE. ATLANTA GA 30312\n\ud83d\udd25\ud83d\udd25\ud83d\udd25\nLADIES FREE ALL DAY\n$250 TWERK\u2026 https://t.co/cs8YWohjQb",
+        "created_at": "2020-09-06T04:38:47.000Z",
+        "lang": "en"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1301236463653314560",
+        "text": "Need a midweek pick me up? Head in and get some of our delicious punch bowl cake! #TheDCafeExperience @ D Caf\u00e9 https://t.co/hVOOgojXZ4",
+        "created_at": "2020-09-02T19:12:03.000Z",
+        "lang": "en",
+        "author_id": "2677801656"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4154,
+                    33.73756
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1300113774188388352",
+        "text": "First time being able to post up at a coffee shop and work since March and Covid craziness... it feels so good! @ 640 West Community Cafe https://t.co/lADsVZtbQo",
+        "created_at": "2020-08-30T16:50:53.000Z",
+        "lang": "en",
+        "author_id": "470384353"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41842,
+                    33.70841
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1299781288925200386",
+        "text": "Keisha.... where are you \ud83d\udc41\ud83d\udc43\ud83c\udffe\ud83d\udc41? @ Blendz Cafe ATL https://t.co/MO5oHQ2TnB",
+        "created_at": "2020-08-29T18:49:42.000Z",
+        "lang": "en",
+        "author_id": "95797512"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41842,
+                    33.70841
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1299477054828802051",
+        "text": "\ud83d\ude4f\ud83c\udffe\ud83d\udde3\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25Awww Man it's going Down! ASAP!!!!!\ud83d\ude42  #caf\u00e9bourbonst #thankyousomuch #foodieporn #foodieforlife #cajunfood #creolefood #nawlens   #mademydaybetter \ud83d\udcaf\u270c\ud83c\udffe #onelove\u2764\ufe0f #supportblackbusinesses \u270a\ud83c\udffe @ Cafe Bourbon St. https://t.co/tLwJI9DWEF",
+        "created_at": "2020-08-28T22:40:47.000Z",
+        "lang": "en",
+        "author_id": "2361620826"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1298975343143874563",
+        "text": "Happy Thursday! Our doors are now open, slide on in and come get you some of our delicious breakfast! #TheDCafeExperience #AtlantaBrunch #BlackOwned @ D Caf\u00e9 https://t.co/OiZ6pXNTzi",
+        "created_at": "2020-08-27T13:27:10.000Z",
+        "lang": "en",
+        "author_id": "2677801656"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1298351855886577664",
+        "text": "\ud83d\udc40\ud83d\udc40\ud83d\udc40\ud83d\udc40 #StayTuned @ D Caf\u00e9 https://t.co/8mUnRG0FWR",
+        "created_at": "2020-08-25T20:09:39.000Z",
+        "lang": "es",
+        "author_id": "2677801656"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41705,
+                    33.74088
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1297706688200544256",
+        "text": "She said I want the Whole thing @ Taste of Tropical Restaurant https://t.co/07zo58qnXG",
+        "created_at": "2020-08-24T01:25:59.000Z",
+        "lang": "en",
+        "author_id": "2660707525"
+    },
+    {
+        "id": "1297145698484453385",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "If you\u2019re not getting breakfast from D Caf\u00e9, are you really even enjoying breakfast? We open in 1 hour! See you then. \ud83d\ude0e #TheDCafeExperience #AtlantaBrunch #BlackOwned @ D Caf\u00e9 https://t.co/XH874IUOMy",
+        "author_id": "2677801656",
+        "lang": "en",
+        "created_at": "2020-08-22T12:16:48.000Z"
+    },
+    {
+        "id": "1296871764803424256",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.42111,
+                    33.73148
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Come watch the #NBAPlayoffs with ya boy at bestendbrewing...i'll be behind the bar...... @ Best End Brewing Co. https://t.co/BvYOMvoePX",
+        "author_id": "54447276",
+        "lang": "en",
+        "created_at": "2020-08-21T18:08:18.000Z"
+    },
+    {
+        "id": "1296423817225674754",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Happy Friday Eve! Get your morning started right with a fresh cup of coffee from D Caf\u00e9. We are open from 9 AM-3 PM. See you soon \ud83d\ude09 #TheDCafeExperience #AtlantaBrunch #BlackOwnedAtlanta @ D Caf\u00e9 https://t.co/LWosLWlp5v",
+        "author_id": "2677801656",
+        "lang": "en",
+        "created_at": "2020-08-20T12:28:19.000Z"
+    },
+    {
+        "id": "1294648066205601794",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Lunch time is approaching. Have you tried our new Asian Salad or our Kale Quinoa Salad? There\u2019s no better day than today! #TheDCafeExperience #AtlantaBrunch #BlackOwned @ D Caf\u00e9 https://t.co/IDPT2KjMdK",
+        "author_id": "2677801656",
+        "lang": "en",
+        "created_at": "2020-08-15T14:52:07.000Z"
+    },
+    {
+        "id": "1294518561541480453",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41705,
+                    33.74088
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Just posted a photo @ Taste of Tropical Restaurant https://t.co/gyFWWMJHAQ",
+        "author_id": "2660707525",
+        "lang": "en",
+        "created_at": "2020-08-15T06:17:30.000Z"
+    },
+    {
+        "id": "1293619996036399104",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Happy Hump Day! Have you came in to try one of our new salads? If not, what are you waiting on!? See you this week! #TheDCafeExperience #AtlantaCatering #BlackOwnedAtlanta #AtlantaBrunch @ D Caf\u00e9 https://t.co/6cKyCNMWyt",
+        "author_id": "2677801656",
+        "lang": "en",
+        "created_at": "2020-08-12T18:46:56.000Z"
+    },
+    {
+        "id": "1293284273110151168",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41842,
+                    33.70841
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Come through bigmiketacos  #steaktacos blendzcafeatl @ Blendz Cafe ATL https://t.co/6wcuCaAFVD",
+        "author_id": "95797512",
+        "lang": "en",
+        "created_at": "2020-08-11T20:32:53.000Z"
+    },
+    {
+        "id": "1293280747374227463",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41842,
+                    33.70841
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Taco tut@blendzcafeatl with bigmiketacos @ Blendz Cafe ATL https://t.co/Jl6RA2B9t6",
+        "author_id": "95797512",
+        "lang": "en",
+        "created_at": "2020-08-11T20:18:52.000Z"
+    },
+    {
+        "id": "1293270423757561856",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41842,
+                    33.70841
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Taco Tuesday blendzcafeatl @ Blendz Cafe ATL https://t.co/WxiabIYEZy",
+        "author_id": "95797512",
+        "lang": "en",
+        "created_at": "2020-08-11T19:37:51.000Z"
+    },
+    {
+        "id": "1292841925440086016",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Happy Monday everyone! What goes best with your lunch? Our world famous Arnold Palmers of course! Stop in this week and give them a try! #TheDCafeExperience #BlackOwnedAtlanta #AtlantaCatering #BrunchAtlanta @ D Caf\u00e9 https://t.co/TQTlIc34hr",
+        "author_id": "2677801656",
+        "lang": "en",
+        "created_at": "2020-08-10T15:15:09.000Z"
+    },
+    {
+        "id": "1292818591558119424",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.46251,
+                    33.72218
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "The Beautiful Restaurant had the right idea! They shut down in March so that their employees would be safe!\nOf course I did tell these lovely ladies while I enjoy seeing them walk everyday, I\u2019d prefer seeing them\u2026 https://t.co/GV3eTmnSyU",
+        "author_id": "15515085",
+        "lang": "en",
+        "created_at": "2020-08-10T13:42:26.000Z"
+    },
+    {
+        "id": "1292556605322452992",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.42111,
+                    33.73148
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Reposted from bestendbrewing It's SUPER SUNDAY down here at Best End! Need a tiki cocktail? Hit the Graffiki Tiki Bar. Hungry? Check out our sweet new menu. Want to hear some killer tunes? Live DJs will be on tap\u2026 https://t.co/9C8FyISkce",
+        "author_id": "54447276",
+        "lang": "en",
+        "created_at": "2020-08-09T20:21:23.000Z"
+    },
+    {
+        "id": "1292071329936691202",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41147595,
+                    33.73646387
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "If you crave iced coffee and carbs like me, then head to @met_atl for Caf\u00e9 con Leche from @buenosdiascafe and a HOT n FLUFFY biscuit from @butterlyatlanta! You can catch both businesses open from 8:30-11:30am every\u2026 https://t.co/4jsepkAwrj",
+        "author_id": "729766372138319872",
+        "lang": "en",
+        "created_at": "2020-08-08T12:13:05.000Z"
+    },
+    {
+        "id": "1291127220165959680",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41842,
+                    33.70841
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Just posted a photo @ Blendz Cafe ATL https://t.co/vEaqhgCU0B",
+        "author_id": "95797512",
+        "lang": "en",
+        "created_at": "2020-08-05T21:41:31.000Z"
+    },
+    {
+        "id": "1290789605906800642",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Introducing our new D Caf\u00e9 Refreshers! These thirst quenching beverages are just what you need to get your morning going. It\u2019s a perfect blend of ginger, fresh apples, organic blood oranges, carrots &amp; blackberries.\u2026 https://t.co/O1XYFA9kuQ",
+        "author_id": "2677801656",
+        "lang": "en",
+        "created_at": "2020-08-04T23:19:58.000Z"
+    },
+    {
+        "id": "1290021726143700992",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.42111,
+                    33.73148
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Reposted from bestendbrewing Live your best Sunday Funday island life with us at the Graffiki Tiki Bar today! Hop down to the Westside Trail of the Beltline and find the urban oasis that is Best End Brewing.\u2800\n\u2800\nLive\u2026 https://t.co/SFFsZUFNG4",
+        "author_id": "54447276",
+        "lang": "en",
+        "created_at": "2020-08-02T20:28:41.000Z"
+    },
+    {
+        "id": "1289760714609942532",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.42111,
+                    33.73148
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Reposted from pregamepregame Come pregame with us tomorrow bestendbrewing 2pm!!! \nFREE ENTRY &amp; FREE PARKING &amp; LIVE MUSIC \n16oz beer w/ a shot \ud83e\udd43 for $4\nFreshly brewed beer \ud83c\udf7a \nTIKI BAR \ud83d\uddff\ud83c\udfdd\n1036 White St. SW Atl Ga\u2026 https://t.co/iqRuOh0szJ",
+        "author_id": "54447276",
+        "lang": "en",
+        "created_at": "2020-08-02T03:11:31.000Z"
+    },
+    {
+        "id": "1289637043216084993",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Saturday\u2019s are always such a vibe at D Caf\u00e9. Thanks to everyone that came by today! See you next week. #TheDCafeExperience #BlackOwnedAtlanta #AtlantaCatering #AtlantaBrunch @ D Caf\u00e9 https://t.co/51QrFQ1wsR",
+        "author_id": "2677801656",
+        "lang": "en",
+        "created_at": "2020-08-01T19:00:06.000Z"
+    },
+    {
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "id": "1285992493033631744",
+        "text": "Have you seen how cozy our newly renovated caf\u00e9 is? Same great taste in a newly modeled place! #TheDCafeExperience #Catering #blackownedatlanta @ D Caf\u00e9 https://t.co/HEBlQsoDok",
+        "author_id": "2677801656",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-07-22T17:37:57.000Z"
+    },
+    {
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41842,
+                    33.70841
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "id": "1283514104033009664",
+        "text": "Sis @jhgive introduced me to blendzcafeatl . This is her stuffed praline snowball. #blackownedbusiness #atlanta #coffeecafe #blendzcafeatl @ Blendz Cafe ATL https://t.co/bqBnlajJ8D",
+        "author_id": "239597785",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "created_at": "2020-07-15T21:29:43.000Z"
+    },
+    {
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "id": "1283462940679647232",
+        "text": "They got their Chef\u2019s Punch Bowl Cake, come get yours when we open the doors to our NEWLY RENOVATED caf\u00e9 on Friday! #TheDCafeExperience #Catering #BlackOwned #Brunch #Foodies @ D Caf\u00e9 https://t.co/2exqjeQ25L",
+        "author_id": "2677801656",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-07-15T18:06:25.000Z"
+    },
+    {
+        "id": "1282005950212247558",
+        "text": "We are back next week and I have 4 words for y\u2019all: Chef\u2019s Punch Bowl Cake. Need I say more? #TheDCafeExperience #Catering #BlackOwned #Brunch \ud83d\udcf8: rick_2slick @ D Caf\u00e9 https://t.co/ykUu0fyroM",
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            }
+        },
+        "author_id": "2677801656",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "created_at": "2020-07-11T17:36:51.000Z"
+    },
+    {
+        "id": "1279127193210236929",
+        "text": "Thank you all for your support this reopening week! We will be closed in observance of Independence Day. We will see you all when we open back up Wednesday! Have a safe weekend. @ D Caf\u00e9 https://t.co/AWH939eF7s",
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            }
+        },
+        "author_id": "2677801656",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "created_at": "2020-07-03T18:57:42.000Z"
+    },
+    {
+        "id": "1278369581095161856",
+        "text": "What gets you through #HumpDay? For us, we just need a nice beef burger from D Caf\u00e9. Head in today and get you one! #TheDCafeExperience #Catering #Brunch #BlackOwned @ D Caf\u00e9 https://t.co/EHln8w582Y",
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            }
+        },
+        "author_id": "2677801656",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "created_at": "2020-07-01T16:47:13.000Z"
+    },
+    {
+        "id": "1277296254884761600",
+        "text": "#selfie #selfiereflection #reflectionselfies #selfreflection @ The Bakery Atlanta https://t.co/vGgmDtVxcE",
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41439,
+                    33.724926
+                ]
+            }
+        },
+        "author_id": "16059111",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "created_at": "2020-06-28T17:42:12.000Z"
+    },
+    {
+        "id": "1276668748322279431",
+        "text": "We are officially back in 4 days so it was only right we got new drip for the reopening! \ud83d\ude0e #TheDcafeExperience #BlackOwned #Brunch #Catering @ D Caf\u00e9 https://t.co/26PDJg0EKx",
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4383282,
+                    33.7436223
+                ]
+            }
+        },
+        "author_id": "2677801656",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "created_at": "2020-06-27T00:08:43.000Z"
+    },
+    {
+        "id": "1272130608312041473",
+        "text": "I'm at Elite Cafe in Atlanta, GA https://t.co/3dlIAn9zAk",
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.450439,
+                    33.750562
+                ]
+            }
+        },
+        "author_id": "1481137530",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "created_at": "2020-06-14T11:35:46.000Z"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41937447,
+                    33.73036272
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-06-10T19:53:02.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "35664966",
+        "text": "\ud83d\udca5AND WE\u2019RE BACK\ud83d\udca5\nHop City West End package shop and downstairs bar are open again!  @boxcaratl is following soon. Also opening today is the bar at krogstreetmarket!  We\u2019ve missed you! .\n.\n.\n.\n#hopcityatl #hopcitybeer\u2026 https://t.co/wJ6iTovTMn",
+        "id": "1270806195868237824"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41372,
+                    33.73925
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-06-09T20:09:47.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "26706523",
+        "text": "Lawd....I don' found me another caribbean restaurant and black business to give all of my money to!!!! \nIf u know me and oxtails....all \ud83d\udc4fof\ud83d\udc4f my \ud83d\udc4fmoney!!! No rice and still so \ud83d\ude0b\ud83d\ude0b\ud83d\ude0b!! \n\n#jamaicanfood #Caribbeanfood\u2026 https://t.co/HKQixVBf4R",
+        "id": "1270448024884576256"
+    },
+    {
+        "geo": {
+            "place_id": "0fc33c181655b000"
+        },
+        "created_at": "2020-06-09T14:20:57.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "115509451",
+        "text": "IF YOU WANT SOME GOOD ASS HAITIAN FOOD RESTAURANT. GO TO SPICE HOUSE CASCADE IN ATLANTA GEORGIA. https://t.co/pWmN1eDj0r",
+        "id": "1270360236654759936"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.426199,
+                    33.73887182
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-05-26T00:22:07.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "14900979",
+        "text": "I'm confused. I got the same sandwich, the other restaurant said the chicken should be toasted, here they didn't toast it. (at @Subway in Atlanta, GA) https://t.co/80HHP8c34j",
+        "id": "1265075707920646145"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.45056,
+                    33.750322
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-05-24T11:32:55.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "1481137530",
+        "text": "I'm at Unity Restaurant in Atlanta, GA https://t.co/K52UwR6s6Y",
+        "id": "1264519742997630976"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41425,
+                    33.738106
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-05-22T22:45:16.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "21489242",
+        "text": "I'm at Mangoes Caribbean Restaurant in Atlanta, GA https://t.co/m5lV7RnwlY",
+        "id": "1263964172490100736"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.450439,
+                    33.750562
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-05-18T07:23:25.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "1481137530",
+        "text": "I'm at Elite Cafe in Atlanta, GA https://t.co/51ke1uDm3A",
+        "id": "1262282627983314954"
+    },
+    {
+        "lang": "en",
+        "author_id": "801937125524508672",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41532473,
+                    33.73903513
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-05-11T21:14:46.000Z",
+        "text": "Greetings my Peoples \ud83d\udca5\nMake sure y\u2019all go check my brotha Ras Izes vegandream_ doughnuts &amp; strong drink natural juice bar! I was alllll a dream...(biggie voice)\ud83d\udc4c\ud83c\udffd\nMy brotha specializes in making the Best all natural\u2026 https://t.co/RiTVcKweGW",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1259955128699957250"
+    },
+    {
+        "lang": "en",
+        "author_id": "801937125524508672",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41365868,
+                    33.73608201
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-05-11T21:10:52.000Z",
+        "text": "Greetings my Peoples \ud83d\udca5\nMake sure y\u2019all go check my brotha Ras Izes vegandream_ doughnuts &amp; strong drink natural juice bar! I was alllll a dream...(biggie voice)\ud83d\udc4c\ud83c\udffd\nMy brotha specializes in making the Best all natural\u2026 https://t.co/u4AyKOPvxu",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1259954148948299777"
+    },
+    {
+        "lang": "en",
+        "author_id": "801937125524508672",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4231,
+                    33.7378
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-05-11T19:02:28.000Z",
+        "text": "Greetings my Peoples \ud83d\udca5\nMake sure y\u2019all go check my brotha Ras Izes vegandream_ doughnuts &amp; strong drink natural juice bar! I was alllll a dream...(biggie voice)\ud83d\udc4c\ud83c\udffd\nMy brotha specializes in making the Best all natural\u2026 https://t.co/1EEf0IC2jy",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1259921834356748288"
+    },
+    {
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.46166763,
+                    33.71394883
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "id": "1257403408656535555",
+        "text": "Hubba hubba hubba Ring-a-ling the pitcher got a arm like a washing machine!...Sometimes you gotta go to the park and sit in the same dugout you once played youth baseball and turn it into a whole bar. @ Adams Park,\u2026 https://t.co/wYkeIC70u5",
+        "author_id": "222942275",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "created_at": "2020-05-04T20:15:08.000Z"
+    },
+    {
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.417743,
+                    33.719023
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "id": "1257275234262175747",
+        "text": "Cafe Bourbon St. - food from the soul for the soul, the New Orleans way. https://t.co/Yopjxwp2Oz https://t.co/G9NHeg4yOY",
+        "author_id": "267497287",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-05-04T11:45:49.000Z"
+    },
+    {
+        "text": "We're @PorterBeerBar supporters... Officially! Just scored a bar stool name plaque and two tickets to what will surely be an amazing meal! Thrilled to support the best beer bar on the country. Get yours @CRAFTcellr !",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "created_at": "2020-04-11T14:19:18.000Z",
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4261591,
+                    33.7355766
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "author_id": "560786367",
+        "id": "1248978938409488384"
+    },
+    {
+        "text": "It\u2019s #NationalBeerDay and @beerwildheaven has THE kit to help you celebrate. \n.\nIt\u2019s also #TacoTuesday so make sure to swing by the wildheavenwestend Emergency Drinking Bar to pick up your \u2018Happy At Home Beer + Taco\u2026 https://t.co/an9XV9PLdK",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "created_at": "2020-04-07T18:07:04.000Z",
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.42158461,
+                    33.73179927
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "author_id": "1187060543972093952",
+        "id": "1247586705173090306"
+    },
+    {
+        "id": "1240602950462029824",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.45343579,
+                    33.7502694
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "Unity open @ Unity Restaurant https://t.co/HwWkabiEXm",
+        "author_id": "330651121",
+        "lang": "en",
+        "created_at": "2020-03-19T11:36:07.000Z"
+    },
+    {
+        "id": "1240022366270435330",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4154,
+                    33.73756
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "#openmic #poetry #poet #artistry #vocalist #sangin #hiphop #comedy #640westcommunitycafe #RoyalSundays #EventPhotography #performancephotography #canonphotography #canonphotographer #teamcanon @ 640 West Community Cafe https://t.co/ulYKbI7BaW",
+        "author_id": "33998034",
+        "lang": "en",
+        "created_at": "2020-03-17T21:09:05.000Z"
+    },
+    {
+        "id": "1240022207142735873",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4154,
+                    33.73756
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "#openmic #poetry #poet #artistry #vocalist #sangin #hiphop #comedy #640westcommunitycafe #RoyalSundays #EventPhotography #performancephotography #canonphotography #canonphotographer #teamcanon @ 640 West Community Cafe https://t.co/wAJ3hvJfRp",
+        "author_id": "33998034",
+        "lang": "en",
+        "created_at": "2020-03-17T21:08:27.000Z"
+    },
+    {
+        "id": "1240022060899975169",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4154,
+                    33.73756
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "#openmic #poetry #poet #artistry #vocalist #sangin #hiphop #comedy #640westcommunitycafe #RoyalSundays #EventPhotography #performancephotography #canonphotography #canonphotographer #teamcanon @ 640 West Community Cafe https://t.co/OhGMt46HHj",
+        "author_id": "33998034",
+        "lang": "en",
+        "created_at": "2020-03-17T21:07:52.000Z"
+    },
+    {
+        "id": "1240021925180526592",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4154,
+                    33.73756
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "#openmic #poetry #poet #artistry #vocalist #sangin #hiphop #comedy #640westcommunitycafe #RoyalSundays #EventPhotography #performancephotography #canonphotography #canonphotographer #teamcanon @ 640 West Community Cafe https://t.co/wBIIohfs67",
+        "author_id": "33998034",
+        "lang": "en",
+        "created_at": "2020-03-17T21:07:20.000Z"
+    },
+    {
+        "id": "1240021760508125185",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4154,
+                    33.73756
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "#openmic #poetry #poet #artistry #vocalist #sangin #hiphop #comedy #640westcommunitycafe #RoyalSundays #EventPhotography #performancephotography #canonphotography #canonphotographer #teamcanon @ 640 West Community Cafe https://t.co/T6NIpl5v0b",
+        "author_id": "33998034",
+        "lang": "en",
+        "created_at": "2020-03-17T21:06:40.000Z"
+    },
+    {
+        "id": "1240021564382478343",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4154,
+                    33.73756
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "#openmic #poetry #poet #artistry #vocalist #sangin #hiphop #comedy #640westcommunitycafe #RoyalSundays #EventPhotography #performancephotography #canonphotography #canonphotographer #teamcanon @ 640 West Community Cafe https://t.co/H5uPrB5gvX",
+        "author_id": "33998034",
+        "lang": "en",
+        "created_at": "2020-03-17T21:05:54.000Z"
+    },
+    {
+        "id": "1240021396811587588",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4154,
+                    33.73756
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "#openmic #poetry #poet #artistry #vocalist #sangin #hiphop #comedy #640westcommunitycafe #RoyalSundays #EventPhotography #performancephotography #canonphotography #canonphotographer #teamcanon @ 640 West Community Cafe https://t.co/QBcCrbWBdp",
+        "author_id": "33998034",
+        "lang": "en",
+        "created_at": "2020-03-17T21:05:14.000Z"
+    },
+    {
+        "id": "1240021242045841408",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4154,
+                    33.73756
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "#openmic #poetry #poet #artistry #vocalist #sangin #hiphop #comedy #640westcommunitycafe #RoyalSundays #EventPhotography #performancephotography #canonphotography #canonphotographer #teamcanon @ 640 West Community Cafe https://t.co/bmGDwirCes",
+        "author_id": "33998034",
+        "lang": "en",
+        "created_at": "2020-03-17T21:04:37.000Z"
+    },
+    {
+        "id": "1240021119031218179",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4154,
+                    33.73756
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "#openmic #poetry #poet #artistry #vocalist #sangin #hiphop #comedy #640westcommunitycafe #RoyalSundays #EventPhotography #performancephotography #canonphotography #canonphotographer #teamcanon @ 640 West Community Cafe https://t.co/cQk4WJow5p",
+        "author_id": "33998034",
+        "lang": "en",
+        "created_at": "2020-03-17T21:04:07.000Z"
+    },
+    {
+        "id": "1240020979516129281",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4154,
+                    33.73756
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "#openmic #poetry #poet #artistry #vocalist #sangin #hiphop #comedy #640westcommunitycafe #RoyalSundays #EventPhotography #performancephotography #canonphotography #canonphotographer #teamcanon @ 640 West Community Cafe https://t.co/geoRVKekDy",
+        "author_id": "33998034",
+        "lang": "en",
+        "created_at": "2020-03-17T21:03:34.000Z"
+    },
+    {
+        "id": "1240020648640106509",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4154,
+                    33.73756
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "#openmic #poetry #poet #artistry #vocalist #sangin #hiphop #comedy #640westcommunitycafe #RoyalSundays #EventPhotography #performancephotography #canonphotography #canonphotographer #teamcanon @ 640 West Community Cafe https://t.co/Sn7Y2wmXVF",
+        "author_id": "33998034",
+        "lang": "en",
+        "created_at": "2020-03-17T21:02:15.000Z"
+    },
+    {
+        "id": "1240020145369726977",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4154,
+                    33.73756
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "#openmic #poetry #poet #artistry #vocalist #sangin #hiphop #comedy #640westcommunitycafe #RoyalSundays #EventPhotography #performancephotography #canonphotography #canonphotographer #teamcanon @ 640 West Community Cafe https://t.co/J72ZqhESaR",
+        "author_id": "33998034",
+        "lang": "en",
+        "created_at": "2020-03-17T21:00:15.000Z"
+    },
+    {
+        "id": "1239669209140989955",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41428,
+                    33.73808
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "#Repost @ Mangos Caribbean Restaurant https://t.co/m52C9Agx4q",
+        "author_id": "813828972568047625",
+        "lang": "ca",
+        "created_at": "2020-03-16T21:45:46.000Z"
+    },
+    {
+        "id": "1239351912681504768",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41673517,
+                    33.72389349
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "text": "The @pookalita Man is back at it. \nPull up get \"something good for your skin to eat.\"\n\n https://t.co/7zEVDLMDtq \nOpen Mic Apache cafe pull up 880 Murphy Park West end  Atlanta.. @ Murphy Park Fairgrounds https://t.co/QbwJJogFX9",
+        "author_id": "123085016",
+        "lang": "en",
+        "created_at": "2020-03-16T00:44:56.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.43796,
+                    33.74322
+                ]
+            }
+        },
+        "lang": "en",
+        "text": "I had the opportunity to visit the \n \u201cSlutty Vegan\u201dRestaurant in Atlanta . It\u2019s a foodie experience you won\u2019t forget. \n#dontbeaverage \n#foodieadventurez @ Slutty Vegan ATL https://t.co/yykqpkvqFC",
+        "author_id": "139130700",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1238591957426823168",
+        "created_at": "2020-03-13T22:25:09.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41842,
+                    33.70841
+                ]
+            }
+        },
+        "lang": "en",
+        "text": "Happening now 3/11/2020 until 7pm EST.....\n#snoballs and #gumbo at blendzcafeatl #SWAtl #Atl #yum \nDon\u2019t miss it!! @ Blendz Cafe ATL https://t.co/iKTJThAcAF",
+        "author_id": "2197717099",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1237833724919775232",
+        "created_at": "2020-03-11T20:12:12.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4162512,
+                    33.7290043
+                ]
+            }
+        },
+        "lang": "en",
+        "text": "What a great Atlanta find: @boxcaratl restaurant! We LOVE upscale casual dining...and BoxCar delivers! Everything is made fresh in-house...the mixology/beer/wine...atmosphere...and food are spot on! The Chef\u2026 https://t.co/9d1Klpy8t3",
+        "author_id": "185900425",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1236482336352600071",
+        "created_at": "2020-03-08T02:42:16.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.43062,
+                    33.73727
+                ]
+            }
+        },
+        "lang": "en",
+        "text": "Atlanta! Venue change! We\u2019re on tonight at boggssocial w/ @sashavallely \u2022 $10 Suggested \u2022 Doors at 8PM \u2022 Show starts at 9PM!\n.\n03/05 - ATLANTA, GA - BOGGS SOCIAL\n03/06 - PIEDMONT, SC - TRIBBLE\u2019S BAR\n03/07 -\u2026 https://t.co/PkWI3LZ8Qb",
+        "author_id": "518133981",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1235659854053863426",
+        "created_at": "2020-03-05T20:14:01.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4154,
+                    33.73756
+                ]
+            }
+        },
+        "lang": "en",
+        "text": "#RoyalSundays #westend #640westcommunitycafe #poetry #spokenword #poet #artistry #vocalist #comics #EventPhotography #canonphotographer #canonphotography #teamcanon @ 640 West Community Cafe https://t.co/hdgKgGK6wa",
+        "author_id": "33998034",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1234805037760569346",
+        "created_at": "2020-03-03T11:37:17.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4154,
+                    33.73756
+                ]
+            }
+        },
+        "lang": "en",
+        "text": "#RoyalSundays #westend #640westcommunitycafe #poetry #spokenword #poet #artistry #vocalist #comics #EventPhotography #canonphotographer #canonphotography #teamcanon #tommybottoms @ 640 West Community Cafe https://t.co/gddVhCbn9s",
+        "author_id": "33998034",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1234804866284949506",
+        "created_at": "2020-03-03T11:36:36.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4154,
+                    33.73756
+                ]
+            }
+        },
+        "lang": "en",
+        "text": "#RoyalSundays #westend #640westcommunitycafe #poetry #spokenword #poet #artistry #vocalist #comics #EventPhotography #canonphotographer #canonphotography #teamcanon @ 640 West Community Cafe https://t.co/yYT3Z9rzc8",
+        "author_id": "33998034",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1234804454995587072",
+        "created_at": "2020-03-03T11:34:58.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4154,
+                    33.73756
+                ]
+            }
+        },
+        "lang": "en",
+        "text": "#RoyalSundays #westend #640westcommunitycafe #poetry #spokenword #poet #artistry #vocalist #comics #EventPhotography #canonphotographer #canonphotography #teamcanon @ 640 West Community Cafe https://t.co/NPhnCcDTFp",
+        "author_id": "33998034",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1234804203458949123",
+        "created_at": "2020-03-03T11:33:58.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4154,
+                    33.73756
+                ]
+            }
+        },
+        "lang": "en",
+        "text": "#RoyalSundays #westend #640westcommunitycafe #poetry #spokenword #poet #artistry #acousticguitar #guitar #vocalist #comics #EventPhotography #canonphotographer #canonphotography #teamcanon @ 640 West Community Cafe https://t.co/wtAzTXhBk0",
+        "author_id": "33998034",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1234800221638582272",
+        "created_at": "2020-03-03T11:18:08.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4154,
+                    33.73756
+                ]
+            }
+        },
+        "lang": "en",
+        "text": "#RoyalSundays #westend #640westcommunitycafe #poetry #spokenword #poet #artistry #vocalist #comics #EventPhotography #canonphotographer #canonphotography #teamcanon @ 640 West Community Cafe https://t.co/aHmnqvSfOQ",
+        "author_id": "33998034",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1234799157954727936",
+        "created_at": "2020-03-03T11:13:55.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4154,
+                    33.73756
+                ]
+            }
+        },
+        "lang": "en",
+        "text": "#RoyalSundays #westend #640westcommunitycafe #poetry #spokenword #poet #artistry #vocalist #comics #EventPhotography #canonphotographer #canonphotography #teamcanon @ 640 West Community Cafe https://t.co/08dogvzX9O",
+        "author_id": "33998034",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1234799017063743490",
+        "created_at": "2020-03-03T11:13:21.000Z"
+    },
+    {
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41842,
+                    33.70841
+                ]
+            }
+        },
+        "lang": "en",
+        "text": "Posted withregram \u2022 blendzcafeatl Hot delicious Seafood Gumbo ready right now !!!!\nWe waiting for you !!!\nLet\u2019s go geaux_gumbo_kitchen !!! @ Blendz Cafe ATL https://t.co/4LEpWl1zfV",
+        "author_id": "2197717099",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1231316340662775809",
+        "created_at": "2020-02-22T20:34:27.000Z"
+    },
+    {
+        "lang": "en",
+        "text": "Vision... @ The Apache Cafe ATL https://t.co/YUgF3UPIF1",
+        "created_at": "2020-02-22T02:44:20.000Z",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41708426,
+                    33.7241763
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1231047037698924544",
+        "author_id": "159959027"
+    },
+    {
+        "lang": "en",
+        "text": "Love This KID\u2728 #MyShakur #NanasMookie @Skyyli @ShakurWashingt2 shakurnw #MyOneAndONLY #MyHeart \ud83d\ude18 @ Mangos Caribbean Restaurant https://t.co/Ma6GXgWAsl",
+        "created_at": "2020-02-20T02:02:01.000Z",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41428,
+                    33.73808
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1230311612428509184",
+        "author_id": "57746905"
+    },
+    {
+        "lang": "en",
+        "text": "#shoulderday .....\nSingle Bar DL's 3 x 10\nSingle Arm Press 3 x 10\n#kettlebell swings 3 x 15\nAlt Overhead Press 3 x 5\nArnold Press 3 x 5\n\n#willthetrainer\n#willpowerfitatl #powerperformu #Atlantapersonaltrainer\u2026 https://t.co/YWp0k7d2rB",
+        "created_at": "2020-02-13T19:23:04.000Z",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.40702,
+                    33.72085
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "id": "1228036885869727746",
+        "author_id": "244158159"
+    },
+    {
+        "lang": "en",
+        "text": "Baaaaybeeeee when I tell ya, I tell ya go ova hea if ever in Atl!! Authentic New Orleans flava!! blendzcafeatl #atlanta #atl #food #foodstagram #blendz #stuffedsnowball @ Blendz Cafe ATL https://t.co/26EgydCtQ5",
+        "created_at": "2020-02-10T19:52:39.000Z",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41842,
+                    33.70841
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1226957169477718021",
+        "author_id": "245631811"
+    },
+    {
+        "lang": "en",
+        "text": "Dope jacket create by \nL.A all day \nLakers that's my team \nNothing but net \n\nIt's the 2nd Sunday since the tragedy\n #24 #8  #kobe #mambamentality \n#remember the 9 people rest easy @ 640 West Community Cafe https://t.co/XhYD1UGS5N",
+        "created_at": "2020-02-10T05:18:32.000Z",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4154,
+                    33.73756
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1226737189737943041",
+        "author_id": "1629063708"
+    },
+    {
+        "lang": "en",
+        "text": "Super tasty, coffee forward with mild bitterness. Notes of chocolate in a full rich body and finish. - Drinking a Caf\u00e9 Deth (2019) by @revbrewchicago @ Wild Heaven West End Brewery &amp; Gardens  \u2014 https://t.co/trn46HP6NA",
+        "created_at": "2020-02-09T22:26:44.000Z",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.419,
+                    33.73
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1226633558808289280",
+        "author_id": "1681184748"
+    },
+    {
+        "lang": "en",
+        "text": "#EADWM \nLast cheat meal....then I'm beginning my #lifestyle change....\ud83e\udd37\ud83c\udffe\u200d\u2640\ufe0f\ud83d\ude44\ud83d\ude04\n\nPictured:\nBourbon shrimp with fries\nBeignets \nFrom cafebourbonst\n#foodtruck \n\n#HappyDining \ud83d\ude4b\ud83c\udffe\u200d\u2640\ufe0f @ Cafe Bourbon St. https://t.co/O8jI2NjRGB",
+        "created_at": "2020-02-07T23:28:34.000Z",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41842,
+                    33.70841
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1225924341570973697",
+        "author_id": "2197717099"
+    },
+    {
+        "lang": "en",
+        "text": "#bender \u203c\ufe0f all platforms @ The Bakery Atlanta https://t.co/I3OLsT4tCh",
+        "created_at": "2020-02-07T03:56:51.000Z",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41439,
+                    33.724926
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1225629471274872832",
+        "author_id": "257128841"
+    },
+    {
+        "author_id": "25235525",
+        "text": "Life &amp; Dj Ox \ud83d\ude4f\ud83c\udffd #tbt\n.\n#JawzOfLife #DjOx #RIPDjOx #Oxtober\n#OldAtlanta #HipHop #Dj #Atlanta #HipHop #Rap #tb #ApacheCafe #Love #Live #Life #WeLiveThis @ The Apache Cafe ATL https://t.co/mug5yRrQrO",
+        "id": "1225482240630644737",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-02-06T18:11:49.000Z",
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41708426,
+                    33.7241763
+                ]
+            }
+        },
+        "lang": "en"
+    },
+    {
+        "author_id": "61325495",
+        "text": "We going up tonight!!!!\n\n[ 02.4.20 ]  We are bringing the hottest talent in #Atlanta to Apache Cafe for the #SoSoulOpenMic at @apachecafe !!! [ Location: 880 Woodrow st. Sw ] \u2022 $7 before 9pm/ $10 at door.\n\nFeatured\u2026 https://t.co/OJ4SqEjXhT",
+        "id": "1224798297996611587",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-02-04T20:54:04.000Z",
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41708426,
+                    33.7241763
+                ]
+            }
+        },
+        "lang": "en"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Got a real banger happening in Atlanta tonight at The Bakery. Stoked to kick it with foryourhealthoh again!\n\n02/01 - Atlanta, GA at The Bakery\n02/02 - Huntsville, AL at Sidetracks Music Hall\n02/03 - Nashville, TN at\u2026 https://t.co/fsOeSDUGlc",
+        "id": "1223644514063192064",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41439,
+                    33.724926
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-02-01T16:29:21.000Z",
+        "lang": "en",
+        "author_id": "898426313748250630"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Catch me at @apachecafe next Tuesday for @sosoulprod's monthly #SoSoulOpenMic show. I might bless em with some exclusives, so be sure to come out and experience the vibes.\n#ThePlugNamedJimmy @ The Apache Cafe ATL https://t.co/4G7S2lz6VB",
+        "id": "1223372899064729602",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41708426,
+                    33.7241763
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-01-31T22:30:02.000Z",
+        "lang": "en",
+        "author_id": "256991373"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "#atlantafoodie #carribean #food #foodporn #yummy #mangosatl #atl #atlanta #westendatl @ Mangos Caribbean Restaurant https://t.co/RDt6gc3Mkg",
+        "id": "1222336184111771652",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41428,
+                    33.73808
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-01-29T01:50:30.000Z",
+        "lang": "ca",
+        "author_id": "318191990"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41439,
+                    33.724926
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "id": "1220718349572878336",
+        "text": "Last Tuesday while at #thebakery and #injestpuppets workshop #selfiereflections #selfies #reflectionselfie @ The Bakery Atlanta https://t.co/nWg1aVHtpg",
+        "created_at": "2020-01-24T14:41:49.000Z",
+        "lang": "en",
+        "author_id": "16059111"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41439,
+                    33.724926
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-01-19T08:21:09.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "50088468",
+        "text": "I rly do be cute doe @ The Bakery Atlanta https://t.co/UkNezsyYN1",
+        "id": "1218810615902457856"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4119072,
+                    33.7362783
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-01-18T13:25:43.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "464136817",
+        "text": "Carrot Doggers! See you today from 12-4pm. Come get your fix. Also, the Soup Bar will be on deck with the Shiitake Mushroom Spinach Barley Soup! See you thewindow.atl great people! \ud83d\ude18\ud83e\udd55\ud83c\udf2d\ud83e\udd63 @ MET Atlanta https://t.co/VeuBjvKvgt",
+        "id": "1218524871803785221"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41842,
+                    33.70841
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-01-15T18:35:20.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "95797512",
+        "text": "Come on down to Blendz Cafe, and bring a friend, buy one get the second one half off snowballs , @ Blendz Cafe ATL https://t.co/7Proozxh24",
+        "id": "1217515628392783872"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41439,
+                    33.724926
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-01-14T17:32:10.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "34336575",
+        "text": "We don\u2019t leave no bread on the table around here. @ The Bakery Atlanta https://t.co/Ir2z5Xc16e",
+        "id": "1217137342022070273"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.46356679,
+                    33.72209457
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-01-13T22:13:15.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "22122757",
+        "text": "#TakeCareOfYourChicken so you can DO WHAT YOU WANT LATER!!! \n\n#BeastMode #LiveFree #KingTalk #DNAExplosions #SpiritualPharmacy @ Big Daddy's Cafe https://t.co/xSqSDzIoV0",
+        "id": "1216845692469153797"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4154,
+                    33.73756
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-01-13T03:17:20.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "954093947210616837",
+        "text": "@whiteheadEnt \ud83d\udc4c\ud83c\udffe @ 640 West Community Cafe https://t.co/FyZftotB8Y",
+        "id": "1216559830174797824"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.419,
+                    33.73
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-01-12T22:11:42.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "1681184748",
+        "text": "Quite good, chocolate coconut, layered barrel aged notes with coconut, vanilla, chocolate. - Drinking a Bakery: Coconut Macaroons by @thebruery @ Wild Heaven West End Brewery &amp; Gardens  \u2014 https://t.co/nuydUpEnIv",
+        "id": "1216482911911907334"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41439,
+                    33.724926
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-01-06T18:54:14.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "347652531",
+        "text": "Performing live with mull.colin @Charol_astrA harvey_waters_ @nicavitch for VLSC RECORDS in Atl. BRING YALL ASSES HERE @ The Bakery Atlanta https://t.co/eSSiJHqcrd",
+        "id": "1214258892219277313"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4154,
+                    33.73756
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-01-06T14:35:52.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "15730316",
+        "text": "Bliiiisssssings, A\u00e7a\u00ed Bowl awesomeness... #MagnificentMonday @DueceFrequency @640westatl @ 640 West Community Cafe https://t.co/SDndmu3T2V",
+        "id": "1214193872500342784"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4154,
+                    33.73756
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-01-06T14:30:37.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "15730316",
+        "text": "Bliiiisssssings, A\u00e7a\u00ed Bowl awesomeness... #MagnificentMonday @DueceFrequency @640westatl @ 640 West Community Cafe https://t.co/2kUePCDsU5",
+        "id": "1214192549868507136"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4154,
+                    33.73756
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-01-04T16:35:09.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "732714054276374528",
+        "text": "Just enjoyed \u201cEarth Tone\u201d at 640 in the West End.  It\u2019s at the bottom of the menu, but top of my list!  I will be back!  #bravepenandpaper #poetry #poetrycommunity @ 640 West Community Cafe https://t.co/7rsw0dPgYl",
+        "id": "1213499114064949249"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4154,
+                    33.73756
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-01-04T16:25:45.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "732714054276374528",
+        "text": "#bravepenandpaper #poetry #poetrycommunity @ 640 West Community Cafe https://t.co/SZyD0RBV9d",
+        "id": "1213496751082094592"
+    },
+    {
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4154,
+                    33.73756
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "created_at": "2020-01-04T16:23:35.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "lang": "en",
+        "author_id": "732714054276374528",
+        "text": "#bravepenandpaper #poetry #poetrycommunity @ 640 West Community Cafe https://t.co/JRwEfnZ5Ru",
+        "id": "1213496203926802433"
+    },
+    {
+        "geo": {
+            "place_id": "0fc2919bb795b000"
+        },
+        "created_at": "2020-01-04T00:36:16.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 4,
+            "like_count": 72,
+            "quote_count": 1
+        },
+        "lang": "en",
+        "author_id": "198116378",
+        "text": "The bar we ended up at is completely dog friendly, inside and out. So I ran home and got Pym. He went straight to Mom\u2019s lap. https://t.co/qtjD5FwTOX",
+        "id": "1213257804657627141"
+    }
+]

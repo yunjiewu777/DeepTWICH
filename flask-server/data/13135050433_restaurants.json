@@ -1,0 +1,2898 @@
+[
+    {
+        "created_at": "2022-05-29T23:41:39.000Z",
+        "lang": "en",
+        "text": "I'm at Mgm Cafe in Atlanta, GA https://t.co/V7MaTWT5x8",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25630951,
+                    33.88647842
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1531058219359031302"
+        ],
+        "id": "1531058219359031302",
+        "author_id": "1481137530"
+    },
+    {
+        "created_at": "2022-05-29T23:36:06.000Z",
+        "lang": "en",
+        "text": "I'm at Prime Restaurant Group Office https://t.co/47uCs97rmt",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25796147,
+                    33.88584201
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1531056820223201284"
+        ],
+        "id": "1531056820223201284",
+        "author_id": "1481137530"
+    },
+    {
+        "created_at": "2022-05-29T15:21:50.000Z",
+        "lang": "en",
+        "text": "I'm at Prime Restaurant Group Office https://t.co/G93pFEENaj",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25796147,
+                    33.88584201
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1530932434119839744"
+        ],
+        "id": "1530932434119839744",
+        "author_id": "1481137530"
+    },
+    {
+        "created_at": "2022-05-29T15:21:28.000Z",
+        "lang": "en",
+        "text": "I'm at Mgm Cafe in Atlanta, GA https://t.co/30KCuavKYe",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25630951,
+                    33.88647842
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1530932344198156288"
+        ],
+        "id": "1530932344198156288",
+        "author_id": "1481137530"
+    },
+    {
+        "created_at": "2022-05-01T18:29:45.000Z",
+        "lang": "en",
+        "text": "Awesome food! Early Mother\u2019s Day Celebration (@ L'Thai Organic Cuisine &amp; Wine Bar in Tucker, GA) https://t.co/lmB09fV8np",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.19151744,
+                    33.86721015
+                ]
+            },
+            "place_id": "a4e8b6fd61c8026b"
+        },
+        "edit_history_tweet_ids": [
+            "1520832866523009024"
+        ],
+        "id": "1520832866523009024",
+        "author_id": "33898323"
+    },
+    {
+        "created_at": "2022-04-27T08:59:54.000Z",
+        "lang": "en",
+        "text": "Just posted a video @ Grand Lekki Cafe https://t.co/oHBUEUVmk5",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.19396591,
+                    33.88480724
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1519239905251057665"
+        ],
+        "id": "1519239905251057665",
+        "author_id": "1190734428"
+    },
+    {
+        "created_at": "2022-03-23T23:15:35.000Z",
+        "lang": "en",
+        "text": "Checked in automatically with the Ultimate Checkin app! https://t.co/GMzxkkpzpr (@ Three Dollar Cafe in Atlanta, GA) https://t.co/etMC0zim3i",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.24810028,
+                    33.88498306
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1506771669989343236"
+        ],
+        "id": "1506771669989343236",
+        "author_id": "1481137530"
+    },
+    {
+        "created_at": "2022-03-23T23:14:38.000Z",
+        "lang": "en",
+        "text": "Checked in automatically with the Ultimate Checkin app! https://t.co/GMzxkkpzpr (@ Cafe Hotwings in Atlanta, GA) https://t.co/Hgxx1vxFUP",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.24686146,
+                    33.88484015
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1506771432314912772"
+        ],
+        "id": "1506771432314912772",
+        "author_id": "1481137530"
+    },
+    {
+        "created_at": "2022-03-23T23:14:19.000Z",
+        "lang": "en",
+        "text": "Checked in automatically with the Ultimate Checkin app! https://t.co/GMzxkkpzpr (@ Cafe Hot Wing 2 in Chamblee, GA) https://t.co/iInWIaW1QC",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.24804894,
+                    33.88476048
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1506771351364853763"
+        ],
+        "id": "1506771351364853763",
+        "author_id": "1481137530"
+    },
+    {
+        "created_at": "2022-03-12T22:25:17.000Z",
+        "lang": "en",
+        "text": "Just posted a photo @ Grand Lekki Cafe https://t.co/qIG7LtCCSX",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.19396591,
+                    33.88480724
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1502772748203999237"
+        ],
+        "id": "1502772748203999237",
+        "author_id": "869996529414799361"
+    },
+    {
+        "created_at": "2022-03-01T15:49:33.000Z",
+        "lang": "en",
+        "text": "I'm at Prime Restaurant Group Office https://t.co/OZ59nCuXgO",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25796147,
+                    33.88584201
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1498686890878410756"
+        ],
+        "id": "1498686890878410756",
+        "author_id": "1481137530"
+    },
+    {
+        "created_at": "2022-02-23T17:54:01.000Z",
+        "lang": "en",
+        "text": "I'm at Mgm Cafe in Atlanta, GA https://t.co/5iIMSsbxJI",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25630951,
+                    33.88647842
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1496543886445002752"
+        ],
+        "id": "1496543886445002752",
+        "author_id": "1481137530"
+    },
+    {
+        "created_at": "2022-02-23T17:53:49.000Z",
+        "lang": "en",
+        "text": "I'm at Prime Restaurant Group Office https://t.co/J2CVbd8MXs",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25796147,
+                    33.88584201
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1496543837262598150"
+        ],
+        "id": "1496543837262598150",
+        "author_id": "1481137530"
+    },
+    {
+        "created_at": "2022-02-06T18:12:38.000Z",
+        "lang": "en",
+        "text": "I'm at Mgm Cafe in Atlanta, GA https://t.co/hRbNjEJxII",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25630951,
+                    33.88647842
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1490387977045958661"
+        ],
+        "id": "1490387977045958661",
+        "author_id": "1481137530"
+    },
+    {
+        "created_at": "2022-02-06T18:11:16.000Z",
+        "lang": "en",
+        "text": "I'm at Prime Restaurant Group Office https://t.co/LI68xYEQen",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25796147,
+                    33.88584201
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1490387635327623170"
+        ],
+        "id": "1490387635327623170",
+        "author_id": "1481137530"
+    },
+    {
+        "created_at": "2022-01-23T12:30:05.000Z",
+        "lang": "es",
+        "text": "\ud83c\udff3\ufe0f \ud83d\udce3Match Day/. D\u00eda de Partido \ud83d\udce3 .\n\n\ud83c\udfc6 @laliga\n\u26bd\ufe0f @realmadrid \ud83c\udd9a @elchecf\n\ud83c\udfdf Estadio:  Santiago Bernab\u00e9u \n\ud83d\udd70: 10:15\n\ud83d\udccd:  @ Willie bs bar and grill (Silverbacks Park)\n#RealMadrid #Merengues  #MadridistasAtl\n#Pe\u00f1aMadridistaAtlanta #MadridistasAtlanta  #Family #Madridistas #Socios https://t.co/XVUlvBp9mY",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "07d9c9e6b4082002"
+        },
+        "edit_history_tweet_ids": [
+            "1485228342488047616"
+        ],
+        "id": "1485228342488047616",
+        "author_id": "1223407446"
+    },
+    {
+        "created_at": "2022-01-21T16:15:14.000Z",
+        "lang": "es",
+        "text": "Hoy y todo los d\u00edas Lunch especial desde $6.99 @chamoysrestaurant 4578 Britt Road, Tucker 30084 tel 678.599.0494 llama para Delivery or visa tons @ Chamoy\u2019s Restaurant https://t.co/92J4axwsCC",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1484560226464321544"
+        ],
+        "id": "1484560226464321544",
+        "author_id": "1338165967210295297"
+    },
+    {
+        "created_at": "2022-01-10T00:31:53.000Z",
+        "lang": "en",
+        "text": "I'm at Mgm Cafe in Atlanta, GA https://t.co/PZnlqIcZmw",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25630951,
+                    33.88647842
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1480336558733545474"
+        ],
+        "id": "1480336558733545474",
+        "author_id": "1481137530"
+    },
+    {
+        "created_at": "2022-01-06T02:11:27.000Z",
+        "lang": "en",
+        "text": "I'm at Mgm Cafe in Atlanta, GA https://t.co/B7GhxNnX34",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25630951,
+                    33.88647842
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1478912063208828928"
+        ],
+        "id": "1478912063208828928",
+        "author_id": "1481137530"
+    },
+    {
+        "created_at": "2022-01-06T02:09:47.000Z",
+        "lang": "en",
+        "text": "I'm at Prime Restaurant Group Office https://t.co/rmZ1bLBhIG",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25796147,
+                    33.88584201
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1478911642859671553"
+        ],
+        "id": "1478911642859671553",
+        "author_id": "1481137530"
+    },
+    {
+        "created_at": "2021-12-30T16:09:51.000Z",
+        "lang": "es",
+        "text": "\u00daltimo d\u00eda para hacer tu pedido de f\u00eden a\u00f1o @chamoysrestaurant llama  ya. 678.599.0494 or 678 585 4422 @ Chamoy\u2019s Restaurant https://t.co/6XRnQz8Xv7",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1476586338254147589"
+        ],
+        "id": "1476586338254147589",
+        "author_id": "1338165967210295297"
+    },
+    {
+        "created_at": "2021-12-30T16:05:18.000Z",
+        "lang": "es",
+        "text": "Llama y a tu pedido de fin de a\u00f1o ya. No lo dejes para lo ultimo @ChamoysRestaurant 678.599.0494 or 678.585.4422 \n4578 Britt road, Tucker Ga 30084 @ Chamoy\u2019s Restaurant https://t.co/vrYkqDVTfr",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1476585193641164800"
+        ],
+        "id": "1476585193641164800",
+        "author_id": "1338165967210295297"
+    },
+    {
+        "created_at": "2021-12-26T17:22:53.000Z",
+        "lang": "en",
+        "text": "I'm at Cafe Hotwings in Atlanta, GA https://t.co/9DFzaEuIX9",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.24686146,
+                    33.88484015
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1475155167679074309"
+        ],
+        "id": "1475155167679074309",
+        "author_id": "1481137530"
+    },
+    {
+        "created_at": "2021-12-23T02:24:29.000Z",
+        "lang": "en",
+        "text": "I'm at EC Restaurant Supply in Atlanta, GA https://t.co/PXvbxPbyGk",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.24893188,
+                    33.8970108
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1473841913816096771"
+        ],
+        "id": "1473841913816096771",
+        "author_id": "1481137530"
+    },
+    {
+        "created_at": "2021-12-22T17:50:35.000Z",
+        "lang": "en",
+        "text": "What\u2019s left of my bowl of pho at the best Vietnamese restaurant I have ever eaten in (and I was married to a Vietnamese girl for 25 years). Norcross, Georgia. https://t.co/pFLwZb6Rer",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "07d9c96220083000"
+        },
+        "edit_history_tweet_ids": [
+            "1473712586969554950"
+        ],
+        "id": "1473712586969554950",
+        "author_id": "1332113092541616128"
+    },
+    {
+        "created_at": "2021-12-20T00:11:56.000Z",
+        "lang": "en",
+        "text": "I'm at Prime Restaurant Group Office https://t.co/Kbwah7U3xy",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25796147,
+                    33.88584201
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1472721390545645571"
+        ],
+        "id": "1472721390545645571",
+        "author_id": "1481137530"
+    },
+    {
+        "created_at": "2021-11-23T21:43:06.000Z",
+        "lang": "en",
+        "text": "I'm at Mado West African Restaurant in Knollwood, GA https://t.co/dhxtphJgFy",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.230965,
+                    33.905985
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1463261852306186244"
+        ],
+        "id": "1463261852306186244",
+        "author_id": "1481137530"
+    },
+    {
+        "created_at": "2021-11-21T17:35:35.000Z",
+        "lang": "en",
+        "text": "I'm at Cafe Hot Wing 2 in Chamblee, GA https://t.co/bWtV6TCoRX",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.24804894,
+                    33.88476048
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1462474788925026315"
+        ],
+        "id": "1462474788925026315",
+        "author_id": "1481137530"
+    },
+    {
+        "created_at": "2021-11-10T17:29:42.000Z",
+        "lang": "en",
+        "text": "If you\u2019re interested in watching our game live tonight, we\u2019ll be kicking off at 7:30pm at Silverbacks Park Field 1B. Parking is $2 and there\u2019s a bar with drinks and food plus plenty of other matches happening throughout the night https://t.co/aXjljtO43K",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "07d9c9e6b4082002"
+        },
+        "edit_history_tweet_ids": [
+            "1458487039528247301"
+        ],
+        "id": "1458487039528247301",
+        "author_id": "1408231477742014466"
+    },
+    {
+        "created_at": "2021-11-07T17:52:36.000Z",
+        "lang": "en",
+        "text": "I'm at Three Dollar Cafe in Atlanta, GA https://t.co/vUtilfvAPf",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.24810028,
+                    33.88498306
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1457405638313664512"
+        ],
+        "id": "1457405638313664512",
+        "author_id": "1481137530"
+    },
+    {
+        "created_at": "2021-10-24T16:44:16.000Z",
+        "lang": "en",
+        "text": "I'm at Prime Restaurant Group Office https://t.co/h5uFf9HSHC",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25796147,
+                    33.88584201
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1452315015239897097"
+        ],
+        "id": "1452315015239897097",
+        "author_id": "1481137530"
+    },
+    {
+        "created_at": "2021-10-17T16:27:44.000Z",
+        "lang": "en",
+        "text": "I'm at Prime Restaurant Group Office https://t.co/fiLtwLvbfJ",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25796147,
+                    33.88584201
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1449774137619197955"
+        ],
+        "id": "1449774137619197955",
+        "author_id": "1481137530"
+    },
+    {
+        "created_at": "2021-10-16T16:41:25.000Z",
+        "lang": "es",
+        "text": "Vis\u00edtanos @chamoysrestaurant y disfruta de nuestra c\u00e1lida de comida Dominicana 4578 Britt Road, Tucker ga 30084 Tel 678 599 0494 @ Chamoy\u2019s Restaurant https://t.co/urVOLtShB1",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1449415194904498181"
+        ],
+        "id": "1449415194904498181",
+        "author_id": "1338165967210295297"
+    },
+    {
+        "created_at": "2021-09-12T16:43:51.000Z",
+        "lang": "en",
+        "text": "I'm at Prime Restaurant Group Office https://t.co/t85eRF5Mzf",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25796147,
+                    33.88584201
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1437094619230130180"
+        ],
+        "id": "1437094619230130180",
+        "author_id": "1481137530"
+    },
+    {
+        "created_at": "2021-09-06T21:14:12.000Z",
+        "lang": "en",
+        "text": "Girlllll....why I saw ur post at the same time Vee asked me what I wanna eat...we were close so 10 mins later we ordering...girlll we bout to be here often! @ El Indio Mexican Restaurant https://t.co/LbnenaJlow",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.212646,
+                    33.890888
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1434988325723676674"
+        ],
+        "id": "1434988325723676674",
+        "author_id": "1434650941"
+    },
+    {
+        "created_at": "2021-08-25T21:03:58.000Z",
+        "lang": "en",
+        "text": "Just posted a photo @ Crawfish Shack &amp; Bar https://t.co/lIdL0z525W",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20176,
+                    33.9071
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1430637097967357955"
+        ],
+        "id": "1430637097967357955",
+        "author_id": "35885113"
+    },
+    {
+        "created_at": "2021-08-23T02:19:35.000Z",
+        "lang": "fr",
+        "text": "@Camarofongo @chamoysrestaurant @ Chamoy\u2019s Restaurant https://t.co/GVAcvj51Dv",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1429629362006106113"
+        ],
+        "id": "1429629362006106113",
+        "author_id": "1338165967210295297"
+    },
+    {
+        "created_at": "2021-08-14T01:48:35.000Z",
+        "lang": "en",
+        "text": "Applebee's - Tucker, Georgia - Short ribs Threw up within 5 minutes after eating the ribs.  No time to make it to the restroom.  Threw up in my plate and salad... Food Poisoning https://t.co/IbSmTYE4Q2 https://t.co/kzxeDClM3d",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2079052,
+                    33.8564812
+                ]
+            },
+            "place_id": "a4e8b6fd61c8026b"
+        },
+        "edit_history_tweet_ids": [
+            "1426360067922829312"
+        ],
+        "id": "1426360067922829312",
+        "author_id": "921197448885886977"
+    },
+    {
+        "created_at": "2021-08-12T16:27:39.000Z",
+        "lang": "es",
+        "text": "Lunch especial hoy y todo los Dias a solo $6.99 @chamoysrestaurant @ Chamoy\u2019s Restaurant https://t.co/2BPO43BjqV",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1425856519170576389"
+        ],
+        "id": "1425856519170576389",
+        "author_id": "1338165967210295297"
+    },
+    {
+        "created_at": "2021-07-27T17:19:44.000Z",
+        "lang": "en",
+        "text": "I'm at @Applebees Grill + Bar in Tucker, GA https://t.co/qWeWgh4tEa",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20805314,
+                    33.8565828
+                ]
+            },
+            "place_id": "a4e8b6fd61c8026b"
+        },
+        "edit_history_tweet_ids": [
+            "1420071418751037446"
+        ],
+        "id": "1420071418751037446",
+        "author_id": "1481137530"
+    },
+    {
+        "created_at": "2021-07-26T17:03:34.000Z",
+        "lang": "es",
+        "text": "Lunch especial hoy y todo los Dias a solo $6.99 @chamoysrestaurant  4578 Britt road, Tucker Ga 30084 tel 678.599.0494 @ Chamoy\u2019s Restaurant https://t.co/6f748v6ute",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1419704960325935105"
+        ],
+        "id": "1419704960325935105",
+        "author_id": "1338165967210295297"
+    },
+    {
+        "created_at": "2021-07-25T01:39:45.000Z",
+        "lang": "en",
+        "text": "Just posted a video @ Chamoy\u2019s Restaurant https://t.co/FkVtG2o6Em",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1419110088657096707"
+        ],
+        "id": "1419110088657096707",
+        "author_id": "1338165967210295297"
+    },
+    {
+        "created_at": "2021-07-17T22:23:47.000Z",
+        "lang": "en",
+        "text": "Just posted a photo @ Crawfish Shack &amp; Bar https://t.co/IT53yg7Lwn",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20176,
+                    33.9071
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1416524057260949504"
+        ],
+        "id": "1416524057260949504",
+        "author_id": "3091886810"
+    },
+    {
+        "created_at": "2021-07-15T03:23:44.000Z",
+        "lang": "en",
+        "text": "Watching the 2021 NBA Finals Game 4 Lets go Suns! @ Planet Hookah Cafe https://t.co/NAILBKboEm",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25638744,
+                    33.88590856
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1415512377739595776"
+        ],
+        "id": "1415512377739595776",
+        "author_id": "45194344"
+    },
+    {
+        "created_at": "2021-07-04T13:41:46.000Z",
+        "lang": "en",
+        "text": "Just posted a photo @ Chamoy\u2019s Restaurant https://t.co/fwYaEqaEnC",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1411681645556637696"
+        ],
+        "id": "1411681645556637696",
+        "author_id": "1338165967210295297"
+    },
+    {
+        "created_at": "2021-06-17T22:40:54.000Z",
+        "lang": "en",
+        "text": "Vietnamese crepe with a cornucopia of fresh herbs and lettuce\u2026\n\nBone gotdamn apple tea! @ Nam Phuong Restaurant - Jimmy Carter Blvd Location https://t.co/tU3r94Gqj9",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20418258,
+                    33.91006604
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1405656727622762496"
+        ],
+        "id": "1405656727622762496",
+        "author_id": "237132978"
+    },
+    {
+        "created_at": "2021-06-16T15:35:17.000Z",
+        "lang": "es",
+        "text": "$6.99 Lunch especial hoy y todo los Dias @ChamoysRestaurant #ConSabor #Dominicano \ud83c\udde9\ud83c\uddf4\ud83c\udde9\ud83c\uddf4\ud83c\udde9\ud83c\uddf4 \ud83d\ude98 4578 Britt Road Tucker Ga 30084 \ud83d\udcde678 599 0494 \u2705 #WeDelivery d10am a 9pm @ Chamoy\u2019s Restaurant https://t.co/PhmKJY82fz",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1405187228377223171"
+        ],
+        "id": "1405187228377223171",
+        "author_id": "1338165967210295297"
+    },
+    {
+        "created_at": "2021-06-14T14:59:19.000Z",
+        "lang": "en",
+        "text": "Just posted a photo @ Chamoy\u2019s Restaurant https://t.co/uL8fCHAXJK",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1404453402873040896"
+        ],
+        "id": "1404453402873040896",
+        "author_id": "1338165967210295297"
+    },
+    {
+        "created_at": "2021-06-13T17:08:17.000Z",
+        "lang": "es",
+        "text": "Vis\u00edtanos y disfruta de nuestra deliciosa comida @ChamoysRestaurant @ Chamoy\u2019s Restaurant https://t.co/sfbtUhGEzq",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1404123472071053313"
+        ],
+        "id": "1404123472071053313",
+        "author_id": "1338165967210295297"
+    },
+    {
+        "created_at": "2021-06-06T22:46:26.000Z",
+        "lang": "fr",
+        "text": "Paella y para ti jjjjjj @chamoysrestaurant @ Chamoy\u2019s Restaurant https://t.co/W63jZW0NGO",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1401671855283507208"
+        ],
+        "id": "1401671855283507208",
+        "author_id": "1338165967210295297"
+    },
+    {
+        "created_at": "2021-06-06T15:20:09.000Z",
+        "lang": "es",
+        "text": "Lunch especial todo los Dias @chamoysrestaurant @ Chamoy\u2019s Restaurant https://t.co/ElM9s5aYyM",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1401559541221834752"
+        ],
+        "id": "1401559541221834752",
+        "author_id": "1338165967210295297"
+    },
+    {
+        "created_at": "2021-06-03T01:02:37.000Z",
+        "lang": "en",
+        "text": "I'm at Prime Restaurant Group Office https://t.co/bflzoUqKqA",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25796147,
+                    33.88584201
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1400256575592402945"
+        ],
+        "id": "1400256575592402945",
+        "author_id": "1481137530"
+    },
+    {
+        "created_at": "2021-06-01T16:39:41.000Z",
+        "lang": "en",
+        "text": "Just posted a photo @ Chamoy\u2019s Restaurant https://t.co/8zsMjcRrE2",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1399767618228215812"
+        ],
+        "id": "1399767618228215812",
+        "author_id": "1338165967210295297"
+    },
+    {
+        "created_at": "2021-05-30T16:05:16.000Z",
+        "lang": "en",
+        "text": "Just posted a photo @ Chamoy\u2019s Restaurant https://t.co/zXFlG3Ltu3",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1399034183834537985"
+        ],
+        "id": "1399034183834537985",
+        "author_id": "1338165967210295297"
+    },
+    {
+        "created_at": "2021-05-30T13:36:01.000Z",
+        "lang": "es",
+        "text": "Muchas Felicidades a toda las Madres Dominicana en su d\u00eda te desea @chamoysrestaurant @ Chamoy\u2019s Restaurant https://t.co/SAKBS9QFux",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1398996621602574337"
+        ],
+        "id": "1398996621602574337",
+        "author_id": "1338165967210295297"
+    },
+    {
+        "created_at": "2021-05-28T14:04:06.000Z",
+        "lang": "es",
+        "text": "$6.99 Lunch especial hoy y todo los Dias @ChamoysRestaurant #ConSabor #Dominicano \ud83c\udde9\ud83c\uddf4\ud83c\udde9\ud83c\uddf4\ud83c\udde9\ud83c\uddf4 \ud83d\ude98 4578 Britt Road Tucker Ga 30084 \ud83d\udcde678 599 0494 \u2705 #WeDelivery d10am a 9pm @ Chamoy\u2019s Restaurant https://t.co/xuhwMfSSm9",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1398278912665337856"
+        ],
+        "id": "1398278912665337856",
+        "author_id": "1338165967210295297"
+    },
+    {
+        "created_at": "2021-05-23T01:12:54.000Z",
+        "lang": "en",
+        "text": "Just posted a photo @ Chamoy\u2019s Restaurant https://t.co/DBcMnexvID",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1396272894481739780"
+        ],
+        "id": "1396272894481739780",
+        "author_id": "1338165967210295297"
+    },
+    {
+        "created_at": "2021-05-21T17:02:00.000Z",
+        "lang": "es",
+        "text": "Lunch especial hoy y todo los desde $5.99 @chamoysrestaurant y delivery de 10am a 10pm 678.599.0494 @ Chamoy\u2019s Restaurant https://t.co/YYMgI9hgwh",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1395786970811486218"
+        ],
+        "id": "1395786970811486218",
+        "author_id": "1338165967210295297"
+    },
+    {
+        "created_at": "2021-05-17T01:38:06.000Z",
+        "lang": "en",
+        "text": "@chamoysrestaurant . 4578 Britt Road, Tucker Ga tel 678.599.0494 @ Chamoy\u2019s Restaurant https://t.co/KQAhPV5NjB",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1394104910925475843"
+        ],
+        "id": "1394104910925475843",
+        "author_id": "1338165967210295297"
+    },
+    {
+        "created_at": "2021-05-13T16:02:48.000Z",
+        "lang": "es",
+        "text": "Lunch especial todo los desde $5.99 de 10am a 4pm y delivery disponible de 10am a 10pm Llama ya 678.599.0494 @ Chamoy\u2019s Restaurant https://t.co/1sVOmHST7u",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1392872966820614146"
+        ],
+        "id": "1392872966820614146",
+        "author_id": "1338165967210295297"
+    },
+    {
+        "created_at": "2021-05-09T15:53:02.000Z",
+        "lang": "es",
+        "text": "Feliz d\u00eda de la Madres te desea @chamoysrestaurant @ Chamoy\u2019s Restaurant https://t.co/edFpDCZxce",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1391420959882547205"
+        ],
+        "id": "1391420959882547205",
+        "author_id": "1338165967210295297"
+    },
+    {
+        "created_at": "2021-05-09T14:33:33.000Z",
+        "lang": "en",
+        "text": "Just posted a photo @ Chamoy\u2019s Restaurant https://t.co/sSXOXKaqsr",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1391400957817368581"
+        ],
+        "id": "1391400957817368581",
+        "author_id": "1338165967210295297"
+    },
+    {
+        "created_at": "2021-05-05T14:00:44.000Z",
+        "lang": "en",
+        "text": "Just posted a photo @ Chamoy\u2019s Restaurant https://t.co/znjDqzYNQQ",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1389943144272248838"
+        ],
+        "id": "1389943144272248838",
+        "author_id": "1338165967210295297"
+    },
+    {
+        "created_at": "2021-05-03T00:14:51.000Z",
+        "lang": "en",
+        "text": "Just posted a photo @ Chamoy\u2019s Restaurant https://t.co/SD5WHQBTZm",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1389010528127836160"
+        ],
+        "id": "1389010528127836160",
+        "author_id": "1338165967210295297"
+    },
+    {
+        "created_at": "2021-04-28T15:28:51.000Z",
+        "lang": "es",
+        "text": "$5.99 Lunch especial hoy y todo los d\u00edas @ChamoysRestaurant #ConSabor #Dominicano \ud83c\udde9\ud83c\uddf4\ud83c\udde9\ud83c\uddf4\ud83c\udde9\ud83c\uddf4 \ud83d\ude98 4578 Britt Road Tucker Ga 30084 \ud83d\udcde678 599 0494 \u2705 #WeDelivery d10am a 10pm @ Chamoy\u2019s Restaurant https://t.co/pFuuAYtXKJ",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1387428607270789123"
+        ],
+        "id": "1387428607270789123",
+        "author_id": "1338165967210295297"
+    },
+    {
+        "created_at": "2021-04-24T16:25:43.000Z",
+        "lang": "es",
+        "text": "Hoy y todo los S\u00e1bado, Mondongo. Sancocho. Y M\u00e1s @chamoysrestaurant  4578 Britt Road, Tucker Ga tel 678.599.0494 @ Chamoy\u2019s Restaurant https://t.co/beUNFINOnK",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1385993366920437760"
+        ],
+        "id": "1385993366920437760",
+        "author_id": "1338165967210295297"
+    },
+    {
+        "created_at": "2021-04-17T16:35:01.000Z",
+        "lang": "es",
+        "text": "Mi pollo en Caf\u00e9 Dominican https://t.co/WN1kGe2YFM",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.19341179,
+                    33.88540459
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1383458991058026501"
+        ],
+        "id": "1383458991058026501",
+        "author_id": "168148263"
+    },
+    {
+        "created_at": "2021-04-11T17:40:58.000Z",
+        "lang": "en",
+        "text": "Just posted a photo @ Chamoy\u2019s Restaurant https://t.co/IQwu7UOwbP",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1381301259433435146"
+        ],
+        "id": "1381301259433435146",
+        "author_id": "1338165967210295297"
+    },
+    {
+        "created_at": "2021-04-10T16:13:50.000Z",
+        "lang": "es",
+        "text": "Hoy y todos los d\u00edas ven disfruta de la mejor comida Dominicana en Atlanta, Delivery disponibles de 10 a 10  @chamoysrestaurant 4578 Britt Road, Tucker Ga 30084 tel 678.599.0494 @ Chamoy\u2019s Restaurant https://t.co/VxQxZD92bs",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1380916943746662406"
+        ],
+        "id": "1380916943746662406",
+        "author_id": "1338165967210295297"
+    },
+    {
+        "created_at": "2021-04-09T07:24:47.000Z",
+        "lang": "und",
+        "text": "Men\u00fa @chamoysrestaurant @ Chamoy\u2019s Restaurant https://t.co/jWuhix7q5N",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1380421419104923651"
+        ],
+        "id": "1380421419104923651",
+        "author_id": "1338165967210295297"
+    },
+    {
+        "created_at": "2021-04-03T16:18:50.000Z",
+        "lang": "es",
+        "text": "Hoy y todos los d\u00edas ven disfruta de la mejor comida Dominicana en Atlanta @chamoysrestaurant 4578 Britt Road, Tucker Ga 30084 tel 678.599.0494 @ Chamoy\u2019s Restaurant https://t.co/NQMK0L0UTe",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1378381489931444229"
+        ],
+        "id": "1378381489931444229",
+        "author_id": "1338165967210295297"
+    },
+    {
+        "created_at": "2021-03-31T16:28:15.000Z",
+        "lang": "es",
+        "text": "Lunch Especial todo los Dias a solo $5.99 hoy y todo los Dias @chamoysrestaurant 4578 Britt road, Tucker Ga 30084, Delivery de 10am @10pm cont\u00e1ctenos al 678.599.0494 @ Chamoy\u2019s Restaurant https://t.co/gwyfathaNK",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 1
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1377296692320595984"
+        ],
+        "id": "1377296692320595984",
+        "author_id": "1338165967210295297"
+    },
+    {
+        "created_at": "2021-03-17T01:13:22.000Z",
+        "lang": "es",
+        "text": "#birriatacos @ El Indio Mexican Restaurant https://t.co/sUpcRThaZ0",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.212646,
+                    33.890888
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1371993026516676611"
+        ],
+        "id": "1371993026516676611",
+        "author_id": "45699002"
+    },
+    {
+        "created_at": "2021-03-07T18:04:00.000Z",
+        "lang": "es",
+        "text": "\ud83d\udc98\ud83d\udc98\ud83d\udc98 en Caf\u00e9 Dominican https://t.co/xVwvFKMnLC",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.19341179,
+                    33.88540459
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1368623483123421185"
+        ],
+        "id": "1368623483123421185",
+        "author_id": "168148263"
+    },
+    {
+        "created_at": "2021-03-05T04:34:52.000Z",
+        "lang": "en",
+        "text": "Just posted a photo @ The Glam Cell Beauty Bar https://t.co/0OXAomL6NR",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.1957159,
+                    33.89389425
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1367695082686660614"
+        ],
+        "id": "1367695082686660614",
+        "author_id": "336389145"
+    },
+    {
+        "created_at": "2021-03-05T01:18:55.000Z",
+        "lang": "en",
+        "text": "#Tbt  THAT'S ME ON THE PULL UP BAR.....\n\"PUT IT ON ME \" VIDEO  CAMEOS ..\n@irvgotti187\n@jarule\n#MURDERINCRECORDS \n#dexdiamondbrand #realiablesources #certfied #followme @ Alanta Georiga https://t.co/ZVafcJL2Le",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.24638889,
+                    33.90222222
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1367645766475517952"
+        ],
+        "id": "1367645766475517952",
+        "author_id": "103938364"
+    },
+    {
+        "created_at": "2021-02-21T17:52:52.000Z",
+        "lang": "en",
+        "text": "I'm at Mgm Cafe in Atlanta, GA https://t.co/JgLs8kYAyf",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25630951,
+                    33.88647842
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1363547247951101963"
+        ],
+        "id": "1363547247951101963",
+        "author_id": "1481137530"
+    },
+    {
+        "created_at": "2021-02-21T17:45:53.000Z",
+        "lang": "en",
+        "text": "I'm at Prime Restaurant Group Office https://t.co/xorwpVRiQV",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25796147,
+                    33.88584201
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "edit_history_tweet_ids": [
+            "1363545492987199493"
+        ],
+        "id": "1363545492987199493",
+        "author_id": "1481137530"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-01-03T02:33:12.000Z",
+        "lang": "es",
+        "edit_history_tweet_ids": [
+            "1345558803152965633"
+        ],
+        "author_id": "581482554",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.212646,
+                    33.890888
+                ]
+            }
+        },
+        "id": "1345558803152965633",
+        "text": "Birria tacos with my beautiful princesa \ud83d\ude0d\ud83d\ude0d #cutestdaughter #girldad #mylove @ El Indio Mexican Restaurant https://t.co/MurJylNfkb"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-12-05T13:46:21.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1335218959356932096"
+        ],
+        "author_id": "1481137530",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25796147,
+                    33.88584201
+                ]
+            }
+        },
+        "id": "1335218959356932096",
+        "text": "I'm at Prime Restaurant Group Office https://t.co/4dppJOkdVy"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-10-20T00:48:39.000Z",
+        "lang": "es",
+        "edit_history_tweet_ids": [
+            "1318353400912818177"
+        ],
+        "author_id": "45699002",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.212646,
+                    33.890888
+                ]
+            }
+        },
+        "id": "1318353400912818177",
+        "text": "#beefdiptaco @ El Indio Mexican Restaurant https://t.co/Nb1unPZWV1"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-09-16T22:18:04.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1306356705782042625"
+        ],
+        "author_id": "49182574",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25516113,
+                    33.88675145
+                ]
+            }
+        },
+        "id": "1306356705782042625",
+        "text": "I'm at Mediterranean Bakery in Chamblee, GA https://t.co/VXKNQnm0Mu"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-09-12T03:23:30.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1304621633588596736"
+        ],
+        "author_id": "232661773",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25597,
+                    33.88662
+                ]
+            }
+        },
+        "id": "1304621633588596736",
+        "text": "Its the love that I have for these boss ladies \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d #BuildingWealth with like minded sisters \ud83e\udd11\ud83e\udd11\ud83e\udd11 @chimereworld @kouturedefiningcosmetics @ Planet Hookah Cafe https://t.co/g7lCjh0DiL"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-08-22T22:37:32.000Z",
+        "lang": "es",
+        "edit_history_tweet_ids": [
+            "1297301909154533377"
+        ],
+        "author_id": "102857861",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.19263,
+                    33.88354
+                ]
+            }
+        },
+        "id": "1297301909154533377",
+        "text": "\ud83d\udea8ATENCI\u00d3N \ud83d\udea8\nMa\u00f1ana Voy A Rodar el Video De #LaVolanta En #Eleven desde La 5\n\ud83c\udfcd\ud83d\udef5\ud83c\udfcd\ud83d\udef5\ud83c\udfcd\ud83d\udef5\ud83c\udfcd\ud83d\udef5\nPila De Motores, \ud83d\udd25\ud83d\udd25\ud83d\udd25 en Eleven Restaurant &amp; Lounge \u10e6 https://t.co/gIjV6J0nd0"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-08-02T13:44:54.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1289920108924743680"
+        ],
+        "author_id": "1481137530",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25796147,
+                    33.88584201
+                ]
+            }
+        },
+        "id": "1289920108924743680",
+        "text": "Checked in automatically with the Ultimate Checkin app! https://t.co/GMzxkkpzpr (@ Prime Restaurant Group Office) https://t.co/lR6LIcZ64q"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-07-19T16:43:31.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1284891628856107008"
+        ],
+        "author_id": "1481137530",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25630951,
+                    33.88647842
+                ]
+            }
+        },
+        "id": "1284891628856107008",
+        "text": "Checked in automatically with the Ultimate Checkin app! https://t.co/GMzxkkpzpr (@ Mgm Cafe in Atlanta, GA) https://t.co/DCyi81RFv4"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-07-19T16:43:15.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1284891563135574017"
+        ],
+        "author_id": "1481137530",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25796147,
+                    33.88584201
+                ]
+            }
+        },
+        "id": "1284891563135574017",
+        "text": "Checked in automatically with the Ultimate Checkin app! https://t.co/GMzxkkpzpr (@ Prime Restaurant Group Office) https://t.co/7bErLdIAzH"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-07-13T15:29:25.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1282698654374141953"
+        ],
+        "author_id": "357731798",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.19592,
+                    33.89385
+                ]
+            }
+        },
+        "id": "1282698654374141953",
+        "text": "\ud83c\udf87\ud83d\udc95HAPPY 1 YEAR ANNIVERSARY\ud83d\udc95\ud83c\udf87 TO theglamcell BEAUTY BAR.\nWhere NO beauty stays locked up! Home of the #GlamourMugshots \ud83d\udd25\ud83d\udd25\ud83d\udd25\n\ud83d\udc95For our 1 yr anniversary we are bringing y\u2019all SPECIALS PLUS FUN!! Food, hookah, music,\u2026 https://t.co/VRsrVUL8Z9"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-07-12T22:20:38.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1282439754861162496"
+        ],
+        "author_id": "1650949518",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20453353,
+                    33.90991664
+                ]
+            }
+        },
+        "id": "1282439754861162496",
+        "text": "Heh. I used to say this when I was a kid. #incidentalFelix #chickenbutt @ Nam Phuong Restaurant - Jimmy Carter Blvd Location https://t.co/szpx3iRC4e"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-07-12T01:20:22.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1282122598839656450"
+        ],
+        "author_id": "357731798",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.19592,
+                    33.89385
+                ]
+            }
+        },
+        "id": "1282122598839656450",
+        "text": "$50 specials on ANY STYLE &amp; ANY LENGTH \u2728 click the link in my bio to book\u2728\n\u2022\n\u2022\n\u2022\n#blacknailtech #blacknails #atlanta #atlnails #atlnailtech #gwinnettnails #nailsofinstagram #nails @ The Glam Cell Beauty Bar https://t.co/qPhXpfKPt8"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "created_at": "2020-07-03T20:19:03.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1279147664064512001"
+        ],
+        "author_id": "305260822",
+        "geo": {
+            "place_id": "07d9e65e26883001"
+        },
+        "id": "1279147664064512001",
+        "text": "I had fun eating and drinking at Three Dollar Cafe why not\ud83e\udd37\ud83c\udffd\u200d\u2642\ufe0fdrinks were $3\ud83c\udf7a https://t.co/ylveBMnBQP"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-06-28T21:31:45.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1277354021083320326"
+        ],
+        "author_id": "2197717099",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.19451354,
+                    33.88493749
+                ]
+            }
+        },
+        "id": "1277354021083320326",
+        "text": "#EADWM\n#dineAndReview\ud83d\ude04 at cafedominicanrestaurant  in Norcross on Jimmy Carter Blvd....\nFull review coming up...\n\n#HappyDining\ud83d\ude4b\ud83c\udffe\u200d\u2640\ufe0f \n\n#foodie #blogger #DineAndReview #foodblogger #EADWM #EatAnDrinkWithMe @ Caf\u00e9 Dominican https://t.co/DsT6G2KFwO"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-05-17T23:22:13.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1262161533024587785"
+        ],
+        "author_id": "63629160",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20729704,
+                    33.90952853
+                ]
+            }
+        },
+        "id": "1262161533024587785",
+        "text": "I actually ate out, for the first time in two months. Of course, it was my free birthday meal at Denny\u2019s, LOL. There were only 3 customers in the restaurant, they separated us to each corner of the diner, the staff\u2026 https://t.co/eL5OwgiV0d"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-05-17T18:43:09.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1262091302847614977"
+        ],
+        "author_id": "19941321",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.22012501,
+                    33.88186711
+                ]
+            }
+        },
+        "id": "1262091302847614977",
+        "text": "Out here being rebels! \n\nThere's only a few tables open in the huge restaurant. We were ready. We needed this. First time since early March. @ El Matador Restaurant https://t.co/ezR2vbQapt"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-05-16T19:59:27.000Z",
+        "lang": "es",
+        "edit_history_tweet_ids": [
+            "1261748115922661376"
+        ],
+        "author_id": "1137550900891987968",
+        "geo": {
+            "place_id": "07d9e7eaebc87001"
+        },
+        "id": "1261748115922661376",
+        "text": "A muchos salvadore\u00f1os ya se nos olvid\u00f3 cuando no ten\u00edamos para comprar az\u00facar que nos tocaba lavar el bote para obtener el caf\u00e9 dulce oh la limonada ahora que tienen un buen presidente que est\u00e1 respondiendo por el pueblo con ayuda de est\u00e1n quejando deber\u00edamos de pensar https://t.co/ITRhE3foKr"
+    },
+    {
+        "lang": "en",
+        "created_at": "2020-03-15T16:45:27.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Open bar @edenloungeatl 7pm-9pm early arrival suggested!!\n#SundayFunday \ud83d\udd25\ud83d\udd25 @ Eden Lounge https://t.co/FopkIDzZ0D",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2546799,
+                    33.88697805
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1239231245550333952"
+        ],
+        "author_id": "181281159",
+        "id": "1239231245550333952"
+    },
+    {
+        "lang": "en",
+        "created_at": "2020-02-29T00:37:41.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Happy Birthday to the best there is, the best there was, and the best there ever will be, pop.pop.dan! @ El Matador Restaurant https://t.co/zUrGCWA72V",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.22012501,
+                    33.88186711
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1233551879709159424"
+        ],
+        "author_id": "18319453",
+        "id": "1233551879709159424"
+    },
+    {
+        "lang": "en",
+        "created_at": "2020-02-27T01:49:23.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "I'm at Mgm Cafe in Atlanta, GA https://t.co/oBF5XUUB43",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.256147,
+                    33.885142
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1232845149107032064"
+        ],
+        "author_id": "1481137530",
+        "id": "1232845149107032064"
+    },
+    {
+        "lang": "en",
+        "created_at": "2020-02-23T22:32:09.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "#HabeshaHouseAtl wit the team \ud83e\udd18\ud83c\udfff\u270a\ud83c\udfff\n@1allmostrare @OfficialAvaNu @shackdaddie @broletssk8 habeshahouseatl eastafrican30 thehelendebas \ud83d\udd25\ud83d\udd25 @ Habesha House Lounge &amp; Bar https://t.co/24W6iWosWN",
+        "geo": {
+            "place_id": "a4e8b6fd61c8026b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.18601718,
+                    33.86674025
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1231708352113192968"
+        ],
+        "author_id": "2872932851",
+        "id": "1231708352113192968"
+    },
+    {
+        "lang": "en",
+        "created_at": "2020-02-17T23:22:54.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "I'm at Three Dollar Cafe in Atlanta, GA https://t.co/HTkzqTUTnJ",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25572394,
+                    33.88914974
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1229546795388239875"
+        ],
+        "author_id": "1481137530",
+        "id": "1229546795388239875"
+    },
+    {
+        "lang": "es",
+        "created_at": "2020-02-17T01:28:00.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Para la dieta...\ud83d\ude01\n#VamoAlMambo \ud83d\udcaf @ Caf\u00e9 Dominican https://t.co/abgmxSGIV6",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.19451354,
+                    33.88493749
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1229215889884696577"
+        ],
+        "author_id": "165431995",
+        "id": "1229215889884696577"
+    },
+    {
+        "lang": "es",
+        "created_at": "2020-02-17T01:25:32.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Antes de comenzar d\u00e9jame comer...\ud83c\udf7d @ Caf\u00e9 Dominican https://t.co/SvAta5oWzm",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.19451354,
+                    33.88493749
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1229215268540485632"
+        ],
+        "author_id": "165431995",
+        "id": "1229215268540485632"
+    },
+    {
+        "lang": "en",
+        "created_at": "2020-02-16T17:00:37.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "I'm at Eden Lounge / Restaurant in Atlanta, GA https://t.co/1w2XkZrx1u",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2543,
+                    33.885963
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1229088203463909380"
+        ],
+        "author_id": "1481137530",
+        "id": "1229088203463909380"
+    },
+    {
+        "lang": "en",
+        "created_at": "2020-02-13T23:20:27.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "I'm at Three Dollar Cafe in Atlanta, GA https://t.co/9CHGov6Hyh",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25572394,
+                    33.88914974
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1228096625249325056"
+        ],
+        "author_id": "1481137530",
+        "id": "1228096625249325056"
+    },
+    {
+        "lang": "en",
+        "created_at": "2020-02-13T00:16:09.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "I'm at Prime Restaurant Group Office https://t.co/UQUArUCumW",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25796147,
+                    33.88584201
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1227748257469751297"
+        ],
+        "author_id": "1481137530",
+        "id": "1227748257469751297"
+    },
+    {
+        "lang": "en",
+        "created_at": "2020-02-10T00:31:32.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "I'm at Eden Lounge / Restaurant in Atlanta, GA https://t.co/oI1HKZZAuL",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2543,
+                    33.885963
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1226664964267630593"
+        ],
+        "author_id": "1481137530",
+        "id": "1226664964267630593"
+    },
+    {
+        "lang": "en",
+        "created_at": "2020-02-10T00:29:33.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "I'm at Eden Lounge / Restaurant in Atlanta, GA https://t.co/NPO8GHtN4f",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2543,
+                    33.885963
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1226664464709275648"
+        ],
+        "author_id": "1481137530",
+        "id": "1226664464709275648"
+    },
+    {
+        "lang": "en",
+        "created_at": "2020-01-29T20:06:04.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "I'm at Haven Restaurant &amp; Lounge - @havenfusion in Lilburn, GA https://t.co/TF0xmoZej9",
+        "geo": {
+            "place_id": "8d350371e2769966",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.16437566,
+                    33.884431
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1222611889043267585"
+        ],
+        "author_id": "1481137530",
+        "id": "1222611889043267585"
+    },
+    {
+        "lang": "en",
+        "created_at": "2020-01-25T07:11:47.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "My brother!! #Cappingang\ud83d\ude08\ud83d\udcb1 #pressuregod\ud83d\udd25\ud83e\udd2f\ud83d\ude24\ud83c\udfa5\ud83d\udc8e\ud83d\ude80\ud83d\udc69\ud83c\udfff\u200d\ud83d\ude80 u ate diss shit \ud83d\udd25\ud83d\udd25 cappinstew cappingangbigyop ches8558  baybayski tallf07k  #familyOVbullshit\ud83d\udda4\ud83d\udd4a\ufe0f #familymatters\u2660\ufe0f\u2728\ud83d\udda4 $\u24c2\ufe0fF\ud83d\udcb1\ud83d\udd4a\ufe0f #Cappingang\ud83d\ude08\ud83d\udcb1 @ Habesha House Lounge &amp; Bar https://t.co/CPYNpoLLnI",
+        "geo": {
+            "place_id": "a4e8b6fd61c8026b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.18601718,
+                    33.86674025
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1220967485224054785"
+        ],
+        "author_id": "1729832479",
+        "id": "1220967485224054785"
+    },
+    {
+        "lang": "en",
+        "created_at": "2020-01-11T18:03:38.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "I'm at @Applebees Grill + Bar in Tucker, GA https://t.co/LDV2wgX8dh",
+        "geo": {
+            "place_id": "a4e8b6fd61c8026b",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20805314,
+                    33.8565828
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1216058100056297473"
+        ],
+        "author_id": "1481137530",
+        "id": "1216058100056297473"
+    },
+    {
+        "lang": "en",
+        "created_at": "2020-01-09T18:12:16.000Z",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "Warming up the soul with this Vegetable Coconut soup from the Thai Restaurant of Norcross\u2763\ufe0f #soupforthesoul #coconutsoup #thaifood #spoonfeed @ Thai Restaurant https://t.co/aG2L3fTSBM",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20853,
+                    33.89846
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1215335497058353153"
+        ],
+        "author_id": "170845456",
+        "id": "1215335497058353153"
+    },
+    {
+        "lang": "en",
+        "created_at": "2020-01-09T01:59:23.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "I'm at Prime Restaurant Group Office https://t.co/za1UASKOjc",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25796147,
+                    33.88584201
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1215090659801157632"
+        ],
+        "author_id": "1481137530",
+        "id": "1215090659801157632"
+    },
+    {
+        "lang": "en",
+        "created_at": "2020-01-03T19:50:14.000Z",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "If you\u2019re ever in Los Angeles, go 2 the Hollywood district\u2019s \u201cMusso &amp; Frank Grill\u201d #restaurant . Best entres w the finest ingredients. Pricey side, but so worth it, especially w the historic aspect of who was there, including the Clintons &amp; Marilyn Monroe. https://t.co/5i1t878Lj0 https://t.co/Shjy9ppS4g",
+        "geo": {
+            "place_id": "07d9d975ba485000"
+        },
+        "edit_history_tweet_ids": [
+            "1213185820242464768"
+        ],
+        "author_id": "336376208",
+        "id": "1213185820242464768"
+    }
+]

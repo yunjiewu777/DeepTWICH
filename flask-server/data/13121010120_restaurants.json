@@ -1,0 +1,3218 @@
+[
+    {
+        "id": "1525959495255576576",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.361626,
+                    34.024249
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "34262883",
+        "text": "I'm at Lola\u2019s Burger &amp; Tequila Bar in Roswell, GA https://t.co/9S8URdsnov",
+        "created_at": "2022-05-15T22:01:09.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1525959495255576576"
+        ]
+    },
+    {
+        "id": "1525151274349518862",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.360257,
+                    34.027769
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "author_id": "75104523",
+        "text": "I'm at Fellows Cafe in Roswell, GA https://t.co/wH0gRPuUMp https://t.co/rkLP9p0s1Z",
+        "created_at": "2022-05-13T16:29:34.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1525151274349518862"
+        ]
+    },
+    {
+        "id": "1520458143930765313",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.362695,
+                    34.015243
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "1096461715",
+        "text": "Just posted a photo @ A-street Restaurant https://t.co/5AP9hEKePU",
+        "created_at": "2022-04-30T17:40:44.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1520458143930765313"
+        ]
+    },
+    {
+        "id": "1514410804887658496",
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 6,
+            "like_count": 186,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "07d9d269a2886000"
+        },
+        "author_id": "231437901",
+        "text": "Con our Neapolitan friend in Amalfi Restaurant \u2066@nntaleb\u2069 https://t.co/m1Zjme1wJO",
+        "created_at": "2022-04-14T01:10:46.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1514410804887658496"
+        ]
+    },
+    {
+        "id": "1514404836824993801",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 30,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "07d9d269a2886000"
+        },
+        "author_id": "231437901",
+        "text": "I fought the law and the law won. @nntaleb (fought over the bill and he outsmarted me, as always). BTW, Amalfi in Roswell is a fantastic Italian restaurant. https://t.co/VgUoM9vUsY",
+        "created_at": "2022-04-14T00:47:04.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1514404836824993801"
+        ]
+    },
+    {
+        "id": "1513275183917764612",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36397037,
+                    34.0146547
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "436088519",
+        "text": "Just posted a photo @ The Mill Kitchen and Bar https://t.co/0Lh9FR6FSQ",
+        "created_at": "2022-04-10T21:58:13.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1513275183917764612"
+        ]
+    },
+    {
+        "id": "1501937846814330903",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.362695,
+                    34.015243
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "1096461715",
+        "text": "Just posted a photo @ A-street Restaurant https://t.co/jx9szg6hFH",
+        "created_at": "2022-03-10T15:07:41.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1501937846814330903"
+        ]
+    },
+    {
+        "id": "1501627464304320514",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36179,
+                    34.02424
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "165954889",
+        "text": "Live at @lolasburgerbar tonight 6:30pm! \ud83c\udfb8\ud83c\udfb6 \n\n#livemusic #wednesday #humpday #workflow @ Lola's Burger and Tequila Bar https://t.co/kMqCN9R97G",
+        "created_at": "2022-03-09T18:34:21.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1501627464304320514"
+        ]
+    },
+    {
+        "id": "1499408247970840577",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.360257,
+                    34.027769
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "75104523",
+        "text": "I'm at Fellows Cafe in Roswell, GA https://t.co/KUftZkMTOZ https://t.co/wt32d25XOE",
+        "created_at": "2022-03-03T15:35:58.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1499408247970840577"
+        ]
+    },
+    {
+        "id": "1491869493425061897",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "11d3402433546001"
+        },
+        "author_id": "15852829",
+        "text": "The way Dreams was playing right as @activitygrrrI &amp; I walked into this tequila bar is *chef's kiss*",
+        "created_at": "2022-02-10T20:19:39.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1491869493425061897"
+        ]
+    },
+    {
+        "id": "1489004967214161923",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36179,
+                    34.02424
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "1351065419898097670",
+        "text": "Just posted a photo @ Lola's Burger and Tequila Bar https://t.co/l7Gr3jdxMf",
+        "created_at": "2022-02-02T22:37:03.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1489004967214161923"
+        ]
+    },
+    {
+        "id": "1486530125189505027",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35028076,
+                    34.01396527
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Thomas Hinds at the Open Mic\n#openmic #roswell #georgia @hindsight_musings @ Gaslight Bar &amp; Grill Events https://t.co/IkeAF3PKZb",
+        "created_at": "2022-01-27T02:42:54.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1486530125189505027"
+        ]
+    },
+    {
+        "id": "1486527569516138497",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35028076,
+                    34.01396527
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Open Mic Wednesday with Danii\n#openmic #georgia #roswell @ Gaslight Bar &amp; Grill Events https://t.co/4acrRqrds3",
+        "created_at": "2022-01-27T02:32:45.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1486527569516138497"
+        ]
+    },
+    {
+        "id": "1486518859779690502",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35028076,
+                    34.01396527
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Open Mic Wednesday with Billy Brennan\n#openmic #roswell #georgia @ Gaslight Bar &amp; Grill Events https://t.co/BlgDKebTO3",
+        "created_at": "2022-01-27T01:58:09.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1486518859779690502"
+        ]
+    },
+    {
+        "id": "1486496834264571907",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35028076,
+                    34.01396527
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "172721474",
+        "text": "Open Mic with Jeff Landell\n#roswell #georgia #openmic @ Gaslight Bar &amp; Grill Events https://t.co/NdnHPUwKLg",
+        "created_at": "2022-01-27T00:30:37.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1486496834264571907"
+        ]
+    },
+    {
+        "id": "1484333526971416576",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36179,
+                    34.02424
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "1351065419898097670",
+        "text": "Just posted a photo @ Lola's Burger and Tequila Bar https://t.co/FkONAMxTCm",
+        "created_at": "2022-01-21T01:14:25.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1484333526971416576"
+        ]
+    },
+    {
+        "id": "1482820474954526730",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.34946411,
+                    33.99946235
+                ]
+            },
+            "place_id": "b077585758242faa"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "51147229",
+        "text": "Just posted a photo @ The Silk Bar https://t.co/IKBjI65sDf",
+        "created_at": "2022-01-16T21:02:05.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1482820474954526730"
+        ]
+    },
+    {
+        "id": "1482760711524782087",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.34946411,
+                    33.99946235
+                ]
+            },
+            "place_id": "b077585758242faa"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "author_id": "51147229",
+        "text": "Just posted a photo @ The Silk Bar https://t.co/JppOw0Ig5r",
+        "created_at": "2022-01-16T17:04:36.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1482760711524782087"
+        ]
+    },
+    {
+        "id": "1476011306037780486",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36397037,
+                    34.0146547
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "61563650",
+        "text": "Tasting dinner for wedding Rehearsal Dinner. Great location. Great good. Top of the list. Bittersweet time. Truly missing @kaddam \u201cDynamite\u201d. @ The Mill Kitchen and Bar https://t.co/aW2wjZ087S",
+        "created_at": "2021-12-29T02:04:52.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1476011306037780486"
+        ]
+    },
+    {
+        "id": "1474381191860076597",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36034,
+                    34.02818
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "16005338",
+        "text": "Hope you\u2019re spending Christmas with those you love. Merry, merry! #familytime #memories #xmasbreakfast\ud83c\udf85\ud83c\udffc\u26c4\ufe0f\ud83c\udf84\ud83c\udf81\u2b50\ufe0f @ Fellows Cafe https://t.co/78KsNpqW3k",
+        "created_at": "2021-12-24T14:07:23.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1474381191860076597"
+        ]
+    },
+    {
+        "id": "1473067065116397576",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.34995237,
+                    34.00119282
+                ]
+            },
+            "place_id": "b077585758242faa"
+        },
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "1303782494",
+        "text": "#winteriscoming and the #cold is already here. So, come out and join us at @northrivertavern for #hotfood #tasty #drinks and #fun with @teamtrivia at 7pm! #trivia #food #restaurant #supportlocal @ North River Tavern https://t.co/2HwLi0UzDb",
+        "created_at": "2021-12-20T23:05:31.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1473067065116397576"
+        ]
+    },
+    {
+        "id": "1469444895643418633",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36179,
+                    34.02424
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "1351065419898097670",
+        "text": "Just posted a photo @ Lola's Burger and Tequila Bar https://t.co/9t9C67iGyv",
+        "created_at": "2021-12-10T23:12:18.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1469444895643418633"
+        ]
+    },
+    {
+        "id": "1468733158875181062",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36179,
+                    34.02424
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "1351065419898097670",
+        "text": "Just posted a photo @ Lola's Burger and Tequila Bar https://t.co/3Lz34XpaAg",
+        "created_at": "2021-12-09T00:04:07.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1468733158875181062"
+        ]
+    },
+    {
+        "id": "1468649469113737216",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.360257,
+                    34.027769
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "75104523",
+        "text": "I'm at Fellows Cafe in Roswell, GA https://t.co/8mAxur8JEU https://t.co/C6y4VLZlNH",
+        "created_at": "2021-12-08T18:31:34.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1468649469113737216"
+        ]
+    },
+    {
+        "id": "1463913880065921031",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36391408,
+                    34.01457707
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "14417174",
+        "text": "I'm at The Mill Kitchen &amp; Bar - @themillroswell in Roswell, GA https://t.co/4x3CannBrx",
+        "created_at": "2021-11-25T16:54:01.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1463913880065921031"
+        ]
+    },
+    {
+        "id": "1458517530675384328",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36179,
+                    34.02424
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "author_id": "35289348",
+        "text": "New spot (for me) TONIGHT!\n@lolasburgerbar \n6:30pm \nSolo acoustic fun! #roswell\n#wednesdaytunes\n#humpday @ Lola's Burger and Tequila Bar https://t.co/n9FnquRehd",
+        "created_at": "2021-11-10T19:30:51.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1458517530675384328"
+        ]
+    },
+    {
+        "id": "1458242471096373257",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36397037,
+                    34.0146547
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "2341148232",
+        "text": "Just posted a photo @ The Mill Kitchen and Bar https://t.co/eAKcrf8fxW",
+        "created_at": "2021-11-10T01:17:52.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1458242471096373257"
+        ]
+    },
+    {
+        "id": "1456307924003954695",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3510174,
+                    33.9884386
+                ]
+            },
+            "place_id": "b077585758242faa"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "921197448885886977",
+        "text": "Atlanta, Georgia - I got sick after eating a shrimp quesadilla and mozzarella sticks. Ate... Food Poisoning https://t.co/CwKn4350pg #nausea #diarrhea #cramps #chills #musclepain #jointpain",
+        "created_at": "2021-11-04T17:10:40.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1456307924003954695"
+        ]
+    },
+    {
+        "id": "1455700863708762118",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36397037,
+                    34.0146547
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "323636283",
+        "text": "Just posted a photo @ The Mill Kitchen and Bar https://t.co/hEGRVMWEP0",
+        "created_at": "2021-11-03T00:58:26.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1455700863708762118"
+        ]
+    },
+    {
+        "id": "1450997045054087171",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36397037,
+                    34.0146547
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "323636283",
+        "text": "Just posted a photo @ The Mill Kitchen and Bar https://t.co/6zcvT4oIOM",
+        "created_at": "2021-10-21T01:27:08.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1450997045054087171"
+        ]
+    },
+    {
+        "id": "1446690783755751431",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.362695,
+                    34.015243
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "1096461715",
+        "text": "Just posted a photo @ A-street Restaurant https://t.co/pxxwuhBPkI",
+        "created_at": "2021-10-09T04:15:35.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1446690783755751431"
+        ]
+    },
+    {
+        "id": "1441606449923346437",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36179,
+                    34.02424
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "33901072",
+        "text": "What Lola Wants, Lola Gets! @aliciakeys @lolasburgerbar @violinrichmond @ Lola's Burger and Tequila Bar https://t.co/MhjkCbHt6l",
+        "created_at": "2021-09-25T03:32:16.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1441606449923346437"
+        ]
+    },
+    {
+        "id": "1441424683161640965",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.362695,
+                    34.015243
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "3025922939",
+        "text": "Just posted a photo @ A-street Restaurant https://t.co/nJNb7ivKYz",
+        "created_at": "2021-09-24T15:29:59.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1441424683161640965"
+        ]
+    },
+    {
+        "id": "1439235090437992461",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.362695,
+                    34.015243
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "34465416",
+        "text": "Just posted a photo @ A-street Restaurant https://t.co/cqgKDnv0Xv",
+        "created_at": "2021-09-18T14:29:19.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1439235090437992461"
+        ]
+    },
+    {
+        "id": "1438905307988697092",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3353514,
+                    34.0274407
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "921197448885886977",
+        "text": "Olive Garden - Roswell, Georgia - Alfredo sauce I ordered their fe... Food Poisoning https://t.co/v7LfgO7gf0 #olivegarden\n #roswell\n #georgia\n #unitedstates\n #stomachpain\n #diarrhea\n #nausea https://t.co/JP0AjODYtG",
+        "created_at": "2021-09-17T16:38:53.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1438905307988697092"
+        ]
+    },
+    {
+        "id": "1438684152606380036",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36183,
+                    34.025114
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "260425363",
+        "text": "I'm at Ipp\u2019s Pastaria &amp; Bar in Roswell, GA https://t.co/XKWYZB0oLh",
+        "created_at": "2021-09-17T02:00:06.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1438684152606380036"
+        ]
+    },
+    {
+        "id": "1438659908942114825",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36181,
+                    34.022886
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "260425363",
+        "text": "Dulayne opening night (@ Gaslight Bar &amp; Grill in Roswell, GA) https://t.co/pJZ8yxPYN8",
+        "created_at": "2021-09-17T00:23:45.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1438659908942114825"
+        ]
+    },
+    {
+        "id": "1434255462644453380",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "11d90621c3d79002"
+        },
+        "author_id": "36365247",
+        "text": "This bar in Georgia just ordered the Big Ten Network so we could watch the Iowa-Indiana game. That\u2019s next level customer service. \ud83d\udc4f Thanks @rockntacoatl!",
+        "created_at": "2021-09-04T20:42:04.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1434255462644453380"
+        ]
+    },
+    {
+        "id": "1431290239834894342",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.360257,
+                    34.027769
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "author_id": "75104523",
+        "text": "I'm at Fellows Cafe in Roswell, GA https://t.co/5qakyJtyF5 https://t.co/KyU2BNfana",
+        "created_at": "2021-08-27T16:19:19.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1431290239834894342"
+        ]
+    },
+    {
+        "id": "1430897280408719375",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35052,
+                    33.98138
+                ]
+            },
+            "place_id": "b077585758242faa"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "18847957",
+        "text": "Sliding through @venetianatl tonight wit the vibes for a min! I\u2019m on the set 10PM- midnight \ud83d\udd25 @ Venetian Bar &amp; Lounge https://t.co/NBQD2ZL4FX",
+        "created_at": "2021-08-26T14:17:51.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1430897280408719375"
+        ]
+    },
+    {
+        "id": "1428947253922865152",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35319487,
+                    33.99058285
+                ]
+            },
+            "place_id": "b077585758242faa"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "3119310761",
+        "text": "I just say good evening @ Tony's Sports Bar &amp; Grill https://t.co/WdR1LjA2SE",
+        "created_at": "2021-08-21T05:09:08.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1428947253922865152"
+        ]
+    },
+    {
+        "id": "1425250902030626820",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36397037,
+                    34.0146547
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "2341148232",
+        "text": "Just posted a photo @ The Mill Kitchen and Bar https://t.co/H7Cm2IP3ho",
+        "created_at": "2021-08-11T00:21:09.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1425250902030626820"
+        ]
+    },
+    {
+        "id": "1417238820542722051",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36397037,
+                    34.0146547
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "author_id": "2568104050",
+        "text": "Just posted a photo @ The Mill Kitchen and Bar https://t.co/YgAFopTaO3",
+        "created_at": "2021-07-19T21:44:00.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1417238820542722051"
+        ]
+    },
+    {
+        "id": "1413299086476840968",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36089,
+                    34.02847
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "author_id": "20659404",
+        "text": "New to us (well of course!) Italian restaurant. Salud! @ Osteria Mattone https://t.co/46vf5Fn4rt",
+        "created_at": "2021-07-09T00:48:54.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1413299086476840968"
+        ]
+    },
+    {
+        "id": "1410551760016576512",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36034,
+                    34.02818
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "author_id": "2506743221",
+        "text": "yesterday was my first morning out. it was hard. it was life-giving \u2014 the light &amp; shadows over our coffee cups felt so appropriate. @ Fellows Cafe https://t.co/rFq99vmHb0",
+        "created_at": "2021-07-01T10:52:01.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1410551760016576512"
+        ]
+    },
+    {
+        "id": "1410401816089669633",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36048526,
+                    34.02681223
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "20659404",
+        "text": "First date night in Roswell near where our new home will be. Turns out it\u2019s a sister restaurant to another new favorite, Citizen Soul. @ Vin 25 https://t.co/ddz8W1a2vi",
+        "created_at": "2021-07-01T00:56:11.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1410401816089669633"
+        ]
+    },
+    {
+        "id": "1409907930858655752",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.360257,
+                    34.027769
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "75104523",
+        "text": "I'm at Fellows Cafe in Roswell, GA https://t.co/OEGLTiWQPc https://t.co/OJKnkJMF66",
+        "created_at": "2021-06-29T16:13:40.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1409907930858655752"
+        ]
+    },
+    {
+        "id": "1408946315942322181",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35319487,
+                    33.99058285
+                ]
+            },
+            "place_id": "b077585758242faa"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "937336193603244034",
+        "text": "Just posted a photo @ Tony's Sports Bar &amp; Grill https://t.co/yFmSL0205A",
+        "created_at": "2021-06-27T00:32:33.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1408946315942322181"
+        ]
+    },
+    {
+        "id": "1407395627085058054",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3616257,
+                    34.02425
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "116327218",
+        "text": "Drinking a Coconut Porter by Cherry Street Brewing  @ Lola\u2019s Burger &amp; Tequila Bar \u2014 https://t.co/a6LEw51XlB",
+        "created_at": "2021-06-22T17:50:40.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1407395627085058054"
+        ]
+    },
+    {
+        "id": "1392996713342902275",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36397037,
+                    34.0146547
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "author_id": "1371995740755656705",
+        "text": "Self-Care out in ATL...leave the espresso martinis up to the professionals like @craftedcustomsnola tho... \ud83d\ude05\n\n#treatyoself #selfcare #atl #hotworx #yum @ The Mill Kitchen and Bar https://t.co/3kV6eFNeTt",
+        "created_at": "2021-05-14T00:14:31.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1392996713342902275"
+        ]
+    },
+    {
+        "id": "1392073546826932229",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35052,
+                    33.98138
+                ]
+            },
+            "place_id": "b077585758242faa"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "534966828",
+        "text": "Just posted a photo @ Venetian Bar &amp; Lounge https://t.co/WDYaObaj1Q",
+        "created_at": "2021-05-11T11:06:11.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1392073546826932229"
+        ]
+    },
+    {
+        "id": "1388292929693814784",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35052,
+                    33.98138
+                ]
+            },
+            "place_id": "b077585758242faa"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "28094079",
+        "text": "Just posted a video @ Venetian Bar &amp; Lounge https://t.co/70hItAadQR",
+        "created_at": "2021-05-01T00:43:22.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1388292929693814784"
+        ]
+    },
+    {
+        "id": "1386055012015513604",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35319487,
+                    33.99058285
+                ]
+            },
+            "place_id": "b077585758242faa"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "937336193603244034",
+        "text": "Just posted a photo @ Tony's Sports Bar &amp; Grill https://t.co/rVcSm7eE62",
+        "created_at": "2021-04-24T20:30:41.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1386055012015513604"
+        ]
+    },
+    {
+        "id": "1382840545530294273",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36397037,
+                    34.0146547
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "2341148232",
+        "text": "Just posted a photo @ The Mill Kitchen and Bar https://t.co/P7vftcc7BW",
+        "created_at": "2021-04-15T23:37:32.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1382840545530294273"
+        ]
+    },
+    {
+        "id": "1382185179003957248",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35319487,
+                    33.99058285
+                ]
+            },
+            "place_id": "b077585758242faa"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "author_id": "2481476749",
+        "text": "We had so much fun with my sister britt britt and my new bro in law for her birthday weekend and of course my baby jojo elegua aka @jaybeyel love him so much \u2764\ufe0f\ud83d\ude0d\ud83e\udd70\ud83d\ude18\ud83d\udc96. @ Tony's Sports Bar &amp; Grill https://t.co/Cc0UhIqBLO",
+        "created_at": "2021-04-14T04:13:21.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1382185179003957248"
+        ]
+    },
+    {
+        "id": "1381121000536936449",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35319487,
+                    33.99058285
+                ]
+            },
+            "place_id": "b077585758242faa"
+        },
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "author_id": "2481476749",
+        "text": "Out with my sister britt britt happy birthday beautiful \u2764\ufe0f you @ Tony's Sports Bar &amp; Grill https://t.co/2fFLut16tP",
+        "created_at": "2021-04-11T05:44:41.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1381121000536936449"
+        ]
+    },
+    {
+        "id": "1380995692450177032",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.31765,
+                    34.007033
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "16005338",
+        "text": "Visiting my #bff @connect2thelight. Pics from their #farmersmarket, our morning walk &amp; lunch @ the moose cafe. #gratefulheart #thanks @hypnowheel \ud83d\ude18\u2764\ufe0f @ Martin's Landing https://t.co/ikKK0dL2qE",
+        "created_at": "2021-04-10T21:26:45.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1380995692450177032"
+        ]
+    },
+    {
+        "id": "1373567297546244097",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35319487,
+                    33.99058285
+                ]
+            },
+            "place_id": "b077585758242faa"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "937336193603244034",
+        "text": "Johnny\n\nWhat up make sure you \nTags us this weekend playing the mp3waxx Priority record \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\nArtist Xay Capisce song chapo \n\nTag to use \n@xaycapisce\n@mp3waxxmusic @ Tony's Sports Bar &amp; Grill https://t.co/3qRTZ7vaV9",
+        "created_at": "2021-03-21T09:28:58.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1373567297546244097"
+        ]
+    },
+    {
+        "id": "1373424120189186051",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35319487,
+                    33.99058285
+                ]
+            },
+            "place_id": "b077585758242faa"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "937336193603244034",
+        "text": "Just posted a photo @ Tony's Sports Bar &amp; Grill https://t.co/1L4KcxrHXj",
+        "created_at": "2021-03-21T00:00:01.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1373424120189186051"
+        ]
+    },
+    {
+        "id": "1367877436558348292",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36179,
+                    34.02424
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "1364577222372294658",
+        "text": "Just posted a video @ Lola's Burger and Tequila Bar https://t.co/qRLh3jsoG0",
+        "created_at": "2021-03-05T16:39:29.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1367877436558348292"
+        ]
+    },
+    {
+        "id": "1365760249844674562",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35319487,
+                    33.99058285
+                ]
+            },
+            "place_id": "b077585758242faa"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "45194344",
+        "text": "Good times with good friends! @ramdris.brows.atl &amp; The Saunders @ Tony's Sports Bar &amp; Grill https://t.co/wSdSBIWmug",
+        "created_at": "2021-02-27T20:26:32.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1365760249844674562"
+        ]
+    },
+    {
+        "id": "1364945728489934848",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3615555,
+                    34.0232431
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "22875075",
+        "text": "Nervous to apply for a job like \"Shift Lead\" at Five Guys? Apply even if you're not a 100% match. You might be underestimating your value. Click the link in our bio for more info. #Restaurant #ShiftLeader",
+        "created_at": "2021-02-25T14:29:55.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1364945728489934848"
+        ]
+    },
+    {
+        "id": "1363124354230403076",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35319487,
+                    33.99058285
+                ]
+            },
+            "place_id": "b077585758242faa"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "author_id": "45194344",
+        "text": "My Birthday twin &amp; best friend to the end! @shika_84  &amp; I had a blast for our birthday! #TeamAquarius @ Tony's Sports Bar &amp; Grill https://t.co/yPmU6QmoAU",
+        "created_at": "2021-02-20T13:52:26.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1363124354230403076"
+        ]
+    },
+    {
+        "id": "1362636195746836485",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35319487,
+                    33.99058285
+                ]
+            },
+            "place_id": "b077585758242faa"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "author_id": "45194344",
+        "text": "The Birthday twins! Me &amp; @shika_84 shut it down tonight! #TeamAquarius @ Tony's Sports Bar &amp; Grill https://t.co/N3YNNwql6T",
+        "created_at": "2021-02-19T05:32:40.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1362636195746836485"
+        ]
+    },
+    {
+        "id": "1362604010277019651",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35319487,
+                    33.99058285
+                ]
+            },
+            "place_id": "b077585758242faa"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "author_id": "45194344",
+        "text": "My homies @deannegourdine &amp; Keesha pulled up on me to celebrate my birthday with me I appreciate my friends I don't play about these two! @ Tony's Sports Bar &amp; Grill https://t.co/4j2cp59N40",
+        "created_at": "2021-02-19T03:24:46.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1362604010277019651"
+        ]
+    },
+    {
+        "id": "1362602546108375040",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35319487,
+                    33.99058285
+                ]
+            },
+            "place_id": "b077585758242faa"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "author_id": "45194344",
+        "text": "My homegirl @d_gainez_ pulled up to celebrate my birthday with me! @ Tony's Sports Bar &amp; Grill https://t.co/Ksl1YHbOJE",
+        "created_at": "2021-02-19T03:18:57.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1362602546108375040"
+        ]
+    },
+    {
+        "id": "1362602081190895616",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35319487,
+                    33.99058285
+                ]
+            },
+            "place_id": "b077585758242faa"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "45194344",
+        "text": "My homie @deannegourdine from Buffalo New York pulled up on me to celebrate my birthday with me! @ Tony's Sports Bar &amp; Grill https://t.co/2hYExlVIT2",
+        "created_at": "2021-02-19T03:17:06.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1362602081190895616"
+        ]
+    },
+    {
+        "id": "1362600621547880451",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35319487,
+                    33.99058285
+                ]
+            },
+            "place_id": "b077585758242faa"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "45194344",
+        "text": "Ayeeeeeee! @ Tony's Sports Bar &amp; Grill https://t.co/N9T7wv67sU",
+        "created_at": "2021-02-19T03:11:18.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1362600621547880451"
+        ]
+    },
+    {
+        "id": "1355909942126006272",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35290255,
+                    33.99057456
+                ]
+            },
+            "place_id": "b077585758242faa"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "author_id": "937336193603244034",
+        "text": "THIS PRIORITY RECORD Seddy Hendrinx ft. A Boogie Wit Da Hoodie - 45\n@mp3waxxmusic\n@seddyhendrinx\n@floridaboymusic @ Tony's Sports Bar &amp; Grill https://t.co/cjmgx42LBs",
+        "created_at": "2021-01-31T16:04:56.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1355909942126006272"
+        ]
+    },
+    {
+        "id": "1355671829860528129",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35290255,
+                    33.99057456
+                ]
+            },
+            "place_id": "b077585758242faa"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "937336193603244034",
+        "text": "Just posted a photo @ Tony's Sports Bar &amp; Grill https://t.co/uEou9TGbQP",
+        "created_at": "2021-01-31T00:18:46.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1355671829860528129"
+        ]
+    },
+    {
+        "id": "1350848050474999810",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35290255,
+                    33.99057456
+                ]
+            },
+            "place_id": "b077585758242faa"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "author_id": "937336193603244034",
+        "text": "Just posted a photo @ Tony's Sports Bar &amp; Grill https://t.co/6oKO7CUkND",
+        "created_at": "2021-01-17T16:50:47.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1350848050474999810"
+        ]
+    },
+    {
+        "id": "1343317512105172992",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36391408,
+                    34.01457707
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "319771748",
+        "text": "Celebrated Kimberly in style today !!!  Happy Birthday and a successful heart transplant ...   truly a cause to rejoice !!! @ The Mill Kitchen and Bar https://t.co/K1tRyB9JUA",
+        "created_at": "2020-12-27T22:07:07.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1343317512105172992"
+        ]
+    },
+    {
+        "id": "1340297331779002370",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36034,
+                    34.02818
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "34465416",
+        "text": "Just posted a photo @ Fellows Cafe https://t.co/q4hQ73sENZ",
+        "created_at": "2020-12-19T14:06:00.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1340297331779002370"
+        ]
+    },
+    {
+        "id": "1338907176308510726",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36034,
+                    34.02818
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "327018145",
+        "text": "First on Tuesday\u2019s agenda...a quick brunch and coffee before diving into work this afternoon. \u2615\ufe0f  Hope everyone\u2019s Tuesday is going well! \u2764\ufe0f @ Fellows Cafe https://t.co/AjQNSDmOX2",
+        "created_at": "2020-12-15T18:02:01.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1338907176308510726"
+        ]
+    },
+    {
+        "id": "1335337950138281984",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35290255,
+                    33.99057456
+                ]
+            },
+            "place_id": "b077585758242faa"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "author_id": "937336193603244034",
+        "text": "Just posted a photo @ Tony's Sports Bar &amp; Grill https://t.co/Gdc9zzBMr5",
+        "created_at": "2020-12-05T21:39:11.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1335337950138281984"
+        ]
+    },
+    {
+        "id": "1333951056296947713",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36089,
+                    34.02847
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "author_id": "17962057",
+        "text": "MASSIVE thanks to @ryanpernice and the @osteriamattone crew for making our anniversary truly unforgettable. If you\u2019ve never been to an @rohospitality restaurant you\u2019re missing out. @ Osteria Mattone https://t.co/fwsENLjoZL",
+        "created_at": "2020-12-02T01:48:10.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1333951056296947713"
+        ]
+    },
+    {
+        "id": "1328747978471911424",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "11f271c40915a003"
+        },
+        "author_id": "1534639064",
+        "text": "Who wants to see; Channel Letters mounted to a bar installed onto a canopy? \ud83d\ude4b\ud83c\udffb\u200d\u2640\ufe0f\ud83d\ude4b\ud83c\udffb\ud83d\ude4b\ud83c\udffb\u200d\u2640\ufe0f\ud83d\ude4b\ud83c\udffb",
+        "created_at": "2020-11-17T17:12:59.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1328747978471911424"
+        ]
+    },
+    {
+        "id": "1327372520366989319",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36391408,
+                    34.01457707
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "1665757848",
+        "text": "Date night while the boys are at Fall Retreat at church! #mygirl #NASM #\u2764\ufe0fmygurl #datenight @ The Mill Kitchen and Bar https://t.co/UXTujpKmBz",
+        "created_at": "2020-11-13T22:07:24.000Z",
+        "lang": "en",
+        "edit_history_tweet_ids": [
+            "1327372520366989319"
+        ]
+    },
+    {
+        "author_id": "2651580500",
+        "id": "1321526485547626499",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3624258,
+                    34.01661539
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "lang": "en",
+        "created_at": "2020-10-28T18:57:21.000Z",
+        "edit_history_tweet_ids": [
+            "1321526485547626499"
+        ],
+        "text": "Come grab some fresh #trailertotray #texmexbbq at @chipperspub this Saturday 12-sold out. Full bar available for patio and to go dining. Start your Halloween off right and stock up for the weekend. BBQ&gt;candy. https://t.co/bIAkdbBaig",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "1246342549",
+        "id": "1319426150653984768",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35104708,
+                    33.98847105
+                ]
+            },
+            "place_id": "b077585758242faa"
+        },
+        "lang": "en",
+        "created_at": "2020-10-22T23:51:22.000Z",
+        "edit_history_tweet_ids": [
+            "1319426150653984768"
+        ],
+        "text": "Man night with my gym friends from #formwell. Hard evening workout...then rewarded with wings and beer at #$3cafe. @ Three Dollar Cafe https://t.co/Oxj6ECDtQ3",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "28094079",
+        "id": "1311439132552507394",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35052,
+                    33.98138
+                ]
+            },
+            "place_id": "b077585758242faa"
+        },
+        "lang": "en",
+        "created_at": "2020-09-30T22:53:49.000Z",
+        "edit_history_tweet_ids": [
+            "1311439132552507394"
+        ],
+        "text": "Mentally and physically happy!  That\u2019s all that matters. Happy hump day !  #humpdayvibes @ Venetian Bar &amp; Lounge https://t.co/UsbhIGYbnZ",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "810732291328708608",
+        "id": "1304911255531126784",
+        "lang": "en",
+        "geo": {
+            "place_id": "07d9e86b27888000"
+        },
+        "created_at": "2020-09-12T22:34:22.000Z",
+        "edit_history_tweet_ids": [
+            "1304911255531126784"
+        ],
+        "text": "Book with me at the Silk Bar \u2728 https://t.co/rU4iDg12Yn",
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 2,
+            "like_count": 26,
+            "quote_count": 2
+        }
+    },
+    {
+        "author_id": "584207011",
+        "id": "1302994951714885635",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36103,
+                    34.0279
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "lang": "en",
+        "created_at": "2020-09-07T15:39:39.000Z",
+        "edit_history_tweet_ids": [
+            "1302994951714885635"
+        ],
+        "text": "Black Restaurant Week - Vintage Frozen Custard Old Fashioned Ice Cream Parlor &amp; Food Truck... #tastevintage 1075 Canton Street Roswell Ga 30075 (Black Owner Business) \ud83c\udf66\ud83e\udd34\ud83c\udfff\ud83d\udd0c\ud83c\udfa5\ud83c\udfac\ud83d\udcb0#ATL #atlanta #supportatlantarestaurants\u2026 https://t.co/mb0wkdQIIk",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "584207011",
+        "id": "1302981300853374978",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36103,
+                    34.0279
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "lang": "en",
+        "created_at": "2020-09-07T14:45:25.000Z",
+        "edit_history_tweet_ids": [
+            "1302981300853374978"
+        ],
+        "text": "Black Restaurant Week - Vintage Frozen Custard Old Fashioned Ice Cream Parlor &amp; Food Truck... #tastevintage 1075 Canton Street Roswell Ga 30075 (Black Owner Business) \ud83c\udf66\ud83e\udd34\ud83c\udfff\ud83d\udd0c\ud83c\udfa5\ud83c\udfac\ud83d\udcb0#ATL #atlanta #supportatlantarestaurants\u2026 https://t.co/AhaLHQixv1",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "354463292",
+        "id": "1300538126390177794",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36108,
+                    34.02432
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "lang": "en",
+        "created_at": "2020-08-31T20:57:06.000Z",
+        "edit_history_tweet_ids": [
+            "1300538126390177794"
+        ],
+        "text": "Congratulations Canton St Social on your new restaurant!\ud83c\udf89  Hope all our friends that come see us at ( formerly) lonroswell will go follow  cantonstsocial so they can see all the exciting new menu items and changes\u2026 https://t.co/Nuv8bQPNaC",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "2651580500",
+        "id": "1298233998175539200",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36546658,
+                    34.02271089
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "lang": "en",
+        "created_at": "2020-08-25T12:21:19.000Z",
+        "edit_history_tweet_ids": [
+            "1298233998175539200"
+        ],
+        "text": "Sold out of the #texastrinity preorders. We are still taking pre-orders for ala carte until end of Thursday. Saturday pickup shanghairoswell As always onsite dining with full bar available\u2026 https://t.co/T2fQJgUQIY",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "2651580500",
+        "id": "1296882908905472000",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36546658,
+                    34.02271089
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "lang": "en",
+        "created_at": "2020-08-21T18:52:35.000Z",
+        "edit_history_tweet_ids": [
+            "1296882908905472000"
+        ],
+        "text": "Hey #texasexes and #texasfootball fans. On game days when you show up in #texaslonghorn gear or colors you get 10% off your order. #texasfight #hookem @ Shanghai Chinese Food &amp; Bar https://t.co/FJ8iYRIihb",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "2651580500",
+        "id": "1296854506572066817",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36546658,
+                    34.02271089
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "lang": "en",
+        "created_at": "2020-08-21T16:59:43.000Z",
+        "edit_history_tweet_ids": [
+            "1296854506572066817"
+        ],
+        "text": "Tomorrow shanghairoswell 12-sold out. If you can\u2019t make it to Texas this weekend come say hi to a Texan and eat some Texas food. #texas @ Shanghai Chinese Food &amp; Bar https://t.co/77ZOtT6BuT",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "1214992636525924359",
+        "id": "1295778272857423872",
+        "lang": "en",
+        "geo": {
+            "place_id": "07d9daa26e082000"
+        },
+        "created_at": "2020-08-18T17:43:09.000Z",
+        "edit_history_tweet_ids": [
+            "1295778272857423872"
+        ],
+        "text": "Thanks to Meg Prewitt + @familytreecc \u2014 Kern's Bakery has fresh baked bread-scented candles!  Smells like home!  Join the tenant line-up! #KnoxvilleTN #KernsBakeryFoodHall #SmellsLikeHome https://t.co/3AzPIAMHjD",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "2651580500",
+        "id": "1294715385279700992",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36546658,
+                    34.02271089
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "lang": "en",
+        "created_at": "2020-08-15T19:19:37.000Z",
+        "edit_history_tweet_ids": [
+            "1294715385279700992"
+        ],
+        "text": "That\u2019s a wrap for today. Next Saturday menu coming in tomorrow. Think beef ribs are making a return. Carnitas could be coming as well. #texmexbbq #cuisinetexicana @ Shanghai Chinese Food &amp; Bar https://t.co/owrly27clP",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "2651580500",
+        "id": "1294656105537318913",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36546658,
+                    34.02271089
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "lang": "en",
+        "created_at": "2020-08-15T15:24:03.000Z",
+        "edit_history_tweet_ids": [
+            "1294656105537318913"
+        ],
+        "text": "The weather turned out to be cooperative today so we brought #chupacarne out for you all! See you in an hour until sold out. #texmexbbq #cuisinetexicana @ Shanghai Chinese Food &amp; Bar https://t.co/W3NWjh0Vx3",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "2651580500",
+        "id": "1293212867181850625",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36546658,
+                    34.02271089
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "lang": "en",
+        "created_at": "2020-08-11T15:49:08.000Z",
+        "edit_history_tweet_ids": [
+            "1293212867181850625"
+        ],
+        "text": "#elpolloloco returns this Saturday as well. Rubbed in dry chilies, cumin, garlic and other spices it\u2019s smoked until crisp skinned and topped with a Texas white sauce. @ Shanghai Chinese Food &amp; Bar https://t.co/amAq9NGQ15",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "2651580500",
+        "id": "1293196638576680960",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36546658,
+                    34.02271089
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "lang": "en",
+        "created_at": "2020-08-11T14:44:39.000Z",
+        "edit_history_tweet_ids": [
+            "1293196638576680960"
+        ],
+        "text": "Preorders for this Saturday pickup shanghairoswell are a go! Brisket, Pastrami, Spare Ribs, 1/2 chickens, Cheddar-Jalape\u00f1o sausage, Mac &amp; Queso, Smoked Green Chile Corn #cuisinetexicana @ Shanghai Chinese Food &amp; Bar https://t.co/hZBpNQQJWW",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "2651580500",
+        "id": "1290314983402688515",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36546658,
+                    34.02271089
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "lang": "en",
+        "created_at": "2020-08-03T15:53:59.000Z",
+        "edit_history_tweet_ids": [
+            "1290314983402688515"
+        ],
+        "text": "Saturday 8/8 pre-orders now until end of Wednesday. Pickup shanghairoswell starting at noon. Grab some to go drinks from the bar to wash it down! @ Shanghai Chinese Food &amp; Bar https://t.co/G5yLgH9UyS",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "1214992636525924359",
+        "id": "1289283050786807808",
+        "lang": "en",
+        "geo": {
+            "place_id": "07d9daa26e082000"
+        },
+        "created_at": "2020-07-31T19:33:27.000Z",
+        "edit_history_tweet_ids": [
+            "1289283050786807808"
+        ],
+        "text": "#FlashBackFriday \u2013 Kern\u2019s Bakery featured in the University of Tennessee, Volunteer Yearbook, 1990. https://t.co/Kzql3YWvTq",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "2651580500",
+        "id": "1287062845377728513",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36546658,
+                    34.02271089
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "lang": "en",
+        "created_at": "2020-07-25T16:31:09.000Z",
+        "edit_history_tweet_ids": [
+            "1287062845377728513"
+        ],
+        "text": "#texasfood shanghairoswell now @ Shanghai Chinese Food &amp; Bar https://t.co/ra4aIw2GDT",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "2651580500",
+        "id": "1284552245124661248",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36546658,
+                    34.02271089
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "lang": "en",
+        "created_at": "2020-07-18T18:14:55.000Z",
+        "edit_history_tweet_ids": [
+            "1284552245124661248"
+        ],
+        "text": "Thanks Roswell. See you next weekend for Tex-Benes. We\u2019ll make a lot more now that we know the response to our new location is loco! Preorder menu drops tomorrow. #cuisinetexicana #texmexbbq @ Shanghai Chinese Food &amp; Bar https://t.co/RdfGAMB1IF",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "14904720",
+        "id": "1284281647844786176",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36179,
+                    34.02424
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "lang": "en",
+        "created_at": "2020-07-18T00:19:40.000Z",
+        "edit_history_tweet_ids": [
+            "1284281647844786176"
+        ],
+        "text": "Never give up! @ Lola's Burger and Tequila Bar https://t.co/ZEA0TtQIGc",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "2651580500",
+        "id": "1284146499711049734",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36546658,
+                    34.02271089
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "lang": "en",
+        "created_at": "2020-07-17T15:22:38.000Z",
+        "edit_history_tweet_ids": [
+            "1284146499711049734"
+        ],
+        "text": "Pastrami has replaced pulled pork on the menu tomorrow.  12:30-sold out shanghairoswell #cuisinetexicana #texmexbbq @ Shanghai Chinese Food &amp; Bar https://t.co/TO5qpHrNDa",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "17547167",
+        "id": "1279402186506715136",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36002919,
+                    34.02237045
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "lang": "en",
+        "created_at": "2020-07-04T13:10:26.000Z",
+        "edit_history_tweet_ids": [
+            "1279402186506715136"
+        ],
+        "text": "Happy 4th of July! Come grab a bar of our Red White &amp; Fruit from either market today until noon! Grab some farm fresh produce and treats from your local farmers!  Find us ptreefarmersmkt and @roswellfam !! @ Roswell\u2026 https://t.co/aoemzO6Nx0",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "21442740",
+        "id": "1278735851221114880",
+        "lang": "en",
+        "geo": {
+            "place_id": "07d9ca0327884000"
+        },
+        "created_at": "2020-07-02T17:02:39.000Z",
+        "edit_history_tweet_ids": [
+            "1278735851221114880"
+        ],
+        "text": "Another successful @MealProgram distribution this morning thanks to @TalkoftheTownGA and Gracious Plenty Bakery!\nPlease support our communities in need and our local restaurants by buying gift cards from our participating partners.  \nThank you!\u2764\ufe0f @scottlong https://t.co/exjlvJwPUm",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 9,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "2651580500",
+        "id": "1276897831404670976",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36546658,
+                    34.02271089
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "lang": "en",
+        "created_at": "2020-06-27T15:19:01.000Z",
+        "edit_history_tweet_ids": [
+            "1276897831404670976"
+        ],
+        "text": "It\u2019s #texmexbbq time #roswellga. #cuisinetexicana @ Shanghai Chinese Food &amp; Bar https://t.co/tijTiIuWxP",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "1214992636525924359",
+        "id": "1276241591473262593",
+        "lang": "en",
+        "geo": {
+            "place_id": "07d9daa26e082000"
+        },
+        "created_at": "2020-06-25T19:51:21.000Z",
+        "edit_history_tweet_ids": [
+            "1276241591473262593"
+        ],
+        "text": "Innovative cuisine by independent vendors combined with the communal dining experience is what you can expect from us and the Food Hall experience! Retweet if your ready to Experience Kern\u2019s Bakery! https://t.co/Wovq5z1VKD",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "2651580500",
+        "id": "1275511989759086593",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36546658,
+                    34.02271089
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "lang": "en",
+        "created_at": "2020-06-23T19:32:10.000Z",
+        "edit_history_tweet_ids": [
+            "1275511989759086593"
+        ],
+        "text": "This Saturday #elchupacarne is setting up shanghairoswell for some barbecue, full bar and patio fun in the sun from noon-4 (or sold out).  We are also taking preorders for pickup starting now until end of day\u2026 https://t.co/S6DpMcpVW6",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "1214992636525924359",
+        "id": "1274047965167005700",
+        "lang": "en",
+        "geo": {
+            "place_id": "07d9daa26e082000"
+        },
+        "created_at": "2020-06-19T18:34:40.000Z",
+        "edit_history_tweet_ids": [
+            "1274047965167005700"
+        ],
+        "text": "It housed an emporium of confections, an ice cream parlor, and a meeting hall for the Oddfellows organization. Today, the original Kern\u2019s Bakery building houses @theoliverhotel and the @oeterkernlibrary \u2013\u00a0Did you know the history behind this historical building?",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "1214992636525924359",
+        "id": "1274047963006935040",
+        "lang": "en",
+        "geo": {
+            "place_id": "07d9daa26e082000"
+        },
+        "created_at": "2020-06-19T18:34:39.000Z",
+        "edit_history_tweet_ids": [
+            "1274047963006935040"
+        ],
+        "text": "In the late 1860\u2019s, Kern bought out his partner\u2019s share, expanded into a two-story structure on Market Square and then commissioned Kern\u2019s Bakery, a three-story building on Union Street at Market Square which opened in 1876.",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "1214992636525924359",
+        "id": "1274047960440016897",
+        "lang": "en",
+        "geo": {
+            "place_id": "07d9daa26e082000"
+        },
+        "created_at": "2020-06-19T18:34:39.000Z",
+        "edit_history_tweet_ids": [
+            "1274047960440016897"
+        ],
+        "text": "He and a fellow German immigrant established a bakery at the corner of State Street and Main Avenue.",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "2651580500",
+        "id": "1272503412920369152",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36546658,
+                    34.02271089
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "lang": "en",
+        "created_at": "2020-06-15T12:17:10.000Z",
+        "edit_history_tweet_ids": [
+            "1272503412920369152"
+        ],
+        "text": "We are happy to announce that we have found a new Saturday afternoon vending location. Come on out June 27 to shanghairoswell for #texmexbbq and a full bar for patio dining and drinks. We will be there for pickup and\u2026 https://t.co/oxtWQAZPmZ",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "344697927",
+        "id": "1271871061836038145",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36391408,
+                    34.01457707
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "lang": "en",
+        "created_at": "2020-06-13T18:24:26.000Z",
+        "edit_history_tweet_ids": [
+            "1271871061836038145"
+        ],
+        "text": "She said YES! Finally a date with this special lady! @ The Mill Kitchen and Bar https://t.co/4UdmuGgtMW",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "361693952",
+        "id": "1267266612031340546",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36546658,
+                    34.02271089
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "lang": "en",
+        "created_at": "2020-06-01T01:27:59.000Z",
+        "edit_history_tweet_ids": [
+            "1267266612031340546"
+        ],
+        "text": "Happy Birthday princess !!! #BdayGirl #Family @ Shanghai Chinese Food &amp; Bar https://t.co/x5UQm0u7HG",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "34465416",
+        "id": "1266736831560921091",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36034,
+                    34.02818
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "lang": "en",
+        "created_at": "2020-05-30T14:22:50.000Z",
+        "edit_history_tweet_ids": [
+            "1266736831560921091"
+        ],
+        "text": "Take me back to the patio at Fellows Cafe. This charcuterie board was filled with fruits, nuts, meats and cheese. Their lemon ricotta hotcakes are to die for. Currently fellowscafe is open only for takeout. Hope your\u2026 https://t.co/NlIKepK4zo",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "436088519",
+        "id": "1261749952109252610",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3502599,
+                    34.0015862
+                ]
+            },
+            "place_id": "b077585758242faa"
+        },
+        "lang": "en",
+        "created_at": "2020-05-16T20:06:45.000Z",
+        "edit_history_tweet_ids": [
+            "1261749952109252610"
+        ],
+        "text": "Got my #gearhead on at @cocarshow #covid19 edition livestream event. The future location of @cocarshow Garage, coffee shop &amp; bar... coming soon! Local faves came out to share their auto\u2026 https://t.co/ChFwnl4AAT",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "119510852",
+        "id": "1260927816985481217",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36070859,
+                    34.01964864
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "lang": "en",
+        "created_at": "2020-05-14T13:39:53.000Z",
+        "edit_history_tweet_ids": [
+            "1260927816985481217"
+        ],
+        "text": "Our day in the sun, literally at a recent outdoor meeting with new clients (and new friends) Marcus Dickman and Rob Forrest as we unveil the branding concept for a new restaurant identity platform for Bayou\u2019Q on\u2026 https://t.co/neTXl7Pz55",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "2651580500",
+        "id": "1258890131294961664",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36074653,
+                    34.01940629
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "lang": "en",
+        "created_at": "2020-05-08T22:42:51.000Z",
+        "edit_history_tweet_ids": [
+            "1258890131294961664"
+        ],
+        "text": "Roswell\u2019s craft beer and Tex-Mex barbecue restaurant made the news.  Thanks @ATLDiningNews and via_faillapr. @ Tap &amp; Six https://t.co/z2BUmg0jWH",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "1214992636525924359",
+        "id": "1258822781912920068",
+        "lang": "en",
+        "geo": {
+            "place_id": "07d9daa26e082000"
+        },
+        "created_at": "2020-05-08T18:15:13.000Z",
+        "edit_history_tweet_ids": [
+            "1258822781912920068"
+        ],
+        "text": "Kern's Bakery Chief Strategy Officer, Alex Dominguez, was just named a Leading Influencer in the Retail Space by https://t.co/KIgnNB2hiw \u2014 Click here to read the full article: https://t.co/RF5ugSWAZb https://t.co/WBcAbo6D64",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "60456784",
+        "id": "1248274642332037121",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35290255,
+                    33.99057456
+                ]
+            },
+            "place_id": "b077585758242faa"
+        },
+        "lang": "en",
+        "created_at": "2020-04-09T15:40:41.000Z",
+        "edit_history_tweet_ids": [
+            "1248274642332037121"
+        ],
+        "text": "#TBT at my favorite neighborhood bar...back when we could be at bars...\ud83d\ude29\ud83d\ude29\ud83d\ude29 @ Tony's Sports Bar &amp; Grill https://t.co/kFFxAIUiMt",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "119510852",
+        "id": "1242418750168563715",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35547,
+                    34.03036
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "lang": "en",
+        "created_at": "2020-03-24T11:51:27.000Z",
+        "edit_history_tweet_ids": [
+            "1242418750168563715"
+        ],
+        "text": "@streetstudioATL THANKS YOU for your to-go orders and support. We are so grateful to our community for a busy, rainy Monday, with a steady stream of to-go orders that helps keep our crew and restaurant hummmmming\u2026 https://t.co/P9B50zZthB",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "138192285",
+        "id": "1239673480813121538",
+        "lang": "en",
+        "geo": {
+            "place_id": "0fc304e0f114c000"
+        },
+        "created_at": "2020-03-16T22:02:44.000Z",
+        "edit_history_tweet_ids": [
+            "1239673480813121538"
+        ],
+        "text": "One of metro #Atlanta\u2019s top restaurants @TableAndMain, a @cbs46 #GoldenSpatula award winner, has decided to close their restaurant tonight due to the threat of #Coronavirus.  They will be offering take-out until further notice. https://t.co/zUr9qf0i8v",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "44066975",
+        "id": "1237820904631152643",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35290255,
+                    33.99057456
+                ]
+            },
+            "place_id": "b077585758242faa"
+        },
+        "lang": "en",
+        "created_at": "2020-03-11T19:21:15.000Z",
+        "edit_history_tweet_ids": [
+            "1237820904631152643"
+        ],
+        "text": "Like you, like you\nLike you, ooh\nI found it hard to find someone like you\nLike you, like you\nSend your location, come through (Yeah) @ Tony's Sports Bar &amp; Grill https://t.co/RkNmA7JWy4",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "980610534973337606",
+        "id": "1236810796304302081",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35290255,
+                    33.99057456
+                ]
+            },
+            "place_id": "b077585758242faa"
+        },
+        "lang": "en",
+        "created_at": "2020-03-09T00:27:27.000Z",
+        "edit_history_tweet_ids": [
+            "1236810796304302081"
+        ],
+        "text": "Out doing \u201cbald head tings\u201d @ Tony's Sports Bar &amp; Grill https://t.co/oRrpo6gKs6",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "3164642432",
+        "id": "1235776924561129472",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36546658,
+                    34.02271089
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "lang": "en",
+        "created_at": "2020-03-06T03:59:13.000Z",
+        "edit_history_tweet_ids": [
+            "1235776924561129472"
+        ],
+        "text": "Thank you Aaron!!! @ Shanghai Chinese Food &amp; Bar https://t.co/FrZ8so7kbN",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "3164642432",
+        "id": "1235771561078067201",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36546658,
+                    34.02271089
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "lang": "en",
+        "created_at": "2020-03-06T03:37:54.000Z",
+        "edit_history_tweet_ids": [
+            "1235771561078067201"
+        ],
+        "text": "So much fun spending time with these two!!! @ Shanghai Chinese Food &amp; Bar https://t.co/aCf4VZVXOB",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "284333840",
+        "id": "1232103863337062402",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3297,
+                    34.022
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "lang": "en",
+        "created_at": "2020-02-25T00:43:47.000Z",
+        "edit_history_tweet_ids": [
+            "1232103863337062402"
+        ],
+        "text": "Sweet fruity IPA w/ low bitterness - Drinking a POG Basement by @ScofflawBrewing @ Dogwood Cafe  \u2014 https://t.co/S6Gkr8RYYg",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "232460626",
+        "id": "1227667111033442304",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35052,
+                    33.98138
+                ]
+            },
+            "place_id": "b077585758242faa"
+        },
+        "lang": "en",
+        "created_at": "2020-02-12T18:53:42.000Z",
+        "edit_history_tweet_ids": [
+            "1227667111033442304"
+        ],
+        "text": "Keep a date this Thursday!!! venetianatl cc @maestrobobby1 officialdjdes abrahamonsax @ Venetian Grill &amp; Bar https://t.co/wDSxWmBzwE",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "2760630212",
+        "id": "1223415670467178497",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.34132821,
+                    34.03136052
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "lang": "en",
+        "created_at": "2020-02-01T01:20:00.000Z",
+        "edit_history_tweet_ids": [
+            "1223415670467178497"
+        ],
+        "text": "FOMO party of four (minus one) Happy Birthday, mnang ! See you soon, shercbeck ! \ud83d\udc9c\ud83d\udc9c @ Provino's Italian Restaurant https://t.co/NOYIqFoOlp",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "119510852",
+        "id": "1223310053073203200",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.35547,
+                    34.03036
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "lang": "en",
+        "created_at": "2020-01-31T18:20:19.000Z",
+        "edit_history_tweet_ids": [
+            "1223310053073203200"
+        ],
+        "text": "T-G-I-FRY-YAY!\nWe thinks this is just about right for your food-fun-family Friday at @streetstudioATL ! $5 Kids meals and whole lotta yummies (plus a full bar) for mom and dad. Kick off the weekend with the Best\u2026 https://t.co/cJXMY4EWM3",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "58187803",
+        "id": "1215306868836446210",
+        "lang": "en",
+        "geo": {
+            "place_id": "10c248a975d7d001"
+        },
+        "created_at": "2020-01-09T16:18:31.000Z",
+        "edit_history_tweet_ids": [
+            "1215306868836446210"
+        ],
+        "text": "Todays business spotlight \ud83d\udcabfeatures Cafe Au-Lait \u2615\ufe0f. One of our wonderful realtor partners Whitney gives us a glimpse into the cozy Cafe. Stop by when you\u2019re in the Roswell area!  #lucidoglobalgeorgia #lucidodifference #kellerwilliamsnorthatlanta #georgia https://t.co/eBg1aAgC79",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "author_id": "2419641841",
+        "id": "1215252463910973441",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.36056796,
+                    34.02712744
+                ]
+            },
+            "place_id": "548a885336da5635"
+        },
+        "lang": "en",
+        "created_at": "2020-01-09T12:42:20.000Z",
+        "edit_history_tweet_ids": [
+            "1215252463910973441"
+        ],
+        "text": "Crab cake platter with remoulade and dressing on the side \ud83d\ude0d tasty eats with @compassionco at @plumcaferoswell #kaledit #veganroadiewashere \ud83d\udc9a\ud83d\udd7a\ud83c\udffb\ud83d\udcaf @ Plum Cafe https://t.co/RPRVpTJzhe",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    }
+]

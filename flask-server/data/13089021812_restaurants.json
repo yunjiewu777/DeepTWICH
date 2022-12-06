@@ -1,0 +1,5847 @@
+[
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2022-05-29T23:41:39.000Z",
+        "text": "I'm at Mgm Cafe in Atlanta, GA https://t.co/V7MaTWT5x8",
+        "author_id": "1481137530",
+        "id": "1531058219359031302",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25630951,
+                    33.88647842
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1531058219359031302"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2022-05-29T23:36:06.000Z",
+        "text": "I'm at Prime Restaurant Group Office https://t.co/47uCs97rmt",
+        "author_id": "1481137530",
+        "id": "1531056820223201284",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25796147,
+                    33.88584201
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1531056820223201284"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2022-05-29T15:21:50.000Z",
+        "text": "I'm at Prime Restaurant Group Office https://t.co/G93pFEENaj",
+        "author_id": "1481137530",
+        "id": "1530932434119839744",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25796147,
+                    33.88584201
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1530932434119839744"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2022-05-29T15:21:28.000Z",
+        "text": "I'm at Mgm Cafe in Atlanta, GA https://t.co/30KCuavKYe",
+        "author_id": "1481137530",
+        "id": "1530932344198156288",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25630951,
+                    33.88647842
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1530932344198156288"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2022-05-21T11:49:23.000Z",
+        "text": "\ud83c\uddea\ud83c\uddf8\ud83d\udd25\ud83d\udd1c\u00a1Faltan 7 d\u00edas!\n\ud83d\udccd@HudsonGrille - Little Five Points.\n\ud83c\udd93Entrada al bar: GRATIS!\n\u2705Todo fan del Real Madrid es bienvenido!\n\ud83c\udf9bDJ en vivo: @midjfavorito \n\ud83c\udf9fRifas y m\u00e1s!\n\ud83d\udd17Visita la https://t.co/IJYvdGJ0pH para informaci\u00f3n detallada (Mapas, comida, bebida, precios, etc) https://t.co/zBRP5IKKjd",
+        "author_id": "1223407446",
+        "id": "1527979866708185089",
+        "lang": "es",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1527979866708185089"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "created_at": "2022-05-19T13:00:08.000Z",
+        "text": "\ud83c\uddea\ud83c\uddf8\ud83d\udd1c\u00a1Faltan 9 d\u00edas!\n\ud83d\udd25El evento para la final de la Champions ser\u00e1 en Hudson Grille - Little Five Points.\n\ud83c\udd93Entrada al bar: GRATIS!\n\ud83d\udd17Visita https://t.co/IJYvdGJ0pH para informaci\u00f3n detallada (Mapas, comida, bebida, precios, etc) https://t.co/m40AOWutLv",
+        "author_id": "1223407446",
+        "id": "1527272895789027328",
+        "lang": "es",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1527272895789027328"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2022-05-05T17:46:52.000Z",
+        "text": "Sorry grandma, you\u2019ve been dethroned.  Banchans, spicy radish soup, sizzling pan squid and for hubs pork. @ Yet Tuh Korean Restaurant https://t.co/LrJxY4u66L",
+        "author_id": "47357817",
+        "id": "1522271625193922560",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.26192079,
+                    33.91193371
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1522271625193922560"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 6,
+            "reply_count": 9,
+            "like_count": 28,
+            "quote_count": 1
+        },
+        "created_at": "2022-04-12T23:32:41.000Z",
+        "text": "I\u2019m at this restaurant and at the table next to me there are two young adults, obviously on their first date. I didn\u2019t see who grabbed the bill but the server handed it back to the young lady and she signed for it.\n\nLadies! Do not pay for a first date! Go Dutch if you must.",
+        "author_id": "835762912996249601",
+        "id": "1514023733157142528",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1514023733157142528"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 15,
+            "quote_count": 0
+        },
+        "created_at": "2022-04-12T23:12:26.000Z",
+        "text": "I\u2019m getting a physical tomorrow so they told me I have to fast from 8pm, when I tell you I\u2019m in the restaurant now and won\u2019t be leaving until I\u2019m full full",
+        "author_id": "835762912996249601",
+        "id": "1514018636956110849",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1514018636956110849"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2022-04-01T23:05:56.000Z",
+        "text": "Omg its only a fucking wine bar fuck it",
+        "author_id": "423261414",
+        "id": "1510030731325624321",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1510030731325624321"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2022-04-01T22:52:39.000Z",
+        "text": "I am walking in the first fucking bar I see idgaf who in there",
+        "author_id": "423261414",
+        "id": "1510027391959277570",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1510027391959277570"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "created_at": "2022-03-31T18:13:57.000Z",
+        "text": "@BaugherJp \ud83e\udd23\ud83e\udd23\ud83e\udd23 go to the search bar and type in the hashtag. \ud83e\udd2f They are \ud83e\udd21,  in my unprofessional...professional opinion.",
+        "author_id": "226726107",
+        "id": "1509594866409426951",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1509594866409426951"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2022-03-23T23:15:35.000Z",
+        "text": "Checked in automatically with the Ultimate Checkin app! https://t.co/GMzxkkpzpr (@ Three Dollar Cafe in Atlanta, GA) https://t.co/etMC0zim3i",
+        "author_id": "1481137530",
+        "id": "1506771669989343236",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.24810028,
+                    33.88498306
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1506771669989343236"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2022-03-23T23:14:38.000Z",
+        "text": "Checked in automatically with the Ultimate Checkin app! https://t.co/GMzxkkpzpr (@ Cafe Hotwings in Atlanta, GA) https://t.co/Hgxx1vxFUP",
+        "author_id": "1481137530",
+        "id": "1506771432314912772",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.24686146,
+                    33.88484015
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1506771432314912772"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2022-03-23T23:14:19.000Z",
+        "text": "Checked in automatically with the Ultimate Checkin app! https://t.co/GMzxkkpzpr (@ Cafe Hot Wing 2 in Chamblee, GA) https://t.co/iInWIaW1QC",
+        "author_id": "1481137530",
+        "id": "1506771351364853763",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.24804894,
+                    33.88476048
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1506771351364853763"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2022-03-20T19:50:58.000Z",
+        "text": "I'm at @SweetHutBakery_ Cafe in Doraville, GA https://t.co/mTv2GggCHZ",
+        "author_id": "53692564",
+        "id": "1505633013530570759",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.28439837,
+                    33.89325947
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1505633013530570759"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2022-03-07T00:41:46.000Z",
+        "text": "@mmpadellan 100%? No.\nWe have enabled him and looked the other way for years. We also set the bar with our own imperialism. \nIs what he\u2019s doing okay? No.",
+        "author_id": "136622289",
+        "id": "1500632766614061057",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1500632766614061057"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2022-03-01T15:51:13.000Z",
+        "text": "I'm at The Little Farmhouse Cafe | MRD FOODS CATERING in Atlanta, GA https://t.co/5xJYiXIyFN",
+        "author_id": "1481137530",
+        "id": "1498687308966641665",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.26477,
+                    33.8858
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1498687308966641665"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2022-03-01T15:49:33.000Z",
+        "text": "I'm at Prime Restaurant Group Office https://t.co/OZ59nCuXgO",
+        "author_id": "1481137530",
+        "id": "1498686890878410756",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25796147,
+                    33.88584201
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1498686890878410756"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2022-02-23T17:54:01.000Z",
+        "text": "I'm at Mgm Cafe in Atlanta, GA https://t.co/5iIMSsbxJI",
+        "author_id": "1481137530",
+        "id": "1496543886445002752",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25630951,
+                    33.88647842
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1496543886445002752"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2022-02-23T17:53:49.000Z",
+        "text": "I'm at Prime Restaurant Group Office https://t.co/J2CVbd8MXs",
+        "author_id": "1481137530",
+        "id": "1496543837262598150",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25796147,
+                    33.88584201
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1496543837262598150"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2022-02-06T18:12:38.000Z",
+        "text": "I'm at Mgm Cafe in Atlanta, GA https://t.co/hRbNjEJxII",
+        "author_id": "1481137530",
+        "id": "1490387977045958661",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25630951,
+                    33.88647842
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1490387977045958661"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2022-02-06T18:11:16.000Z",
+        "text": "I'm at Prime Restaurant Group Office https://t.co/LI68xYEQen",
+        "author_id": "1481137530",
+        "id": "1490387635327623170",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25796147,
+                    33.88584201
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1490387635327623170"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2022-01-30T19:30:19.000Z",
+        "text": "Just posted a photo @ Sweet Hut Bakery &amp; Cafe https://t.co/bo7Dlonjiw",
+        "author_id": "237132978",
+        "id": "1487870812279300097",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2843,
+                    33.89351
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1487870812279300097"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "created_at": "2022-01-23T12:30:05.000Z",
+        "text": "\ud83c\udff3\ufe0f \ud83d\udce3Match Day/. D\u00eda de Partido \ud83d\udce3 .\n\n\ud83c\udfc6 @laliga\n\u26bd\ufe0f @realmadrid \ud83c\udd9a @elchecf\n\ud83c\udfdf Estadio:  Santiago Bernab\u00e9u \n\ud83d\udd70: 10:15\n\ud83d\udccd:  @ Willie bs bar and grill (Silverbacks Park)\n#RealMadrid #Merengues  #MadridistasAtl\n#Pe\u00f1aMadridistaAtlanta #MadridistasAtlanta  #Family #Madridistas #Socios https://t.co/XVUlvBp9mY",
+        "author_id": "1223407446",
+        "id": "1485228342488047616",
+        "lang": "es",
+        "geo": {
+            "place_id": "07d9c9e6b4082002"
+        },
+        "edit_history_tweet_ids": [
+            "1485228342488047616"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2022-01-21T16:15:14.000Z",
+        "text": "Hoy y todo los d\u00edas Lunch especial desde $6.99 @chamoysrestaurant 4578 Britt Road, Tucker 30084 tel 678.599.0494 llama para Delivery or visa tons @ Chamoy\u2019s Restaurant https://t.co/92J4axwsCC",
+        "author_id": "1338165967210295297",
+        "id": "1484560226464321544",
+        "lang": "es",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1484560226464321544"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2022-01-16T06:49:08.000Z",
+        "text": "Haven\u2019t been to a bar or club in months \ud83d\udcaf kinda miss it",
+        "author_id": "1329573707640135682",
+        "id": "1482605822320517121",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1482605822320517121"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2022-01-10T00:31:53.000Z",
+        "text": "I'm at Mgm Cafe in Atlanta, GA https://t.co/PZnlqIcZmw",
+        "author_id": "1481137530",
+        "id": "1480336558733545474",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25630951,
+                    33.88647842
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1480336558733545474"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2022-01-06T02:11:27.000Z",
+        "text": "I'm at Mgm Cafe in Atlanta, GA https://t.co/B7GhxNnX34",
+        "author_id": "1481137530",
+        "id": "1478912063208828928",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25630951,
+                    33.88647842
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1478912063208828928"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2022-01-06T02:09:47.000Z",
+        "text": "I'm at Prime Restaurant Group Office https://t.co/rmZ1bLBhIG",
+        "author_id": "1481137530",
+        "id": "1478911642859671553",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25796147,
+                    33.88584201
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1478911642859671553"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-12-30T16:09:51.000Z",
+        "text": "\u00daltimo d\u00eda para hacer tu pedido de f\u00eden a\u00f1o @chamoysrestaurant llama  ya. 678.599.0494 or 678 585 4422 @ Chamoy\u2019s Restaurant https://t.co/6XRnQz8Xv7",
+        "author_id": "1338165967210295297",
+        "id": "1476586338254147589",
+        "lang": "es",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1476586338254147589"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-12-30T16:05:18.000Z",
+        "text": "Llama y a tu pedido de fin de a\u00f1o ya. No lo dejes para lo ultimo @ChamoysRestaurant 678.599.0494 or 678.585.4422 \n4578 Britt road, Tucker Ga 30084 @ Chamoy\u2019s Restaurant https://t.co/vrYkqDVTfr",
+        "author_id": "1338165967210295297",
+        "id": "1476585193641164800",
+        "lang": "es",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1476585193641164800"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-12-29T00:53:54.000Z",
+        "text": "I'm at Matcha Caf\u00e9 Maiko in Doraville, GA https://t.co/ExjWM90l6M https://t.co/nIHwO2Q9AP",
+        "author_id": "75104523",
+        "id": "1475993443868495875",
+        "lang": "fr",
+        "geo": {
+            "place_id": "bdb946f20fb0693e",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.281348,
+                    33.897401
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1475993443868495875"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-12-26T17:22:53.000Z",
+        "text": "I'm at Cafe Hotwings in Atlanta, GA https://t.co/9DFzaEuIX9",
+        "author_id": "1481137530",
+        "id": "1475155167679074309",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.24686146,
+                    33.88484015
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1475155167679074309"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-12-23T02:24:29.000Z",
+        "text": "I'm at EC Restaurant Supply in Atlanta, GA https://t.co/PXvbxPbyGk",
+        "author_id": "1481137530",
+        "id": "1473841913816096771",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.24893188,
+                    33.8970108
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1473841913816096771"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-12-20T00:11:56.000Z",
+        "text": "I'm at Prime Restaurant Group Office https://t.co/Kbwah7U3xy",
+        "author_id": "1481137530",
+        "id": "1472721390545645571",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25796147,
+                    33.88584201
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1472721390545645571"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-12-19T18:38:44.000Z",
+        "text": "I'm at Crimson Cafe in Northwoods, GA https://t.co/L5k0LGfLar",
+        "author_id": "1481137530",
+        "id": "1472637540956098564",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.27334726,
+                    33.87568081
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1472637540956098564"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "created_at": "2021-12-07T16:48:24.000Z",
+        "text": "@NolesFan813 @nique_smoov \u201cDon\u2019t show up drunk\u201d is a hella low bar. Are we really asking managers to counsel their employees before termination on THIS issue??? Tardiness, training issues? Sure. But \u201cbender \u2018til 2am on a work day\u201d is a character flaw, not a training issue.",
+        "author_id": "1367240642183782405",
+        "id": "1468261120452481034",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1468261120452481034"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 11,
+            "quote_count": 0
+        },
+        "created_at": "2021-12-04T20:40:24.000Z",
+        "text": "The best feeling is walking into a restaurant and being called coach, and they already bring your drink before you sit down. I feel like I\u2019ve made it. \ud83d\ude02\ud83d\ude02",
+        "author_id": "422949549",
+        "id": "1467232340409733129",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1467232340409733129"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-11-23T21:43:06.000Z",
+        "text": "I'm at Mado West African Restaurant in Knollwood, GA https://t.co/dhxtphJgFy",
+        "author_id": "1481137530",
+        "id": "1463261852306186244",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.230965,
+                    33.905985
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1463261852306186244"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-11-21T17:35:35.000Z",
+        "text": "I'm at Cafe Hot Wing 2 in Chamblee, GA https://t.co/bWtV6TCoRX",
+        "author_id": "1481137530",
+        "id": "1462474788925026315",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.24804894,
+                    33.88476048
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1462474788925026315"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-11-20T16:50:08.000Z",
+        "text": "Grub time. Brisket with gravy biscuit with eggs &amp; breakfast potatoes\n#grubtime #atlanta #georgia @littlefarmhousecafe @ The Little Farmhouse Cafe https://t.co/TgCPjICUNB",
+        "author_id": "172721474",
+        "id": "1462100962999517203",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.26566876,
+                    33.88636709
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1462100962999517203"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "created_at": "2021-11-10T17:29:42.000Z",
+        "text": "If you\u2019re interested in watching our game live tonight, we\u2019ll be kicking off at 7:30pm at Silverbacks Park Field 1B. Parking is $2 and there\u2019s a bar with drinks and food plus plenty of other matches happening throughout the night https://t.co/aXjljtO43K",
+        "author_id": "1408231477742014466",
+        "id": "1458487039528247301",
+        "lang": "en",
+        "geo": {
+            "place_id": "07d9c9e6b4082002"
+        },
+        "edit_history_tweet_ids": [
+            "1458487039528247301"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-11-07T17:52:36.000Z",
+        "text": "I'm at Three Dollar Cafe in Atlanta, GA https://t.co/vUtilfvAPf",
+        "author_id": "1481137530",
+        "id": "1457405638313664512",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.24810028,
+                    33.88498306
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1457405638313664512"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-10-31T21:41:22.000Z",
+        "text": "I'm at Expressway Cafe in Atlanta, GA https://t.co/ZJPdRUq1HR",
+        "author_id": "1481137530",
+        "id": "1454926493864415232",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2774547,
+                    33.87539285
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1454926493864415232"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "created_at": "2021-10-25T13:00:50.000Z",
+        "text": "Lunes de maravillas, un buen amanecer para todos , amar -nacer, feliz semana \ud83c\udf34\ud83c\udf0a\ud83c\udfb8\ud83d\ude4c\ud83d\udc9a y un buen caf\u00e9 \u2615 https://t.co/KwGO4oTQEy",
+        "author_id": "439442945",
+        "id": "1452621170923253771",
+        "lang": "es",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1452621170923253771"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-10-25T00:27:09.000Z",
+        "text": "Just posted a photo @ N3DOS Restaurant &amp; Lounge https://t.co/tGhRG1FPSd",
+        "author_id": "3119310761",
+        "id": "1452431500532719616",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.26610574,
+                    33.90929982
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1452431500532719616"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-10-24T16:44:16.000Z",
+        "text": "I'm at Prime Restaurant Group Office https://t.co/h5uFf9HSHC",
+        "author_id": "1481137530",
+        "id": "1452315015239897097",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25796147,
+                    33.88584201
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1452315015239897097"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-10-22T16:44:17.000Z",
+        "text": "Just posted a photo @ N3DOS Restaurant &amp; Lounge https://t.co/43p3YUaCu5",
+        "author_id": "3119310761",
+        "id": "1451590239722426370",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.26610574,
+                    33.90929982
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1451590239722426370"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-10-22T03:50:31.000Z",
+        "text": "Win tickets for Sweet Dreams: Halloween Pop-up Experience at Rizzo's Bar and Inn, October 08, 2021 with Do312 https://t.co/qNGSpeQDGa",
+        "author_id": "340057056",
+        "id": "1451395515204182016",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1451395515204182016"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "created_at": "2021-10-19T11:35:40.000Z",
+        "text": "Que comience el martes \n\nFeliz d\u00eda,  caf\u00e9 \u2615? https://t.co/ajGGRI6Ow1",
+        "author_id": "439442945",
+        "id": "1450425411385630721",
+        "lang": "es",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1450425411385630721"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-10-17T16:27:44.000Z",
+        "text": "I'm at Prime Restaurant Group Office https://t.co/fiLtwLvbfJ",
+        "author_id": "1481137530",
+        "id": "1449774137619197955",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25796147,
+                    33.88584201
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1449774137619197955"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-10-16T16:41:25.000Z",
+        "text": "Vis\u00edtanos @chamoysrestaurant y disfruta de nuestra c\u00e1lida de comida Dominicana 4578 Britt Road, Tucker ga 30084 Tel 678 599 0494 @ Chamoy\u2019s Restaurant https://t.co/urVOLtShB1",
+        "author_id": "1338165967210295297",
+        "id": "1449415194904498181",
+        "lang": "es",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1449415194904498181"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "created_at": "2021-10-06T22:02:02.000Z",
+        "text": "Me thinking I was going to waltz into this restaurant and get a table\u2026 https://t.co/afUqJ2t4J4",
+        "author_id": "835762912996249601",
+        "id": "1445871999251664907",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1445871999251664907"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "created_at": "2021-10-04T00:44:16.000Z",
+        "text": "\ud83c\uddfa\ud83c\uddf8Awful performance from the team today in Barcelona, is time to wake up guys. We still top of the table but now room for more mistakes. Let\u2019s go on to the next one! Thanks to Willi B\u2019s Bar and @SilverbacksPark for hosting us today, amazing food, service and football atmosphere! https://t.co/9XngUFu07v",
+        "author_id": "1223407446",
+        "id": "1444825662011977729",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1444825662011977729"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-09-29T23:15:18.000Z",
+        "text": "I'm at Expressway Cafe in Atlanta, GA https://t.co/f9dpsm8u8I",
+        "author_id": "1481137530",
+        "id": "1443353724731240449",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2774547,
+                    33.87539285
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1443353724731240449"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-09-25T02:28:58.000Z",
+        "text": "\ud83e\udd50 #WhiteWindmill #BufordHighway #WeLoveBuHi (@ White Windmill Bakery and Cafe in Doraville, GA) https://t.co/iNKTA2QV3H https://t.co/PGDZNyrzXV",
+        "author_id": "15507483",
+        "id": "1441590521772724225",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.26485073,
+                    33.91077238
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1441590521772724225"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-09-24T16:08:23.000Z",
+        "text": "Infocusplus and FamilyhomesGa\nAre out networking and gathering OnSites @ White Windmill Bakery &amp; Cafe (\ud558\uc580\ud48d\ucc28) https://t.co/Yx16j3Kmg3",
+        "author_id": "830766181279727617",
+        "id": "1441434347941216263",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.26465329,
+                    33.910616
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1441434347941216263"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-09-19T19:05:32.000Z",
+        "text": "This is the most Bears thing ever. We're pumped up about an amazing fumble recovery. The bar is low lol https://t.co/6ddLYYjJ3m",
+        "author_id": "36108210",
+        "id": "1439666987538526209",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1439666987538526209"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "created_at": "2021-09-18T18:14:37.000Z",
+        "text": "In Atlanta for the day. My daughter and I decided to try this little Korean restaurant. Smells so good and they have kpop playing on the tv \ud83d\ude06. Will post good pics in a bit. https://t.co/Ysc2yw5oN6",
+        "author_id": "1193591617422315524",
+        "id": "1439291786489470984",
+        "lang": "en",
+        "geo": {
+            "place_id": "0cf1f21d8955c001"
+        },
+        "edit_history_tweet_ids": [
+            "1439291786489470984"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-09-12T16:43:51.000Z",
+        "text": "I'm at Prime Restaurant Group Office https://t.co/t85eRF5Mzf",
+        "author_id": "1481137530",
+        "id": "1437094619230130180",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25796147,
+                    33.88584201
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1437094619230130180"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-09-07T22:50:47.000Z",
+        "text": "Just posted a photo @ Sweet Hut Bakery &amp; Cafe https://t.co/lM6m2cdA9p",
+        "author_id": "237132978",
+        "id": "1435375021141250048",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2843,
+                    33.89351
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1435375021141250048"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-09-06T21:14:12.000Z",
+        "text": "Girlllll....why I saw ur post at the same time Vee asked me what I wanna eat...we were close so 10 mins later we ordering...girlll we bout to be here often! @ El Indio Mexican Restaurant https://t.co/LbnenaJlow",
+        "author_id": "1434650941",
+        "id": "1434988325723676674",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.212646,
+                    33.890888
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1434988325723676674"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-08-29T13:33:36.000Z",
+        "text": "I'm at Expressway Cafe in Atlanta, GA https://t.co/f3SHuWGMmr",
+        "author_id": "1481137530",
+        "id": "1431973311060267014",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2774547,
+                    33.87539285
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1431973311060267014"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-08-25T21:03:58.000Z",
+        "text": "Just posted a photo @ Crawfish Shack &amp; Bar https://t.co/lIdL0z525W",
+        "author_id": "35885113",
+        "id": "1430637097967357955",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20176,
+                    33.9071
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1430637097967357955"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-08-23T02:19:35.000Z",
+        "text": "@Camarofongo @chamoysrestaurant @ Chamoy\u2019s Restaurant https://t.co/GVAcvj51Dv",
+        "author_id": "1338165967210295297",
+        "id": "1429629362006106113",
+        "lang": "fr",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1429629362006106113"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-08-22T13:45:54.000Z",
+        "text": "I'm at United Restaurant Specialties in Atlanta, GA https://t.co/cPXn1hKj5z",
+        "author_id": "1481137530",
+        "id": "1429439689526759426",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.263701,
+                    33.876339
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1429439689526759426"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "created_at": "2021-08-14T16:42:45.000Z",
+        "text": "Un caf\u00e9 \u2615 y a construir los sue\u00f1os !! https://t.co/bbRGzkcNUy",
+        "author_id": "439442945",
+        "id": "1426585092802105353",
+        "lang": "es",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1426585092802105353"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-08-12T16:27:39.000Z",
+        "text": "Lunch especial hoy y todo los Dias a solo $6.99 @chamoysrestaurant @ Chamoy\u2019s Restaurant https://t.co/2BPO43BjqV",
+        "author_id": "1338165967210295297",
+        "id": "1425856519170576389",
+        "lang": "es",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1425856519170576389"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-08-09T06:34:35.000Z",
+        "text": "Just posted a photo @ White Windmill Bakery &amp; Cafe (\ud558\uc580\ud48d\ucc28) https://t.co/QMO7vPvZ53",
+        "author_id": "217568375",
+        "id": "1424620103035932675",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.26465329,
+                    33.910616
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1424620103035932675"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-07-26T17:03:34.000Z",
+        "text": "Lunch especial hoy y todo los Dias a solo $6.99 @chamoysrestaurant  4578 Britt road, Tucker Ga 30084 tel 678.599.0494 @ Chamoy\u2019s Restaurant https://t.co/6f748v6ute",
+        "author_id": "1338165967210295297",
+        "id": "1419704960325935105",
+        "lang": "es",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1419704960325935105"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-07-25T01:39:45.000Z",
+        "text": "Just posted a video @ Chamoy\u2019s Restaurant https://t.co/FkVtG2o6Em",
+        "author_id": "1338165967210295297",
+        "id": "1419110088657096707",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1419110088657096707"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-07-24T17:27:16.000Z",
+        "text": "Years come and go, but Buford Highway\u2019s possibly oldest Chinese restaurant always delivers. Hubs beef with pickled mustard greens and me the extra spicy tofu with spinach. https://t.co/B6hFiCCtM3",
+        "author_id": "47357817",
+        "id": "1418986150748905476",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.28170144,
+                    33.8975485
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1418986150748905476"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-07-17T22:23:47.000Z",
+        "text": "Just posted a photo @ Crawfish Shack &amp; Bar https://t.co/IT53yg7Lwn",
+        "author_id": "3091886810",
+        "id": "1416524057260949504",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20176,
+                    33.9071
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1416524057260949504"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-07-17T00:58:00.000Z",
+        "text": "Just posted a photo @ Kang Nam Japanese Restaurant https://t.co/UNe4xTqhh9",
+        "author_id": "2790182440",
+        "id": "1416200479600689159",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.26862,
+                    33.9065
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1416200479600689159"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-07-15T03:23:44.000Z",
+        "text": "Watching the 2021 NBA Finals Game 4 Lets go Suns! @ Planet Hookah Cafe https://t.co/NAILBKboEm",
+        "author_id": "45194344",
+        "id": "1415512377739595776",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25638744,
+                    33.88590856
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1415512377739595776"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-07-04T13:41:46.000Z",
+        "text": "Just posted a photo @ Chamoy\u2019s Restaurant https://t.co/fwYaEqaEnC",
+        "author_id": "1338165967210295297",
+        "id": "1411681645556637696",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1411681645556637696"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "created_at": "2021-06-27T22:12:29.000Z",
+        "text": "An Indian restaurant with puns for their menu items,  did @aydreahna do this? https://t.co/m4EmSnsx3A",
+        "author_id": "1179320774",
+        "id": "1409273455317561344",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1409273455317561344"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-06-16T15:35:17.000Z",
+        "text": "$6.99 Lunch especial hoy y todo los Dias @ChamoysRestaurant #ConSabor #Dominicano \ud83c\udde9\ud83c\uddf4\ud83c\udde9\ud83c\uddf4\ud83c\udde9\ud83c\uddf4 \ud83d\ude98 4578 Britt Road Tucker Ga 30084 \ud83d\udcde678 599 0494 \u2705 #WeDelivery d10am a 9pm @ Chamoy\u2019s Restaurant https://t.co/PhmKJY82fz",
+        "author_id": "1338165967210295297",
+        "id": "1405187228377223171",
+        "lang": "es",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1405187228377223171"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-06-16T01:41:27.000Z",
+        "text": "I'm at White Windmill Bakery and Cafe in Doraville, GA https://t.co/ffZFnH6I0I",
+        "author_id": "16267684",
+        "id": "1404977390703493127",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.26485073,
+                    33.91077238
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1404977390703493127"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-06-14T14:59:19.000Z",
+        "text": "Just posted a photo @ Chamoy\u2019s Restaurant https://t.co/uL8fCHAXJK",
+        "author_id": "1338165967210295297",
+        "id": "1404453402873040896",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1404453402873040896"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "created_at": "2021-06-14T13:17:29.000Z",
+        "text": "Recarguemonos con buen caf\u00e9 \u2615\n\n#CoffeeLover https://t.co/5KZjK4Z305",
+        "author_id": "439442945",
+        "id": "1404427777374294016",
+        "lang": "es",
+        "geo": {
+            "place_id": "07d9d2149dc81001"
+        },
+        "edit_history_tweet_ids": [
+            "1404427777374294016"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-06-13T17:08:17.000Z",
+        "text": "Vis\u00edtanos y disfruta de nuestra deliciosa comida @ChamoysRestaurant @ Chamoy\u2019s Restaurant https://t.co/sfbtUhGEzq",
+        "author_id": "1338165967210295297",
+        "id": "1404123472071053313",
+        "lang": "es",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1404123472071053313"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-06-06T22:46:26.000Z",
+        "text": "Paella y para ti jjjjjj @chamoysrestaurant @ Chamoy\u2019s Restaurant https://t.co/W63jZW0NGO",
+        "author_id": "1338165967210295297",
+        "id": "1401671855283507208",
+        "lang": "fr",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1401671855283507208"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-06-06T15:20:09.000Z",
+        "text": "Lunch especial todo los Dias @chamoysrestaurant @ Chamoy\u2019s Restaurant https://t.co/ElM9s5aYyM",
+        "author_id": "1338165967210295297",
+        "id": "1401559541221834752",
+        "lang": "es",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1401559541221834752"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-06-03T01:02:37.000Z",
+        "text": "I'm at Prime Restaurant Group Office https://t.co/bflzoUqKqA",
+        "author_id": "1481137530",
+        "id": "1400256575592402945",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25796147,
+                    33.88584201
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1400256575592402945"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-06-01T16:39:41.000Z",
+        "text": "Just posted a photo @ Chamoy\u2019s Restaurant https://t.co/8zsMjcRrE2",
+        "author_id": "1338165967210295297",
+        "id": "1399767618228215812",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1399767618228215812"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-05-30T16:05:16.000Z",
+        "text": "Just posted a photo @ Chamoy\u2019s Restaurant https://t.co/zXFlG3Ltu3",
+        "author_id": "1338165967210295297",
+        "id": "1399034183834537985",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1399034183834537985"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-05-30T13:36:01.000Z",
+        "text": "Muchas Felicidades a toda las Madres Dominicana en su d\u00eda te desea @chamoysrestaurant @ Chamoy\u2019s Restaurant https://t.co/SAKBS9QFux",
+        "author_id": "1338165967210295297",
+        "id": "1398996621602574337",
+        "lang": "es",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1398996621602574337"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-05-29T21:06:05.000Z",
+        "text": "Just posted a photo @ Kang Nam Japanese Restaurant https://t.co/6PYeehiU1Q",
+        "author_id": "34465416",
+        "id": "1398747498378760194",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.26862,
+                    33.9065
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1398747498378760194"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-05-28T14:04:06.000Z",
+        "text": "$6.99 Lunch especial hoy y todo los Dias @ChamoysRestaurant #ConSabor #Dominicano \ud83c\udde9\ud83c\uddf4\ud83c\udde9\ud83c\uddf4\ud83c\udde9\ud83c\uddf4 \ud83d\ude98 4578 Britt Road Tucker Ga 30084 \ud83d\udcde678 599 0494 \u2705 #WeDelivery d10am a 9pm @ Chamoy\u2019s Restaurant https://t.co/xuhwMfSSm9",
+        "author_id": "1338165967210295297",
+        "id": "1398278912665337856",
+        "lang": "es",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1398278912665337856"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "created_at": "2021-05-23T04:55:52.000Z",
+        "text": "I made Old Fashions  for the boys and I am super drunk...being bar tender means you drink a lot...",
+        "author_id": "33730981",
+        "id": "1396329005503156226",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1396329005503156226"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-05-23T01:12:54.000Z",
+        "text": "Just posted a photo @ Chamoy\u2019s Restaurant https://t.co/DBcMnexvID",
+        "author_id": "1338165967210295297",
+        "id": "1396272894481739780",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1396272894481739780"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-05-21T17:02:00.000Z",
+        "text": "Lunch especial hoy y todo los desde $5.99 @chamoysrestaurant y delivery de 10am a 10pm 678.599.0494 @ Chamoy\u2019s Restaurant https://t.co/YYMgI9hgwh",
+        "author_id": "1338165967210295297",
+        "id": "1395786970811486218",
+        "lang": "es",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1395786970811486218"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-05-17T01:38:06.000Z",
+        "text": "@chamoysrestaurant . 4578 Britt Road, Tucker Ga tel 678.599.0494 @ Chamoy\u2019s Restaurant https://t.co/KQAhPV5NjB",
+        "author_id": "1338165967210295297",
+        "id": "1394104910925475843",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1394104910925475843"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-05-15T00:57:18.000Z",
+        "text": "I'm at Matcha Caf\u00e9 Maiko in Doraville, GA https://t.co/tuw4yjvLPI https://t.co/IcUk4dt1NX",
+        "author_id": "75104523",
+        "id": "1393369865101234179",
+        "lang": "fr",
+        "geo": {
+            "place_id": "bdb946f20fb0693e",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.281348,
+                    33.897401
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1393369865101234179"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-05-13T16:02:48.000Z",
+        "text": "Lunch especial todo los desde $5.99 de 10am a 4pm y delivery disponible de 10am a 10pm Llama ya 678.599.0494 @ Chamoy\u2019s Restaurant https://t.co/1sVOmHST7u",
+        "author_id": "1338165967210295297",
+        "id": "1392872966820614146",
+        "lang": "es",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1392872966820614146"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-05-09T15:53:02.000Z",
+        "text": "Feliz d\u00eda de la Madres te desea @chamoysrestaurant @ Chamoy\u2019s Restaurant https://t.co/edFpDCZxce",
+        "author_id": "1338165967210295297",
+        "id": "1391420959882547205",
+        "lang": "es",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1391420959882547205"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-05-09T14:33:33.000Z",
+        "text": "Just posted a photo @ Chamoy\u2019s Restaurant https://t.co/sSXOXKaqsr",
+        "author_id": "1338165967210295297",
+        "id": "1391400957817368581",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1391400957817368581"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "created_at": "2021-05-08T02:03:22.000Z",
+        "text": "I\u2019m at a conveyor belt sushi restaurant and have eaten $45 worth of sushi....I\u2019m going to keep going. I feel like the belt is challenging me",
+        "author_id": "1079273542947082240",
+        "id": "1390849778293121031",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1390849778293121031"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "created_at": "2021-05-06T23:58:15.000Z",
+        "text": "I\u2019ma always a choose a mom and pop spot before I ever go to some fine dining restaurant",
+        "author_id": "100341846",
+        "id": "1390455903628013573",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1390455903628013573"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-05-05T14:00:44.000Z",
+        "text": "Just posted a photo @ Chamoy\u2019s Restaurant https://t.co/znjDqzYNQQ",
+        "author_id": "1338165967210295297",
+        "id": "1389943144272248838",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1389943144272248838"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-05-03T00:14:51.000Z",
+        "text": "Just posted a photo @ Chamoy\u2019s Restaurant https://t.co/SD5WHQBTZm",
+        "author_id": "1338165967210295297",
+        "id": "1389010528127836160",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1389010528127836160"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 10,
+            "reply_count": 1,
+            "like_count": 55,
+            "quote_count": 0
+        },
+        "created_at": "2021-05-01T21:19:17.000Z",
+        "text": "Bar Tender Status! @RespectMyNikita \ud83d\udd25 https://t.co/tHIdOQCCpR",
+        "author_id": "1027353531806830592",
+        "id": "1388603956985802754",
+        "lang": "no",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1388603956985802754"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-04-28T15:28:51.000Z",
+        "text": "$5.99 Lunch especial hoy y todo los d\u00edas @ChamoysRestaurant #ConSabor #Dominicano \ud83c\udde9\ud83c\uddf4\ud83c\udde9\ud83c\uddf4\ud83c\udde9\ud83c\uddf4 \ud83d\ude98 4578 Britt Road Tucker Ga 30084 \ud83d\udcde678 599 0494 \u2705 #WeDelivery d10am a 10pm @ Chamoy\u2019s Restaurant https://t.co/pFuuAYtXKJ",
+        "author_id": "1338165967210295297",
+        "id": "1387428607270789123",
+        "lang": "es",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1387428607270789123"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-04-25T00:22:10.000Z",
+        "text": "I was just at WARUNG Indonesian Halal Restaurant in Doraville and the es campur (sweet shaved ice) had nothing in it. The sate kambing (skewered goat satay) was $15 for 5 sticks. The food took long to order, make, and serve. The customer service was poor.",
+        "author_id": "1373308000694370308",
+        "id": "1386113269396643842",
+        "lang": "en",
+        "geo": {
+            "place_id": "123c805c63969000"
+        },
+        "edit_history_tweet_ids": [
+            "1386113269396643842"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-04-24T16:25:43.000Z",
+        "text": "Hoy y todo los S\u00e1bado, Mondongo. Sancocho. Y M\u00e1s @chamoysrestaurant  4578 Britt Road, Tucker Ga tel 678.599.0494 @ Chamoy\u2019s Restaurant https://t.co/beUNFINOnK",
+        "author_id": "1338165967210295297",
+        "id": "1385993366920437760",
+        "lang": "es",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1385993366920437760"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "created_at": "2021-04-22T18:46:11.000Z",
+        "text": "If you\u2019re eating at a restaurant in Chamblee/Doraville just know the food gon be bussin",
+        "author_id": "1007727041708425216",
+        "id": "1385303940070354949",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1385303940070354949"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-04-16T15:12:48.000Z",
+        "text": "Hahah every morning at the bakery Ah mei &amp; Freddy \ud83d\ude4f https://t.co/B416cT4ELi",
+        "author_id": "462581024",
+        "id": "1383075910778302466",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1383075910778302466"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-04-11T17:40:58.000Z",
+        "text": "Just posted a photo @ Chamoy\u2019s Restaurant https://t.co/IQwu7UOwbP",
+        "author_id": "1338165967210295297",
+        "id": "1381301259433435146",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1381301259433435146"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-04-10T16:13:50.000Z",
+        "text": "Hoy y todos los d\u00edas ven disfruta de la mejor comida Dominicana en Atlanta, Delivery disponibles de 10 a 10  @chamoysrestaurant 4578 Britt Road, Tucker Ga 30084 tel 678.599.0494 @ Chamoy\u2019s Restaurant https://t.co/VxQxZD92bs",
+        "author_id": "1338165967210295297",
+        "id": "1380916943746662406",
+        "lang": "es",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1380916943746662406"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-04-09T07:24:47.000Z",
+        "text": "Men\u00fa @chamoysrestaurant @ Chamoy\u2019s Restaurant https://t.co/jWuhix7q5N",
+        "author_id": "1338165967210295297",
+        "id": "1380421419104923651",
+        "lang": "und",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1380421419104923651"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-04-08T22:21:15.000Z",
+        "text": "#TBT The sun and I \n\nLOVE \u2022 LIFE \u2022 LIVE \u2022 LOYAL\n#iam #iamking #king #lovelifeliveloyal #4meapparel #create #sun #ra #falcon #greendragoncolorado @ Sweet Hut Bakery &amp; Cafe https://t.co/xLmRNT2Xvp",
+        "author_id": "497975053",
+        "id": "1380284632650899459",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2843,
+                    33.89351
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1380284632650899459"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-04-04T16:45:55.000Z",
+        "text": "#BufordHighway UYE 126 at Cuckoo's Cafe new Doraville location. \ud83d\udc24\ud83e\udd64\ud83c\udf61 #YelpAtlanta #YelpOTP #BuHiUYE #WeLoveBuHi #CuckoosCafe (@ Cuckoo\u2019s Cafe in Doraville, GA) https://t.co/V9okDX4nph https://t.co/zX9yeoQYOH",
+        "author_id": "15507483",
+        "id": "1378750692194725897",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.282023,
+                    33.897352
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1378750692194725897"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "created_at": "2021-04-04T02:33:34.000Z",
+        "text": "Brunch with some Rockstar women I am blessed to call friends.  \ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f @ The Little Farmhouse Cafe https://t.co/YW7ESgUfg5",
+        "author_id": "36180711",
+        "id": "1378536192019423232",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.26566876,
+                    33.88636709
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1378536192019423232"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-04-03T16:18:50.000Z",
+        "text": "Hoy y todos los d\u00edas ven disfruta de la mejor comida Dominicana en Atlanta @chamoysrestaurant 4578 Britt Road, Tucker Ga 30084 tel 678.599.0494 @ Chamoy\u2019s Restaurant https://t.co/NQMK0L0UTe",
+        "author_id": "1338165967210295297",
+        "id": "1378381489931444229",
+        "lang": "es",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1378381489931444229"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-03-31T17:58:53.000Z",
+        "text": "Come get em done by me @ pink martini nail bar in north atl \u2728\u2728\u2728 https://t.co/odYu22rBGs",
+        "author_id": "2951277860",
+        "id": "1377319501360947204",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1377319501360947204"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 1
+        },
+        "created_at": "2021-03-31T16:28:15.000Z",
+        "text": "Lunch Especial todo los Dias a solo $5.99 hoy y todo los Dias @chamoysrestaurant 4578 Britt road, Tucker Ga 30084, Delivery de 10am @10pm cont\u00e1ctenos al 678.599.0494 @ Chamoy\u2019s Restaurant https://t.co/gwyfathaNK",
+        "author_id": "1338165967210295297",
+        "id": "1377296692320595984",
+        "lang": "es",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20353174,
+                    33.8807662
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1377296692320595984"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-03-27T12:54:48.000Z",
+        "text": "Just posted a photo @ Al-Amin Supermarket &amp; Restaurant https://t.co/VEyPoT0ZLa",
+        "author_id": "170845456",
+        "id": "1375793427103670283",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.27652799,
+                    33.90150975
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1375793427103670283"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-03-25T16:45:09.000Z",
+        "text": "Dabs con cafe puro vida holmes haha",
+        "author_id": "462581024",
+        "id": "1375126621359894533",
+        "lang": "es",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1375126621359894533"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-03-17T01:13:22.000Z",
+        "text": "#birriatacos @ El Indio Mexican Restaurant https://t.co/sUpcRThaZ0",
+        "author_id": "45699002",
+        "id": "1371993026516676611",
+        "lang": "es",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.212646,
+                    33.890888
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1371993026516676611"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-03-15T18:25:48.000Z",
+        "text": "i went to a restaurant this Friday, and the only payments they were taking was cash app!! https://t.co/MTYsn60LfB",
+        "author_id": "210553754",
+        "id": "1371528071254269954",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1371528071254269954"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-03-05T01:18:55.000Z",
+        "text": "#Tbt  THAT'S ME ON THE PULL UP BAR.....\n\"PUT IT ON ME \" VIDEO  CAMEOS ..\n@irvgotti187\n@jarule\n#MURDERINCRECORDS \n#dexdiamondbrand #realiablesources #certfied #followme @ Alanta Georiga https://t.co/ZVafcJL2Le",
+        "author_id": "103938364",
+        "id": "1367645766475517952",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.24638889,
+                    33.90222222
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1367645766475517952"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-02-21T17:52:52.000Z",
+        "text": "I'm at Mgm Cafe in Atlanta, GA https://t.co/JgLs8kYAyf",
+        "author_id": "1481137530",
+        "id": "1363547247951101963",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25630951,
+                    33.88647842
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1363547247951101963"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-02-21T17:45:53.000Z",
+        "text": "I'm at Prime Restaurant Group Office https://t.co/xorwpVRiQV",
+        "author_id": "1481137530",
+        "id": "1363545492987199493",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25796147,
+                    33.88584201
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1363545492987199493"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-02-04T18:36:44.000Z",
+        "text": "How about a \nLAMB Philly? Only at SOUTH OF PHILLY!\nFood Truck &amp; Restaurant! @ SOUTH OF PHILLY https://t.co/n9urcJcwra",
+        "author_id": "817430071795445760",
+        "id": "1357397697322442760",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.26569351,
+                    33.8863404
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1357397697322442760"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-01-20T07:50:02.000Z",
+        "text": "If yo restaurant manager is playin electric dance music thEn I\u2019m Turn up in Sand\ud83c\udf2aStorm by Darude m8 \u26a1\ufe0fstay classy",
+        "author_id": "462581024",
+        "id": "1351799128494395393",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1351799128494395393"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-01-12T01:18:58.000Z",
+        "text": "Just posted a photo @ Sweet Hut Bakery &amp; Cafe https://t.co/2HbYur6kzc",
+        "author_id": "201027705",
+        "id": "1348801614090530816",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2843,
+                    33.89351
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1348801614090530816"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-01-11T17:19:15.000Z",
+        "text": "@thekjohnston I just read \u201cThe Wonder Boy of Whistle Stop\u201d, a sequel to \u201cFried Green Tomatoes at the Whistle Stop Cafe\u201dand it was really good.",
+        "author_id": "25756626",
+        "id": "1348680887152615424",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1348680887152615424"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-01-10T22:03:15.000Z",
+        "text": "Lady date with @viclmartino. #fishies #ladydate #coffee #koreanbakery @ White Windmill Bakery &amp; Cafe (\ud558\uc580\ud48d\ucc28) https://t.co/OBiIM28BrZ",
+        "author_id": "787009837",
+        "id": "1348389968851460098",
+        "lang": "ko",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2645866,
+                    33.91077087
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1348389968851460098"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-01-09T00:12:40.000Z",
+        "text": "No.1 Cantonese Restaurant Here @ Bo Bo Garden Asian Cuisine https://t.co/668Icp07as",
+        "author_id": "814152636064821248",
+        "id": "1347697764759719940",
+        "lang": "es",
+        "geo": {
+            "place_id": "bdb946f20fb0693e",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.28308552,
+                    33.89355135
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1347697764759719940"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-01-08T18:35:10.000Z",
+        "text": "Don't let the rain stop you! Stop by the Restaurant (3781 Presidential Parkway)today from 12lm til 6pm! @ SOUTH OF PHILLY https://t.co/apprC7vIBr",
+        "author_id": "817430071795445760",
+        "id": "1347612829562658817",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.26569351,
+                    33.8863404
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1347612829562658817"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2021-01-03T02:33:12.000Z",
+        "text": "Birria tacos with my beautiful princesa \ud83d\ude0d\ud83d\ude0d #cutestdaughter #girldad #mylove @ El Indio Mexican Restaurant https://t.co/MurJylNfkb",
+        "author_id": "581482554",
+        "id": "1345558803152965633",
+        "lang": "es",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.212646,
+                    33.890888
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1345558803152965633"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "created_at": "2020-12-26T19:16:34.000Z",
+        "text": "The world finna change drastically dawg like I hope bitcoins\ud83e\udd11 takeoff and the nex generations of Cooks \ud83d\udc69\u200d\ud83c\udf73chef cocineros will have indoor garden in the restaurant feeding electric foods not animals eating or killing the new world order NWO reset civilization bc markets changes",
+        "author_id": "462581024",
+        "id": "1342912203947716608",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1342912203947716608"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-12-24T21:14:36.000Z",
+        "text": "If I ever hear someone rapping turbo and chimney together TAT WAS MY BAR mhm mhmm okay \ud83d\udc8b\ud83c\udf52",
+        "author_id": "462581024",
+        "id": "1342217133250539522",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1342217133250539522"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-12-10T13:20:20.000Z",
+        "text": "but lemme have this monster and snickers bar before i really hop off into this https://t.co/4ZtVihLzHf",
+        "author_id": "210553754",
+        "id": "1337024350281752578",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1337024350281752578"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-12-08T14:47:41.000Z",
+        "text": "@Camilvenae water doesn\u2019t taste like a snickers bar, drop me a smoothie recipe please",
+        "author_id": "210553754",
+        "id": "1336321555119259649",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1336321555119259649"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-12-08T14:05:26.000Z",
+        "text": "@Camilvenae sounds good but i can get all that already mixed together and in bar form for like a dollar \ud83e\udd72",
+        "author_id": "210553754",
+        "id": "1336310922512654336",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1336310922512654336"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-12-05T13:46:21.000Z",
+        "text": "I'm at Prime Restaurant Group Office https://t.co/4dppJOkdVy",
+        "author_id": "1481137530",
+        "id": "1335218959356932096",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25796147,
+                    33.88584201
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1335218959356932096"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-12-02T19:04:45.000Z",
+        "text": "Get your \"St. Louis Style\" Ribtip Snack while supplies last! (Restaurant &amp; Truck) @ SOUTH OF PHILLY https://t.co/LbXNXy8Zl9",
+        "author_id": "817430071795445760",
+        "id": "1334211924385439744",
+        "lang": "en",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.26569351,
+                    33.8863404
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1334211924385439744"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-11-25T17:05:06.000Z",
+        "text": "That time of the year again where a I have to worry about my most toxic ex being in the same town as me probably gonna pop up at my bar. So fun!!!! \ud83d\ude03\ud83d\ude03\ud83d\ude03",
+        "author_id": "381284514",
+        "id": "1331645094936649728",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1331645094936649728"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-11-21T09:37:14.000Z",
+        "text": "A lot of restaurant businesses finna close soon if their acidic pH dumbass doesn\u2019t get wit the natural \u201cvegan\u201d bullshit let call it alkaline pH foods business cuz that was the catch 101 in science back then 02000 for the new kids new generations to help their family \u201cbusiness\u201d",
+        "author_id": "462581024",
+        "id": "1330082835282202624",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1330082835282202624"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "created_at": "2020-11-17T01:32:58.000Z",
+        "text": "Happy Birthday to the fgc bar tender! @jchewy95 https://t.co/Kw4psk3Q8r",
+        "author_id": "1027353531806830592",
+        "id": "1328511416895234054",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1328511416895234054"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "created_at": "2020-11-01T17:00:45.000Z",
+        "text": "#BufordHighway UYE 121 at N3dos Restaurant &amp; Lounge @n3dosatl\ud83c\udf74 #YelpAtlanta #YelpOTP #BuHiUYE #WeLoveBuHi #N3dos #N3dosATL (@ N3dos Restaurant &amp; Lounge in Doraville, GA) https://t.co/Cl8qMCV9pe https://t.co/RtEfsJuo3Y",
+        "author_id": "15507483",
+        "id": "1322946691394342912",
+        "lang": "fr",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.26597,
+                    33.90921
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1322946691394342912"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-11-01T00:07:42.000Z",
+        "text": "T.I. Threatens To Shut Down Sushi Restaurant After Black Couple Denied S... https://t.co/DgyObjo6PS",
+        "author_id": "462581024",
+        "id": "1322691749341528069",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1322691749341528069"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-10-23T04:46:07.000Z",
+        "text": "Every time I watch Waiting, it makes me miss restaurant life. And yes, I'm aware it should maybe do the opposite, but boy were those fun times! \ud83d\ude1c\ud83d\ude05",
+        "author_id": "969046140",
+        "id": "1319500325917605890",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1319500325917605890"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-10-20T17:38:34.000Z",
+        "text": "@PhilKitro @LaLigaEN @Xfinity &amp; @DIRECTV dropped BeIn because they want it to increase their contract and bein sports numbers has been really bad compare to other sports channels. That happened more than two years ago, since then we watch matches seconds, sometimes minutes behind in our pe\u00f1a bar.",
+        "author_id": "1223407446",
+        "id": "1318607553899696128",
+        "lang": "en",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "edit_history_tweet_ids": [
+            "1318607553899696128"
+        ]
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "created_at": "2020-10-20T00:48:39.000Z",
+        "text": "#beefdiptaco @ El Indio Mexican Restaurant https://t.co/Nb1unPZWV1",
+        "author_id": "45699002",
+        "id": "1318353400912818177",
+        "lang": "es",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.212646,
+                    33.890888
+                ]
+            }
+        },
+        "edit_history_tweet_ids": [
+            "1318353400912818177"
+        ]
+    },
+    {
+        "text": "If American Deli had any sort of quality control, it would be the best fast food restaurant of all time.",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "59011572",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1315035429033447424"
+        ],
+        "lang": "en",
+        "id": "1315035429033447424",
+        "created_at": "2020-10-10T21:04:13.000Z"
+    },
+    {
+        "text": "I think I might eat an entire pint of caramel sea salt gelato... with a Mars bar. https://t.co/XhiPvepMcY",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "835762912996249601",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 8,
+            "quote_count": 2
+        },
+        "edit_history_tweet_ids": [
+            "1312865098516627457"
+        ],
+        "lang": "en",
+        "id": "1312865098516627457",
+        "created_at": "2020-10-04T21:20:05.000Z"
+    },
+    {
+        "text": "Just posted a photo @ The Little Farmhouse Cafe https://t.co/MyIzKnKJ61",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.26566876,
+                    33.88636709
+                ]
+            }
+        },
+        "author_id": "170845456",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1309953033162424323"
+        ],
+        "lang": "en",
+        "id": "1309953033162424323",
+        "created_at": "2020-09-26T20:28:35.000Z"
+    },
+    {
+        "text": "I\u2019m the next CEO of Apple ON DECK \ud83d\udc4f I\u2019ve never been but that cafe at Apple Park must be hella depressing. When Apple launches the next big things it\u2019ll be all towards food and drink Industry. Apple fruit is alkaline and does not cause mucus to grow and kill you self. Steve Jobs",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "462581024",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1306655706637045761"
+        ],
+        "lang": "en",
+        "id": "1306655706637045761",
+        "created_at": "2020-09-17T18:06:11.000Z"
+    },
+    {
+        "text": "I'm at Mediterranean Bakery in Chamblee, GA https://t.co/VXKNQnm0Mu",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25516113,
+                    33.88675145
+                ]
+            }
+        },
+        "author_id": "49182574",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1306356705782042625"
+        ],
+        "lang": "en",
+        "id": "1306356705782042625",
+        "created_at": "2020-09-16T22:18:04.000Z"
+    },
+    {
+        "text": "Its the love that I have for these boss ladies \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d #BuildingWealth with like minded sisters \ud83e\udd11\ud83e\udd11\ud83e\udd11 @chimereworld @kouturedefiningcosmetics @ Planet Hookah Cafe https://t.co/g7lCjh0DiL",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25597,
+                    33.88662
+                ]
+            }
+        },
+        "author_id": "232661773",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1304621633588596736"
+        ],
+        "lang": "en",
+        "id": "1304621633588596736",
+        "created_at": "2020-09-12T03:23:30.000Z"
+    },
+    {
+        "text": "...same numbers but in bar graph form. Is this what \"winning\" looks like? \n\nTime to elect a new Commander in Chief. This one deserves to be fired. \n\n#Nov3 #Vote2020 https://t.co/tBlrgbZx68",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "969023664929861632",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1299846450503987200"
+        ],
+        "lang": "en",
+        "id": "1299846450503987200",
+        "created_at": "2020-08-29T23:08:38.000Z"
+    },
+    {
+        "text": "Alkaline chefs finna redefine the restaurant industry right now and I\u2019m on top reporting live",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "462581024",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1299056085081501699"
+        ],
+        "lang": "en",
+        "id": "1299056085081501699",
+        "created_at": "2020-08-27T18:48:00.000Z"
+    },
+    {
+        "text": "I needa go demo my product to these food managers lol talk about food n the problems .. restaurant industry n COVID 1984 worst combo ever 4L",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "462581024",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1297558383403380737"
+        ],
+        "lang": "en",
+        "id": "1297558383403380737",
+        "created_at": "2020-08-23T15:36:40.000Z"
+    },
+    {
+        "text": "@buttonrenee1 @thediorbrat EVERY....LAST...BAR \nIM ON IT https://t.co/Fe8VQSiswD",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "919341839748091904",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 11,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1296923489002283015"
+        ],
+        "lang": "en",
+        "id": "1296923489002283015",
+        "created_at": "2020-08-21T21:33:50.000Z"
+    },
+    {
+        "text": "I'm at Matcha Caf\u00e9 Maiko in Doraville, GA https://t.co/gSgONdrQ0y https://t.co/TmjE3TcCr7",
+        "geo": {
+            "place_id": "bdb946f20fb0693e",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.281348,
+                    33.897401
+                ]
+            }
+        },
+        "author_id": "75104523",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1295886510215114752"
+        ],
+        "lang": "fr",
+        "id": "1295886510215114752",
+        "created_at": "2020-08-19T00:53:15.000Z"
+    },
+    {
+        "text": "@Smoovdiabetic No excuse. When you have a full life bar and your opponent is at like an inch you should be able to close it out. I gotta get better at closing. I choke too much right now",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "1027353531806830592",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1295041988652421120"
+        ],
+        "lang": "en",
+        "id": "1295041988652421120",
+        "created_at": "2020-08-16T16:57:25.000Z"
+    },
+    {
+        "text": "I love this thread \ud83e\udd23\n\nDoesn't everybody do this?! Either with a celeb crush, a movie, a restaurant, a place, something?! At least one offhand comment is meant to be a neverending joke for life. \ud83e\udd37\ud83c\udffc\u200d\u2640\ufe0f\ud83e\udd23 https://t.co/Lyane1JYy5",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "969046140",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1294218210070474754"
+        ],
+        "lang": "en",
+        "id": "1294218210070474754",
+        "created_at": "2020-08-14T10:24:01.000Z"
+    },
+    {
+        "text": "@posiegirl @planetroya It\u2019s gotta be better than GA. (That\u2019s a very low bar. )",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "1609131",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1292139371714482176"
+        ],
+        "lang": "en",
+        "id": "1292139371714482176",
+        "created_at": "2020-08-08T16:43:27.000Z"
+    },
+    {
+        "text": "4o4 Bar https://t.co/RaHqPBJNtR",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "1027353531806830592",
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 15,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1291854751655698436"
+        ],
+        "lang": "pt",
+        "id": "1291854751655698436",
+        "created_at": "2020-08-07T21:52:28.000Z"
+    },
+    {
+        "text": "Checked in automatically with the Ultimate Checkin app! https://t.co/GMzxkkpzpr (@ Prime Restaurant Group Office) https://t.co/lR6LIcZ64q",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25796147,
+                    33.88584201
+                ]
+            }
+        },
+        "author_id": "1481137530",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1289920108924743680"
+        ],
+        "lang": "en",
+        "id": "1289920108924743680",
+        "created_at": "2020-08-02T13:44:54.000Z"
+    },
+    {
+        "text": "Una Bestia en Puerto Rico Y pa los Domi Soy la Para \ud83c\udf7f\ud83d\udda4 en N3DOS Restaurant &amp; Lounge https://t.co/BdjcG37T94",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.26575,
+                    33.90881
+                ]
+            }
+        },
+        "author_id": "166248095",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1289756551876505601"
+        ],
+        "lang": "es",
+        "id": "1289756551876505601",
+        "created_at": "2020-08-02T02:54:59.000Z"
+    },
+    {
+        "text": "@stilladuckling You a real one. Yeah I\u2019m keepin the player cams and the logo slides but that\u2019s pretty much it. I have a spot to write their names too by the cams but it\u2019ll only be text and not a bar design",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "1027353531806830592",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1286684585099759617"
+        ],
+        "lang": "en",
+        "id": "1286684585099759617",
+        "created_at": "2020-07-24T15:28:05.000Z"
+    },
+    {
+        "text": "Correction: I am an idiot and didn\u2019t consider the overlay is obviously everything layed over the stream \ud83d\udc80 I was only thinking of the life bar looking part.\nMe: A Professional Clown for a living",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "1027353531806830592",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 15,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1286485039044341773"
+        ],
+        "lang": "en",
+        "id": "1286485039044341773",
+        "created_at": "2020-07-24T02:15:09.000Z"
+    },
+    {
+        "text": "@KesanovaBG That\u2019s not part of the overlay is it? I just have player cams, names, and nothin else lol I thought overlay was just that second life bar looking thing.",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "1027353531806830592",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1286483126093570050"
+        ],
+        "lang": "en",
+        "id": "1286483126093570050",
+        "created_at": "2020-07-24T02:07:33.000Z"
+    },
+    {
+        "text": "Checked in automatically with the Ultimate Checkin app! https://t.co/GMzxkkpzpr (@ Mgm Cafe in Atlanta, GA) https://t.co/DCyi81RFv4",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25630951,
+                    33.88647842
+                ]
+            }
+        },
+        "author_id": "1481137530",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1284891628856107008"
+        ],
+        "lang": "en",
+        "id": "1284891628856107008",
+        "created_at": "2020-07-19T16:43:31.000Z"
+    },
+    {
+        "text": "Checked in automatically with the Ultimate Checkin app! https://t.co/GMzxkkpzpr (@ Prime Restaurant Group Office) https://t.co/7bErLdIAzH",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25796147,
+                    33.88584201
+                ]
+            }
+        },
+        "author_id": "1481137530",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1284891563135574017"
+        ],
+        "lang": "en",
+        "id": "1284891563135574017",
+        "created_at": "2020-07-19T16:43:15.000Z"
+    },
+    {
+        "text": "Brought the apron. Bar tender status https://t.co/1pbIRwcRe9",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "1027353531806830592",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 22,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1284220444116221954"
+        ],
+        "lang": "en",
+        "id": "1284220444116221954",
+        "created_at": "2020-07-17T20:16:28.000Z"
+    },
+    {
+        "text": "Thank goodness for take out! I needed a maple bacon donut today! #sweethutbakery @ Sweet Hut Bakery &amp; Cafe https://t.co/5LBl3gjdjx",
+        "geo": {
+            "place_id": "bdb946f20fb0693e",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2843,
+                    33.89351
+                ]
+            }
+        },
+        "author_id": "17529798",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1280908022622060545"
+        ],
+        "lang": "en",
+        "id": "1280908022622060545",
+        "created_at": "2020-07-08T16:54:05.000Z"
+    },
+    {
+        "text": "I had fun eating and drinking at Three Dollar Cafe why not\ud83e\udd37\ud83c\udffd\u200d\u2642\ufe0fdrinks were $3\ud83c\udf7a https://t.co/ylveBMnBQP",
+        "geo": {
+            "place_id": "07d9e65e26883001"
+        },
+        "author_id": "305260822",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1279147664064512001"
+        ],
+        "lang": "en",
+        "id": "1279147664064512001",
+        "created_at": "2020-07-03T20:19:03.000Z"
+    },
+    {
+        "text": "Nah fr I needa cafe con leche n sum bread free gluten till it backwaarddss",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "462581024",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1277216632524414979"
+        ],
+        "lang": "en",
+        "id": "1277216632524414979",
+        "created_at": "2020-06-28T12:25:49.000Z"
+    },
+    {
+        "text": "At my favorite Mexican restaurant in Doraville, even the cars are social distancing! Lol @ Doraville, Georgia https://t.co/3REW2vi5Mh",
+        "geo": {
+            "place_id": "bdb946f20fb0693e",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2739,
+                    33.9053
+                ]
+            }
+        },
+        "author_id": "23452058",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1276581003839111168"
+        ],
+        "lang": "en",
+        "id": "1276581003839111168",
+        "created_at": "2020-06-26T18:20:03.000Z"
+    },
+    {
+        "text": "I don\u2019t want the bar lowered...I want equal access to the bar.",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "567478763",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1275787088252801026"
+        ],
+        "lang": "en",
+        "id": "1275787088252801026",
+        "created_at": "2020-06-24T13:45:19.000Z"
+    },
+    {
+        "text": "Cafe con dabs de Cali \ud83e\udd71 \ud83d\udc48\ud83d\udc49",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "462581024",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1274707143875313665"
+        ],
+        "lang": "es",
+        "id": "1274707143875313665",
+        "created_at": "2020-06-21T14:14:00.000Z"
+    },
+    {
+        "text": "A Kung Fu Tea next to a Mexican restaurant that makes fresh tortillas?!?! \ud83e\udd70",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "2344967853",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 9,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1271811868160647169"
+        ],
+        "lang": "en",
+        "id": "1271811868160647169",
+        "created_at": "2020-06-13T14:29:13.000Z"
+    },
+    {
+        "text": "whyyy is there a polling place at park tavern ??? democracy dies in a bar covered in screens showing leprechauns 6ft apart sayin social distance while literally none of the yts (brunching to black music) care ab what is going on in the world around them https://t.co/t9LNqCmbXM",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "1348408405",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1270423631961653256"
+        ],
+        "lang": "en",
+        "id": "1270423631961653256",
+        "created_at": "2020-06-09T18:32:51.000Z"
+    },
+    {
+        "text": "I'm at @SweetHutBakery_ Cafe in Doraville, GA https://t.co/QRH8Gdvb6j",
+        "geo": {
+            "place_id": "bdb946f20fb0693e",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.28439837,
+                    33.89325947
+                ]
+            }
+        },
+        "author_id": "30736603",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1269300409304301570"
+        ],
+        "lang": "en",
+        "id": "1269300409304301570",
+        "created_at": "2020-06-06T16:09:34.000Z"
+    },
+    {
+        "text": "I need to hit up grub burger bar",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "97316915",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1269015509955215362"
+        ],
+        "lang": "en",
+        "id": "1269015509955215362",
+        "created_at": "2020-06-05T21:17:29.000Z"
+    },
+    {
+        "text": "SOUTH OF PHILLY Restaurant is OPEN!!\nToday from 12 -6pm @ SOUTH OF PHILLY https://t.co/IcL8E31qNU",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.26569351,
+                    33.8863404
+                ]
+            }
+        },
+        "author_id": "817430071795445760",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1268942470915731457"
+        ],
+        "lang": "en",
+        "id": "1268942470915731457",
+        "created_at": "2020-06-05T16:27:15.000Z"
+    },
+    {
+        "text": "iiTz Day 86 on lockdown. Missing my Vietnamese restaurant job and my coworkers ofc. Hopefully phase 4 comes in hot this month \ud83d\ude4fneed sum salaad",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "462581024",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1268942363977830400"
+        ],
+        "lang": "en",
+        "id": "1268942363977830400",
+        "created_at": "2020-06-05T16:26:50.000Z"
+    },
+    {
+        "text": "I'm at Matcha Caf\u00e9 Maiko in Doraville, GA https://t.co/mefIrg3LWp",
+        "geo": {
+            "place_id": "bdb946f20fb0693e",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.281348,
+                    33.897401
+                ]
+            }
+        },
+        "author_id": "168420178",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1267866283506372608"
+        ],
+        "lang": "fr",
+        "id": "1267866283506372608",
+        "created_at": "2020-06-02T17:10:52.000Z"
+    },
+    {
+        "text": "This a Lil Wayne ass bar. \ud83e\udd23\ud83e\udd23 https://t.co/B5YGQp83Tx",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "38860881",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1267096830183079937"
+        ],
+        "lang": "en",
+        "id": "1267096830183079937",
+        "created_at": "2020-05-31T14:13:20.000Z"
+    },
+    {
+        "text": "The restaurant I\u2019m in (by myself) is playing \u201cDreaming of You\u201d by Selena https://t.co/aqvY2jF9lt",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "835762912996249601",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 8,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1266434679596515330"
+        ],
+        "lang": "en",
+        "id": "1266434679596515330",
+        "created_at": "2020-05-29T18:22:11.000Z"
+    },
+    {
+        "text": "I\u2019m not hungry at all but I came to my favorite Laotian restaurant to see if I can stomach their food.",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "835762912996249601",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1266432894337191943"
+        ],
+        "lang": "en",
+        "id": "1266432894337191943",
+        "created_at": "2020-05-29T18:15:05.000Z"
+    },
+    {
+        "text": "It's been a while.......\nSOUTH OF PHILLY Restaurant reopens Next Friday, June 5th! Support Small Business! @ SOUTH OF PHILLY https://t.co/sm69b6BF2f",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.26569351,
+                    33.8863404
+                ]
+            }
+        },
+        "author_id": "817430071795445760",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1266357139175587853"
+        ],
+        "lang": "en",
+        "id": "1266357139175587853",
+        "created_at": "2020-05-29T13:14:04.000Z"
+    },
+    {
+        "text": "I'm not sure if this is a restaurant, an air-conditioning shop for poultry, or some sort of foul (fowl) peep show venue...intrigued https://t.co/tDyS9p6m91",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "25222797",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1266078159352578049"
+        ],
+        "lang": "en",
+        "id": "1266078159352578049",
+        "created_at": "2020-05-28T18:45:30.000Z"
+    },
+    {
+        "text": "Good restaurant thats doing Dine-In &amp; open late!?\n#ATLANTA #MemorialDayWeekend",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "1011765791526739968",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1264673295863025664"
+        ],
+        "lang": "en",
+        "id": "1264673295863025664",
+        "created_at": "2020-05-24T21:43:04.000Z"
+    },
+    {
+        "text": "I actually ate out, for the first time in two months. Of course, it was my free birthday meal at Denny\u2019s, LOL. There were only 3 customers in the restaurant, they separated us to each corner of the diner, the staff\u2026 https://t.co/eL5OwgiV0d",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20729704,
+                    33.90952853
+                ]
+            }
+        },
+        "author_id": "63629160",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1262161533024587785"
+        ],
+        "lang": "en",
+        "id": "1262161533024587785",
+        "created_at": "2020-05-17T23:22:13.000Z"
+    },
+    {
+        "text": "Out here being rebels! \n\nThere's only a few tables open in the huge restaurant. We were ready. We needed this. First time since early March. @ El Matador Restaurant https://t.co/ezR2vbQapt",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.22012501,
+                    33.88186711
+                ]
+            }
+        },
+        "author_id": "19941321",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1262091302847614977"
+        ],
+        "lang": "en",
+        "id": "1262091302847614977",
+        "created_at": "2020-05-17T18:43:09.000Z"
+    },
+    {
+        "text": "It\u2019s the hybrid foods that get our colons diseased and it\u2019s horrible how they want us to eat poison literally it\u2019s racist and fascist and capitalistic. Cafe mocha please dab dab",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "462581024",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1261363839725166592"
+        ],
+        "lang": "en",
+        "id": "1261363839725166592",
+        "created_at": "2020-05-15T18:32:29.000Z"
+    },
+    {
+        "text": "I can hear the Elvis Bar now\ud83d\ude02 https://t.co/qObdj6kapD",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "919341839748091904",
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 5,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1259918673780842497"
+        ],
+        "lang": "en",
+        "id": "1259918673780842497",
+        "created_at": "2020-05-11T18:49:54.000Z"
+    },
+    {
+        "text": "I been taught by my masters so I gotit mane this pandemic stopped everything and i just need my restaurant job back \ud83d\ude14\ud83d\udc4e  miss running with Pho",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "462581024",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1257651203141447680"
+        ],
+        "lang": "en",
+        "id": "1257651203141447680",
+        "created_at": "2020-05-05T12:39:47.000Z"
+    },
+    {
+        "text": "I recognize that people are in different places but we have to move from allowing that to be an excuse because that cripples people. Don\u2019t pursue perfection...pursue growth. I think the bar of a repost and even reading a devotional is too low and too easy...",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "567478763",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1254988946095976448"
+        ],
+        "lang": "en",
+        "id": "1254988946095976448",
+        "created_at": "2020-04-28T04:20:55.000Z"
+    },
+    {
+        "text": "4/20 Dirty South pans are here. Wash em down with dessert from our bakery @chascrunchco.\nWhatchu thought? \nWe serve da people \n#munchies #atlchef #seafood #comfortfood #smackables #rUaCrunchheadYet #atlanta\u2026 https://t.co/pQF76i8Ovj",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.26475,
+                    33.88537
+                ]
+            }
+        },
+        "author_id": "207705101",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1252232016629727232"
+        ],
+        "lang": "en",
+        "id": "1252232016629727232",
+        "created_at": "2020-04-20T13:45:52.000Z"
+    },
+    {
+        "text": "@DemSocialists @JoeBiden I am a paying member of DSA and you are so, so wrong here. He wasn\u2019t my choice either, but we can\u2019t survive a second Trump term. Period. People are already dying because Trump is incapable and inhumane. Biden is better than Trump \u2014 low bar, yes, but he is better. #commonsense",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "1609131",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1249464416745205761"
+        ],
+        "lang": "en",
+        "id": "1249464416745205761",
+        "created_at": "2020-04-12T22:28:25.000Z"
+    },
+    {
+        "text": "SOUTH OF PHILLY Restaurant location will reopen on Tuesday! To Go, delivery services, call in and online orders only. Stay safe! #chowdownatl\n#safefood #restaurantsopen \n#contactless\n#orderonline @ SOUTH OF PHILLY https://t.co/ZyYIpJWrFi",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.26569351,
+                    33.8863404
+                ]
+            }
+        },
+        "author_id": "817430071795445760",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1246479368949583875"
+        ],
+        "lang": "en",
+        "id": "1246479368949583875",
+        "created_at": "2020-04-04T16:46:54.000Z"
+    },
+    {
+        "text": "Dude dame dash said it best today or yeastday whenever he posted that. \u201cHow to get money from home #challenge\u201d especially if your favorite restaurant is closed right now how can they improve their business plan any way possible? Copy the food networks and make your own FOOD TV !",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "462581024",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1244287537381871616"
+        ],
+        "lang": "en",
+        "id": "1244287537381871616",
+        "created_at": "2020-03-29T15:37:21.000Z"
+    },
+    {
+        "text": "Made sum iced cafe con leche call it latte\u00e3",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "462581024",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1243674921751977984"
+        ],
+        "lang": "en",
+        "id": "1243674921751977984",
+        "created_at": "2020-03-27T23:03:02.000Z"
+    },
+    {
+        "text": "If only 45th could give away free molly to the 16 million restaurant staff of America that be curing this soon to be declared financial DEPRESSION thatd be gr8 @MAPS \ud83d\uddfa",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "462581024",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1243248998342950912"
+        ],
+        "lang": "en",
+        "id": "1243248998342950912",
+        "created_at": "2020-03-26T18:50:34.000Z"
+    },
+    {
+        "text": "They 1 month shut down my restaurant man UGH",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "462581024",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1239551344152846336"
+        ],
+        "lang": "en",
+        "id": "1239551344152846336",
+        "created_at": "2020-03-16T13:57:24.000Z"
+    },
+    {
+        "text": "Taking my baby to my favorite Mexican restaurant El Ray Del Taco!!!!",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "772139403540062210",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1239357063618232320"
+        ],
+        "lang": "en",
+        "id": "1239357063618232320",
+        "created_at": "2020-03-16T01:05:24.000Z"
+    },
+    {
+        "text": "@JeremiahWalker @WizaIFTD Lmaoooooo bruh all these local restaurant need to at least be letting me leave a poster or banner in their shops. I\u2019m the only business owner here who understands teamwork",
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "1027353531806830592",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1239302602665480195"
+        ],
+        "lang": "en",
+        "id": "1239302602665480195",
+        "created_at": "2020-03-15T21:29:00.000Z"
+    },
+    {
+        "text": "Open bar @edenloungeatl 7pm-9pm early arrival suggested!!\n#SundayFunday \ud83d\udd25\ud83d\udd25 @ Eden Lounge https://t.co/FopkIDzZ0D",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2546799,
+                    33.88697805
+                ]
+            }
+        },
+        "author_id": "181281159",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1239231245550333952"
+        ],
+        "lang": "en",
+        "id": "1239231245550333952",
+        "created_at": "2020-03-15T16:45:27.000Z"
+    },
+    {
+        "text": "I'm at The Little Farmhouse Cafe | MRD FOODS CATERING in Atlanta, GA https://t.co/ZQjL2DHfmn",
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.26477,
+                    33.8858
+                ]
+            }
+        },
+        "author_id": "1481137530",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "edit_history_tweet_ids": [
+            "1236795775805534209"
+        ],
+        "lang": "en",
+        "id": "1236795775805534209",
+        "created_at": "2020-03-08T23:27:46.000Z"
+    },
+    {
+        "id": "1235563529731821569",
+        "edit_history_tweet_ids": [
+            "1235563529731821569"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "491297700",
+        "text": "Don\u2019t miss out on the fun: it\u2019s #NSBW20! \ud83c\udf15\u2604\ufe0f Never had school breakfast before? Visit your school caf\u00e9 during lunch today, and see what everyone is talking about! Be sure to come by the caf\u00e9 &amp; enjoy a delicious breakfast meal at lunch! #FuelingGA https://t.co/7CgFW1907K",
+        "created_at": "2020-03-05T13:51:15.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1234934721693585415",
+        "edit_history_tweet_ids": [
+            "1234934721693585415"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 48,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "1027353531806830592",
+        "text": "There\u2019s also a new Chinese restaurant next to Tea Top now open. Big Dave\u2019s Cheesesteakes should be open in 2 months downstairs as well. Plaza looking on point right about now.",
+        "created_at": "2020-03-03T20:12:36.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1233827397771964417",
+        "edit_history_tweet_ids": [
+            "1233827397771964417"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.26569351,
+                    33.8863404
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "817430071795445760",
+        "text": "We're open..... Waiting on you to stop by! \n3781 Presidential Parkway Suite FP-305. SOUTH OF PHILLY Restaurant! \nCome get you some! @ SOUTH OF PHILLY https://t.co/VCeyFogpDW",
+        "created_at": "2020-02-29T18:52:29.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1233580366843215872",
+        "edit_history_tweet_ids": [
+            "1233580366843215872"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.26564408,
+                    33.90894257
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "563969580",
+        "text": "#SXSW GIVEAWAY TONITE \u2755 gibs_lounge_atlanta @ Gib's Jazz Bar and Lounge https://t.co/FArYf5oqaz",
+        "created_at": "2020-02-29T02:30:52.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1233551879709159424",
+        "edit_history_tweet_ids": [
+            "1233551879709159424"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.22012501,
+                    33.88186711
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "18319453",
+        "text": "Happy Birthday to the best there is, the best there was, and the best there ever will be, pop.pop.dan! @ El Matador Restaurant https://t.co/zUrGCWA72V",
+        "created_at": "2020-02-29T00:37:41.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1232845149107032064",
+        "edit_history_tweet_ids": [
+            "1232845149107032064"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.256147,
+                    33.885142
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "1481137530",
+        "text": "I'm at Mgm Cafe in Atlanta, GA https://t.co/oBF5XUUB43",
+        "created_at": "2020-02-27T01:49:23.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1230529484341772290",
+        "edit_history_tweet_ids": [
+            "1230529484341772290"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.26569351,
+                    33.8863404
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "817430071795445760",
+        "text": "Sorry Folks....... Due to yet another \"Rainy Day\" in Georgia, the Truck will NOT be at Home Depot today! Please visit our Restaurant at \n3781 Presidential Pkwy Suite FP-305 to get your SOPhilly Fix! @ SOUTH OF PHILLY https://t.co/yY5HfcCeqy",
+        "created_at": "2020-02-20T16:27:45.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1230286681036726272",
+        "edit_history_tweet_ids": [
+            "1230286681036726272"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2774547,
+                    33.87539285
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "1481137530",
+        "text": "I'm at Expressway Cafe in Atlanta, GA https://t.co/0SxWsByJPu",
+        "created_at": "2020-02-20T00:22:57.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1229546795388239875",
+        "edit_history_tweet_ids": [
+            "1229546795388239875"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25572394,
+                    33.88914974
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "1481137530",
+        "text": "I'm at Three Dollar Cafe in Atlanta, GA https://t.co/HTkzqTUTnJ",
+        "created_at": "2020-02-17T23:22:54.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1229088203463909380",
+        "edit_history_tweet_ids": [
+            "1229088203463909380"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2543,
+                    33.885963
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "1481137530",
+        "text": "I'm at Eden Lounge / Restaurant in Atlanta, GA https://t.co/1w2XkZrx1u",
+        "created_at": "2020-02-16T17:00:37.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1229088055564394496",
+        "edit_history_tweet_ids": [
+            "1229088055564394496"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.285052,
+                    33.890514
+                ]
+            },
+            "place_id": "bdb946f20fb0693e"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "author_id": "15507483",
+        "text": "There's a small crowd waiting outside for this new \ud83c\uddf9\ud83c\uddfc hot pot restaurant on #BufordHighway. \ud83e\udd58 #HiPotDoraville #WeLoveBuHi (@ Hi-Pot in Doraville, GA) https://t.co/AMACXAWRt5 https://t.co/3Tx3jNSlgE",
+        "created_at": "2020-02-16T17:00:02.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1228096625249325056",
+        "edit_history_tweet_ids": [
+            "1228096625249325056"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25572394,
+                    33.88914974
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "1481137530",
+        "text": "I'm at Three Dollar Cafe in Atlanta, GA https://t.co/9CHGov6Hyh",
+        "created_at": "2020-02-13T23:20:27.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1227748257469751297",
+        "edit_history_tweet_ids": [
+            "1227748257469751297"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25796147,
+                    33.88584201
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "1481137530",
+        "text": "I'm at Prime Restaurant Group Office https://t.co/UQUArUCumW",
+        "created_at": "2020-02-13T00:16:09.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1227194444887265281",
+        "edit_history_tweet_ids": [
+            "1227194444887265281"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "1104087271173701632",
+        "text": "@TRJForBloggers I am a food blogger who has a stunning personality, winning smile and an even bigger appetite. I can talk about food and restaurant reviews all-day. https://t.co/IxfCTRZDlW",
+        "created_at": "2020-02-11T11:35:30.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1226664964267630593",
+        "edit_history_tweet_ids": [
+            "1226664964267630593"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2543,
+                    33.885963
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "1481137530",
+        "text": "I'm at Eden Lounge / Restaurant in Atlanta, GA https://t.co/oI1HKZZAuL",
+        "created_at": "2020-02-10T00:31:32.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1226664464709275648",
+        "edit_history_tweet_ids": [
+            "1226664464709275648"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2543,
+                    33.885963
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "1481137530",
+        "text": "I'm at Eden Lounge / Restaurant in Atlanta, GA https://t.co/NPO8GHtN4f",
+        "created_at": "2020-02-10T00:29:33.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1226651560387571713",
+        "edit_history_tweet_ids": [
+            "1226651560387571713"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.28100508,
+                    33.89683262
+                ]
+            },
+            "place_id": "bdb946f20fb0693e"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "157809251",
+        "text": "Sunday Language Exchange at the mixed-language table with Russian, Korean, Spanish, and English learners. Great fun in all languages. @ Mozart Bakery https://t.co/hJy6HmX6S9",
+        "created_at": "2020-02-09T23:38:16.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1225208387622916097",
+        "edit_history_tweet_ids": [
+            "1225208387622916097"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.27334726,
+                    33.87568081
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "1481137530",
+        "text": "I'm at Crimson Cafe in Northwoods, GA https://t.co/xCFqHYmJwj",
+        "created_at": "2020-02-06T00:03:37.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1223853704614498304",
+        "edit_history_tweet_ids": [
+            "1223853704614498304"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "1011765791526739968",
+        "text": "Bitch, which u can fall asleep at a karaoke bar, you know your TIRED ASF https://t.co/Mwi6Pbf70b",
+        "created_at": "2020-02-02T06:20:35.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1223752789886672896",
+        "edit_history_tweet_ids": [
+            "1223752789886672896"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.26575,
+                    33.90881
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "16951444",
+        "text": "Shout out to the most poppin fritura ever from last night at #n3redos  the homie uniquedj invito despu\u00e9s del coro que armamamos en #Perreo404 @ N3DOS Restaurant &amp; Lounge https://t.co/23DFLq1tHU",
+        "created_at": "2020-02-01T23:39:35.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1222487749841825793",
+        "edit_history_tweet_ids": [
+            "1222487749841825793"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "1104087271173701632",
+        "text": "Another raving restaurant review has been uploaded! @S&amp;S Cafeteria in Greenville SC. I have had the pleasure of enjoying delicious food on my trip to Greenville, SC and brought you along for the ride so head to my website and check both of them out!!!\n\nhttps://t.co/wpJNC53L5W https://t.co/kAhfKnLr6B",
+        "created_at": "2020-01-29T11:52:46.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1222348692616818689",
+        "edit_history_tweet_ids": [
+            "1222348692616818689"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "1104087271173701632",
+        "text": "@TheBlogLists Here are the two restaurant reviews I completed this week!\n\nhttps://t.co/bhpWRy0RXh\n\nhttps://t.co/0FIfeExs3v",
+        "created_at": "2020-01-29T02:40:13.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1222348395903438848",
+        "edit_history_tweet_ids": [
+            "1222348395903438848"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "1104087271173701632",
+        "text": "@bloggingbeesrt Here are the two restaurant  reviews I completed this week!\n\nhttps://t.co/bhpWRy0RXh\n\nhttps://t.co/0FIfeExs3v",
+        "created_at": "2020-01-29T02:39:02.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1222347478831370242",
+        "edit_history_tweet_ids": [
+            "1222347478831370242"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "969046140",
+        "text": "In today's episode of embarrassing things, my jacket caught got on a bar stool, which made my phone fly out of my hand and the bar stool fall. I luckily caught my phone, but the stool falling on tile ensured the entire restaurant gasped and stared at me. Fun times, fun times \ud83e\udd26\ud83c\udffc\u200d\u2640\ufe0f\ud83d\ude02",
+        "created_at": "2020-01-29T02:35:23.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1222278305258397697",
+        "edit_history_tweet_ids": [
+            "1222278305258397697"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "15668115",
+        "text": "Two trans women beat the snot out of men harassing them in a restaurant https://t.co/6dEtMfCpW3",
+        "created_at": "2020-01-28T22:00:31.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1221595866177441794",
+        "edit_history_tweet_ids": [
+            "1221595866177441794"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.28100508,
+                    33.89683262
+                ]
+            },
+            "place_id": "bdb946f20fb0693e"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "157809251",
+        "text": "Language Exchange Sunday. Always fun  to meet other multilinguals. Come join us at the next MeetUp. @ Mozart Bakery https://t.co/lyMjqObZQf",
+        "created_at": "2020-01-27T00:48:45.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1221223367929466885",
+        "edit_history_tweet_ids": [
+            "1221223367929466885"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 7,
+            "quote_count": 1
+        },
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "31227658",
+        "text": "Still married to someone who took me to a Mexican restaurant where the first item on the menu is a chicken salad sandwich \ud83e\udd2f",
+        "created_at": "2020-01-26T00:08:34.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1221145919250423808",
+        "edit_history_tweet_ids": [
+            "1221145919250423808"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.26484162,
+                    33.88612506
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "2797050577",
+        "text": "Brothers @ The Little Farmhouse Cafe https://t.co/VHjClrhceH",
+        "created_at": "2020-01-25T19:00:49.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1221124023754641408",
+        "edit_history_tweet_ids": [
+            "1221124023754641408"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.26484162,
+                    33.88612506
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "2797050577",
+        "text": "Food and family #famlove\u2764\ufe0f @ The Little Farmhouse Cafe https://t.co/b77M75WRFB",
+        "created_at": "2020-01-25T17:33:49.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1220075186931761154",
+        "edit_history_tweet_ids": [
+            "1220075186931761154"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "1104087271173701632",
+        "text": "https://t.co/Ecef4KlHqx\nI am a food blogger who has a stunning personality, winning smile and an appetite to match so if you like recipes, and restaurant reviews then come visit.",
+        "created_at": "2020-01-22T20:06:07.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1219605154049200128",
+        "edit_history_tweet_ids": [
+            "1219605154049200128"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "1104087271173701632",
+        "text": "What do you know it's National Granola Bar Day!!! If I have to eat one I would prefer Peanut Butter and Chocolate! How about you?\n#nationalgranolabarday #chocalatelover #foodblogger #granolabar https://t.co/CZ6DIm3pJ4",
+        "created_at": "2020-01-21T12:58:22.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1218941483874705411",
+        "edit_history_tweet_ids": [
+            "1218941483874705411"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2851245,
+                    33.8835765
+                ]
+            },
+            "place_id": "a4cff54c344ee0ad"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "1481137530",
+        "text": "I'm at El Patron Sport Bar &amp; Grill in Chamblee, GA https://t.co/JSle8Tztl8",
+        "created_at": "2020-01-19T17:01:11.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1218819374842351617",
+        "edit_history_tweet_ids": [
+            "1218819374842351617"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "1104087271173701632",
+        "text": "https://t.co/Ecef4KlHqx\nI am a food blogger who has a stunning personality, winning smile and an appetite to match so if you like recipes, and restaurant reviews then come visit.",
+        "created_at": "2020-01-19T08:55:58.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1218804971602350081",
+        "edit_history_tweet_ids": [
+            "1218804971602350081"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "1104087271173701632",
+        "text": "@justmominit Yes I desire to get 10 restaurant reviews and 5 recipes uploaded by the end of January!!",
+        "created_at": "2020-01-19T07:58:44.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1218728165595631616",
+        "edit_history_tweet_ids": [
+            "1218728165595631616"
+        ],
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "1104087271173701632",
+        "text": "@lmhanzel I am a food blogger who has a stunning personality, winning smile and an appetite to match so if you like recipes, and restaurant reviews then come visit.\nhttps://t.co/IxfCTRZDlW",
+        "created_at": "2020-01-19T02:53:32.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1218665886728564738",
+        "edit_history_tweet_ids": [
+            "1218665886728564738"
+        ],
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "bdb946f20fb0693e"
+        },
+        "author_id": "1104087271173701632",
+        "text": "@EerieRiver I am a food blogger who has a stunning personality, winning smile and an appetite to match so if you like recipes, and restaurant reviews then come visit.\n\nhttps://t.co/Ecef4KlHqx",
+        "created_at": "2020-01-18T22:46:03.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1217701669959585793",
+        "edit_history_tweet_ids": [
+            "1217701669959585793"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2655565,
+                    33.8862533
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "862729942190129152",
+        "text": "Spice the Americas food truck dropping in on our girl Cara@ the Meatballerz restaurant. Some the best meatballs I've had. This is my home girl...give her a shout, you will definitely enjoy \ud83d\ude01\ud83d\ude01#cheflife\u2026 https://t.co/uHOsT6E1pP",
+        "created_at": "2020-01-16T06:54:36.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1217632173236330500",
+        "edit_history_tweet_ids": [
+            "1217632173236330500"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.26569351,
+                    33.8863404
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "862729942190129152",
+        "text": "Spice the Americas food truck dropping in on my main Kevin @ South of Philly restaurant, banging those delicious cheesesteaks. The best steaks South of Philly \n\"street food with a flare\" make sure you check on him\u2026 https://t.co/yocRfPgMND",
+        "created_at": "2020-01-16T02:18:27.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1216763296323338241",
+        "edit_history_tweet_ids": [
+            "1216763296323338241"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.26569351,
+                    33.8863404
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "817430071795445760",
+        "text": "Ribs anyone? \nBarbeque Mondays at SOUTH OF PHILLY Restaurant! Get some \nSt. Louis Style BBQ (Ribs &amp; Ribtips) while supplies last! @ SOUTH OF PHILLY https://t.co/Ur8zm8EHGF",
+        "created_at": "2020-01-13T16:45:50.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1216502943463149568",
+        "edit_history_tweet_ids": [
+            "1216502943463149568"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.28100508,
+                    33.89683262
+                ]
+            },
+            "place_id": "bdb946f20fb0693e"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "157809251",
+        "text": "Great group of French, German, Spanish, and Portuguese learners at today\u2019s Language Exchange. Even some Chinese and Koreans learners attended. @ Mozart Bakery https://t.co/nzHm1iA6wH",
+        "created_at": "2020-01-12T23:31:17.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1216042725683843073",
+        "edit_history_tweet_ids": [
+            "1216042725683843073"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.26484162,
+                    33.88612506
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "author_id": "2797050577",
+        "text": "Hanging with my big bro williamk2000us8 and my boo thang @ruledbymusic \u2764\ufe0f @ The Little Farmhouse Cafe https://t.co/QBztm6TgvM",
+        "created_at": "2020-01-11T17:02:33.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1215651907080982528",
+        "edit_history_tweet_ids": [
+            "1215651907080982528"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.26569351,
+                    33.8863404
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "author_id": "817430071795445760",
+        "text": "Get ready for \"Barbecue Mondays\" at SOUTH OF PHILLY Restaurant! We will have some Straight \n\"St. Louis Style\" Ribtips &amp; Ribs. Stop by this Monday. @ SOUTH OF PHILLY https://t.co/rKYAvXtJPz",
+        "created_at": "2020-01-10T15:09:35.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1215335497058353153",
+        "edit_history_tweet_ids": [
+            "1215335497058353153"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20853,
+                    33.89846
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "author_id": "170845456",
+        "text": "Warming up the soul with this Vegetable Coconut soup from the Thai Restaurant of Norcross\u2763\ufe0f #soupforthesoul #coconutsoup #thaifood #spoonfeed @ Thai Restaurant https://t.co/aG2L3fTSBM",
+        "created_at": "2020-01-09T18:12:16.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1215090659801157632",
+        "edit_history_tweet_ids": [
+            "1215090659801157632"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.25796147,
+                    33.88584201
+                ]
+            },
+            "place_id": "7142eb97ae21e839"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "1481137530",
+        "text": "I'm at Prime Restaurant Group Office https://t.co/za1UASKOjc",
+        "created_at": "2020-01-09T01:59:23.000Z",
+        "lang": "en"
+    },
+    {
+        "id": "1215025617827180545",
+        "edit_history_tweet_ids": [
+            "1215025617827180545"
+        ],
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2843,
+                    33.89351
+                ]
+            },
+            "place_id": "bdb946f20fb0693e"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "author_id": "43793006",
+        "text": "She strikes again! Happy wife, happy life @ Sweet Hut Bakery &amp; Cafe https://t.co/JWbH5zaD93",
+        "created_at": "2020-01-08T21:40:56.000Z",
+        "lang": "en"
+    }
+]
