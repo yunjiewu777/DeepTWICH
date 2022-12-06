@@ -1,7 +1,6 @@
 import React from "react";
 import APIService from "../APIService";
 import Row from "react-bootstrap/Row";
-// import { useState, useEffect } from "react";
 
 function Reg(props) {
   const editReg = (reg) => {
@@ -13,14 +12,11 @@ function Reg(props) {
   };
 
   const handleChange = (reg) => {
-    console.log("The checkbox was toggled");
-
     if ("checked" in reg) {
       reg.checked = !reg.checked;
     } else {
       reg.checked = true;
     }
-    console.log(reg.checked);
     props.updatedReg(reg);
   };
 
@@ -37,21 +33,20 @@ function Reg(props) {
       {props.regs &&
         props.regs.map((reg, index) => {
           const color = props.palette[index];
-          console.log(color);
           return (
             <div key={reg.id}>
               <div className="row">
                 <div className="col">
-                  <div class="form-check">
+                  <div className="form-check">
                     <input
-                      class="form-check-input"
+                      className="form-check-input"
                       type="checkbox"
                       value={reg.id}
                       id={reg.id}
                       onChange={() => handleChange(reg)}
                       defaultChecked={reg.checked}
                     ></input>
-                    <label class="form-check-label" for={reg.id}>
+                    <label className="form-check-label" htmlFor={reg.id}>
                       <mark
                         style={{
                           backgroundColor: `rgba(${color._rgb[0]}, ${color._rgb[1]}, ${color._rgb[2]}, 0.3)`,
@@ -83,47 +78,10 @@ function Reg(props) {
                 </div>
               </div>
 
-              {/* <h2>{reg.id}</h2>
-              <p>{reg.reg}</p>
-
-              <div className="row">
-                <div className="col">
-                  <button
-                    className="btn btn-primary"
-                    onClick={() => editReg(reg)}
-                  >
-                    Update
-                  </button>
-                </div>
-                <div className="col">
-                  <button className="btn btn-danger">Delete</button>
-                </div>
-              </div> */}
               <hr />
             </div>
           );
         })}
-
-      {/* <Form>
-        {["Emoji", "URL", "Hash Tags", "@"].map((expression) => (
-          <div key={`default-${"checkbox"}`} className="mb-3">
-            <Row>
-              <Col xs={8}>
-                <Form.Check
-                  type={"checkbox"}
-                  id={`${expression}`}
-                  label={`${expression}`}
-                />
-              </Col>
-              <Col>
-                <Button variant="primary" size="sm">
-                  Edit
-                </Button>{" "}
-              </Col>
-            </Row>
-          </div>
-        ))}
-      </Form> */}
 
       <Row>
         <div className="col-1" />

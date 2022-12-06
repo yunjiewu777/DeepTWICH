@@ -1,18 +1,19 @@
 import React, { useState, useEffect } from "react";
-import NavBar from "../components/NavBar";
 import Nav from "react-bootstrap/Nav";
-import { LinkContainer } from "react-router-bootstrap";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
-import NumForm from "../components/eli/num_form";
-import Reg from "../components/eli/reg";
-import RegForm from "../components/eli/reg_form";
-import EliTweets from "../components/eli/eli_tweets";
+import { LinkContainer } from "react-router-bootstrap";
 import distinctColors from "distinct-colors";
 import Accordion from "@mui/material/Accordion";
 import AccordionSummary from "@mui/material/AccordionSummary";
 import AccordionDetails from "@mui/material/AccordionDetails";
 import Typography from "@mui/material/Typography";
+
+import NavBar from "../components/NavBar";
+import NumForm from "../components/eli/num_form";
+import Reg from "../components/eli/reg";
+import RegForm from "../components/eli/reg_form";
+import EliTweets from "../components/eli/eli_tweets";
 
 function Elimination() {
   const [regs, setRegs] = useState([]);
@@ -46,20 +47,7 @@ function Elimination() {
       .catch((error) => console.log(error));
   }, []);
 
-  // useEffect(() => {
-  //   fetch("http://127.0.0.1:5000/elimination/get_random", {
-  //     method: "GET",
-  //     headers: {
-  //       "Content-Type": "application/json",
-  //     },
-  //   })
-  //     .then((resp) => resp.json())
-  //     .then((resp) => setTweets(resp))
-  //     .catch((error) => console.log(error));
-  // }, []);
-
   const editReg = (reg) => {
-    console.log("editReg");
     setEditedReg(reg);
   };
 
@@ -118,7 +106,7 @@ function Elimination() {
         <Row>
           <div
             style={{ height: "650px" }}
-            class="col-4 border border-primary container"
+            className="col-4 border border-primary container"
           >
             {palette && palette.length === regs.length && (
               <Reg
@@ -142,7 +130,7 @@ function Elimination() {
             ) : null}
           </div>
 
-          <div class="col-8 border border-primary">
+          <div className="col-8 border border-primary">
             <Container>
               <NumForm getTweets={getTweets} />
               <hr />
@@ -162,19 +150,30 @@ function Elimination() {
                     </AccordionSummary>
                     <AccordionDetails>
                       <Typography style={{ textAlign: "left" }}>
-                        In the left panel, you can edit existing regular
-                        expressions or add new words/phrases/regular expressions
-                        you want to eliminate by defining a name and then
-                        inputting regular expressions. By checking the box on
-                        the left of each entry, you select the words/phrases you
-                        want to eliminate. If you hover over the name of the
-                        entry that you defined, you can see the corresponding
-                        regular expression you entered. The right panel shows
-                        random tweets of which number you can enter in the top
-                        textbox. These tweets will be highlighted in
-                        corresponding words/phrases that you choose to eliminate
-                        in the left panel. By hovering over the highlighted
-                        text, you can see the elimination’s name.
+                        <li>
+                          In the left panel, you can edit existing regular
+                          expressions or add new words/phrases/regular
+                          expressions you want to eliminate by defining a name
+                          and then inputting regular expressions.
+                        </li>
+                        <li>
+                          By checking the box on the left of each entry, you
+                          select the words/phrases you want to eliminate. If you
+                          hover over the name of the entry that you defined, you
+                          can see the corresponding regular expression you
+                          entered.
+                        </li>
+
+                        <li>
+                          The right panel shows random tweets of which number
+                          you can enter in the top textbox. These tweets will be
+                          highlighted in corresponding words/phrases that you
+                          choose to eliminate in the left panel.
+                        </li>
+                        <li>
+                          By hovering over the highlighted text, you can see the
+                          elimination’s name.
+                        </li>
                       </Typography>
                     </AccordionDetails>
                   </Accordion>
@@ -185,8 +184,6 @@ function Elimination() {
                       <Nav.Link>Save & Next Step</Nav.Link>
                     </LinkContainer>
                   </button>
-
-                  {/* onclick="location.href='http://www.example.com'" */}
                 </div>
               </div>
             </Container>

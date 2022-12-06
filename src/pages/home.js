@@ -6,7 +6,7 @@ function Home() {
   return (
     <div>
       <h1>Welcome to Home!</h1>
-      <p>This the visualization project by Ruby Wu & Alexandra Li</p>
+      <p>This is the visualization project by Ruby Wu & Alexandra Li</p>
       <button>
         <LinkContainer to="preprocessing">
           <Link>Home</Link>

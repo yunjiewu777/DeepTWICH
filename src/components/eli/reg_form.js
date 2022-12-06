@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import APIService from "../APIService";
 import Row from "react-bootstrap/Row";
-import Form from "react-bootstrap/Form";
 
 function RegForm(props) {
   const [id, setId] = useState("");
@@ -56,7 +55,7 @@ function RegForm(props) {
             <label htmlFor="title" className="col-sm-4 col-form-label">
               Expresion Name
             </label>
-            <div class="col-sm-8">
+            <div className="col-sm-8">
               <input
                 onChange={(e) => setName(e.target.value)}
                 type="text"
@@ -71,7 +70,7 @@ function RegForm(props) {
             <label htmlFor="body" className="col-sm-4 col-form-label">
               Regular Expression
             </label>
-            <div class="col-sm-8">
+            <div className="col-sm-8">
               <textarea
                 onChange={(e) => setReg(e.target.value)}
                 value={reg}
