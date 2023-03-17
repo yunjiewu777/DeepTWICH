@@ -43,4 +43,47 @@ export default class APIService {
       .then((resp) => resp.json())
       .catch((error) => console.log(error));
   }
+
+  static ReCluster() {
+    return fetch(`http://127.0.0.1:5000/cluster/re_cluster/`, {
+      method: "GET",
+      headers: {
+        "Content-Type": "application/json",
+      },
+    })
+      .then((resp) => resp.json())
+      .catch((error) => console.log(error));
+  }
+
+  static AddConstraint(body) {
+    return fetch(`http://127.0.0.1:5000/cluster/add_constraint/`, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify(body),
+    })
+      .then((resp) => resp.json())
+      .catch((error) => console.log(error));
+  }
+
+  static GetConstraints(body) {
+    return fetch("http://127.0.0.1:5000/cluster/get_constraints", {
+      method: "GET",
+      headers: {
+        "Content-Type": "application/json",
+      },
+    })
+      .then((resp) => resp.json())
+      .catch((error) => console.log(error));
+  }
+
+  static ResetConstraints() {
+    return fetch(`http://127.0.0.1:5000/cluster/reset_con/`, {
+      method: "DELETE",
+      headers: {
+        "Content-Type": "application/json",
+      },
+    });
+  }
 }

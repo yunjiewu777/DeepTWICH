@@ -46,4 +46,7 @@ def create_app():
     from .elimination import elimination
     app.register_blueprint(elimination, url_prefix='/elimination')
 
+    from .cluster import cluster
+    app.register_blueprint(cluster, url_prefix='/cluster')
+
     return app

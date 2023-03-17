@@ -3,10 +3,10 @@ import * as d3 from "d3";
 import { mode } from "d3";
 
 const sample = [
-  { model: "PKE", score: 100 },
-  { model: "RAKE", score: 151 },
   { model: "BERT", score: 300 },
-  { model: "RUBY", score: 121 },
+  { model: "PKE", score: 218 },
+  { model: "RAKE", score: 151 },
+  { model: "RUBY", score: 93 },
 ];
 
 const RSChart = () => {

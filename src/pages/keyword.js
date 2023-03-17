@@ -8,8 +8,8 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
-import RSChart from "../components/barchart";
-import V_BarChart from "../components/v_barchart";
+import RSChart from "../components/key/barchart";
+import V_BarChart from "../components/key/v_barchart";
 
 function Keyword() {
   return (
@@ -31,20 +31,42 @@ function Keyword() {
 
       <Container>
         <Row>
-          <div class="col-3 border border-primary container">
-            <V_BarChart />
-            <V_BarChart />
+          <div className="col-3 border border-primary container">
+            <V_BarChart
+              sample={[
+                { model: "bar", score: 50 },
+                { model: "salon", score: 20 },
+                { model: "beer", score: 10 },
+                { model: "mask", score: 1 },
+              ]}
+            />
+            <V_BarChart
+              sample={[
+                { model: "bar", score: 50 },
+                { model: "salon", score: 20 },
+                { model: "beer", score: 10 },
+                { model: "mask", score: 1 },
+              ]}
+            />
           </div>
-          <div class="col-6 border border-primary">
-            <Container>
+
+          <div className="col-6 border border-primary">
+            <Container
+              style={{
+                marginTop: "10px",
+                overflowY: "scroll",
+                height: "400px",
+                overflowX: "auto",
+              }}
+            >
               <div>
                 {["Emoji", "URL", "Hash Tags", "@"].map((expression) => (
                   <div>
                     <Card border="secondary">
                       <Card.Body>
                         <Card.Text>
-                          Some quick example text to build on the card title and
-                          make up the bulk of the card's content.
+                          Just posted a video @ Cashmere Faces Glam Bar &amp;
+                          Salon https://t.co/B2fpL7ucL0
                         </Card.Text>
                       </Card.Body>
                     </Card>
@@ -52,28 +74,29 @@ function Keyword() {
                   </div>
                 ))}
               </div>
-              <div>
-                <Row>
-                  <Col xs={8}>
-                    <p>Number of Tweets Annotated: 123</p>
-                  </Col>
-                  <Col xs={4}>
-                    <Button variant="primary" size="sm">
-                      Test
-                    </Button>{" "}
-                  </Col>
-                </Row>
-                <br></br>
-              </div>
             </Container>
+            <br />
+            <div>
+              <Row>
+                <Col xs={8}>
+                  <p>Number of Tweets Annotated: 123</p>
+                </Col>
+                <Col xs={4}>
+                  <Button variant="primary" size="sm">
+                    Test
+                  </Button>{" "}
+                </Col>
+              </Row>
+              <br />
+            </div>
             {/* </div> */}
           </div>
-          <div class="col-3 border border-primary container">
+          <div className="col-3 border border-primary container">
             <RSChart />
           </div>
         </Row>
       </Container>
-      <h1>Welcome to Keyword SubPage!</h1>
+      {/* <h1>Welcome to Keyword SubPage!</h1> */}
     </div>
   );
 }

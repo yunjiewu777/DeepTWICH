@@ -2,14 +2,7 @@ import React, { useEffect, useRef, useState } from "react";
 import * as d3 from "d3";
 import { mode } from "d3";
 
-const sample = [
-  { model: "PKE", score: 100 },
-  { model: "RAKE", score: 151 },
-  { model: "BERT", score: 300 },
-  { model: "RUBY", score: 121 },
-];
-
-const V_BarChart = () => {
+const V_BarChart = (props) => {
   const d3Chart = useRef();
 
   useEffect(() => {
@@ -20,7 +13,7 @@ const V_BarChart = () => {
     const charwidth = totalWidth - margin.left - margin.right;
     const charheight = totalHeight - margin.top - margin.bottom;
 
-    const models = sample.map((d) => d.model);
+    const models = props.sample.map((d) => d.model);
     console.log(models);
 
     const x = d3
@@ -29,7 +22,7 @@ const V_BarChart = () => {
       .range([0, charheight])
       .padding(0.05);
 
-    const maxScore = d3.max(sample, (d) => d.score);
+    const maxScore = d3.max(props.sample, (d) => d.score);
 
     const format = d3.format("~s");
     console.log(format(100));
@@ -53,7 +46,7 @@ const V_BarChart = () => {
 
     // bind our data to rectangles
     g.selectAll("rect")
-      .data(sample)
+      .data(props.sample)
       .join("rect")
       // set attributes for each bar
       .attr("x", (d) => x(d.model))
