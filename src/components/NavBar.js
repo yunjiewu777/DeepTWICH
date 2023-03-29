@@ -17,7 +17,11 @@ function NavBar() {
           <Nav.Link>Preprocessing</Nav.Link>
         </LinkContainer>
       </Nav.Item>
-
+      {/* <Nav.Item>
+        <LinkContainer to="/clus-vis/preprocessing/keyword">
+          <Nav.Link>Keywords</Nav.Link>
+        </LinkContainer>
+      </Nav.Item> */}
       <Nav.Item>
         <LinkContainer to="/clus-vis/cluster">
           <Nav.Link>Cluster</Nav.Link>

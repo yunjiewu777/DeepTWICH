@@ -14,6 +14,8 @@ import NumForm from "../components/eli/num_form";
 import Reg from "../components/eli/reg";
 import RegForm from "../components/eli/reg_form";
 import EliTweets from "../components/eli/eli_tweets";
+import { common } from "@mui/material/colors";
+import APIService from "../components/APIService";
 
 function Elimination() {
   const [regs, setRegs] = useState([]);
@@ -43,6 +45,7 @@ function Elimination() {
       .then((resp) => resp.json())
       .then((resp) => {
         setRegs(resp);
+        console.log(regs);
       })
       .catch((error) => console.log(error));
   }, []);
@@ -70,6 +73,13 @@ function Elimination() {
     setTweets(tweets);
   };
 
+  const goCluster = () => {
+    console.log(regs);
+    APIService.UpdateAllReg({
+      regs: regs,
+    });
+  };
+
   const updatedReg = (reg) => {
     const new_reg = regs.map((my_reg) => {
       if (my_reg.id === reg.id) {
@@ -87,9 +97,9 @@ function Elimination() {
 
   return (
     <div>
-      <NavBar></NavBar>
+      {/* <NavBar></NavBar> */}
 
-      <Nav justify variant="tabs" defaultActiveKey="/">
+      {/* <Nav justify variant="tabs" defaultActiveKey="/">
         <Nav.Item>
           <LinkContainer to="/clus-vis/preprocessing/elimination">
             <Nav.Link>Elimination</Nav.Link>
@@ -100,7 +110,7 @@ function Elimination() {
             <Nav.Link>Keyword</Nav.Link>
           </LinkContainer>
         </Nav.Item>
-      </Nav>
+      </Nav> */}
 
       <Container>
         <Row>
@@ -179,8 +189,8 @@ function Elimination() {
                   </Accordion>
                 </div>
                 <div className="col-4">
-                  <button className="btn btn-primary">
-                    <LinkContainer to="/clus-vis/preprocessing/keyword">
+                  <button className="btn btn-primary" onClick={goCluster}>
+                    <LinkContainer to="/clus-vis/cluster">
                       <Nav.Link>Save & Next Step</Nav.Link>
                     </LinkContainer>
                   </button>

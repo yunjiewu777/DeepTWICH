@@ -52,10 +52,10 @@ function RegForm(props) {
       {props.Reg ? (
         <div className="mb-3">
           <div className="form-group row">
-            <label htmlFor="title" className="col-sm-4 col-form-label">
-              Expresion Name
+            <label htmlFor="title" className="col-sm-5 col-form-label">
+              Expression Name
             </label>
-            <div className="col-sm-8">
+            <div className="col-sm-7">
               <input
                 onChange={(e) => setName(e.target.value)}
                 type="text"
@@ -67,10 +67,10 @@ function RegForm(props) {
           </div>
 
           <div className="form-group row">
-            <label htmlFor="body" className="col-sm-4 col-form-label">
+            <label htmlFor="body" className="col-sm-5 col-form-label">
               Regular Expression
             </label>
-            <div className="col-sm-8">
+            <div className="col-sm-7">
               <textarea
                 onChange={(e) => setReg(e.target.value)}
                 value={reg}

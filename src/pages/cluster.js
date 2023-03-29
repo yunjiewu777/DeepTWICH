@@ -21,6 +21,7 @@ import Card from "react-bootstrap/Card";
 import { select } from "d3";
 import SelectInput from "@mui/material/Select/SelectInput";
 import Context from "../components/clus/context";
+import { TiDeleteOutline } from "react-icons/ti";
 
 function Cluster() {
   const [keywords, setKeywords] = useState([]);
@@ -123,7 +124,7 @@ function Cluster() {
     <div>
       <NavBar></NavBar>
 
-      <Nav justify variant="tabs" defaultActiveKey="/">
+      {/* <Nav justify variant="tabs" defaultActiveKey="/">
         <Nav.Item>
           <LinkContainer to="/clus-vis/cluster">
             <Nav.Link>Cluster Refine</Nav.Link>
@@ -134,12 +135,12 @@ function Cluster() {
             <Nav.Link>Whole View</Nav.Link>
           </LinkContainer>
         </Nav.Item>
-      </Nav>
+      </Nav> */}
 
       <Container style={{ height: "650px" }}>
         <Row>
           <div
-            className="col-3 border border-primary container"
+            className="col-2 border border-primary container"
             style={{ overflowY: "scroll", height: "650px" }}
           >
             {/* <div class="border border-primary"> */}
@@ -150,7 +151,8 @@ function Cluster() {
                   id="panel1a-header"
                 >
                   <Typography>
-                    <b>Cluster {c["cluster"]}</b> ({c["number"]} Keywords)
+                    <b>Cluster {c["cluster"]}</b>
+                    <p>({c["number"]} Keywords)</p>
                   </Typography>
                 </AccordionSummary>
                 <AccordionDetails>
@@ -174,6 +176,29 @@ function Cluster() {
             style={{ height: "650px" }}
           >
             <Container>
+              <div
+                className="row"
+                style={{
+                  marginTop: "10px",
+                }}
+              >
+                <div className="col-8">
+                  <div className="form-group row">
+                    <label htmlFor="title" className="col-sm-6 col-form-label">
+                      Keyword
+                    </label>
+                    <div className="col-sm-6">
+                      <input></input>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="col">
+                  <button className="btn btn-primary col-form-button">
+                    Search
+                  </button>
+                </div>
+              </div>
               <Mainplot
                 setNewKeyword={setNewKeyword}
                 keywords={keywords}
@@ -187,11 +212,14 @@ function Cluster() {
               <br></br>
             </Container>
           </div>
-          <div className="col-3 border border-primary container">
+          <div
+            className="col-4 border border-primary container"
+            style={{ padding: "0px" }}
+          >
             <Context contextword={contextword} context={context} />
 
-            <div className="border border-primary justify-content-start">
-              <h4>Keyword Contrains</h4>
+            <div className="border border-primary">
+              <h4>Keyword Contraints</h4>
 
               {selectedPoints.length === 3 ? (
                 <Button variant="primary" size="sm" onClick={addConstraint}>
@@ -213,17 +241,25 @@ function Cluster() {
               </Button>
 
               <Row>
-                <div className="col-4">Anchor</div>
-                <div className="col-4">Positive</div>
-                <div className="col-4">Negative</div>
+                <div className="col-3">Anchor</div>
+                <div className="col-3">Positive</div>
+                <div className="col-3">Negative</div>
               </Row>
-              <div style={{ overflowY: "scroll", height: "150px" }}>
+              <div
+                style={{
+                  overflowY: "scroll",
+                  height: "150px",
+                }}
+              >
                 {constrains
                   ? constrains.map((con) => (
-                      <Row key={con["id"]}>
-                        <div className="col-4">{con["anchor"]["word"]}</div>
-                        <div className="col-4">{con["positive"]["word"]}</div>
-                        <div className="col-4">{con["negative"]["word"]}</div>
+                      <Row key={con["id"]} style={{ overflow: "visible" }}>
+                        <div className="col-3">{con["anchor"]["word"]}</div>
+                        <div className="col-3">{con["positive"]["word"]}</div>
+                        <div className="col-3">{con["negative"]["word"]}</div>
+                        <div className="col-1">
+                          <TiDeleteOutline />
+                        </div>
                       </Row>
                     ))
                   : null}

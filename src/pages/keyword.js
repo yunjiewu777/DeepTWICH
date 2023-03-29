@@ -16,19 +16,6 @@ function Keyword() {
     <div>
       <NavBar></NavBar>
 
-      <Nav justify variant="tabs" defaultActiveKey="/">
-        <Nav.Item>
-          <LinkContainer to="/clus-vis/preprocessing/elimination">
-            <Nav.Link>Elimination</Nav.Link>
-          </LinkContainer>
-        </Nav.Item>
-        <Nav.Item>
-          <LinkContainer to="/clus-vis/preprocessing/keyword">
-            <Nav.Link>Keyword</Nav.Link>
-          </LinkContainer>
-        </Nav.Item>
-      </Nav>
-
       <Container>
         <Row>
           <div className="col-3 border border-primary container">

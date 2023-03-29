@@ -4,6 +4,7 @@ import { red } from "@mui/material/colors";
 
 function Mainplot(props) {
   const [plotData, setPlotData] = useState([]);
+
   const [lineCoords, setLineCoords] = useState([]);
 
   const setNewKeyword = (word) => {
@@ -18,7 +19,7 @@ function Mainplot(props) {
 
     const margin = { top: 10, right: 10, bottom: 50, left: 50 };
     const visWidth = 450;
-    const visHeight = 550;
+    const visHeight = 500;
 
     // create scales
 
@@ -130,6 +131,21 @@ function Mainplot(props) {
       .on("mouseleave", mouseLeave)
       .on("click", mouseClick);
 
+    // // draw circles
+    // const lines = linesGroup
+    //   .selectAll("circle")
+    //   .data(plotData)
+    //   .join("circle")
+    //   .attr("cx", (d) => x(d["embed_two"][0]))
+    //   .attr("cy", (d) => y(d["embed_two"][1]))
+    //   .attr("fill", (d) => Color(d["cluster"]))
+    //   .attr("opacity", 1)
+    //   .attr("r", 3)
+    //   // ********** new stuff starts here **********
+    //   .on("mouseenter", mouseEnter)
+    //   .on("mouseleave", mouseLeave)
+    //   .on("click", mouseClick);
+
     const zoom = d3
       .zoom()
       .extent([
@@ -183,7 +199,7 @@ function Mainplot(props) {
         .attr("x2", (d) => 0.5 + xNew(d));
     }
 
-    const lineGroup = g.append("g");
+    // const linesGroup = g.append("g");
 
     // lineGroup
     //   .append("line")
@@ -218,25 +234,6 @@ function Mainplot(props) {
       .attr("x", 3) // offset it from the edge of the rectangle
       .attr("dominant-baseline", "hanging");
 
-    // function mouseClick(event, d) {
-    //   d3.select(this).attr("r", 10).attr("fill", "red");
-    //   props.setNewKeyword(d["word"]);
-    //   //   props.getContext();
-    //   const newSelectedPoints = [...selectedPoints, d];
-    //   setSelectedPoints(newSelectedPoints);
-
-    //   if (newSelectedPoints.length === 2) {
-    //     const [pointA, pointB] = newSelectedPoints;
-    //     const newLineData = {
-    //       x1: x(pointA["embed_two"][0]),
-    //       y1: y(pointA["embed_two"][1]),
-    //       x2: x(pointB["embed_two"][0]),
-    //       y2: y(pointB["embed_two"][1]),
-    //     };
-    //     setLineData(newLineData);
-    //   }
-    // }
-
     function mouseClick(event, d) {
       // d3.select(this).attr("r", 10).attr("fill", "red");
       console.log(d);
@@ -247,7 +244,12 @@ function Mainplot(props) {
         // const a = props.selectedPoints.append(d);
         props.setSelectedPoints([...props.selectedPoints, d]);
       }
-      console.log(props.selectedPoints);
+
+      if (props.selectedPoints.length === 3) {
+        drawLines();
+      }
+
+      // console.log(props.selectedPoints);
     }
 
     // handle hovering over a circle
@@ -280,6 +282,66 @@ function Mainplot(props) {
 
       // make the tooltip invisible
       tooltip.attr("visibility", "hidden");
+    }
+
+    const linesPGroup = g.append("g");
+    const linesNGroup = g.append("g");
+
+    drawLines();
+
+    function drawLines() {
+      const selectedPoints = props.selectedPoints;
+
+      if (selectedPoints.length === 2) {
+        const positiveData = [
+          { source: selectedPoints[0], target: selectedPoints[1] },
+        ];
+
+        const lineP = linesPGroup
+          .selectAll("line")
+          .data(positiveData)
+          .join("line")
+          .attr("x1", (d) => x(d.source["embed_two"][0]))
+          .attr("y1", (d) => y(d.source["embed_two"][1]))
+          .attr("x2", (d) => x(d.target["embed_two"][0]))
+          .attr("y2", (d) => y(d.target["embed_two"][1]))
+          .attr("stroke", "green")
+          .attr("stroke-width", 2);
+      } else if (selectedPoints.length === 3) {
+        const positiveData = [
+          { source: selectedPoints[0], target: selectedPoints[1] },
+        ];
+
+        const lineP = linesPGroup
+          .selectAll("line")
+          .data(positiveData)
+          .join("line")
+          .attr("x1", (d) => x(d.source["embed_two"][0]))
+          .attr("y1", (d) => y(d.source["embed_two"][1]))
+          .attr("x2", (d) => x(d.target["embed_two"][0]))
+          .attr("y2", (d) => y(d.target["embed_two"][1]))
+          .attr("stroke", "green")
+          .attr("stroke-width", 2);
+
+        const negativeData = [
+          { source: selectedPoints[0], target: selectedPoints[2] },
+        ];
+
+        const lineN = linesNGroup
+          .selectAll("line")
+          .data(negativeData)
+          .join("line")
+          .attr("x1", (d) => x(d.source["embed_two"][0]))
+          .attr("y1", (d) => y(d.source["embed_two"][1]))
+          .attr("x2", (d) => x(d.target["embed_two"][0]))
+          .attr("y2", (d) => y(d.target["embed_two"][1]))
+          .attr("stroke", "red")
+          .attr("stroke-width", 2);
+      } else {
+        linesPGroup.selectAll("line").remove();
+        linesNGroup.selectAll("line").remove();
+        console.log("remove");
+      }
     }
   });
 
