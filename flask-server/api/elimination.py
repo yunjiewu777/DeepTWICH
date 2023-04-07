@@ -8,11 +8,15 @@ import numpy as np
 import pickle
 
 db = firestore.client()
-tweets_Ref = db.collection("17data")
 
 elimination = Blueprint('elimination', __name__)
 
+tweets_Ref = db.collection("17data")
 census = "17"
+
+# tweets_Ref = db.collection("census_tracts")
+# census = "13015960401"
+
 
 
 user = "@ [A-z]+"

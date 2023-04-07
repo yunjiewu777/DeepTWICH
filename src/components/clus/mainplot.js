@@ -15,6 +15,11 @@ function Mainplot(props) {
 
   useEffect(() => {
     d3.select(d3Chart.current).selectAll("*").remove();
+
+    // if (plotData.length === 0) {
+    //   setPlotData(props.keywords);
+    // }
+
     setPlotData(props.keywords);
 
     const margin = { top: 10, right: 10, bottom: 50, left: 50 };
@@ -168,6 +173,10 @@ function Mainplot(props) {
         .attr("cx", (d) => xNew(d["embed_two"][0]))
         .attr("cy", (d) => yNew(d["embed_two"][1]));
 
+      // tooltip
+      //   .attr("cx", (d) => xNew(d["embed_two"][0]))
+      //   .attr("cy", (d) => yNew(d["embed_two"][1]));
+
       // update the axes
       xAxisGroup
         .call(d3.axisBottom(xNew))
@@ -197,6 +206,15 @@ function Mainplot(props) {
         .attr("y2", visHeight)
         .attr("x1", (d) => 0.5 + xNew(d))
         .attr("x2", (d) => 0.5 + xNew(d));
+
+      // const pData = [...plotData];
+
+      // pData.map((d) => {
+      //   d["embed_two"][0] = xNew(d["embed_two"][0]);
+      //   d["embed_two"][1] = yNew(d["embed_two"][1]);
+      // });
+
+      // setPlotData(pData);
     }
 
     // const linesGroup = g.append("g");
@@ -267,8 +285,12 @@ function Mainplot(props) {
 
       // move the tooltip to the position of the circle (offset by a bit)
       // and make the tooltip visible
-      const xPos = x(d["embed_two"][0]) + radius * 3;
-      const yPos = y(d["embed_two"][1]) - tooltipHeight / 2;
+
+      // const xPos = x(d["embed_two"][0]) + radius * 3;
+      // const yPos = y(d["embed_two"][1]) - tooltipHeight / 2;
+
+      const xPos = d3.select(this).attr("cx");
+      const yPos = d3.select(this).attr("cy") - tooltipHeight * 2;
 
       tooltip
         .attr("transform", `translate(${xPos},${yPos})`)
