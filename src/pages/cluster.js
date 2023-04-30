@@ -158,7 +158,9 @@ function Cluster() {
                 <AccordionDetails>
                   <Typography style={{ textAlign: "left" }}>
                     {c["keyword"].map((word) => (
-                      <li key={word}>{word}</li>
+                      <li key={word}>
+                        {word} <TiDeleteOutline />
+                      </li>
                     ))}
                   </Typography>
                 </AccordionDetails>
@@ -219,7 +221,7 @@ function Cluster() {
             <Context contextword={contextword} context={context} />
 
             <div className="border border-primary">
-              <h4>Keyword Contraints</h4>
+              <h4>Keyword Constraints</h4>
 
               {selectedPoints.length === 3 ? (
                 <Button variant="primary" size="sm" onClick={addConstraint}>

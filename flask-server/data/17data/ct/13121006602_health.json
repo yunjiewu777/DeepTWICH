@@ -1,0 +1,296 @@
+[
+    {
+        "created_at": "2022-02-28T18:22:17.000Z",
+        "lang": "ro",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.439677,
+                    33.740293
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Inspirado en el tr\u00e1iler de: \"Doctor Strange in the multiverse of madness\" @ Westview https://t.co/baBvEuE1Ke",
+        "author_id": "709008016553566209",
+        "id": "1498362938163408903"
+    },
+    {
+        "created_at": "2020-07-29T15:03:05.000Z",
+        "lang": "es",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.40499691,
+                    33.74078126
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "text": "\u201cNadie me aprecia\u201d: Trump se pregunta por qu\u00e9 no es tan popular como el doctor Fauci\n\n(CNN) \u2014\u00a0El presidente\u00a0Donald Trump\u00a0dijo el martes que su relaci\u00f3n con el Dr. Anthony Fauci es \u201cmuy buena\u201d, pero se pregunt\u00f3 por\u2026 https://t.co/x6qkBkXNag",
+        "author_id": "1008983218299854848",
+        "id": "1288490235358306305"
+    },
+    {
+        "created_at": "2020-05-07T13:23:26.000Z",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "4cab0cff30803a20"
+        },
+        "text": "\"Banksy\u2019s latest artwork is featured in a UK hospital\"  https://t.co/wWS3IhHwez",
+        "author_id": "224411573",
+        "id": "1258386964807667718"
+    },
+    {
+        "created_at": "2020-05-07T12:54:02.000Z",
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4231,
+                    33.7378
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 2,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "text": "I've been consistently doing my push ups and using my ab wheel for the last 3 1/2 weeks since getting discharged from the hospital due to Covid . Was discharged on March 27th and was pretty much a vegetable for the\u2026 https://t.co/bZGxBXLrvT",
+        "author_id": "27560178",
+        "id": "1258379565648564225"
+    },
+    {
+        "created_at": "2020-04-29T23:13:46.000Z",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "4cab0cff30803a20"
+        },
+        "text": "\"Coronavirus: US top infectious disease doctor says drug trial shows 'quite good news'\" #Coronavirus https://t.co/tX1dDMgKmV",
+        "author_id": "224411573",
+        "id": "1255636424763871232"
+    },
+    {
+        "created_at": "2020-04-21T20:38:21.000Z",
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4231,
+                    33.7378
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "New article alert.\n\nCoronavirus Isn\u2019t Just Killing, The Depression From Isolation Is As Well.\n\n\u201cImagine being alone in a hospital for over a month without the ability to see friends and\u2026 https://t.co/eNAu0pUqR8",
+        "author_id": "27560178",
+        "id": "1252698208410746885"
+    },
+    {
+        "created_at": "2020-04-16T17:35:13.000Z",
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4082962,
+                    33.7365328
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0
+        },
+        "text": "SHOUT OUT TO ALL OF THE NURSES OF GRADY HOSPITAL!!!! TODAY WE PROVIDED LUNCH FOR A FEW BECAUSE OUR NEXT DOOR NEIGHBOR HAPPENS TO BE ONE!!!!\ud83d\ude0d\n-\n-\n#CHEBUTTERJONEZ \n#gradyhospital \n#nurses \n#doperthanmost @ Che Butter\u2026 https://t.co/ihfMiNwtn0",
+        "author_id": "379936422",
+        "id": "1250840182435098625"
+    },
+    {
+        "created_at": "2020-04-15T20:08:48.000Z",
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4082962,
+                    33.7365328
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Tomorrow 4/16, we will be opening late so that we can take lunch to the 14 nurses on staff at GRADY Hospital...one who happens to be our neighbor in the 30310!!!  She has been unable to reap any benefit for\u2026 https://t.co/hAYULj8j09",
+        "author_id": "379936422",
+        "id": "1250516444833595393"
+    },
+    {
+        "created_at": "2020-04-09T20:59:42.000Z",
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.42158461,
+                    33.73179927
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "\u203c\ufe0fNew beer alert\u203c\ufe0f\n.\nEnjoy Fauci Spring: A pale ale brewed with Acai and not-yet-named experimental hops. Tropical, earthy, cocoa and berry notes. 4.25% Take some home today, doctor\u2019s\u2026 https://t.co/40AIZ10Sjh",
+        "author_id": "1187060543972093952",
+        "id": "1248354925521887233"
+    },
+    {
+        "created_at": "2020-04-05T02:47:55.000Z",
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.41532473,
+                    33.73903513
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 1,
+            "like_count": 4,
+            "quote_count": 0
+        },
+        "text": "For everyone who has been inquiring it is true I have been diagnosed with coronavirus. I spent two nights in the hospital, and was discharged Friday before last. I am at home recovering, I actually went on a light\u2026 https://t.co/jyDlkbb7yS",
+        "author_id": "27560178",
+        "id": "1246630618819158016"
+    },
+    {
+        "created_at": "2020-02-19T16:06:07.000Z",
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.42443457,
+                    33.72208285
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "Southern Pearl Dentistry had the opportunity to encourage our kids to grow up with aspirations of being doctors, dentist, lawyers, or judges. The wealth of knowledge comes from the intellectuals that have become\u2026 https://t.co/XLfnlcQLMe",
+        "author_id": "1215983238323351562",
+        "id": "1230161651900375040"
+    },
+    {
+        "created_at": "2020-02-07T18:32:17.000Z",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "4cab0cff30803a20"
+        },
+        "text": "\"Chinese rage after the death of the doctor who tried to warn the world about coronavirus\"  https://t.co/BLjCr1seMz",
+        "author_id": "224411573",
+        "id": "1225849779634278400"
+    },
+    {
+        "created_at": "2020-01-26T15:09:32.000Z",
+        "lang": "en",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3864,
+                    33.7042
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "text": "The @cdcgov TODAY... Hospital \ud83c\udfe5 NEWS \ud83d\udcf0 . Praying \ud83d\ude4f\ud83c\udffe for China \ud83c\udde8\ud83c\uddf3, Canada \ud83c\udf41, and everybody affected by the terrible Coronavirus. #Mormon #CoronaOutbreak #CoronavirusOutbreak #coronaviruschina #CORONAVIRUSFRANCE\u2026 https://t.co/cGKtkwUmGe",
+        "author_id": "224411573",
+        "id": "1221450103875043328"
+    },
+    {
+        "created_at": "2020-01-26T15:03:16.000Z",
+        "lang": "en",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "4cab0cff30803a20"
+        },
+        "text": "The @CDCgov TODAY... Hospital \ud83c\udfe5 NEWS \ud83d\udcf0 . Praying \ud83d\ude4f\ud83c\udffe for China \ud83c\udde8\ud83c\uddf3, Canada \ud83c\udf41, and everybody affected by the terrible Coronavirus. #Mormon #CoronaOutbreak #CoronavirusOutbreak #coronaviruschina #CORONAVIRUSFRANCE #coronavirusPH #ELIZABETHDAVENPORTESQ #SarahWaltonESQ #FacebookLIVE https://t.co/cR7Y3ifAvE",
+        "author_id": "224411573",
+        "id": "1221448524434460672"
+    }
+]

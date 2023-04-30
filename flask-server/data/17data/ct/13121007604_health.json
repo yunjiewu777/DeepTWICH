@@ -1,0 +1,71 @@
+[
+    {
+        "lang": "en",
+        "created_at": "2020-06-19T01:59:15.000Z",
+        "id": "1273797462793338881",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.487996,
+                    33.704618
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "author_id": "20586638",
+        "text": "So today I ventured out to my first in-person doctor\u2019s appointment in many months - masked, gloved &amp; shielded! So glad my Kaiser office on Cascade is back open. All is well - as usual I need to lose weight and\u2026 https://t.co/eSMZe3cNaK",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0
+        }
+    },
+    {
+        "lang": "en",
+        "created_at": "2020-06-15T10:02:49.000Z",
+        "id": "1272469601541140480",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4946654,
+                    33.6885205
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "author_id": "921197448885886977",
+        "text": "Atlanta, Georgia - My son had a piece of the Italian cream cake and is in the hospital now with food poisoning. He has been vomiting non stop. My mot... Food Poisoning https://t.co/PXjoeKgwPL",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    },
+    {
+        "lang": "cy",
+        "created_at": "2020-03-27T05:17:30.000Z",
+        "id": "1243406773031071744",
+        "geo": {
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48799615,
+                    33.70461836
+                ]
+            },
+            "place_id": "8173485c72e78ca5"
+        },
+        "author_id": "475393461",
+        "text": "#Hospital #Wow \ud83d\ude33 @ Southwest Atlanta, Atlanta, Georgia https://t.co/A4XnOjdHjp",
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        }
+    }
+]

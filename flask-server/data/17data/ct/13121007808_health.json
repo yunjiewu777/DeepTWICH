@@ -1,0 +1,117 @@
+[
+    {
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5098258,
+                    33.7238734
+                ]
+            }
+        },
+        "text": "Hey Black Man!\n\n-Go see a doctor.\n\n-Get checked out.\n\n-Get your annual physical done.\n\nQuit playing!!! @ Piedmont Physicians at Cascade https://t.co/dXdCWEXTQ8",
+        "author_id": "1240177152",
+        "lang": "en",
+        "created_at": "2021-12-27T13:45:41.000Z",
+        "id": "1475462893885865984"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4718571,
+                    33.7537719
+                ]
+            }
+        },
+        "text": "I'm at Atlanta Suboxone Doctor in Atlanta, GA https://t.co/dVJ9PQ2eI3",
+        "author_id": "1481137530",
+        "lang": "en",
+        "created_at": "2021-11-29T14:27:32.000Z",
+        "id": "1465326567777878030"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.50994391,
+                    33.74015995
+                ]
+            }
+        },
+        "text": "Brooklyn: Daddy look at what Liki\u2019s doing. Let me get your phone so I can take a picture please. #popschronicles #parklife #hellobrooklyn #\ud83d\udc51malik #ilovemykids @ Doctor's Memorial Park https://t.co/dxa3QdXBSB",
+        "author_id": "33960088",
+        "lang": "en",
+        "created_at": "2021-11-05T11:23:40.000Z",
+        "id": "1456582984480567301"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.47436,
+                    33.76146
+                ]
+            }
+        },
+        "text": "Yup. Y\u2019all goin to the hospital. You \u2018gon learn T\u2019DAY #entrepreneur #novelist #goat @ Relentless House https://t.co/TPgHxX19uK",
+        "author_id": "9492592",
+        "lang": "en",
+        "created_at": "2021-08-22T15:12:07.000Z",
+        "id": "1429461385579307010"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.5054,
+                    33.7595
+                ]
+            }
+        },
+        "text": "#fbf freestyle Friday use to be like \ud83d\ude05 one more week! \u270a\ud83c\udffe #mosquitobites swipe in game \ud83e\udd9f tag a hooper I can visualize workouts and game plays . Slick feel like I\u2019m there \ud83e\udd2b doctor strange mode\u270d\ud83c\udffe the game is mental\u2026 https://t.co/YzXyjr5ktC",
+        "author_id": "59043415",
+        "lang": "en",
+        "created_at": "2020-05-22T22:09:11.000Z",
+        "id": "1263955092161490944"
+    }
+]

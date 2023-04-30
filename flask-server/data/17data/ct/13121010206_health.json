@@ -1,0 +1,119 @@
+[
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.397682,
+                    33.872326
+                ]
+            }
+        },
+        "text": "A beautiful morning with my racing sole-mates Diane and Brenda at the Chastain Chase 5K this morning at Chastain Park to benefit Northside Hospital Cancer Institute.  \ud83c\udfc3\u200d\u2640\ufe0f\ud83d\udc97 @ Chastain Park https://t.co/DAJX55dXmY",
+        "author_id": "4888742241",
+        "lang": "en",
+        "created_at": "2022-05-22T21:01:14.000Z",
+        "id": "1528481131624030210"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "7142eb97ae21e839",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.45592425,
+                    33.87900823
+                ]
+            }
+        },
+        "text": "Spending #MothersDay @  the movies w/ my baby girl \ud83c\udfa5\ud83c\udf7f #DoctorStrange (@ AMC Parkway Pointe 15 - @amctheatres for Doctor Strange in the Multiverse of Madness 3D in Atlanta, GA) https://t.co/exGrdAvroG",
+        "author_id": "20540352",
+        "lang": "en",
+        "created_at": "2022-05-08T19:06:33.000Z",
+        "id": "1523378839723790336"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "07d9ec6e1e481002"
+        },
+        "text": "My little sister became a doctor today https://t.co/bLdVLZrweD",
+        "author_id": "3153867684",
+        "lang": "en",
+        "created_at": "2021-05-15T18:06:08.000Z",
+        "id": "1393628780829237252"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "07d9ec6e1e481002"
+        },
+        "text": "There is about to be another DoctoR in the family!   Celebrating an amazing milestone for my baby sis/Soror/legacy @AdrinatheMD21 as she becomes Adrina Skyles, MD!!!!  She was MaDe at Morehouse School of Medicine!!!! https://t.co/gZdoCfsvAJ",
+        "author_id": "753934711160991746",
+        "lang": "en",
+        "created_at": "2021-05-15T13:52:25.000Z",
+        "id": "1393564931052785670"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 2,
+            "reply_count": 8,
+            "like_count": 171,
+            "quote_count": 1
+        },
+        "geo": {
+            "place_id": "8173485c72e78ca5",
+            "coordinates": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4231059,
+                    33.86773466
+                ]
+            }
+        },
+        "text": "A little over 2yrs ago I found myself lying in a hospital bed, both arms hooked to IVs, coming to terms with the fact that I might not wake up from surgery, and if I did maybe my fight would only get harder from that\u2026 https://t.co/mGlrVDev7W",
+        "author_id": "94606098",
+        "lang": "en",
+        "created_at": "2020-06-07T23:48:36.000Z",
+        "id": "1269778314719367169"
+    },
+    {
+        "public_metrics": {
+            "retweet_count": 3,
+            "reply_count": 0,
+            "like_count": 7,
+            "quote_count": 0
+        },
+        "geo": {
+            "place_id": "07d9d21a31885001"
+        },
+        "text": "Great evening in Atlanta as we thanked those who, since the program began in 2017, have given over $3m to our local @WellStarHealth Sylvan Grove Hospital through the Rural Hospital Tax Credit, enabling our hospital to further engage in the pursuit of #PeopleCare. Thank you \ud83d\ude4f \ud83c\udfe5 https://t.co/2Pd9VNeQmi",
+        "author_id": "344512161",
+        "lang": "en",
+        "created_at": "2020-02-04T12:00:36.000Z",
+        "id": "1224664046718287873"
+    }
+]
