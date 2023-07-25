@@ -25,6 +25,38 @@ Healthcare indices are used to evaluate the overall accessibility of public heal
 
 </div>
 
+## How to Run DeepTwich
+
+Follow these steps to run DeepTwich:
+
+1. **Clone the Repository**
+   Clone the DeepTwich repository to your local machine 
+
+2. **Set Up Firebase Cloud Storage**
+   Set up a Firebase Cloud Storage account and obtain the necessary authentication information.
+
+3. **Configure Authentication**
+   Copy the authentication information to the file "flask-server/api/__init__.py". 
+
+4. **Start the Server**
+   Start the Flask server by running the appropriate command. For instance:
+   ```
+   cd DeepTwich/flask-server
+   python app.py
+   ```
+   Make sure the server is up and running.
+
+5. **Upload Demo Data**
+   Send an "elimination/update_data" request to the server to upload the demo data.
+
+6. **Start DeepTwich**
+   Open the terminal, navigate to the main directory "DeepTwich," and run the following command:
+   ```
+   npm start
+   ```
+   This will start DeepTwich, and you'll be able to access it through your web browser.
+
+Now, you should have DeepTwich up and running on your local machine. Enjoy using it!
 
 ## Contributors
 
