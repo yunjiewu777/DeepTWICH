@@ -42,12 +42,12 @@ Follow these steps to run DeepTwich:
    Start the Flask server by running the appropriate command. For instance:
    ```
    cd DeepTwich/flask-server
-   python app.py
+   python main.py
    ```
    Make sure the server is up and running.
 
 5. **Upload Demo Data**
-   Send an "elimination/update_data" request to the server to upload the demo data.
+   Send an "elimination/add" request to the server to upload the demo data.
 
 6. **Start DeepTwich**
    Open the terminal, navigate to the main directory "DeepTwich," and run the following command:
