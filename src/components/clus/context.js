@@ -9,7 +9,7 @@ function Context(props) {
     <div className="border border-primary">
       <h4>Keyword Context</h4>
       tweets
-      <div style={{ overflowY: "scroll", height: "340px" }}>
+      <div style={{ overflowY: "scroll", height: "190px" }}>
         {props.contextword
           ? props.context.map((tweet) => (
               <div key={tweet.id}>

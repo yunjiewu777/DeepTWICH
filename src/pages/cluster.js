@@ -18,7 +18,7 @@ import AccordionSummary from "@mui/material/AccordionSummary";
 import AccordionDetails from "@mui/material/AccordionDetails";
 import Typography from "@mui/material/Typography";
 import Card from "react-bootstrap/Card";
-import { select } from "d3";
+import { color, select } from "d3";
 import SelectInput from "@mui/material/Select/SelectInput";
 import Context from "../components/clus/context";
 import { TiDeleteOutline } from "react-icons/ti";
@@ -143,6 +143,19 @@ function Cluster() {
             className="col-2 border border-primary container"
             style={{ overflowY: "scroll", height: "650px" }}
           >
+            <Accordion key={"123"}>
+              <AccordionSummary
+                aria-controls="panel1a-content"
+                id="panel1a-header"
+              >
+                <Typography>
+                  {/* <b style={(color = "#58BBCC")}>Cluster 7</b> */}
+                  <b style={{ color: "#C53A32" }}>Cluster 5</b>
+                  <p>(100 Keywords)</p>
+                </Typography>
+              </AccordionSummary>
+              <AccordionDetails></AccordionDetails>
+            </Accordion>
             {/* <div class="border border-primary"> */}
             {clus.map((c) => (
               <Accordion key={c["cluster"]}>
@@ -207,10 +220,19 @@ function Cluster() {
                 selectedPoints={selectedPoints}
                 setSelectedPoints={setSelectedPoints}
               />
+              <div className="row">
+                <span className="col-2"></span>
 
-              <Button variant="primary" size="sm" onClick={recluster}>
-                Re-Cluster
-              </Button>
+                <span className="col-2"></span>
+                <Button
+                  variant="primary"
+                  className="col-3"
+                  size="sm"
+                  onClick={recluster}
+                >
+                  Re-Cluster
+                </Button>
+              </div>
               <br></br>
             </Container>
           </div>
@@ -250,7 +272,7 @@ function Cluster() {
               <div
                 style={{
                   overflowY: "scroll",
-                  height: "150px",
+                  height: "69px",
                 }}
               >
                 {constrains
@@ -266,6 +288,56 @@ function Cluster() {
                     ))
                   : null}
               </div>
+            </div>
+
+            <div
+              style={{ textAlign: "center" }}
+              className="border border-primary"
+            >
+              <h4>Healthcare Index Performance *</h4>
+
+              <p style={{ fontSize: "12px" }}>
+                when predicting 30-day heart failure readmission for 824
+                patients at Emory Healthcare
+              </p>
+              <div
+                style={{
+                  display: "flex",
+                  justifyContent: "center",
+                  alignItems: "center",
+                }}
+              >
+                <table>
+                  <tr>
+                    <th style={{ borderBottom: "1px solid black" }}>
+                      &nbsp; &nbsp; &nbsp; SDI &nbsp; &nbsp; &nbsp;
+                    </th>
+                    <th style={{ borderBottom: "1px solid black" }}>
+                      New Healthcare Index &nbsp; &nbsp; &nbsp;
+                    </th>
+                  </tr>
+
+                  <tr>
+                    <td style={{ textAlign: "center" }}>0.520</td>
+                    <td style={{ textAlign: "center" }}>
+                      0.541 (<span style={{ color: "green" }}>+0.021</span>)
+                    </td>
+                  </tr>
+                </table>
+              </div>
+              <br />
+              <Button
+                variant="primary"
+                className="col-6"
+                size="sm"
+                onClick={recluster}
+              >
+                Generate New Health Index
+              </Button>
+              <br />
+              <p style={{ textAlign: "left", fontSize: "12px" }}>
+                * Evaluated by AUC score, the higher the better.
+              </p>
             </div>
           </div>
         </Row>
